@@ -1,1 +1,57 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>معلومات المستخدم</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            padding: 50px;
+        }
+        .user-info {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            font-size: 18px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="user-info">
+        <h1>معلومات المستخدم</h1>
+        <p id="name">الاسم: جاري التحميل...</p>
+        <p id="level">المستوى: جاري التحميل...</p>
+        <p id="exp">النقاط: جاري التحميل...</p>
+    </div>
 
+    <script>
+        // الحصول على معرف المستخدم من الرابط
+        const urlParams = new URLSearchParams(window.location.search);
+        const userId = urlParams.get('id');
+
+        // بيانات وهمية (يمكن استبدالها بطلب API من الخادم)
+        const users = {
+            'user1': { name: 'أحمد', level: 5, exp: 120 },
+            'user2': { name: 'محمد', level: 3, exp: 80 },
+            // يمكنك إضافة المزيد من المستخدمين هنا
+        };
+
+        // عرض بيانات المستخدم
+        const user = users[userId] || { name: 'غير معروف', level: 0, exp: 0 };
+        document.getElementById('name').innerText = `الاسم: ${user.name}`;
+        document.getElementById('level').innerText = `المستوى: ${user.level}`;
+        document.getElementById('exp').innerText = `النقاط: ${user.exp}`;
+    </script>
+</body>
+</html>
