@@ -55,29 +55,35 @@
         // رابط المستودع الخاص ببيانات المستخدمين
         const repoUrl = 'https://ahmed1p7.github.io/user-info-site/users/';
 
-        // مثال بيانات المستخدمين (سيتم استبدالها بالبيانات الفعلية من المستودع)
-        const users = {
-            "user1": { name: "أحمد", level: 5, exp: 120 },
-            "user2": { name: "منى", level: 3, exp: 80 },
-            "user3": { name: "سعيد", level: 8, exp: 200 }
-        };
+        // جلب بيانات المستخدمين من المستودع
+        async function fetchUsers() {
+            const response = await fetch(repoUrl);
+            const data = await response.json();
+            return data;
+        }
 
         // ملء الجدول بالبيانات
         const userTable = document.getElementById('userTable');
 
-        Object.entries(users).forEach(([userId, userData]) => {
-            const row = document.createElement('tr');
+        async function populateTable() {
+            const users = await fetchUsers();
 
-            row.innerHTML = `
-                <td>${userId}</td>
-                <td>${userData.name}</td>
-                <td>${userData.level}</td>
-                <td>${userData.exp}</td>
-                <td><a href="${repoUrl}${userId}.json" target="_blank">عرض الملف</a></td>
-            `;
+            Object.entries(users).forEach(([userId, userData]) => {
+                const row = document.createElement('tr');
 
-            userTable.appendChild(row);
-        });
+                row.innerHTML = `
+                    <td>${userId}</td>
+                    <td>${userData.name}</td>
+                    <td>${userData.level}</td>
+                    <td>${userData.exp}</td>
+                    <td><a href="${repoUrl}${userId}.json" target="_blank">عرض الملف</a></td>
+                `;
+
+                userTable.appendChild(row);
+            });
+        }
+
+        populateTable();
     </script>
 </body>
 </html>
