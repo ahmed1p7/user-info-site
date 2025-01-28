@@ -3,66 +3,81 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>قائمة المستخدمين</title>
+    <title>عرض بيانات المستخدمين</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
+            direction: rtl;
             text-align: center;
-            padding: 50px;
+            background-color: #f9f9f9;
         }
-        .user-list {
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            display: inline-block;
+        table {
+            margin: 20px auto;
+            border-collapse: collapse;
+            width: 90%;
+            background: #fff;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
         }
-        h1 {
-            color: #333;
+        th, td {
+            padding: 10px;
+            border: 1px solid #ddd;
         }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            margin: 10px 0;
+        th {
+            background-color: #f4f4f4;
         }
         a {
+            color: #3498db;
             text-decoration: none;
-            color: #007bff;
-            font-size: 18px;
+        }
+        a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
 <body>
-    <div class="user-list">
-        <h1>قائمة المستخدمين</h1>
-        <ul id="user-list">
-            <!-- سيتم ملء هذه القائمة بالملفات تلقائيًا -->
-        </ul>
-    </div>
+    <h1>بيانات المستخدمين</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>معرف المستخدم</th>
+                <th>الاسم</th>
+                <th>المستوى</th>
+                <th>النقاط</th>
+                <th>رابط الملف</th>
+            </tr>
+        </thead>
+        <tbody id="userTable">
+            <!-- سيتم ملء البيانات بواسطة JavaScript -->
+        </tbody>
+    </table>
 
     <script>
-        // جلب قائمة ملفات المستخدمين
-        fetch('https://api.github.com/repos/ahmed1p7/user-profiles/contents/profiles')
-            .then(response => response.json())
-            .then(data => {
-                const userList = document.getElementById('user-list');
-                data.forEach(file => {
-                    if (file.name.endsWith('.html')) {
-                        const li = document.createElement('li');
-                        const a = document.createElement('a');
-                        a.href = `https://ahmed1p7.github.io/user-profiles/profiles/${file.name}`;
-                        a.innerText = file.name.replace('.html', '');
-                        li.appendChild(a);
-                        userList.appendChild(li);
-                    }
-                });
-            })
-            .catch(error => {
-                console.error('Error fetching user list:', error);
-            });
+        // رابط المستودع الخاص ببيانات المستخدمين
+        const repoUrl = 'https://ahmed1p7.github.io/user-info-site/users/';
+
+        // مثال بيانات المستخدمين (سيتم استبدالها بالبيانات الفعلية من المستودع)
+        const users = {
+            "user1": { name: "أحمد", level: 5, exp: 120 },
+            "user2": { name: "منى", level: 3, exp: 80 },
+            "user3": { name: "سعيد", level: 8, exp: 200 }
+        };
+
+        // ملء الجدول بالبيانات
+        const userTable = document.getElementById('userTable');
+
+        Object.entries(users).forEach(([userId, userData]) => {
+            const row = document.createElement('tr');
+
+            row.innerHTML = `
+                <td>${userId}</td>
+                <td>${userData.name}</td>
+                <td>${userData.level}</td>
+                <td>${userData.exp}</td>
+                <td><a href="${repoUrl}${userId}.json" target="_blank">عرض الملف</a></td>
+            `;
+
+            userTable.appendChild(row);
+        });
     </script>
 </body>
 </html>
