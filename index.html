@@ -53,13 +53,13 @@
 
     <script>
         // رابط المستودع الخاص ببيانات المستخدمين
-        const repoUrl = 'https://ahmed1p7.github.io/user-info-site/users/';
+        const repoUrl = 'https://ahmed1p7.github.io/user-info-site/users/all-users.json';
 
         // جلب بيانات المستخدمين من المستودع
         async function fetchUsers() {
             const response = await fetch(repoUrl);
             const data = await response.json();
-            return data;
+            return data.users; // نعود فقط إلى كائن المستخدمين
         }
 
         // ملء الجدول بالبيانات
@@ -76,7 +76,7 @@
                     <td>${userData.name}</td>
                     <td>${userData.level}</td>
                     <td>${userData.exp}</td>
-                    <td><a href="${repoUrl}${userId}.json" target="_blank">عرض الملف</a></td>
+                    <td><a href="${repoUrl}" target="_blank">عرض الملف</a></td>
                 `;
 
                 userTable.appendChild(row);
