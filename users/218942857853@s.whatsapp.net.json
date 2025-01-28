@@ -1,0 +1,23 @@
+{
+  "health": 100,
+  "level": 0,
+  "exp": 2485,
+  "limit": 1000,
+  "money": 0,
+  "name": "Irwin your beast",
+  "age": -1,
+  "regTime": -1,
+  "premiumDate": 0,
+  "bannedDate": 0,
+  "banned": false,
+  "premium": false,
+  "registered": false,
+  "role": "Pemula",
+  "groups": {
+    "120363348599662264@g.us": {
+      "name": "ايروين",
+      "regTime": 1737895807675,
+      "registered": true
+    }
+  }
+}
