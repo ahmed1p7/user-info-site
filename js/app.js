@@ -6,7 +6,7 @@
 var FatimaApp = (function () {
   'use strict';
 
-  var BASE_URL = '';
+  var BASE_URL = '/user-info-site';
   var USERS_DIR = '/users/';
 
   var CLASS_MAP = {
