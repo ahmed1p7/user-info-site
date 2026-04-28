@@ -1,0 +1,79 @@
+{
+  "id": "966507891234@s.whatsapp.net",
+  "name": "نورة الشافية",
+  "nickname": "ملاك الشفاء",
+  "class": "شافي",
+  "level": 14,
+  "xp": 2100,
+  "hp": 220, "maxHp": 250,
+  "atk": 10, "def": 35, "mag": 70,
+  "critRate": 0.08, "critDamage": 1.5,
+  "gold": 5400, "gems": 15, "elixir": 500,
+  "stamina": 10, "maxStamina": 10,
+  "energy": 100,
+  "equippedWeapon": {
+    "name": "عصا الشفاء",
+    "fullName": "⚪ شائع | عصا الشفاء",
+    "rarity": "شائع",
+    "atk": 5,
+    "level": 3
+  },
+  "equippedArmor": {
+    "name": "رداء الكاهنة",
+    "fullName": "🔵 نادر | رداء الكاهنة",
+    "rarity": "نادر",
+    "def": 25,
+    "level": 4
+  },
+  "weapons": [
+    {
+      "name": "عصا الشفاء",
+      "fullName": "⚪ شائع | عصا الشفاء",
+      "rarity": "شائع",
+      "atk": 5,
+      "level": 3
+    }
+  ],
+  "armors": [
+    {
+      "name": "رداء الكاهنة",
+      "fullName": "🔵 نادر | رداء الكاهنة",
+      "rarity": "نادر",
+      "def": 25,
+      "level": 4
+    },
+    {
+      "name": "عباءة بسيطة",
+      "fullName": "⚪ شائع | عباءة بسيطة",
+      "rarity": "شائع",
+      "def": 3,
+      "level": 1
+    }
+  ],
+  "boxes": { "common": 5, "rare": 2, "epic": 0, "legendary": 0 },
+  "wins": 10, "losses": 15,
+  "evolvedClass": null,
+  "evolutionPath": null,
+  "stats": {
+    "monstersKilled": 45,
+    "bossesDefeated": 2,
+    "fishCaught": 30,
+    "mineralsMined": 5,
+    "pvpWins": 10,
+    "pvpLosses": 15,
+    "weaponsUpgraded": 4,
+    "boxesOpened": 7
+  },
+  "skills": [
+    { "name": "شفاء جماعي", "type": "active", "damage": 0, "description": "يعيد 30% من الصحة لجميع الأعضاء" },
+    { "name": "درع إلهي", "type": "active", "damage": 0, "description": "درع سحري يمتص الضرر لمدة جولتين" }
+  ],
+  "unlockedSkills": {
+    "passive": ["تعافي تلقائي"],
+    "active": ["شفاء جماعي", "درع إلهي"]
+  },
+  "clanId": "clan_001",
+  "clanRole": "عضو",
+  "created": 1705000000,
+  "lastActive": 1709950000
+}

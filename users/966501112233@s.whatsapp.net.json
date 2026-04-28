@@ -1,0 +1,87 @@
+{
+  "id": "966501112233@s.whatsapp.net",
+  "name": "عمر القاتل",
+  "nickname": "ظل الليل",
+  "class": "قاتل",
+  "level": 29,
+  "xp": 9800,
+  "hp": 320, "maxHp": 350,
+  "atk": 110, "def": 18, "mag": 10,
+  "critRate": 0.35, "critDamage": 3.0,
+  "gold": 18500, "gems": 55, "elixir": 80,
+  "stamina": 7, "maxStamina": 13,
+  "energy": 72,
+  "equippedWeapon": {
+    "name": "خنجر الفوضى الملحمي",
+    "fullName": "🟣 ملحمي | خنجر الفوضى الملحمي",
+    "rarity": "ملحمي",
+    "atk": 88,
+    "level": 9
+  },
+  "equippedArmor": {
+    "name": "عباءة الظلام",
+    "fullName": "🔵 نادر | عباءة الظلام",
+    "rarity": "نادر",
+    "def": 15,
+    "level": 5
+  },
+  "weapons": [
+    {
+      "name": "خنجر الفوضى الملحمي",
+      "fullName": "🟣 ملحمي | خنجر الفوضى الملحمي",
+      "rarity": "ملحمي",
+      "atk": 88,
+      "level": 9
+    },
+    {
+      "name": "خنجر حاد",
+      "fullName": "⚪ شائع | خنجر حاد",
+      "rarity": "شائع",
+      "atk": 15,
+      "level": 1
+    },
+    {
+      "name": "خنجر السم",
+      "fullName": "🔵 نادر | خنجر السم",
+      "rarity": "نادر",
+      "atk": 42,
+      "level": 4
+    }
+  ],
+  "armors": [
+    {
+      "name": "عباءة الظلام",
+      "fullName": "🔵 نادر | عباءة الظلام",
+      "rarity": "نادر",
+      "def": 15,
+      "level": 5
+    }
+  ],
+  "boxes": { "common": 15, "rare": 6, "epic": 3, "legendary": 1 },
+  "wins": 48, "losses": 9,
+  "evolvedClass": "قاتل المطلق",
+  "evolutionPath": "قاتل > قاتل المطلق",
+  "stats": {
+    "monstersKilled": 210,
+    "bossesDefeated": 10,
+    "fishCaught": 5,
+    "mineralsMined": 3,
+    "pvpWins": 48,
+    "pvpLosses": 9,
+    "weaponsUpgraded": 18,
+    "boxesOpened": 25
+  },
+  "skills": [
+    { "name": "طعنة خلفية", "type": "active", "damage": 200, "description": "طعنة قاتلة من الخلف تسبب ضرراً ثلاثياً" },
+    { "name": "تخفي كامل", "type": "active", "damage": 0, "description": "يختفي عن أنظار الأعداء لمدة 3 جولات" },
+    { "name": "ضربة مميتة", "type": "passive", "defense": 0, "description": "فرصة 15% للقتل الفوري عندما تكون الصحة أقل من 20%" }
+  ],
+  "unlockedSkills": {
+    "passive": ["ضربة مميتة", "سرقة حياة"],
+    "active": ["طعنة خلفية", "تخفي كامل", "سم قاتل"]
+  },
+  "clanId": "clan_003",
+  "clanRole": "نائب القائد",
+  "created": 1699500000,
+  "lastActive": 1710050000
+}

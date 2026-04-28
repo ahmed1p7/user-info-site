@@ -1,0 +1,93 @@
+{
+  "id": "966505012345@s.whatsapp.net",
+  "name": "أحمد المحارب",
+  "nickname": "الأسطوري",
+  "class": "محارب",
+  "level": 25,
+  "xp": 7500,
+  "hp": 450, "maxHp": 500,
+  "atk": 85, "def": 60, "mag": 15,
+  "critRate": 0.12, "critDamage": 1.8,
+  "gold": 15200, "gems": 45, "elixir": 120,
+  "stamina": 8, "maxStamina": 12,
+  "energy": 85,
+  "equippedWeapon": {
+    "name": "سيف النار الملحمي",
+    "fullName": "🟣 ملحمي | سيف النار الملحمي",
+    "rarity": "ملحمي",
+    "atk": 75,
+    "level": 8
+  },
+  "equippedArmor": {
+    "name": "درع التنين الأسطوري",
+    "fullName": "🟡 أسطوري | درع التنين الأسطوري",
+    "rarity": "أسطوري",
+    "def": 55,
+    "level": 10
+  },
+  "weapons": [
+    {
+      "name": "سيف النار الملحمي",
+      "fullName": "🟣 ملحمي | سيف النار الملحمي",
+      "rarity": "ملحمي",
+      "atk": 75,
+      "level": 8
+    },
+    {
+      "name": "سيف حديدي",
+      "fullName": "⚪ شائع | سيف حديدي",
+      "rarity": "شائع",
+      "atk": 10,
+      "level": 1
+    },
+    {
+      "name": "خنجر الظلال النادر",
+      "fullName": "🔵 نادر | خنجر الظلال النادر",
+      "rarity": "نادر",
+      "atk": 35,
+      "level": 4
+    }
+  ],
+  "armors": [
+    {
+      "name": "درع التنين الأسطوري",
+      "fullName": "🟡 أسطوري | درع التنين الأسطوري",
+      "rarity": "أسطوري",
+      "def": 55,
+      "level": 10
+    },
+    {
+      "name": "درع خفيف",
+      "fullName": "⚪ شائع | درع خفيف",
+      "rarity": "شائع",
+      "def": 5,
+      "level": 1
+    }
+  ],
+  "boxes": { "common": 12, "rare": 5, "epic": 2, "legendary": 1 },
+  "wins": 34, "losses": 8,
+  "evolvedClass": null,
+  "evolutionPath": null,
+  "stats": {
+    "monstersKilled": 156,
+    "bossesDefeated": 7,
+    "fishCaught": 23,
+    "mineralsMined": 45,
+    "pvpWins": 34,
+    "pvpLosses": 8,
+    "weaponsUpgraded": 15,
+    "boxesOpened": 20
+  },
+  "skills": [
+    { "name": "ضربة قاضية", "type": "active", "damage": 120, "description": "هجوم قوي يلحق ضرراً مزدوجاً" },
+    { "name": "درع حديدي", "type": "passive", "defense": 20, "description": "يزيد الدفاع بنسبة 20%" }
+  ],
+  "unlockedSkills": {
+    "passive": ["درع حديدي", "مقاومة سحرية"],
+    "active": ["ضربة قاضية", "هجوم عنيف"]
+  },
+  "clanId": "clan_001",
+  "clanRole": "قائد",
+  "created": 1700000000,
+  "lastActive": 1710000000
+}

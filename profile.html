@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="FATIMA BOT - ملف اللاعب">
+  <meta name="theme-color" content="#0a0a1a">
+  <title>FATIMA BOT - ملف اللاعب</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>~</text></svg>">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <!-- Main Container -->
+  <div class="container" id="profileContainer">
+
+    <!-- Loading State -->
+    <div id="loadingState" class="loading-overlay">
+      <div class="loading-spinner"></div>
+      <div class="loading-text">جاري تحميل الملف الشخصي...</div>
+    </div>
+
+    <!-- Error State -->
+    <div id="errorState" class="error-state" style="display:none;">
+      <div class="error-icon">!</div>
+      <div class="error-title">فشل الوصول للبيانات</div>
+      <div class="error-message" id="errorMessage">تعذر تحميل ملف اللاعب. تأكد من صحة الرابط.</div>
+      <a href="index.html" class="error-btn">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="19" y1="12" x2="5" y2="12"></line>
+          <polyline points="12 19 5 12 12 5"></polyline>
+        </svg>
+        الصفحة الرئيسية
+      </a>
+    </div>
+
+    <!-- Profile Content -->
+    <div id="profileContent" style="display:none;">
+
+      <!-- Back Link -->
+      <a href="index.html" class="back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="19" y1="12" x2="5" y2="12"></line>
+          <polyline points="12 19 5 12 12 5"></polyline>
+        </svg>
+        الصفحة الرئيسية
+      </a>
+
+      <!-- Profile Header -->
+      <div class="glass-card profile-header animate-fade-in-up">
+        <div class="profile-avatar-large" id="profileAvatar">
+          <span id="avatarIcon"></span>
+        </div>
+        <h1 class="profile-name" id="profileName"></h1>
+        <div class="profile-nickname" id="profileNickname"></div>
+        <div class="profile-class-badge" id="profileClassBadge">
+          <span class="class-icon" id="classIcon"></span>
+          <span id="className"></span>
+        </div>
+        <div id="evolutionBadge"></div>
+        <div class="profile-level">
+          المستوى: <span id="profileLevel">1</span>
+        </div>
+        <div id="clanBadge"></div>
+      </div>
+
+      <!-- XP Progress -->
+      <div class="glass-card profile-section animate-fade-in-up delay-1">
+        <div class="section-title">
+          <span class="title-icon">^</span>
+          <span>التقدم والخبرة</span>
+        </div>
+        <div class="bar-with-label">
+          <span class="bar-label">الصفحة</span>
+          <div class="bar-track progress-xp">
+            <div class="progress-bar thick">
+              <div class="progress-bar-fill" id="xpBarFill"></div>
+            </div>
+          </div>
+          <span class="bar-value" id="xpValue">0 / 100</span>
+        </div>
+      </div>
+
+      <!-- Combat Stats -->
+      <div class="glass-card profile-section animate-fade-in-up delay-2">
+        <div class="section-title">
+          <span class="title-icon">+</span>
+          <span>إحصائيات القتال</span>
+        </div>
+
+        <!-- HP Bar -->
+        <div class="bar-with-label" style="margin-bottom:16px;">
+          <span class="bar-label">الصحة</span>
+          <div class="bar-track progress-hp">
+            <div class="progress-bar thick">
+              <div class="progress-bar-fill" id="hpBarFill"></div>
+            </div>
+          </div>
+          <span class="bar-value" id="hpValue">0 / 100</span>
+        </div>
+
+        <!-- Stamina Bar -->
+        <div class="bar-with-label" style="margin-bottom:16px;">
+          <span class="bar-label">القوة</span>
+          <div class="bar-track progress-stamina">
+            <div class="progress-bar">
+              <div class="progress-bar-fill" id="staminaBarFill"></div>
+            </div>
+          </div>
+          <span class="bar-value" id="staminaValue">0 / 10</span>
+        </div>
+
+        <!-- Energy Bar -->
+        <div class="bar-with-label" style="margin-bottom:16px;">
+          <span class="bar-label">الطاقة</span>
+          <div class="bar-track progress-energy">
+            <div class="progress-bar">
+              <div class="progress-bar-fill" id="energyBarFill"></div>
+            </div>
+          </div>
+          <span class="bar-value" id="energyValue">0</span>
+        </div>
+
+        <!-- Stat Grid -->
+        <div class="stat-grid stat-grid-3">
+          <div class="stat-item">
+            <div class="stat-label">الهجوم</div>
+            <div class="stat-value red" id="statAtk">0</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-label">الدفاع</div>
+            <div class="stat-value cyan" id="statDef">0</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-label">السحر</div>
+            <div class="stat-value magenta" id="statMag">0</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-label">نسبة الضربة القاضية</div>
+            <div class="stat-value gold" id="statCritRate">0%</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-label">ضرر الضربة القاضية</div>
+            <div class="stat-value accent" id="statCritDmg">0%</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Resources -->
+      <div class="glass-card profile-section animate-fade-in-up delay-3">
+        <div class="section-title">
+          <span class="title-icon">$</span>
+          <span>الموارد</span>
+        </div>
+        <div class="resource-grid">
+          <div class="resource-item">
+            <span class="resource-icon" style="color: #eab308;">*</span>
+            <div class="resource-value" id="resGold">0</div>
+            <div class="resource-label">الذهب</div>
+          </div>
+          <div class="resource-item">
+            <span class="resource-icon" style="color: #a855f7;">*</span>
+            <div class="resource-value" id="resGems">0</div>
+            <div class="resource-label">الجواهر</div>
+          </div>
+          <div class="resource-item">
+            <span class="resource-icon" style="color: #ec4899;">*</span>
+            <div class="resource-value" id="resElixir">0</div>
+            <div class="resource-label">الإكسير</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Equipment -->
+      <div class="glass-card profile-section animate-fade-in-up delay-4">
+        <div class="section-title">
+          <span class="title-icon">!</span>
+          <span>المعدات</span>
+        </div>
+
+        <div id="equippedWeaponSlot"></div>
+        <div id="equippedArmorSlot"></div>
+
+        <div id="noEquipment" class="skills-empty" style="display:none;">
+          لا توجد معدات حاليا
+        </div>
+      </div>
+
+      <!-- Tabs: Inventory / Boxes -->
+      <div class="glass-card profile-section animate-fade-in-up delay-5">
+        <div class="tabs-container">
+          <button class="tab-btn active" data-tab="inventory">المخزون</button>
+          <button class="tab-btn" data-tab="boxes">الصناديق</button>
+        </div>
+
+        <!-- Inventory Tab -->
+        <div class="tab-content active" id="tab-inventory">
+          <div id="weaponsList"></div>
+          <div class="divider" id="inventoryDivider" style="display:none;">
+            <span class="divider-diamond"></span>
+          </div>
+          <div id="armorsList"></div>
+          <div id="emptyInventory" class="inventory-empty" style="display:none;">
+            المخزون فارغ
+          </div>
+        </div>
+
+        <!-- Boxes Tab -->
+        <div class="tab-content" id="tab-boxes">
+          <div class="boxes-grid" id="boxesGrid"></div>
+        </div>
+      </div>
+
+      <!-- Battle Record -->
+      <div class="glass-card profile-section animate-fade-in-up delay-5">
+        <div class="section-title">
+          <span class="title-icon">@</span>
+          <span>سجل القتال</span>
+        </div>
+        <div class="battle-record">
+          <div class="battle-stat wins">
+            <div class="battle-value" id="battleWins">0</div>
+            <div class="battle-label">انتصارات</div>
+          </div>
+          <div class="battle-divider"></div>
+          <div class="battle-stat losses">
+            <div class="battle-value" id="battleLosses">0</div>
+            <div class="battle-label">هزائم</div>
+          </div>
+          <div class="battle-divider"></div>
+          <div class="battle-stat rate">
+            <div class="battle-value" id="battleRate">0%</div>
+            <div class="battle-label">نسبة الفوز</div>
+          </div>
+        </div>
+        <div style="margin-top:16px;">
+          <div class="bar-with-label">
+            <span class="bar-label">نسبة الفوز</span>
+            <div class="bar-track progress-winrate">
+              <div class="progress-bar thick">
+                <div class="progress-bar-fill" id="winrateBarFill"></div>
+              </div>
+            </div>
+            <span class="bar-value" id="winrateValue">0%</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Statistics -->
+      <div class="glass-card profile-section animate-fade-in-up delay-6">
+        <div class="section-title">
+          <span class="title-icon">#</span>
+          <span>الإحصائيات العامة</span>
+        </div>
+        <div class="stats-grid" id="statsGrid"></div>
+      </div>
+
+      <!-- Skills -->
+      <div class="glass-card profile-section animate-fade-in-up delay-6">
+        <div class="section-title">
+          <span class="title-icon">%</span>
+          <span>المهارات</span>
+        </div>
+        <div id="skillsContent"></div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="site-footer" id="siteFooter" style="display:none;">
+    <p class="footer-text">
+      <span class="footer-bot">FATIMA BOT</span> -- صفحة معلومات اللاعبين
+    </p>
+  </footer>
+
+  <script src="js/app.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      FatimaApp.initProfilePage();
+    });
+  </script>
+</body>
+</html>
