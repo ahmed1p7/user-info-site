@@ -4,7 +4,7 @@
   "nickname": "مورفي لاندو",
   "class": "محارب",
   "level": 20,
-  "xp": 104797,
+  "xp": 117551,
   "hp": 764,
   "maxHp": 765,
   "atk": 156,
@@ -12,10 +12,10 @@
   "mag": 22,
   "critRate": 0.08800000000000004,
   "critDamage": 1.6900000000000002,
-  "gold": 16140,
-  "gems": 813,
-  "elixir": 2243,
-  "stamina": 4,
+  "gold": 53089,
+  "gems": 881,
+  "elixir": 2471,
+  "stamina": 0,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
@@ -214,6 +214,29 @@
       ],
       "maxSockets": 3,
       "obtainedAt": 1777428221093
+    },
+    {
+      "id": "أسطوري_محارب_إكسكاليبور",
+      "name": "إكسكاليبور",
+      "fullName": "🟡 أسطوري | إكسكاليبور",
+      "rarity": "أسطوري",
+      "rarityEmoji": "🟡",
+      "class": "محارب",
+      "atk": 100,
+      "level": 1,
+      "maxLevel": 5,
+      "baseAtk": 100,
+      "baseCost": 1000,
+      "costMultiplier": 3,
+      "maxAtkBonus": 120,
+      "effect": null,
+      "sockets": [
+        null,
+        null,
+        null
+      ],
+      "maxSockets": 3,
+      "obtainedAt": 1777466484794
     }
   ],
   "armors": [
@@ -292,6 +315,25 @@
       "costMultiplier": 3,
       "maxDefBonus": 100,
       "obtainedAt": 1777428221094
+    },
+    {
+      "id": "أسطوري_محارب_خوذة_خوذة_إيغريس",
+      "name": "خوذة إيغريس",
+      "fullName": "🟡 أسطوري | خوذة إيغريس",
+      "rarity": "أسطوري",
+      "rarityEmoji": "🟡",
+      "class": "محارب",
+      "slot": "خوذة",
+      "slotEmoji": "🪖",
+      "def": 70,
+      "bonusType": "mag",
+      "level": 1,
+      "maxLevel": 5,
+      "baseDef": 70,
+      "baseCost": 800,
+      "costMultiplier": 3,
+      "maxDefBonus": 100,
+      "obtainedAt": 1777466464279
     }
   ],
   "boxes": {
@@ -301,17 +343,17 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 418,
-  "losses": 29,
+  "wins": 428,
+  "losses": 45,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 4004,
-    "mineralsMined": 2967,
-    "boxesOpened": 31,
+    "fishCaught": 4349,
+    "mineralsMined": 3311,
+    "boxesOpened": 33,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -326,13 +368,13 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "dungeonKills": 361,
-    "dungeonDamageDealt": 707211,
-    "fishSold": 3939,
-    "materialsCollected": 1493,
-    "dungeonsCompleted": 5,
+    "dungeonKills": 369,
+    "dungeonDamageDealt": 746447,
+    "fishSold": 4338,
+    "materialsCollected": 1630,
+    "dungeonsCompleted": 6,
     "mineralsSold": 2574,
-    "materialsSold": 3480,
+    "materialsSold": 4102,
     "clanDungeonsCompleted": 9,
     "clanDungeonDamage": 0,
     "pity": {
@@ -344,7 +386,7 @@
     "freeBoxStreak": 1,
     "boxesOpenedByType": {
       "common": 1,
-      "mythic": 13
+      "mythic": 15
     },
     "bestBoxReward": {
       "boxType": "mythic",
@@ -375,6 +417,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "leader",
   "created": 1776881423012,
-  "lastActive": 1777447163614,
+  "lastActive": 1777466627645,
   "groupId": "120363424226692086@g.us"
 }
