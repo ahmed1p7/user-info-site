@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
+  <meta name="description" content="فاطمة بوت - ملف اللاعب">
+  <meta name="theme-color" content="#07060e">
+  <title>فاطمة بوت - الملف الشخصي</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>~</text></svg>">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <div class="container">
+
+    <div id="loadingState" class="loading-overlay">
+      <div class="loading-spinner"></div>
+      <div class="loading-text">جاري تحميل الملف الشخصي...</div>
+    </div>
+
+    <div id="errorState" class="error-state" style="display:none;">
+      <div class="error-icon">!</div>
+      <div class="error-title">فشل الوصول للبيانات</div>
+      <div class="error-msg" id="errorMsg">تعذر تحميل ملف اللاعب</div>
+      <a href="index.html" class="error-btn">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+        الصفحة الرئيسية
+      </a>
+    </div>
+
+    <div id="profileContent" style="display:none;">
+
+      <!-- هيدر اللاعب -->
+      <div class="glass-card profile-header anim">
+        <div class="profile-avatar av-default" id="avatar"></div>
+        <h1 class="profile-name" id="pName"></h1>
+        <div class="profile-nick" id="pNick"></div>
+        <div class="profile-badges" id="pBadges"></div>
+        <div class="p-groups" id="pGroups"></div>
+      </div>
+
+      <!-- التقدم والخبرة -->
+      <div class="glass-card section anim d1">
+        <div class="section-head">
+          <div class="section-icon" style="background:rgba(139,92,246,0.15); color:var(--purple-bright);">&#9733;</div>
+          <span class="section-title">التقدم والخبرة</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">الخبرة</span>
+          <div class="bar-track thick"><div class="bar-fill xp" id="xpBar"></div></div>
+          <span class="bar-value" id="xpVal">0 / 100</span>
+        </div>
+      </div>
+
+      <!-- القتال -->
+      <div class="glass-card section anim d2">
+        <div class="section-head">
+          <div class="section-icon" style="background:rgba(239,68,68,0.15); color:var(--red);">&#9876;</div>
+          <span class="section-title">إحصائيات القتال</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">الصحة</span>
+          <div class="bar-track thick"><div class="bar-fill hp" id="hpBar"></div></div>
+          <span class="bar-value" id="hpVal">0 / 100</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">القوة</span>
+          <div class="bar-track"><div class="bar-fill stamina" id="stamBar"></div></div>
+          <span class="bar-value" id="stamVal">0 / 10</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">الطاقة</span>
+          <div class="bar-track"><div class="bar-fill energy" id="nrgBar"></div></div>
+          <span class="bar-value" id="nrgVal">0</span>
+        </div>
+        <div class="sg3" style="margin-top:12px;">
+          <div class="s-box"><div class="s-val" style="color:var(--red);" id="sAtk">0</div><div class="s-lbl">الهجوم</div></div>
+          <div class="s-box"><div class="s-val" style="color:var(--cyan);" id="sDef">0</div><div class="s-lbl">الدفاع</div></div>
+          <div class="s-box"><div class="s-val" style="color:var(--purple-bright);" id="sMag">0</div><div class="s-lbl">السحر</div></div>
+          <div class="s-box"><div class="s-val" style="color:var(--gold);" id="sCrit">0%</div><div class="s-lbl">نسبة القاضية</div></div>
+          <div class="s-box"><div class="s-val" style="color:var(--orange);" id="sCritD">0%</div><div class="s-lbl">ضرر القاضية</div></div>
+        </div>
+      </div>
+
+      <!-- الموارد -->
+      <div class="glass-card section anim d3">
+        <div class="section-head">
+          <div class="section-icon" style="background:rgba(234,179,8,0.15); color:var(--gold);">$</div>
+          <span class="section-title">الموارد</span>
+        </div>
+        <div class="res-row">
+          <div class="res-box"><div class="r-icon" style="color:#eab308;">*</div><div class="r-val" id="rGold">0</div><div class="r-lbl">الذهب</div></div>
+          <div class="res-box"><div class="r-icon" style="color:#a855f7;">*</div><div class="r-val" id="rGems">0</div><div class="r-lbl">الجواهر</div></div>
+          <div class="res-box"><div class="r-icon" style="color:#ec4899;">*</div><div class="r-val" id="rElix">0</div><div class="r-lbl">الإكسير</div></div>
+        </div>
+      </div>
+
+      <!-- المعدات -->
+      <div class="glass-card section anim d4">
+        <div class="section-head">
+          <div class="section-icon" style="background:rgba(59,130,246,0.15); color:var(--blue);">&#9876;</div>
+          <span class="section-title">المعدات</span>
+        </div>
+        <div id="equipSlots"></div>
+        <div id="noEquip" style="display:none; text-align:center; color:var(--text-muted); font-size:0.82rem; padding:10px 0;">لا توجد معدات مجهزة</div>
+      </div>
+
+      <!-- التبويبات: المخزون / الصناديق / الإحصائيات -->
+      <div class="glass-card section anim d5">
+        <div class="tabs">
+          <button class="tab-btn active" data-tab="inventory">المخزون</button>
+          <button class="tab-btn" data-tab="boxes">الصناديق</button>
+          <button class="tab-btn" data-tab="stats">الإحصائيات</button>
+        </div>
+
+        <div class="tab-panel active" id="tab-inventory">
+          <div id="weaponsList"></div>
+          <div class="divider" id="invDiv" style="display:none;">الدروع</div>
+          <div id="armorsList"></div>
+          <div id="emptyInv" style="display:none; text-align:center; color:var(--text-muted); font-size:0.82rem; padding:10px 0;">المخزون فارغ</div>
+        </div>
+
+        <div class="tab-panel" id="tab-boxes">
+          <div class="boxes-grid" id="boxesGrid"></div>
+        </div>
+
+        <div class="tab-panel" id="tab-stats">
+          <div class="sg2" id="statsGrid"></div>
+        </div>
+      </div>
+
+      <!-- سجل القتال -->
+      <div class="glass-card section anim d5">
+        <div class="section-head">
+          <div class="section-icon" style="background:rgba(239,68,68,0.15); color:var(--red);">&#9760;</div>
+          <span class="section-title">سجل القتال</span>
+        </div>
+        <div class="battle-row">
+          <div class="bt-box"><div class="bt-val" style="color:var(--green);" id="bWins">0</div><div class="bt-lbl">انتصارات</div></div>
+          <div class="bt-box"><div class="bt-val" style="color:var(--red);" id="bLoss">0</div><div class="bt-lbl">هزائم</div></div>
+          <div class="bt-box"><div class="bt-val" style="color:var(--gold);" id="bRate">0%</div><div class="bt-lbl">نسبة الفوز</div></div>
+        </div>
+        <div class="bar-row" style="margin-top:12px;">
+          <span class="bar-label">الفوز</span>
+          <div class="bar-track thick"><div class="bar-fill winrate" id="wrBar"></div></div>
+          <span class="bar-value" id="wrVal">0%</span>
+        </div>
+      </div>
+
+      <!-- المهارات -->
+      <div class="glass-card section anim d6">
+        <div class="section-head">
+          <div class="section-icon" style="background:rgba(34,211,238,0.15); color:var(--cyan);">&#10047;</div>
+          <span class="section-title">المهارات</span>
+        </div>
+        <div id="skillsContent">
+          <div style="text-align:center; color:var(--text-muted); font-size:0.82rem; padding:10px 0;">لا توجد مهارات مفتوحة</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <footer class="site-footer" id="siteFooter" style="display:none;">
+    <span class="fn">فاطمة بوت</span> &mdash; نظام الملفات الشخصية
+  </footer>
+
+  <script src="js/app.js"></script>
+  <script>document.addEventListener('DOMContentLoaded', function(){ App.initProfilePage(); });</script>
+</body>
+</html>
