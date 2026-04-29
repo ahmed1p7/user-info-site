@@ -1,0 +1,154 @@
+{
+  "id": "144410171936843@s.whatsapp.net",
+  "name": "ابراهيم",
+  "nickname": "ابراهيم",
+  "class": "قاتل",
+  "level": 16,
+  "xp": 5947,
+  "hp": 1,
+  "maxHp": 417,
+  "atk": 128,
+  "def": 19,
+  "mag": 21,
+  "critRate": 0.16000000000000006,
+  "critDamage": 1.8700000000000003,
+  "gold": 11246,
+  "gems": 15,
+  "elixir": 43,
+  "stamina": 7,
+  "maxStamina": 10,
+  "energy": 100,
+  "equippedWeapon": {
+    "id": "أسطوري_محارب_ذو_الفقار",
+    "name": "ذو الفقار",
+    "fullName": "🟡 أسطوري | ذو الفقار",
+    "rarity": "أسطوري",
+    "rarityEmoji": "🟡",
+    "class": "محارب",
+    "atk": 78,
+    "level": 1,
+    "maxLevel": 5,
+    "baseAtk": 78,
+    "baseCost": 1000,
+    "costMultiplier": 3,
+    "maxAtkBonus": 120,
+    "effect": null,
+    "sockets": [
+      null,
+      null,
+      null
+    ],
+    "maxSockets": 3,
+    "obtainedAt": 1777352041986,
+    "type": "weapon"
+  },
+  "equippedArmor": null,
+  "weapons": [
+    {
+      "id": "أسطوري_محارب_ذو_الفقار",
+      "name": "ذو الفقار",
+      "fullName": "🟡 أسطوري | ذو الفقار",
+      "rarity": "أسطوري",
+      "rarityEmoji": "🟡",
+      "class": "محارب",
+      "atk": 78,
+      "level": 1,
+      "maxLevel": 5,
+      "baseAtk": 78,
+      "baseCost": 1000,
+      "costMultiplier": 3,
+      "maxAtkBonus": 120,
+      "effect": null,
+      "sockets": [
+        null,
+        null,
+        null
+      ],
+      "maxSockets": 3,
+      "obtainedAt": 1777352041986,
+      "type": "weapon"
+    }
+  ],
+  "armors": [],
+  "boxes": {
+    "common": 0,
+    "rare": 0,
+    "epic": 0,
+    "legendary": 0
+  },
+  "wins": 81,
+  "losses": 9,
+  "evolvedClass": null,
+  "evolutionPath": null,
+  "stats": {
+    "monstersKilled": 0,
+    "bossesDefeated": 0,
+    "totalBossDamage": 0,
+    "fishCaught": 2718,
+    "mineralsMined": 1521,
+    "boxesOpened": 5,
+    "weaponsUpgraded": 0,
+    "itemsSold": 0,
+    "itemsBought": 0,
+    "playersHealed": 0,
+    "healingDone": 0,
+    "groupHeals": 0,
+    "pvpWins": 0,
+    "pvpLosses": 0,
+    "successfulRobberies": 0,
+    "failedRobberies": 0,
+    "luckGamesPlayed": 0,
+    "luckGamesWon": 0,
+    "territoriesConquered": 0,
+    "territoryDefenses": 0,
+    "dungeonKills": 80,
+    "dungeonDamageDealt": 32811,
+    "materialsCollected": 1007,
+    "fishSold": 2276,
+    "dungeonsCompleted": 2,
+    "mineralsSold": 1339,
+    "materialsSold": 2150,
+    "clanDungeonsCompleted": 4,
+    "clanDungeonDamage": 0,
+    "pity": {
+      "epic": 0,
+      "legendary": 0,
+      "mythic": 0
+    },
+    "lastFreeBox": 1777405437145,
+    "freeBoxStreak": 1,
+    "boxesOpenedByType": {
+      "common": 1
+    },
+    "bestBoxReward": {
+      "boxType": "common",
+      "value": 365,
+      "hadWeapon": false,
+      "hadArmor": false,
+      "timestamp": 1777405461604
+    }
+  },
+  "skills": [
+    "stealth",
+    "backstab",
+    "poison_blade",
+    "assassinate",
+    "smoke_bomb"
+  ],
+  "unlockedSkills": {
+    "passive": [
+      "stealth",
+      "backstab",
+      "poison_blade"
+    ],
+    "active": [
+      "assassinate",
+      "smoke_bomb"
+    ]
+  },
+  "clanId": "120363424226692086@g.us",
+  "clanRole": "member",
+  "created": 1777001965022,
+  "lastActive": 1777496201185,
+  "groupId": "120363424226692086@g.us"
+}

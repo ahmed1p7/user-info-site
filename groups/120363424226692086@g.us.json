@@ -22,6 +22,12 @@
       "level": 18
     },
     {
+      "id": "144410171936843@s.whatsapp.net",
+      "name": "ابراهيم",
+      "class": "قاتل",
+      "level": 16
+    },
+    {
       "id": "204144744898581@s.whatsapp.net",
       "name": "Tou",
       "class": "فارس",
@@ -52,6 +58,6 @@
       "level": 11
     }
   ],
-  "messagesWeek": 323,
-  "lastUpdated": 1777494446027
+  "messagesWeek": 780,
+  "lastUpdated": 1777496201189
 }
