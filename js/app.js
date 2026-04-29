@@ -76,7 +76,12 @@ var App = (function () {
   }
 
   function groupsPath() { return BASE + '/groups/'; }
-  function usersPath() { return BASE + '/users/'; }
+
+  // مسار بيانات اللاعب: إذا في gid ياخذ من مجلد القروب، وإلا من users/
+  function playerDataPath(jid, gid) {
+    if (gid) return groupsPath() + enc(gid) + '/' + enc(normJid(jid)) + '.json';
+    return BASE + '/users/' + enc(normJid(jid)) + '.json';
+  }
 
   /* ============================================
      صفحة القروبات الرئيسية
@@ -192,7 +197,8 @@ var App = (function () {
 
         return Promise.all(members.map(function(m) {
           var pId = m.id || m;
-          return fetchJ(usersPath() + enc(normJid(pId)) + '.json').catch(function() {
+          var playerUrl = playerDataPath(pId, gid);
+            return fetchJ(playerUrl).catch(function() {
             return { id: pId, name: m.name || '\u0644\u0627\u0639\u0628', class: '' };
           });
         }));
@@ -253,7 +259,7 @@ var App = (function () {
     var fromGid = param('gid');
     if (!jid) { showErr('\u0644\u0645 \u064a\u062a\u0645 \u062a\u062d\u062f\u064a\u062f \u0644\u0627\u0639\u0628'); return; }
 
-    fetchJ(usersPath() + enc(jid) + '.json')
+    fetchJ(playerDataPath(jid, fromGid))
       .then(function(data) { renderProfile(data, fromGid); })
       .catch(function() { showErr('\u062a\u0639\u0630\u0631 \u0627\u0644\u0639\u062b\u0648\u0631 \u0639\u0644\u0649 \u0645\u0644\u0641 \u0627\u0644\u0644\u0627\u0639\u0628'); });
   }
