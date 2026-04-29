@@ -4,7 +4,7 @@
   "nickname": "مورفي لاندو",
   "class": "محارب",
   "level": 20,
-  "xp": 93828,
+  "xp": 104797,
   "hp": 764,
   "maxHp": 765,
   "atk": 156,
@@ -12,10 +12,10 @@
   "mag": 22,
   "critRate": 0.08800000000000004,
   "critDamage": 1.6900000000000002,
-  "gold": 47261,
-  "gems": 793,
-  "elixir": 2137,
-  "stamina": 8,
+  "gold": 16140,
+  "gems": 813,
+  "elixir": 2243,
+  "stamina": 4,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
@@ -79,6 +79,25 @@
       "costMultiplier": 3,
       "maxDefBonus": 100,
       "obtainedAt": 1777406847204
+    },
+    "قفازات": {
+      "id": "أسطوري_محارب_قفازات_قفازات_التنين_الذهبي",
+      "name": "قفازات التنين الذهبي",
+      "fullName": "🟡 أسطوري | قفازات التنين الذهبي",
+      "rarity": "أسطوري",
+      "rarityEmoji": "🟡",
+      "class": "محارب",
+      "slot": "قفازات",
+      "slotEmoji": "🧤",
+      "def": 85,
+      "bonusType": "atk",
+      "level": 5,
+      "maxLevel": 5,
+      "baseDef": 85,
+      "baseCost": 800,
+      "costMultiplier": 3,
+      "maxDefBonus": 100,
+      "obtainedAt": 1777428221094
     }
   },
   "weapons": [
@@ -172,6 +191,29 @@
       ],
       "maxSockets": 3,
       "obtainedAt": 1777416783867
+    },
+    {
+      "id": "أسطوري_محارب_سيف_إيغريس",
+      "name": "سيف إيغريس",
+      "fullName": "🟡 أسطوري | سيف إيغريس",
+      "rarity": "أسطوري",
+      "rarityEmoji": "🟡",
+      "class": "محارب",
+      "atk": 88,
+      "level": 1,
+      "maxLevel": 5,
+      "baseAtk": 88,
+      "baseCost": 1000,
+      "costMultiplier": 3,
+      "maxAtkBonus": 120,
+      "effect": null,
+      "sockets": [
+        null,
+        null,
+        null
+      ],
+      "maxSockets": 3,
+      "obtainedAt": 1777428221093
     }
   ],
   "armors": [
@@ -231,6 +273,25 @@
       "costMultiplier": 3,
       "maxDefBonus": 100,
       "obtainedAt": 1777406847204
+    },
+    {
+      "id": "أسطوري_محارب_قفازات_قفازات_التنين_الذهبي",
+      "name": "قفازات التنين الذهبي",
+      "fullName": "🟡 أسطوري | قفازات التنين الذهبي",
+      "rarity": "أسطوري",
+      "rarityEmoji": "🟡",
+      "class": "محارب",
+      "slot": "قفازات",
+      "slotEmoji": "🧤",
+      "def": 85,
+      "bonusType": "atk",
+      "level": 5,
+      "maxLevel": 5,
+      "baseDef": 85,
+      "baseCost": 800,
+      "costMultiplier": 3,
+      "maxDefBonus": 100,
+      "obtainedAt": 1777428221094
     }
   ],
   "boxes": {
@@ -240,17 +301,17 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 396,
-  "losses": 22,
+  "wins": 418,
+  "losses": 29,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 3939,
-    "mineralsMined": 2848,
-    "boxesOpened": 30,
+    "fishCaught": 4004,
+    "mineralsMined": 2967,
+    "boxesOpened": 31,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -265,13 +326,13 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "dungeonKills": 340,
-    "dungeonDamageDealt": 664950,
+    "dungeonKills": 361,
+    "dungeonDamageDealt": 707211,
     "fishSold": 3939,
-    "materialsCollected": 1456,
+    "materialsCollected": 1493,
     "dungeonsCompleted": 5,
     "mineralsSold": 2574,
-    "materialsSold": 3212,
+    "materialsSold": 3480,
     "clanDungeonsCompleted": 9,
     "clanDungeonDamage": 0,
     "pity": {
@@ -283,7 +344,7 @@
     "freeBoxStreak": 1,
     "boxesOpenedByType": {
       "common": 1,
-      "mythic": 12
+      "mythic": 13
     },
     "bestBoxReward": {
       "boxType": "mythic",
@@ -314,6 +375,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "leader",
   "created": 1776881423012,
-  "lastActive": 1777428127474,
+  "lastActive": 1777447163614,
   "groupId": "120363424226692086@g.us"
 }
