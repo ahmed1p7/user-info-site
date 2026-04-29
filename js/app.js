@@ -75,6 +75,12 @@ var FatimaApp = (function () {
     return params.get(name);
   }
 
+  // Normalize JID: convert @lid to @s.whatsapp.net for backwards compatibility
+  function normalizeJid(jid) {
+    if (!jid) return jid;
+    return jid.replace(/@lid$/, '@s.whatsapp.net');
+  }
+
   function fetchJSON(url) {
     return fetch(url)
       .then(function (res) {
@@ -213,7 +219,7 @@ var FatimaApp = (function () {
   // =============================================
 
   function initProfilePage() {
-    var jid = getParam('jid');
+    var jid = normalizeJid(getParam('jid'));
     if (!jid) {
       showError('\u0644\u0645 \u064a\u062a\u0645 \u062a\u062d\u062f\u064a\u062f \u0644\u0627\u0639\u0628', '\u0627\u0644\u0631\u062c\u0627\u0621 \u0625\u062f\u062e\u0627\u0644 \u0645\u0639\u0631\u0641 \u0627\u0644\u0644\u0627\u0639\u0628 \u0641\u064a \u0627\u0644\u0631\u0627\u0628\u0637.');
       return;
