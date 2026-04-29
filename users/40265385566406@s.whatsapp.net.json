@@ -74,5 +74,12 @@
   "clanId": "120363390837964435@g.us",
   "clanRole": "leader",
   "created": 1776502952607,
-  "lastActive": 1777421906935
+  "lastActive": 1777421906935,
+  "memberOfGroups": [
+    {
+      "id": "120363424226692086@g.us",
+      "name": "قروب",
+      "emoji": "🏗"
+    }
+  ]
 }
