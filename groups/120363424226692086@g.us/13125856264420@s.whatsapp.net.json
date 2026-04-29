@@ -1,0 +1,107 @@
+{
+  "id": "13125856264420@s.whatsapp.net",
+  "name": "تو",
+  "nickname": "تو",
+  "class": "قاتل",
+  "level": 14,
+  "xp": 11331,
+  "hp": 35,
+  "maxHp": 455,
+  "atk": 88,
+  "def": 27,
+  "mag": 19,
+  "critRate": 0.12200000000000005,
+  "critDamage": 1.8340000000000003,
+  "gold": 11142,
+  "gems": 26,
+  "elixir": 65,
+  "stamina": 10,
+  "maxStamina": 10,
+  "energy": 100,
+  "equippedWeapon": null,
+  "equippedArmor": null,
+  "weapons": [],
+  "armors": [],
+  "boxes": {
+    "common": 0,
+    "rare": 0,
+    "epic": 0,
+    "legendary": 0
+  },
+  "wins": 94,
+  "losses": 10,
+  "evolvedClass": null,
+  "evolutionPath": null,
+  "stats": {
+    "monstersKilled": 0,
+    "bossesDefeated": 0,
+    "totalBossDamage": 0,
+    "fishCaught": 1276,
+    "mineralsMined": 399,
+    "boxesOpened": 2,
+    "weaponsUpgraded": 0,
+    "itemsSold": 0,
+    "itemsBought": 0,
+    "playersHealed": 0,
+    "healingDone": 0,
+    "groupHeals": 0,
+    "pvpWins": 0,
+    "pvpLosses": 0,
+    "successfulRobberies": 0,
+    "failedRobberies": 0,
+    "luckGamesPlayed": 0,
+    "luckGamesWon": 0,
+    "territoriesConquered": 0,
+    "territoryDefenses": 0,
+    "materialsCollected": 517,
+    "fishSold": 1276,
+    "dungeonKills": 90,
+    "dungeonDamageDealt": 33826,
+    "materialsSold": 789,
+    "clanDungeonsCompleted": 4,
+    "clanDungeonDamage": 0,
+    "mineralsSold": 323,
+    "dungeonsCompleted": 2,
+    "pity": {
+      "epic": 0,
+      "legendary": 1,
+      "mythic": 0
+    },
+    "lastFreeBox": 1777402495085,
+    "freeBoxStreak": 1,
+    "boxesOpenedByType": {
+      "common": 1,
+      "legendary": 1
+    },
+    "bestBoxReward": {
+      "boxType": "legendary",
+      "value": 11239,
+      "hadWeapon": false,
+      "hadArmor": false,
+      "timestamp": 1777402671311
+    }
+  },
+  "skills": [
+    "stealth",
+    "assassinate",
+    "smoke_bomb",
+    "poison_blade",
+    "backstab"
+  ],
+  "unlockedSkills": {
+    "passive": [
+      "stealth",
+      "poison_blade",
+      "backstab"
+    ],
+    "active": [
+      "assassinate",
+      "smoke_bomb"
+    ]
+  },
+  "clanId": "120363424226692086@g.us",
+  "clanRole": "deputy",
+  "created": 1777233176164,
+  "lastActive": 1777485756172,
+  "groupId": "120363424226692086@g.us"
+}
