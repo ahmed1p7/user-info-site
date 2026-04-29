@@ -4,7 +4,7 @@
   "nickname": "Ysf",
   "class": "محارب",
   "level": 17,
-  "xp": 50538,
+  "xp": 54533,
   "hp": 734,
   "maxHp": 734,
   "atk": 124,
@@ -12,10 +12,10 @@
   "mag": 19,
   "critRate": 0.08200000000000003,
   "critDamage": 1.6600000000000001,
-  "gold": 61130,
+  "gold": 30298,
   "gems": 712,
   "elixir": 1937,
-  "stamina": -1,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
@@ -226,7 +226,7 @@
     "epic": 0,
     "legendary": 0
   },
-  "wins": 188,
+  "wins": 225,
   "losses": 21,
   "evolvedClass": null,
   "evolutionPath": null,
@@ -252,11 +252,11 @@
     "territoriesConquered": 0,
     "territoryDefenses": 0,
     "fishSold": 3465,
-    "dungeonKills": 175,
-    "dungeonDamageDealt": 145442,
-    "materialsCollected": 1300,
+    "dungeonKills": 212,
+    "dungeonDamageDealt": 230608,
+    "materialsCollected": 1332,
     "materialsSold": 4738,
-    "dungeonsCompleted": 3,
+    "dungeonsCompleted": 4,
     "itemsMerged": 10,
     "mineralsSold": 3101,
     "mergesFailed": 1,
@@ -298,5 +298,5 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "deputy",
   "created": 1776891817820,
-  "lastActive": 1777419981769
+  "lastActive": 1777420834479
 }
