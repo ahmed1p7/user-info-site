@@ -259,12 +259,13 @@ var App = (function () {
     var fromGid = param('gid');
     if (!jid) { showErr('\u0644\u0645 \u064a\u062a\u0645 \u062a\u062d\u062f\u064a\u062f \u0644\u0627\u0639\u0628'); return; }
 
+    // جلب بيانات اللاعب من مجلد القروب
     fetchJ(playerDataPath(jid, fromGid))
-      .then(function(data) { renderProfile(data, fromGid); })
+      .then(function(data) { renderProfile(data, fromGid, jid); })
       .catch(function() { showErr('\u062a\u0639\u0630\u0631 \u0627\u0644\u0639\u062b\u0648\u0631 \u0639\u0644\u0649 \u0645\u0644\u0641 \u0627\u0644\u0644\u0627\u0639\u0628'); });
   }
 
-  function renderProfile(p, fromGid) {
+  function renderProfile(p, fromGid, rawJid) {
     document.getElementById('loadingState').style.display = 'none';
     document.getElementById('profileContent').style.display = 'block';
     document.getElementById('siteFooter').style.display = 'block';
@@ -294,27 +295,41 @@ var App = (function () {
     }
     document.getElementById('pBadges').innerHTML = badges;
 
-    // قروبات اللاعب
+    // قروبات اللاعب - نجيبها من فهرس اللاعب (players/{jid}.json)
     var groupsEl = document.getElementById('pGroups');
-    var playerGroups = p.memberOfGroups || [];
-    if (playerGroups.length > 0) {
-      // إذا جينا من قروب، نحط رابط عودة لذلك القروب
-      var html = '<div class="pg-label">\u0627\u0644\u0642\u0631\u0648\u0628\u0627\u062a</div><div class="pg-list">';
-      playerGroups.forEach(function(g) {
-        html += '<a class="g-tag" href="group.html?gid=' + enc(g.id) + '">' +
-          (g.emoji || '') + ' ' + esc(g.name || g.id) + '</a>';
+    groupsEl.style.display = 'block';
+    groupsEl.innerHTML = '<div class="pg-label">\u062c\u0627\u0631\u064a \u0627\u0644\u062a\u062d\u0645\u064a\u0644...</div>';
+
+    fetchJ(BASE + '/players/' + enc(rawJid) + '.json')
+      .then(function(idx) {
+        var groups = idx.groups || [];
+        if (groups.length > 0) {
+          var html = '<div class="pg-label">\u0627\u0644\u0642\u0631\u0648\u0628\u0627\u062a (' + arNum(groups.length) + ')</div><div class="pg-list">';
+          groups.forEach(function(g) {
+            var isCurrent = fromGid && g.id === fromGid;
+            html += '<a class="g-tag" href="profile.html?jid=' + enc(rawJid) + '&gid=' + enc(g.id) + '"' +
+              (isCurrent ? ' style="border-color:var(--purple-bright); color:var(--purple-bright);"' : '') + '>' +
+              (g.emoji || '') + ' ' + esc(g.name) + ' (\u0645' + (g.level || 1) + ')</a>';
+          });
+          html += '</div>';
+          groupsEl.innerHTML = html;
+        } else if (fromGid) {
+          groupsEl.innerHTML =
+            '<div class="pg-label">\u0627\u0644\u0642\u0631\u0648\u0628\u0627\u062a</div>' +
+            '<div class="pg-list"><a class="g-tag" href="group.html?gid=' + enc(fromGid) + '">\u0627\u0644\u0639\u0648\u062f\u0629 \u0644\u0644\u0642\u0631\u0648\u0628</a></div>';
+        } else {
+          groupsEl.style.display = 'none';
+        }
+      })
+      .catch(function() {
+        if (fromGid) {
+          groupsEl.innerHTML =
+            '<div class="pg-label">\u0627\u0644\u0642\u0631\u0648\u0628\u0627\u062a</div>' +
+            '<div class="pg-list"><a class="g-tag" href="group.html?gid=' + enc(fromGid) + '">\u0627\u0644\u0639\u0648\u062f\u0629 \u0644\u0644\u0642\u0631\u0648\u0628</a></div>';
+        } else {
+          groupsEl.style.display = 'none';
+        }
       });
-      html += '</div>';
-      groupsEl.innerHTML = html;
-      groupsEl.style.display = 'block';
-    } else if (fromGid) {
-      groupsEl.innerHTML =
-        '<div class="pg-label">\u0627\u0644\u0642\u0631\u0648\u0628\u0627\u062a</div>' +
-        '<div class="pg-list"><a class="g-tag" href="group.html?gid=' + enc(fromGid) + '">\u0627\u0644\u0639\u0648\u062f\u0629 \u0644\u0644\u0642\u0631\u0648\u0628</a></div>';
-      groupsEl.style.display = 'block';
-    } else {
-      groupsEl.style.display = 'none';
-    }
 
     // الخبرة
     var xpN = xpFor(p.level || 1);
