@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
+  <meta name="description" content="فاطمة بوت - لاعبين القروب">
+  <meta name="theme-color" content="#07060e">
+  <title>فاطمة بوت - القروب</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>~</text></svg>">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <div class="container-wide">
+
+    <div id="loadingState" class="loading-overlay">
+      <div class="loading-spinner"></div>
+      <div class="loading-text">جاري تحميل بيانات القروب...</div>
+    </div>
+
+    <div id="errorState" class="error-state" style="display:none;">
+      <div class="error-icon">!</div>
+      <div class="error-title">خطأ في التحميل</div>
+      <div class="error-msg" id="errorMsg">تعذر العثور على بيانات القروب</div>
+      <a href="index.html" class="error-btn">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+        العودة للقروبات
+      </a>
+    </div>
+
+    <div id="mainContent" style="display:none;">
+
+      <a href="index.html" class="back-link">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+        جميع القروبات
+      </a>
+
+      <!-- هيدر القروب -->
+      <div class="glass-card profile-header anim" id="groupHeader">
+        <div class="profile-avatar av-default" id="groupAvatar" style="font-size:1.6rem;"></div>
+        <h1 class="profile-name" id="groupName"></h1>
+        <div class="profile-badges" id="groupBadges"></div>
+      </div>
+
+      <!-- بحث اللاعبين -->
+      <div class="search-wrapper" style="margin-top:14px;">
+        <input type="text" class="search-input" id="playerSearch" placeholder="ابحث عن لاعب..." autocomplete="off">
+        <svg class="search-icon" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+      </div>
+
+      <div class="count-display" id="playerCount"></div>
+
+      <!-- قائمة اللاعبين -->
+      <div class="players-list" id="playersList"></div>
+
+      <div id="noPlayers" class="empty-state" style="display:none;">
+        <div class="empty-icon">?</div>
+        <div class="empty-title">لا يوجد لاعبين</div>
+        <div class="empty-msg">لم يتم تسجيل أي لاعبين في هذا القروب بعد</div>
+      </div>
+
+    </div>
+  </div>
+
+  <footer class="site-footer" id="siteFooter" style="display:none;">
+    <span class="fn">فاطمة بوت</span> &mdash; نظام الملفات الشخصية
+  </footer>
+
+  <script src="js/app.js"></script>
+  <script>document.addEventListener('DOMContentLoaded', function(){ App.initGroupPage(); });</script>
+</body>
+</html>
