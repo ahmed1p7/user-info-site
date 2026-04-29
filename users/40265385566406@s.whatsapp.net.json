@@ -3,29 +3,24 @@
   "name": "زازا",
   "nickname": "زازا",
   "class": "فارس",
-  "level": 9,
-  "xp": 1863,
-  "hp": 535,
-  "maxHp": 535,
-  "atk": 20,
-  "def": 37,
-  "mag": 10,
-  "critRate": 0.05800000000000001,
-  "critDamage": 1.5399999999999991,
-  "gold": 6958,
-  "gems": 6,
-  "elixir": 17,
+  "level": 11,
+  "xp": 5464,
+  "hp": 619,
+  "maxHp": 651,
+  "atk": 96,
+  "def": 48,
+  "mag": 12,
+  "critRate": 0.06000000000000001,
+  "critDamage": 1.549999999999999,
+  "gold": 3574,
+  "gems": 2,
+  "elixir": 3,
   "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
   "equippedArmor": null,
-  "weapons": [
-    {
-      "name": "قوس ناري",
-      "atk": 12
-    }
-  ],
+  "weapons": [],
   "armors": [],
   "boxes": {
     "common": 0,
@@ -33,16 +28,16 @@
     "epic": 0,
     "legendary": 0
   },
-  "wins": 28,
-  "losses": 0,
+  "wins": 44,
+  "losses": 10,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 405,
-    "mineralsMined": 23,
+    "fishCaught": 264,
+    "mineralsMined": 333,
     "boxesOpened": 1,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -58,28 +53,48 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "fishSold": 265,
-    "dungeonKills": 28,
-    "dungeonDamageDealt": 4572,
+    "fishSold": 264,
+    "dungeonKills": 42,
+    "dungeonDamageDealt": 9708,
     "dungeonsCompleted": 1,
-    "materialsCollected": 22
+    "mineralsSold": 181,
+    "materialsCollected": 22,
+    "pity": {
+      "epic": 0,
+      "legendary": 0,
+      "mythic": 0
+    },
+    "materialsSold": 136,
+    "lastFreeBox": 1777405452239,
+    "freeBoxStreak": 1,
+    "boxesOpenedByType": {
+      "common": 1
+    },
+    "bestBoxReward": {
+      "boxType": "common",
+      "value": 309,
+      "hadWeapon": false,
+      "hadArmor": false,
+      "timestamp": 1777405487579
+    }
   },
   "skills": [
-    "shield_wall"
+    "shield_wall",
+    "iron_will",
+    "shield_mastery"
   ],
   "unlockedSkills": {
-    "passive": [],
-    "active": []
+    "passive": [
+      "iron_will",
+      "shield_mastery"
+    ],
+    "active": [
+      "shield_wall"
+    ]
   },
-  "clanId": "120363390837964435@g.us",
-  "clanRole": "leader",
-  "created": 1776502952607,
-  "lastActive": 1777421906935,
-  "memberOfGroups": [
-    {
-      "id": "120363424226692086@g.us",
-      "name": "قروب",
-      "emoji": "🏗"
-    }
-  ]
+  "clanId": null,
+  "clanRole": null,
+  "created": 1776881415988,
+  "lastActive": 1777422129263,
+  "memberOfGroups": []
 }
