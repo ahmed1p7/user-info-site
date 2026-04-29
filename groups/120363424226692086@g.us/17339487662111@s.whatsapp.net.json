@@ -1,0 +1,202 @@
+{
+  "id": "17339487662111@s.whatsapp.net",
+  "name": "آينز ساما",
+  "nickname": "آينز ساما",
+  "class": "قاتل",
+  "level": 11,
+  "xp": 1066,
+  "hp": 237,
+  "maxHp": 237,
+  "atk": 77,
+  "def": 34,
+  "mag": 37,
+  "critRate": 0.11000000000000004,
+  "critDamage": 1.7800000000000002,
+  "gold": 1969,
+  "gems": 167,
+  "elixir": 445,
+  "stamina": 10,
+  "maxStamina": 10,
+  "energy": 100,
+  "equippedWeapon": {
+    "id": "أسطوري_قاتل_موس_العدم",
+    "name": "موس العدم",
+    "fullName": "🟡 أسطوري | موس العدم",
+    "rarity": "أسطوري",
+    "rarityEmoji": "🟡",
+    "class": "قاتل",
+    "atk": 99,
+    "level": 1,
+    "maxLevel": 5,
+    "baseAtk": 99,
+    "baseCost": 1000,
+    "costMultiplier": 3,
+    "maxAtkBonus": 120,
+    "effect": null,
+    "sockets": [
+      null,
+      null,
+      null
+    ],
+    "maxSockets": 3,
+    "obtainedAt": 1777420372015
+  },
+  "equippedArmor": {
+    "درع صدر": {
+      "id": "أسطوري_قاتل_درع_صدر_درع_العدم",
+      "name": "درع العدم",
+      "fullName": "🟡 أسطوري | درع العدم",
+      "rarity": "أسطوري",
+      "rarityEmoji": "🟡",
+      "class": "قاتل",
+      "slot": "درع صدر",
+      "slotEmoji": "🛡️",
+      "def": 99,
+      "bonusType": "hp",
+      "level": 1,
+      "maxLevel": 5,
+      "baseDef": 99,
+      "baseCost": 800,
+      "costMultiplier": 3,
+      "maxDefBonus": 100,
+      "obtainedAt": 1777420155081
+    }
+  },
+  "weapons": [
+    {
+      "id": "أسطوري_قاتل_موس_العدم",
+      "name": "موس العدم",
+      "fullName": "🟡 أسطوري | موس العدم",
+      "rarity": "أسطوري",
+      "rarityEmoji": "🟡",
+      "class": "قاتل",
+      "atk": 99,
+      "level": 1,
+      "maxLevel": 5,
+      "baseAtk": 99,
+      "baseCost": 1000,
+      "costMultiplier": 3,
+      "maxAtkBonus": 120,
+      "effect": null,
+      "sockets": [
+        null,
+        null,
+        null
+      ],
+      "maxSockets": 3,
+      "obtainedAt": 1777420372015
+    },
+    {
+      "id": "نادر_قاتل_خنجر_السموم",
+      "name": "خنجر السموم",
+      "fullName": "🔵 نادر | خنجر السموم",
+      "rarity": "نادر",
+      "rarityEmoji": "🔵",
+      "class": "قاتل",
+      "atk": 23,
+      "level": 1,
+      "maxLevel": 5,
+      "baseAtk": 23,
+      "baseCost": 200,
+      "costMultiplier": 3,
+      "maxAtkBonus": 60,
+      "effect": null,
+      "sockets": [
+        null
+      ],
+      "maxSockets": 1,
+      "obtainedAt": 1777450727184
+    }
+  ],
+  "armors": [
+    {
+      "id": "أسطوري_قاتل_درع_صدر_درع_العدم",
+      "name": "درع العدم",
+      "fullName": "🟡 أسطوري | درع العدم",
+      "rarity": "أسطوري",
+      "rarityEmoji": "🟡",
+      "class": "قاتل",
+      "slot": "درع صدر",
+      "slotEmoji": "🛡️",
+      "def": 99,
+      "bonusType": "hp",
+      "level": 1,
+      "maxLevel": 5,
+      "baseDef": 99,
+      "baseCost": 800,
+      "costMultiplier": 3,
+      "maxDefBonus": 100,
+      "obtainedAt": 1777420155081
+    }
+  ],
+  "boxes": {
+    "common": 0,
+    "rare": 0,
+    "epic": 0,
+    "legendary": 0,
+    "mythic": 0
+  },
+  "wins": 114,
+  "losses": 1,
+  "evolvedClass": null,
+  "evolutionPath": null,
+  "stats": {
+    "monstersKilled": 0,
+    "bossesDefeated": 0,
+    "totalBossDamage": 0,
+    "fishCaught": 147,
+    "mineralsMined": 127,
+    "boxesOpened": 15,
+    "boxesOpenedByType": {
+      "common": 2,
+      "rare": 3,
+      "epic": 3,
+      "legendary": 7,
+      "mythic": 0
+    },
+    "bestBoxReward": {
+      "boxType": "legendary",
+      "value": 14312,
+      "hadWeapon": false,
+      "hadArmor": false,
+      "timestamp": 1777445761950
+    },
+    "pity": {
+      "epic": 3,
+      "legendary": 5,
+      "mythic": 0
+    },
+    "lastFreeBox": 1777415531970,
+    "freeBoxStreak": 1,
+    "weaponsUpgraded": 0,
+    "itemsSold": 0,
+    "itemsBought": 0,
+    "playersHealed": 0,
+    "healingDone": 0,
+    "groupHeals": 0,
+    "pvpWins": 0,
+    "pvpLosses": 0,
+    "successfulRobberies": 0,
+    "failedRobberies": 0,
+    "luckGamesPlayed": 0,
+    "luckGamesWon": 0,
+    "territoriesConquered": 0,
+    "territoryDefenses": 0,
+    "materialsCollected": 158,
+    "dungeonKills": 114,
+    "dungeonDamageDealt": 64352,
+    "dungeonsCompleted": 2
+  },
+  "skills": [
+    "stealth"
+  ],
+  "unlockedSkills": {
+    "passive": [],
+    "active": []
+  },
+  "clanId": "120363424226692086@g.us",
+  "clanRole": "member",
+  "created": 1777414071872,
+  "lastActive": 1777450951832,
+  "groupId": "120363424226692086@g.us"
+}
