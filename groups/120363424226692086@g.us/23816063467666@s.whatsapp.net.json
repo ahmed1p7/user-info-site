@@ -4,7 +4,7 @@
   "nickname": "Ysf",
   "class": "محارب",
   "level": 18,
-  "xp": 13595,
+  "xp": 42684,
   "hp": 1,
   "maxHp": 766,
   "atk": 132,
@@ -12,10 +12,10 @@
   "mag": 20,
   "critRate": 0.08400000000000003,
   "critDamage": 1.6700000000000002,
-  "gold": 34828,
-  "gems": 712,
-  "elixir": 1937,
-  "stamina": 8,
+  "gold": 114368,
+  "gems": 861,
+  "elixir": 2271,
+  "stamina": 0,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
@@ -80,6 +80,44 @@
       "costMultiplier": 3,
       "maxDefBonus": 70,
       "obtainedAt": 1777417252196
+    },
+    "خوذة": {
+      "id": "ملحمي_محارب_خوذة_خوذة_الجحيم",
+      "name": "خوذة الجحيم",
+      "fullName": "🟣 ملحمي | خوذة الجحيم",
+      "rarity": "ملحمي",
+      "rarityEmoji": "🟣",
+      "class": "محارب",
+      "slot": "خوذة",
+      "slotEmoji": "🪖",
+      "def": 38,
+      "bonusType": "mag",
+      "level": 1,
+      "maxLevel": 5,
+      "baseDef": 38,
+      "baseCost": 400,
+      "costMultiplier": 3,
+      "maxDefBonus": 70,
+      "obtainedAt": 1777468850001
+    },
+    "قفازات": {
+      "id": "شائع_محارب_قفازات_قفازات_الصلب",
+      "name": "قفازات الصلب",
+      "fullName": "⚪ شائع | قفازات الصلب",
+      "rarity": "شائع",
+      "rarityEmoji": "⚪",
+      "class": "محارب",
+      "slot": "قفازات",
+      "slotEmoji": "🧤",
+      "def": 12,
+      "bonusType": "atk",
+      "level": 1,
+      "maxLevel": 20,
+      "baseDef": 12,
+      "baseCost": 40,
+      "costMultiplier": 1,
+      "maxDefBonus": 40,
+      "obtainedAt": 1777468709608
     }
   },
   "weapons": [
@@ -178,6 +216,116 @@
       "maxSockets": 3,
       "obtainedAt": 1777417341871,
       "merged": true
+    },
+    {
+      "id": "ملحمي_محارب_مطرقة_العواصف",
+      "name": "مطرقة العواصف",
+      "fullName": "🟣 ملحمي | مطرقة العواصف",
+      "rarity": "ملحمي",
+      "rarityEmoji": "🟣",
+      "class": "محارب",
+      "atk": 60,
+      "level": 1,
+      "maxLevel": 5,
+      "baseAtk": 60,
+      "baseCost": 500,
+      "costMultiplier": 3,
+      "maxAtkBonus": 80,
+      "effect": null,
+      "sockets": [
+        null,
+        null
+      ],
+      "maxSockets": 2,
+      "obtainedAt": 1777468752379
+    },
+    {
+      "id": "ملحمي_محارب_مطرقة_العواصف",
+      "name": "مطرقة العواصف",
+      "fullName": "🟣 ملحمي | مطرقة العواصف",
+      "rarity": "ملحمي",
+      "rarityEmoji": "🟣",
+      "class": "محارب",
+      "atk": 60,
+      "level": 1,
+      "maxLevel": 5,
+      "baseAtk": 60,
+      "baseCost": 500,
+      "costMultiplier": 3,
+      "maxAtkBonus": 80,
+      "effect": null,
+      "sockets": [
+        null,
+        null
+      ],
+      "maxSockets": 2,
+      "obtainedAt": 1777468845596
+    },
+    {
+      "id": "ملحمي_محارب_سيف_التنين",
+      "name": "سيف التنين",
+      "fullName": "🟣 ملحمي | سيف التنين",
+      "rarity": "ملحمي",
+      "rarityEmoji": "🟣",
+      "class": "محارب",
+      "atk": 42,
+      "level": 1,
+      "maxLevel": 5,
+      "baseAtk": 42,
+      "baseCost": 500,
+      "costMultiplier": 3,
+      "maxAtkBonus": 80,
+      "effect": null,
+      "sockets": [
+        null,
+        null
+      ],
+      "maxSockets": 2,
+      "obtainedAt": 1777468854124
+    },
+    {
+      "id": "ملحمي_محارب_سيف_التنين",
+      "name": "سيف التنين",
+      "fullName": "🟣 ملحمي | سيف التنين",
+      "rarity": "ملحمي",
+      "rarityEmoji": "🟣",
+      "class": "محارب",
+      "atk": 42,
+      "level": 1,
+      "maxLevel": 5,
+      "baseAtk": 42,
+      "baseCost": 500,
+      "costMultiplier": 3,
+      "maxAtkBonus": 80,
+      "effect": null,
+      "sockets": [
+        null,
+        null
+      ],
+      "maxSockets": 2,
+      "obtainedAt": 1777468856215
+    },
+    {
+      "id": "ملحمي_محارب_فأس_الجحيم",
+      "name": "فأس الجحيم",
+      "fullName": "🟣 ملحمي | فأس الجحيم",
+      "rarity": "ملحمي",
+      "rarityEmoji": "🟣",
+      "class": "محارب",
+      "atk": 52,
+      "level": 1,
+      "maxLevel": 5,
+      "baseAtk": 52,
+      "baseCost": 500,
+      "costMultiplier": 3,
+      "maxAtkBonus": 80,
+      "effect": null,
+      "sockets": [
+        null,
+        null
+      ],
+      "maxSockets": 2,
+      "obtainedAt": 1777468874312
     }
   ],
   "armors": [
@@ -218,6 +366,44 @@
       "costMultiplier": 3,
       "maxDefBonus": 70,
       "obtainedAt": 1777417252196
+    },
+    {
+      "id": "شائع_محارب_قفازات_قفازات_الصلب",
+      "name": "قفازات الصلب",
+      "fullName": "⚪ شائع | قفازات الصلب",
+      "rarity": "شائع",
+      "rarityEmoji": "⚪",
+      "class": "محارب",
+      "slot": "قفازات",
+      "slotEmoji": "🧤",
+      "def": 12,
+      "bonusType": "atk",
+      "level": 1,
+      "maxLevel": 20,
+      "baseDef": 12,
+      "baseCost": 40,
+      "costMultiplier": 1,
+      "maxDefBonus": 40,
+      "obtainedAt": 1777468709608
+    },
+    {
+      "id": "ملحمي_محارب_خوذة_خوذة_الجحيم",
+      "name": "خوذة الجحيم",
+      "fullName": "🟣 ملحمي | خوذة الجحيم",
+      "rarity": "ملحمي",
+      "rarityEmoji": "🟣",
+      "class": "محارب",
+      "slot": "خوذة",
+      "slotEmoji": "🪖",
+      "def": 38,
+      "bonusType": "mag",
+      "level": 1,
+      "maxLevel": 5,
+      "baseDef": 38,
+      "baseCost": 400,
+      "costMultiplier": 3,
+      "maxDefBonus": 70,
+      "obtainedAt": 1777468850001
     }
   ],
   "boxes": {
@@ -226,17 +412,17 @@
     "epic": 0,
     "legendary": 0
   },
-  "wins": 353,
-  "losses": 32,
+  "wins": 359,
+  "losses": 36,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 3663,
-    "mineralsMined": 3992,
-    "boxesOpened": 110,
+    "fishCaught": 4047,
+    "mineralsMined": 4374,
+    "boxesOpened": 136,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -251,14 +437,14 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "fishSold": 3465,
-    "dungeonKills": 340,
-    "dungeonDamageDealt": 693971,
-    "materialsCollected": 1505,
-    "materialsSold": 4738,
+    "fishSold": 4043,
+    "dungeonKills": 346,
+    "dungeonDamageDealt": 722848,
+    "materialsCollected": 1644,
+    "materialsSold": 5727,
     "dungeonsCompleted": 5,
     "itemsMerged": 10,
-    "mineralsSold": 3101,
+    "mineralsSold": 3699,
     "mergesFailed": 1,
     "pity": {
       "epic": 1,
@@ -266,7 +452,8 @@
       "mythic": 0
     },
     "boxesOpenedByType": {
-      "epic": 22
+      "epic": 40,
+      "common": 8
     },
     "bestBoxReward": {
       "boxType": "epic",
@@ -275,7 +462,9 @@
       "hadArmor": false,
       "timestamp": 1777415376673
     },
-    "clanDungeonsCompleted": 1
+    "clanDungeonsCompleted": 2,
+    "lastFreeBox": 1777468656692,
+    "freeBoxStreak": 1
   },
   "skills": [
     "double_strike",
@@ -298,6 +487,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "deputy",
   "created": 1776891817820,
-  "lastActive": 1777468332330,
+  "lastActive": 1777494446019,
   "groupId": "120363424226692086@g.us"
 }
