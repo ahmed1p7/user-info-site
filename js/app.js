@@ -256,13 +256,44 @@ var App = (function () {
 
   function initProfilePage() {
     var jid = normJid(param('jid'));
-    var fromGid = param('gid');
+    var fromGid = normJid(param('gid'));
     if (!jid) { showErr('\u0644\u0645 \u064a\u062a\u0645 \u062a\u062d\u062f\u064a\u062f \u0644\u0627\u0639\u0628'); return; }
 
-    // جلب بيانات اللاعب من مجلد القروب
-    fetchJ(playerDataPath(jid, fromGid))
-      .then(function(data) { renderProfile(data, fromGid, jid); })
-      .catch(function() { showErr('\u062a\u0639\u0630\u0631 \u0627\u0644\u0639\u062b\u0648\u0631 \u0639\u0644\u0649 \u0645\u0644\u0641 \u0627\u0644\u0644\u0627\u0639\u0628'); });
+    // محاولة جلب البيانات من مجلد القروب إذا في gid
+    if (fromGid) {
+      fetchJ(playerDataPath(jid, fromGid))
+        .then(function(data) { renderProfile(data, fromGid, jid); })
+        .catch(function() {
+          // فشل - جرب نبحث في فهرس اللاعب عن أول قروب
+          fallbackLoadProfile(jid);
+        });
+    } else {
+      // ما في gid - نجيب فهرس اللاعب ونحاول أول قروب
+      fallbackLoadProfile(jid);
+    }
+  }
+
+  /**
+   * نظام احتياطي: إذا ما في gid أو فشل التحميل
+   * يجيب فهرس اللاعب ويحمل من أول قروب متوفر
+   */
+  function fallbackLoadProfile(jid) {
+    fetchJ(BASE + '/players/' + enc(jid) + '.json')
+      .then(function(idx) {
+        var groups = idx.groups || [];
+        if (groups.length > 0) {
+          // نحاول أول قروب في القائمة
+          return fetchJ(playerDataPath(jid, groups[0].id));
+        }
+        throw new Error('لا توجد قروبات');
+      })
+      .then(function(data) {
+        var gid = data.groupId || '';
+        renderProfile(data, gid, jid);
+      })
+      .catch(function() {
+        showErr('\u062a\u0639\u0630\u0631 \u0627\u0644\u0639\u062b\u0648\u0631 \u0639\u0644\u0649 \u0645\u0644\u0641 \u0627\u0644\u0644\u0627\u0639\u0628');
+      });
   }
 
   function renderProfile(p, fromGid, rawJid) {
