@@ -12,10 +12,10 @@
   "mag": 22,
   "critRate": 0.08800000000000004,
   "critDamage": 1.6900000000000002,
-  "gold": 53089,
+  "gold": 19489,
   "gems": 881,
   "elixir": 2471,
-  "stamina": 0,
+  "stamina": 1,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
@@ -62,23 +62,23 @@
       "obtainedAt": 1777352111255
     },
     "خوذة": {
-      "id": "أسطوري_محارب_خوذة_خوذة_الأبدية",
-      "name": "خوذة الأبدية",
-      "fullName": "🟡 أسطوري | خوذة الأبدية",
+      "id": "أسطوري_محارب_خوذة_خوذة_إيغريس",
+      "name": "خوذة إيغريس",
+      "fullName": "🟡 أسطوري | خوذة إيغريس",
       "rarity": "أسطوري",
       "rarityEmoji": "🟡",
       "class": "محارب",
       "slot": "خوذة",
       "slotEmoji": "🪖",
-      "def": 100,
+      "def": 70,
       "bonusType": "mag",
       "level": 5,
       "maxLevel": 5,
-      "baseDef": 100,
+      "baseDef": 70,
       "baseCost": 800,
       "costMultiplier": 3,
       "maxDefBonus": 100,
-      "obtainedAt": 1777406847204
+      "obtainedAt": 1777466464279
     },
     "قفازات": {
       "id": "أسطوري_محارب_قفازات_قفازات_التنين_الذهبي",
@@ -125,28 +125,6 @@
       "obtainedAt": 1777107157033
     },
     {
-      "id": "ملحمي_محارب_سيف_التنين",
-      "name": "سيف التنين",
-      "fullName": "🟣 ملحمي | سيف التنين",
-      "rarity": "ملحمي",
-      "rarityEmoji": "🟣",
-      "class": "محارب",
-      "atk": 42,
-      "level": 1,
-      "maxLevel": 5,
-      "baseAtk": 42,
-      "baseCost": 500,
-      "costMultiplier": 3,
-      "maxAtkBonus": 80,
-      "effect": null,
-      "sockets": [
-        null,
-        null
-      ],
-      "maxSockets": 2,
-      "obtainedAt": 1777416182638
-    },
-    {
       "id": "أسطوري_محارب_ذو_الفقار",
       "name": "ذو الفقار",
       "fullName": "🟡 أسطوري | ذو الفقار",
@@ -168,29 +146,6 @@
       ],
       "maxSockets": 3,
       "obtainedAt": 1777416182640
-    },
-    {
-      "id": "أسطوري_محارب_سيف_إيغريس",
-      "name": "سيف إيغريس",
-      "fullName": "🟡 أسطوري | سيف إيغريس",
-      "rarity": "أسطوري",
-      "rarityEmoji": "🟡",
-      "class": "محارب",
-      "atk": 88,
-      "level": 1,
-      "maxLevel": 5,
-      "baseAtk": 88,
-      "baseCost": 1000,
-      "costMultiplier": 3,
-      "maxAtkBonus": 120,
-      "effect": null,
-      "sockets": [
-        null,
-        null,
-        null
-      ],
-      "maxSockets": 3,
-      "obtainedAt": 1777416783867
     },
     {
       "id": "أسطوري_محارب_سيف_إيغريس",
@@ -327,7 +282,7 @@
       "slotEmoji": "🪖",
       "def": 70,
       "bonusType": "mag",
-      "level": 1,
+      "level": 5,
       "maxLevel": 5,
       "baseDef": 70,
       "baseCost": 800,
@@ -344,15 +299,15 @@
     "mythic": 0
   },
   "wins": 428,
-  "losses": 45,
+  "losses": 48,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 4349,
-    "mineralsMined": 3311,
+    "fishCaught": 4364,
+    "mineralsMined": 3327,
     "boxesOpened": 33,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -371,7 +326,7 @@
     "dungeonKills": 369,
     "dungeonDamageDealt": 746447,
     "fishSold": 4338,
-    "materialsCollected": 1630,
+    "materialsCollected": 1633,
     "dungeonsCompleted": 6,
     "mineralsSold": 2574,
     "materialsSold": 4102,
@@ -417,6 +372,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "leader",
   "created": 1776881423012,
-  "lastActive": 1777466627645,
+  "lastActive": 1777467105263,
   "groupId": "120363424226692086@g.us"
 }
