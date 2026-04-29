@@ -4,7 +4,7 @@
   "nickname": "باتمان",
   "class": "محارب",
   "level": 18,
-  "xp": 53161,
+  "xp": 62688,
   "hp": 1,
   "maxHp": 686,
   "atk": 124,
@@ -12,10 +12,10 @@
   "mag": 20,
   "critRate": 0.08400000000000003,
   "critDamage": 1.6700000000000002,
-  "gold": 136028,
-  "gems": 671,
-  "elixir": 1963,
-  "stamina": 8,
+  "gold": 127984,
+  "gems": 706,
+  "elixir": 2070,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
@@ -196,6 +196,29 @@
       "obtainedAt": 1777182706629,
       "merged": true,
       "type": "weapon"
+    },
+    {
+      "id": "أسطوري_محارب_إكسكاليبور",
+      "name": "إكسكاليبور",
+      "fullName": "🟡 أسطوري | إكسكاليبور",
+      "rarity": "أسطوري",
+      "rarityEmoji": "🟡",
+      "class": "محارب",
+      "atk": 100,
+      "level": 1,
+      "maxLevel": 5,
+      "baseAtk": 100,
+      "baseCost": 1000,
+      "costMultiplier": 3,
+      "maxAtkBonus": 120,
+      "effect": null,
+      "sockets": [
+        null,
+        null,
+        null
+      ],
+      "maxSockets": 3,
+      "obtainedAt": 1777484670158
     }
   ],
   "armors": [
@@ -249,13 +272,13 @@
       "slotEmoji": "👢",
       "def": 70,
       "bonusType": "evasion",
-      "level": 5,
+      "level": 1,
       "maxLevel": 5,
       "baseDef": 70,
       "baseCost": 800,
       "costMultiplier": 3,
       "maxDefBonus": 100,
-      "obtainedAt": 1777460479578
+      "obtainedAt": 1777460479583
     },
     {
       "id": "أسطوري_محارب_حذاء_أحذية_إيغريس",
@@ -274,7 +297,7 @@
       "baseCost": 800,
       "costMultiplier": 3,
       "maxDefBonus": 100,
-      "obtainedAt": 1777460479583
+      "obtainedAt": 1777484670159
     }
   ],
   "boxes": {
@@ -284,17 +307,17 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 379,
-  "losses": 69,
+  "wins": 380,
+  "losses": 73,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 3143,
-    "mineralsMined": 3157,
-    "boxesOpened": 79,
+    "fishCaught": 3306,
+    "mineralsMined": 3235,
+    "boxesOpened": 82,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -311,25 +334,25 @@
     "territoryDefenses": 0,
     "dungeonKills": 350,
     "dungeonDamageDealt": 739499,
-    "fishSold": 3084,
-    "materialsCollected": 1377,
+    "fishSold": 3203,
+    "materialsCollected": 1433,
     "dungeonsCompleted": 6,
-    "materialsSold": 4298,
-    "mineralsSold": 3021,
+    "materialsSold": 4450,
+    "mineralsSold": 3158,
     "itemsMerged": 11,
     "pity": {
       "epic": 1,
-      "legendary": 6,
+      "legendary": 1,
       "mythic": 0
     },
-    "lastFreeBox": 1777372464972,
-    "freeBoxStreak": 1,
+    "lastFreeBox": 1777484967958,
+    "freeBoxStreak": 2,
     "clanDungeonsCompleted": 5,
     "clanDungeonDamage": 0,
     "boxesOpenedByType": {
       "epic": 17,
-      "legendary": 9,
-      "common": 1,
+      "legendary": 11,
+      "common": 2,
       "mythic": 1
     },
     "bestBoxReward": {
@@ -361,6 +384,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "deputy",
   "created": 1776881461393,
-  "lastActive": 1777474670169,
+  "lastActive": 1777488003916,
   "groupId": "120363424226692086@g.us"
 }
