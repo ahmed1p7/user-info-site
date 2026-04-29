@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
+  <meta name="description" content="فاطمة بوت - ملفات اللاعبين">
+  <meta name="theme-color" content="#07060e">
+  <title>فاطمة بوت - القروبات</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>~</text></svg>">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="bot-icon">~</div>
+    <h1 class="site-title">فاطمة بوت</h1>
+    <p class="site-subtitle">نظام الملفات الشخصية</p>
+  </header>
+
+  <main class="container-wide">
+
+    <div class="count-display" id="countDisplay">جاري التحميل...</div>
+
+    <div class="search-wrapper">
+      <input type="text" class="search-input" id="searchInput" placeholder="ابحث عن قروب..." autocomplete="off">
+      <svg class="search-icon" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+      </svg>
+    </div>
+
+    <div class="groups-grid" id="groupsGrid">
+      <div class="glass-card anim d1" style="height:80px;"></div>
+      <div class="glass-card anim d2" style="height:80px;"></div>
+      <div class="glass-card anim d3" style="height:80px;"></div>
+    </div>
+
+    <div id="noResults" style="display:none;" class="empty-state">
+      <div class="empty-icon">?</div>
+      <div class="empty-title">لم يتم العثور على قروبات</div>
+      <div class="empty-msg">لم يتم تسجيل أي قروبات بعد</div>
+    </div>
+
+  </main>
+
+  <footer class="site-footer">
+    <span class="fn">فاطمة بوت</span> &mdash; نظام الملفات الشخصية
+  </footer>
+
+  <script src="js/app.js"></script>
+  <script>document.addEventListener('DOMContentLoaded', function(){ App.initGroupsPage(); });</script>
+</body>
+</html>
