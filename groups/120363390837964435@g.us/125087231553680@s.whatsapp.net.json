@@ -1,0 +1,83 @@
+{
+  "id": "125087231553680@s.whatsapp.net",
+  "name": "مهند 👍",
+  "nickname": "مهند 👍",
+  "class": "محارب",
+  "level": 12,
+  "xp": 1075,
+  "hp": 474,
+  "maxHp": 474,
+  "atk": 32,
+  "def": 23,
+  "mag": 14,
+  "critRate": 0.07200000000000002,
+  "critDamage": 1.61,
+  "gold": 8754,
+  "gems": 0,
+  "elixir": 0,
+  "stamina": 10,
+  "maxStamina": 10,
+  "energy": 100,
+  "equippedWeapon": null,
+  "equippedArmor": null,
+  "weapons": [],
+  "armors": [],
+  "boxes": {
+    "common": 0,
+    "rare": 0,
+    "epic": 0,
+    "legendary": 0
+  },
+  "wins": 0,
+  "losses": 0,
+  "evolvedClass": null,
+  "evolutionPath": null,
+  "stats": {
+    "monstersKilled": 0,
+    "bossesDefeated": 0,
+    "totalBossDamage": 0,
+    "fishCaught": 435,
+    "mineralsMined": 375,
+    "boxesOpened": 0,
+    "weaponsUpgraded": 0,
+    "itemsSold": 0,
+    "itemsBought": 0,
+    "playersHealed": 0,
+    "healingDone": 0,
+    "groupHeals": 0,
+    "pvpWins": 0,
+    "pvpLosses": 0,
+    "successfulRobberies": 0,
+    "failedRobberies": 0,
+    "luckGamesPlayed": 0,
+    "luckGamesWon": 0,
+    "territoriesConquered": 0,
+    "territoryDefenses": 0,
+    "fishSold": 435,
+    "materialsCollected": 92,
+    "mineralsSold": 336
+  },
+  "skills": [
+    "double_strike",
+    "war_cry",
+    "lifesteal",
+    "berserk_mode",
+    "warrior_endurance"
+  ],
+  "unlockedSkills": {
+    "passive": [
+      "lifesteal",
+      "berserk_mode",
+      "warrior_endurance"
+    ],
+    "active": [
+      "war_cry",
+      "double_strike"
+    ]
+  },
+  "clanId": "120363390837964435@g.us",
+  "clanRole": "leader",
+  "created": 1776803661049,
+  "lastActive": 1777538730971,
+  "groupId": "120363390837964435@g.us"
+}
