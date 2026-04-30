@@ -4,7 +4,7 @@
   "nickname": "مهند 👍",
   "class": "محارب",
   "level": 12,
-  "xp": 1292,
+  "xp": 3124,
   "hp": 624,
   "maxHp": 624,
   "atk": 52,
@@ -12,13 +12,34 @@
   "mag": 29,
   "critRate": 0.07200000000000002,
   "critDamage": 1.61,
-  "gold": 9179,
+  "gold": 6426,
   "gems": 7,
   "elixir": 31,
-  "stamina": 10,
+  "stamina": 6,
   "maxStamina": 10,
   "energy": 100,
-  "equippedWeapon": null,
+  "equippedWeapon": {
+    "id": "ملحمي_محارب_فأس_الجحيم",
+    "name": "فأس الجحيم",
+    "fullName": "🟣 ملحمي | فأس الجحيم",
+    "rarity": "ملحمي",
+    "rarityEmoji": "🟣",
+    "class": "محارب",
+    "atk": 52,
+    "level": 1,
+    "maxLevel": 5,
+    "baseAtk": 52,
+    "baseCost": 500,
+    "costMultiplier": 3,
+    "maxAtkBonus": 80,
+    "effect": null,
+    "sockets": [
+      null,
+      null
+    ],
+    "maxSockets": 2,
+    "obtainedAt": 1777539319559
+  },
   "equippedArmor": null,
   "weapons": [
     {
@@ -51,7 +72,7 @@
     "epic": 0,
     "legendary": 0
   },
-  "wins": 0,
+  "wins": 2,
   "losses": 0,
   "evolvedClass": null,
   "evolutionPath": null,
@@ -77,7 +98,7 @@
     "territoriesConquered": 0,
     "territoryDefenses": 0,
     "fishSold": 435,
-    "materialsCollected": 92,
+    "materialsCollected": 93,
     "mineralsSold": 336,
     "pity": {
       "epic": 0,
@@ -96,7 +117,9 @@
       "hadWeapon": true,
       "hadArmor": false,
       "timestamp": 1777539319560
-    }
+    },
+    "dungeonKills": 2,
+    "dungeonDamageDealt": 84
   },
   "skills": [
     "double_strike",
@@ -119,6 +142,6 @@
   "clanId": "120363390837964435@g.us",
   "clanRole": "leader",
   "created": 1776803661049,
-  "lastActive": 1777539437024,
+  "lastActive": 1777540564798,
   "groupId": "120363390837964435@g.us"
 }
