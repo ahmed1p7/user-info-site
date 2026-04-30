@@ -62,8 +62,14 @@
       "name": "SHADOW",
       "class": "محارب",
       "level": 5
+    },
+    {
+      "id": "276811061665835@s.whatsapp.net",
+      "name": "سانجي",
+      "class": "ساحر",
+      "level": 1
     }
   ],
-  "messagesWeek": 314,
-  "lastUpdated": 1777510728598
+  "messagesWeek": 1955,
+  "lastUpdated": 1777546102052
 }
