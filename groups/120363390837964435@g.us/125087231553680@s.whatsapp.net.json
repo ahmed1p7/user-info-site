@@ -4,7 +4,7 @@
   "nickname": "مهند 👍",
   "class": "محارب",
   "level": 12,
-  "xp": 3124,
+  "xp": 5979,
   "hp": 624,
   "maxHp": 624,
   "atk": 52,
@@ -12,10 +12,10 @@
   "mag": 29,
   "critRate": 0.07200000000000002,
   "critDamage": 1.61,
-  "gold": 6426,
+  "gold": 6454,
   "gems": 7,
   "elixir": 31,
-  "stamina": 6,
+  "stamina": 0,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
@@ -72,7 +72,7 @@
     "epic": 0,
     "legendary": 0
   },
-  "wins": 2,
+  "wins": 10,
   "losses": 0,
   "evolvedClass": null,
   "evolutionPath": null,
@@ -80,8 +80,8 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 435,
-    "mineralsMined": 375,
+    "fishCaught": 511,
+    "mineralsMined": 451,
     "boxesOpened": 2,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -98,7 +98,7 @@
     "territoriesConquered": 0,
     "territoryDefenses": 0,
     "fishSold": 435,
-    "materialsCollected": 93,
+    "materialsCollected": 128,
     "mineralsSold": 336,
     "pity": {
       "epic": 0,
@@ -118,8 +118,8 @@
       "hadArmor": false,
       "timestamp": 1777539319560
     },
-    "dungeonKills": 2,
-    "dungeonDamageDealt": 84
+    "dungeonKills": 10,
+    "dungeonDamageDealt": 700
   },
   "skills": [
     "double_strike",
@@ -142,6 +142,6 @@
   "clanId": "120363390837964435@g.us",
   "clanRole": "leader",
   "created": 1776803661049,
-  "lastActive": 1777540564798,
+  "lastActive": 1777554748227,
   "groupId": "120363390837964435@g.us"
 }
