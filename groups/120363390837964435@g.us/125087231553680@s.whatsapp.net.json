@@ -4,23 +4,46 @@
   "nickname": "مهند 👍",
   "class": "محارب",
   "level": 12,
-  "xp": 1075,
-  "hp": 474,
-  "maxHp": 474,
-  "atk": 32,
-  "def": 23,
-  "mag": 14,
+  "xp": 1292,
+  "hp": 624,
+  "maxHp": 624,
+  "atk": 52,
+  "def": 43,
+  "mag": 29,
   "critRate": 0.07200000000000002,
   "critDamage": 1.61,
-  "gold": 8754,
-  "gems": 0,
-  "elixir": 0,
+  "gold": 9179,
+  "gems": 7,
+  "elixir": 31,
   "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
   "equippedArmor": null,
-  "weapons": [],
+  "weapons": [
+    {
+      "id": "ملحمي_محارب_فأس_الجحيم",
+      "name": "فأس الجحيم",
+      "fullName": "🟣 ملحمي | فأس الجحيم",
+      "rarity": "ملحمي",
+      "rarityEmoji": "🟣",
+      "class": "محارب",
+      "atk": 52,
+      "level": 1,
+      "maxLevel": 5,
+      "baseAtk": 52,
+      "baseCost": 500,
+      "costMultiplier": 3,
+      "maxAtkBonus": 80,
+      "effect": null,
+      "sockets": [
+        null,
+        null
+      ],
+      "maxSockets": 2,
+      "obtainedAt": 1777539319559
+    }
+  ],
   "armors": [],
   "boxes": {
     "common": 0,
@@ -38,7 +61,7 @@
     "totalBossDamage": 0,
     "fishCaught": 435,
     "mineralsMined": 375,
-    "boxesOpened": 0,
+    "boxesOpened": 2,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -55,7 +78,25 @@
     "territoryDefenses": 0,
     "fishSold": 435,
     "materialsCollected": 92,
-    "mineralsSold": 336
+    "mineralsSold": 336,
+    "pity": {
+      "epic": 0,
+      "legendary": 0,
+      "mythic": 0
+    },
+    "lastFreeBox": 1777539213277,
+    "freeBoxStreak": 1,
+    "boxesOpenedByType": {
+      "common": 1,
+      "epic": 1
+    },
+    "bestBoxReward": {
+      "boxType": "epic",
+      "value": 3512,
+      "hadWeapon": true,
+      "hadArmor": false,
+      "timestamp": 1777539319560
+    }
   },
   "skills": [
     "double_strike",
@@ -78,6 +119,6 @@
   "clanId": "120363390837964435@g.us",
   "clanRole": "leader",
   "created": 1776803661049,
-  "lastActive": 1777538730971,
+  "lastActive": 1777539437024,
   "groupId": "120363390837964435@g.us"
 }
