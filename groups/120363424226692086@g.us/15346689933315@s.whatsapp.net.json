@@ -1,0 +1,113 @@
+{
+  "id": "15346689933315@s.whatsapp.net",
+  "name": "SHADOW",
+  "nickname": "SHADOW",
+  "class": "محارب",
+  "level": 5,
+  "xp": 30,
+  "hp": 270,
+  "maxHp": 270,
+  "atk": 19,
+  "def": 16,
+  "mag": 7,
+  "critRate": 0.05800000000000001,
+  "critDamage": 1.54,
+  "gold": 12481,
+  "gems": 18,
+  "elixir": 20,
+  "stamina": 10,
+  "maxStamina": 10,
+  "energy": 100,
+  "equippedWeapon": null,
+  "equippedArmor": null,
+  "weapons": [
+    {
+      "id": "ملحمي_محارب_مطرقة_العواصف",
+      "name": "مطرقة العواصف",
+      "fullName": "🟣 ملحمي | مطرقة العواصف",
+      "rarity": "ملحمي",
+      "rarityEmoji": "🟣",
+      "class": "محارب",
+      "atk": 60,
+      "level": 1,
+      "maxLevel": 5,
+      "baseAtk": 60,
+      "baseCost": 500,
+      "costMultiplier": 3,
+      "maxAtkBonus": 80,
+      "effect": null,
+      "sockets": [
+        null,
+        null
+      ],
+      "maxSockets": 2,
+      "obtainedAt": 1777510293886
+    }
+  ],
+  "armors": [],
+  "boxes": {
+    "common": 0,
+    "rare": 0,
+    "epic": 0,
+    "legendary": 0
+  },
+  "wins": 1,
+  "losses": 0,
+  "evolvedClass": null,
+  "evolutionPath": null,
+  "stats": {
+    "monstersKilled": 0,
+    "bossesDefeated": 0,
+    "totalBossDamage": 0,
+    "fishCaught": 1,
+    "mineralsMined": 1,
+    "boxesOpened": 3,
+    "weaponsUpgraded": 0,
+    "itemsSold": 0,
+    "itemsBought": 0,
+    "playersHealed": 0,
+    "healingDone": 0,
+    "groupHeals": 0,
+    "pvpWins": 0,
+    "pvpLosses": 0,
+    "successfulRobberies": 0,
+    "failedRobberies": 0,
+    "luckGamesPlayed": 0,
+    "luckGamesWon": 0,
+    "territoriesConquered": 0,
+    "territoryDefenses": 0,
+    "pity": {
+      "epic": 0,
+      "legendary": 0,
+      "mythic": 0
+    },
+    "lastFreeBox": 1777510114173,
+    "freeBoxStreak": 2,
+    "boxesOpenedByType": {
+      "common": 2,
+      "epic": 1
+    },
+    "bestBoxReward": {
+      "boxType": "epic",
+      "value": 2324,
+      "hadWeapon": true,
+      "hadArmor": false,
+      "timestamp": 1777510293886
+    },
+    "materialsCollected": 3,
+    "dungeonKills": 1,
+    "dungeonDamageDealt": 38
+  },
+  "skills": [
+    "double_strike"
+  ],
+  "unlockedSkills": {
+    "passive": [],
+    "active": []
+  },
+  "clanId": null,
+  "clanRole": null,
+  "created": 1776900143779,
+  "lastActive": 1777510728590,
+  "groupId": "120363424226692086@g.us"
+}
