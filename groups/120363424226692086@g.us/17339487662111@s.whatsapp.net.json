@@ -1,20 +1,20 @@
 {
   "id": "17339487662111@s.whatsapp.net",
-  "name": "آينز ساما",
-  "nickname": "آينز ساما",
+  "name": "اينز",
+  "nickname": "اينز",
   "class": "قاتل",
-  "level": 11,
-  "xp": 1066,
-  "hp": 237,
-  "maxHp": 237,
-  "atk": 77,
-  "def": 34,
-  "mag": 37,
-  "critRate": 0.11000000000000004,
-  "critDamage": 1.7800000000000002,
-  "gold": 1969,
-  "gems": 167,
-  "elixir": 445,
+  "level": 15,
+  "xp": 4522,
+  "hp": 291,
+  "maxHp": 291,
+  "atk": 109,
+  "def": 38,
+  "mag": 50,
+  "critRate": 0.15600000000000006,
+  "critDamage": 1.8520000000000003,
+  "gold": 114433,
+  "gems": 268,
+  "elixir": 680,
   "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
@@ -106,6 +106,51 @@
       ],
       "maxSockets": 1,
       "obtainedAt": 1777450727184
+    },
+    {
+      "id": "ملحمي_قاتل_خنجر_الجحيم",
+      "name": "خنجر الجحيم",
+      "fullName": "🟣 ملحمي | خنجر الجحيم",
+      "rarity": "ملحمي",
+      "rarityEmoji": "🟣",
+      "class": "قاتل",
+      "atk": 60,
+      "level": 1,
+      "maxLevel": 5,
+      "baseAtk": 60,
+      "baseCost": 500,
+      "costMultiplier": 3,
+      "maxAtkBonus": 80,
+      "effect": null,
+      "sockets": [
+        null,
+        null
+      ],
+      "maxSockets": 2,
+      "obtainedAt": 1777511666758
+    },
+    {
+      "id": "ملحمي_محارب_مطرقة_العواصف",
+      "name": "مطرقة العواصف",
+      "fullName": "🟣 ملحمي | مطرقة العواصف",
+      "rarity": "ملحمي",
+      "rarityEmoji": "🟣",
+      "class": "محارب",
+      "atk": 60,
+      "level": 1,
+      "maxLevel": 5,
+      "baseAtk": 60,
+      "baseCost": 500,
+      "costMultiplier": 3,
+      "maxAtkBonus": 80,
+      "effect": null,
+      "sockets": [
+        null,
+        null
+      ],
+      "maxSockets": 2,
+      "obtainedAt": 1777546374608,
+      "type": "weapon"
     }
   ],
   "armors": [
@@ -136,22 +181,22 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 114,
-  "losses": 1,
+  "wins": 244,
+  "losses": 17,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 147,
-    "mineralsMined": 127,
-    "boxesOpened": 15,
+    "fishCaught": 530,
+    "mineralsMined": 515,
+    "boxesOpened": 26,
     "boxesOpenedByType": {
-      "common": 2,
+      "common": 3,
       "rare": 3,
-      "epic": 3,
-      "legendary": 7,
+      "epic": 10,
+      "legendary": 10,
       "mythic": 0
     },
     "bestBoxReward": {
@@ -162,12 +207,12 @@
       "timestamp": 1777445761950
     },
     "pity": {
-      "epic": 3,
-      "legendary": 5,
+      "epic": 2,
+      "legendary": 8,
       "mythic": 0
     },
-    "lastFreeBox": 1777415531970,
-    "freeBoxStreak": 1,
+    "lastFreeBox": 1777509774711,
+    "freeBoxStreak": 2,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -182,21 +227,34 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 158,
-    "dungeonKills": 114,
-    "dungeonDamageDealt": 64352,
-    "dungeonsCompleted": 2
+    "materialsCollected": 433,
+    "dungeonKills": 244,
+    "dungeonDamageDealt": 340596,
+    "dungeonsCompleted": 4,
+    "fishSold": 403,
+    "mineralsSold": 501
   },
   "skills": [
-    "stealth"
+    "stealth",
+    "backstab",
+    "poison_blade",
+    "assassinate",
+    "smoke_bomb"
   ],
   "unlockedSkills": {
-    "passive": [],
-    "active": []
+    "passive": [
+      "stealth",
+      "backstab",
+      "poison_blade"
+    ],
+    "active": [
+      "assassinate",
+      "smoke_bomb"
+    ]
   },
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777414071872,
-  "lastActive": 1777450951832,
+  "lastActive": 1777615765407,
   "groupId": "120363424226692086@g.us"
 }
