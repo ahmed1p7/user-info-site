@@ -3,19 +3,19 @@
   "name": "مهند 👍",
   "nickname": "مهند 👍",
   "class": "محارب",
-  "level": 13,
-  "xp": 490,
-  "hp": 656,
-  "maxHp": 656,
-  "atk": 54,
-  "def": 44,
-  "mag": 30,
-  "critRate": 0.07400000000000002,
-  "critDamage": 1.62,
-  "gold": 14171,
-  "gems": 12,
-  "elixir": 31,
-  "stamina": 6,
+  "level": 14,
+  "xp": 10166,
+  "hp": 688,
+  "maxHp": 688,
+  "atk": 56,
+  "def": 45,
+  "mag": 31,
+  "critRate": 0.07600000000000003,
+  "critDamage": 1.6300000000000001,
+  "gold": 45648,
+  "gems": 120,
+  "elixir": 322,
+  "stamina": -1,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
@@ -38,7 +38,7 @@
       null
     ],
     "maxSockets": 2,
-    "obtainedAt": 1777539319559
+    "obtainedAt": 1777660619883
   },
   "equippedArmor": null,
   "weapons": [
@@ -62,17 +62,56 @@
         null
       ],
       "maxSockets": 2,
-      "obtainedAt": 1777539319559
+      "obtainedAt": 1777660619883
     }
   ],
-  "armors": [],
+  "armors": [
+    {
+      "id": "ملحمي_محارب_خوذة_خوذة_الفينيق",
+      "name": "خوذة الفينيق",
+      "fullName": "🟣 ملحمي | خوذة الفينيق",
+      "rarity": "ملحمي",
+      "rarityEmoji": "🟣",
+      "class": "محارب",
+      "slot": "خوذة",
+      "slotEmoji": "🪖",
+      "def": 58,
+      "bonusType": "mag",
+      "level": 1,
+      "maxLevel": 5,
+      "baseDef": 58,
+      "baseCost": 400,
+      "costMultiplier": 3,
+      "maxDefBonus": 70,
+      "obtainedAt": 1777660619887
+    },
+    {
+      "id": "ملحمي_محارب_قفازات_قفازات_النور",
+      "name": "قفازات النور",
+      "fullName": "🟣 ملحمي | قفازات النور",
+      "rarity": "ملحمي",
+      "rarityEmoji": "🟣",
+      "class": "محارب",
+      "slot": "قفازات",
+      "slotEmoji": "🧤",
+      "def": 48,
+      "bonusType": "atk",
+      "level": 1,
+      "maxLevel": 5,
+      "baseDef": 48,
+      "baseCost": 400,
+      "costMultiplier": 3,
+      "maxDefBonus": 70,
+      "obtainedAt": 1777660619887
+    }
+  ],
   "boxes": {
     "common": 0,
     "rare": 0,
     "epic": 0,
     "legendary": 0
   },
-  "wins": 17,
+  "wins": 122,
   "losses": 0,
   "evolvedClass": null,
   "evolutionPath": null,
@@ -80,9 +119,9 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 698,
-    "mineralsMined": 638,
-    "boxesOpened": 2,
+    "fishCaught": 815,
+    "mineralsMined": 870,
+    "boxesOpened": 17,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -97,31 +136,33 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "fishSold": 679,
-    "materialsCollected": 205,
-    "mineralsSold": 550,
+    "fishSold": 791,
+    "materialsCollected": 343,
+    "mineralsSold": 735,
     "pity": {
-      "epic": 0,
-      "legendary": 0,
+      "epic": 5,
+      "legendary": 1,
       "mythic": 0
     },
-    "lastFreeBox": 1777539213277,
-    "freeBoxStreak": 1,
+    "lastFreeBox": 1777640259000,
+    "freeBoxStreak": 2,
     "boxesOpenedByType": {
-      "common": 1,
-      "epic": 1
+      "common": 2,
+      "epic": 14,
+      "legendary": 1
     },
     "bestBoxReward": {
-      "boxType": "epic",
-      "value": 3512,
-      "hadWeapon": true,
+      "boxType": "legendary",
+      "value": 8425,
+      "hadWeapon": false,
       "hadArmor": false,
-      "timestamp": 1777539319560
+      "timestamp": 1777660543775
     },
-    "dungeonKills": 17,
-    "dungeonDamageDealt": 1720,
-    "dailySellCount": 458,
-    "lastSellReset": 1777622032946
+    "dungeonKills": 122,
+    "dungeonDamageDealt": 74454,
+    "dailySellCount": 755,
+    "lastSellReset": 1777622032946,
+    "dungeonsCompleted": 3
   },
   "skills": [
     "double_strike",
@@ -144,6 +185,6 @@
   "clanId": "120363390837964435@g.us",
   "clanRole": "leader",
   "created": 1776803661049,
-  "lastActive": 1777623462234,
+  "lastActive": 1777660922341,
   "groupId": "120363390837964435@g.us"
 }
