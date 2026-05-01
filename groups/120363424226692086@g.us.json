@@ -52,6 +52,12 @@
       "level": 13
     },
     {
+      "id": "276811061665835@s.whatsapp.net",
+      "name": "سانجي",
+      "class": "ساحر",
+      "level": 12
+    },
+    {
       "id": "17339487662111@s.whatsapp.net",
       "name": "آينز ساما",
       "class": "قاتل",
@@ -61,13 +67,7 @@
       "id": "117051381301480@s.whatsapp.net",
       "name": "𝒜ℋℰ𝒟",
       "class": "ساحر",
-      "level": 11
-    },
-    {
-      "id": "276811061665835@s.whatsapp.net",
-      "name": "سانجي",
-      "class": "ساحر",
-      "level": 9
+      "level": 6
     },
     {
       "id": "15346689933315@s.whatsapp.net",
@@ -76,6 +76,6 @@
       "level": 5
     }
   ],
-  "messagesWeek": 797,
-  "lastUpdated": 1777612638771
+  "messagesWeek": 800,
+  "lastUpdated": 1777612644776
 }

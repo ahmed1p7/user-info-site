@@ -3,19 +3,19 @@
   "name": "سانجي",
   "nickname": "سانجي",
   "class": "ساحر",
-  "level": 9,
-  "xp": 944,
-  "hp": 148,
-  "maxHp": 148,
-  "atk": 18,
-  "def": 16,
-  "mag": 119,
-  "critRate": 0.05800000000000001,
-  "critDamage": 1.6199999999999992,
-  "gold": 13711,
-  "gems": 3,
-  "elixir": 0,
-  "stamina": 6,
+  "level": 12,
+  "xp": 2881,
+  "hp": 179,
+  "maxHp": 179,
+  "atk": 21,
+  "def": 21,
+  "mag": 206,
+  "critRate": 0.06100000000000001,
+  "critDamage": 1.664999999999999,
+  "gold": 9887,
+  "gems": 38,
+  "elixir": 110,
+  "stamina": -1,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
@@ -88,6 +88,28 @@
       "maxSockets": 3,
       "obtainedAt": 1777107157033,
       "type": "weapon"
+    },
+    {
+      "id": "ملحمي_ساحر_عصا_التدمير",
+      "name": "عصا التدمير",
+      "fullName": "🟣 ملحمي | عصا التدمير",
+      "rarity": "ملحمي",
+      "rarityEmoji": "🟣",
+      "class": "ساحر",
+      "atk": 40,
+      "level": 1,
+      "maxLevel": 5,
+      "baseAtk": 40,
+      "baseCost": 500,
+      "costMultiplier": 3,
+      "maxAtkBonus": 80,
+      "effect": null,
+      "sockets": [
+        null,
+        null
+      ],
+      "maxSockets": 2,
+      "obtainedAt": 1777612257042
     }
   ],
   "armors": [
@@ -119,32 +141,38 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 30,
-  "losses": 1,
+  "wins": 125,
+  "losses": 2,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 27,
-    "mineralsMined": 27,
-    "boxesOpened": 0,
+    "fishCaught": 99,
+    "mineralsMined": 99,
+    "boxesOpened": 6,
     "boxesOpenedByType": {
-      "common": 0,
+      "common": 1,
       "rare": 0,
-      "epic": 0,
+      "epic": 5,
       "legendary": 0,
       "mythic": 0
     },
-    "bestBoxReward": null,
+    "bestBoxReward": {
+      "boxType": "epic",
+      "value": 3201,
+      "hadWeapon": false,
+      "hadArmor": false,
+      "timestamp": 1777612257042
+    },
     "pity": {
       "epic": 0,
       "legendary": 0,
       "mythic": 0
     },
-    "lastFreeBox": 0,
-    "freeBoxStreak": 0,
+    "lastFreeBox": 1777612212092,
+    "freeBoxStreak": 1,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -159,22 +187,30 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "dungeonKills": 30,
-    "dungeonDamageDealt": 5140,
-    "materialsCollected": 31,
-    "materialsSold": 48,
-    "dailySellCount": 33,
+    "dungeonKills": 124,
+    "dungeonDamageDealt": 77378,
+    "materialsCollected": 147,
+    "materialsSold": 227,
+    "dailySellCount": 198,
     "lastSellReset": 1777609708037,
-    "fishSold": 19,
-    "dungeonsCompleted": 1,
-    "mineralsSold": 14
+    "fishSold": 99,
+    "dungeonsCompleted": 3,
+    "mineralsSold": 99,
+    "clanDungeonsCompleted": 1
   },
   "skills": [
     "mana_burn",
-    "frozen_spell"
+    "frozen_spell",
+    "cursed_luck",
+    "mana_shield",
+    "bounty_aura"
   ],
   "unlockedSkills": {
-    "passive": [],
+    "passive": [
+      "cursed_luck",
+      "mana_shield",
+      "bounty_aura"
+    ],
     "active": [
       "mana_burn",
       "frozen_spell"
@@ -183,6 +219,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777467357497,
-  "lastActive": 1777610291187,
+  "lastActive": 1777612644775,
   "groupId": "120363424226692086@g.us"
 }
