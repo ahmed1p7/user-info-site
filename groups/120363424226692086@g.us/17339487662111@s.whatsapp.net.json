@@ -5,30 +5,30 @@
   "class": "قاتل",
   "level": 15,
   "xp": 4522,
-  "hp": 291,
+  "hp": 1,
   "maxHp": 291,
   "atk": 109,
   "def": 38,
   "mag": 50,
   "critRate": 0.15600000000000006,
   "critDamage": 1.8520000000000003,
-  "gold": 114433,
+  "gold": 50733,
   "gems": 268,
   "elixir": 680,
   "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
-    "id": "أسطوري_قاتل_موس_العدم",
-    "name": "موس العدم",
-    "fullName": "🟡 أسطوري | موس العدم",
+    "id": "أسطوري_محارب_سيف_إيغريس",
+    "name": "سيف إيغريس",
+    "fullName": "🟡 أسطوري | سيف إيغريس",
     "rarity": "أسطوري",
     "rarityEmoji": "🟡",
-    "class": "قاتل",
-    "atk": 99,
+    "class": "محارب",
+    "atk": 88,
     "level": 1,
     "maxLevel": 5,
-    "baseAtk": 99,
+    "baseAtk": 88,
     "baseCost": 1000,
     "costMultiplier": 3,
     "maxAtkBonus": 120,
@@ -39,7 +39,8 @@
       null
     ],
     "maxSockets": 3,
-    "obtainedAt": 1777420372015
+    "obtainedAt": 1777428221093,
+    "type": "weapon"
   },
   "equippedArmor": {
     "درع صدر": {
@@ -53,7 +54,7 @@
       "slotEmoji": "🛡️",
       "def": 99,
       "bonusType": "hp",
-      "level": 1,
+      "level": 5,
       "maxLevel": 5,
       "baseDef": 99,
       "baseCost": 800,
@@ -151,6 +152,30 @@
       "maxSockets": 2,
       "obtainedAt": 1777546374608,
       "type": "weapon"
+    },
+    {
+      "id": "أسطوري_محارب_سيف_إيغريس",
+      "name": "سيف إيغريس",
+      "fullName": "🟡 أسطوري | سيف إيغريس",
+      "rarity": "أسطوري",
+      "rarityEmoji": "🟡",
+      "class": "محارب",
+      "atk": 88,
+      "level": 1,
+      "maxLevel": 5,
+      "baseAtk": 88,
+      "baseCost": 1000,
+      "costMultiplier": 3,
+      "maxAtkBonus": 120,
+      "effect": null,
+      "sockets": [
+        null,
+        null,
+        null
+      ],
+      "maxSockets": 3,
+      "obtainedAt": 1777428221093,
+      "type": "weapon"
     }
   ],
   "armors": [
@@ -165,7 +190,7 @@
       "slotEmoji": "🛡️",
       "def": 99,
       "bonusType": "hp",
-      "level": 1,
+      "level": 5,
       "maxLevel": 5,
       "baseDef": 99,
       "baseCost": 800,
@@ -182,7 +207,7 @@
     "mythic": 0
   },
   "wins": 244,
-  "losses": 17,
+  "losses": 18,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
@@ -190,7 +215,7 @@
     "bossesDefeated": 0,
     "totalBossDamage": 0,
     "fishCaught": 530,
-    "mineralsMined": 515,
+    "mineralsMined": 534,
     "boxesOpened": 26,
     "boxesOpenedByType": {
       "common": 3,
@@ -255,6 +280,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777414071872,
-  "lastActive": 1777615765407,
+  "lastActive": 1777616345402,
   "groupId": "120363424226692086@g.us"
 }
