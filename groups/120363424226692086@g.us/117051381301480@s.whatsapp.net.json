@@ -1,18 +1,18 @@
 {
   "id": "117051381301480@s.whatsapp.net",
-  "name": "𝒜ℋℰ𝒟",
-  "nickname": "𝒜ℋℰ𝒟",
+  "name": "ايزن",
+  "nickname": "ايزن",
   "class": "ساحر",
   "level": 11,
-  "xp": 417,
-  "hp": 0,
+  "xp": 2288,
+  "hp": 272,
   "maxHp": 272,
   "atk": 26,
   "def": 20,
-  "mag": 142,
+  "mag": 151,
   "critRate": 0.06000000000000001,
   "critDamage": 1.649999999999999,
-  "gold": 39804,
+  "gold": 39757,
   "gems": 18,
   "elixir": 25,
   "stamina": 6,
@@ -75,16 +75,16 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 96,
-  "losses": 34,
+  "wins": 106,
+  "losses": 42,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 105,
-    "mineralsMined": 98,
+    "fishCaught": 126,
+    "mineralsMined": 111,
     "boxesOpened": 2,
     "boxesOpenedByType": {
       "common": 1,
@@ -121,9 +121,9 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 131,
-    "dungeonKills": 96,
-    "dungeonDamageDealt": 44160,
+    "materialsCollected": 147,
+    "dungeonKills": 106,
+    "dungeonDamageDealt": 53512,
     "dungeonsCompleted": 2,
     "dailySellCount": 192,
     "lastSellReset": 1777609841041,
@@ -136,12 +136,14 @@
     "mana_burn",
     "frozen_spell",
     "mana_shield",
-    "bounty_aura"
+    "bounty_aura",
+    "cursed_luck"
   ],
   "unlockedSkills": {
     "passive": [
       "mana_shield",
-      "bounty_aura"
+      "bounty_aura",
+      "cursed_luck"
     ],
     "active": [
       "frozen_spell",
@@ -151,6 +153,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777542343015,
-  "lastActive": 1777612638768,
+  "lastActive": 1777613265625,
   "groupId": "120363424226692086@g.us"
 }
