@@ -41,7 +41,7 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 405,
+    "fishCaught": 406,
     "mineralsMined": 23,
     "boxesOpened": 1,
     "weaponsUpgraded": 0,
@@ -62,7 +62,12 @@
     "dungeonKills": 28,
     "dungeonDamageDealt": 4572,
     "dungeonsCompleted": 1,
-    "materialsCollected": 22
+    "materialsCollected": 23,
+    "pity": {
+      "epic": 0,
+      "legendary": 0,
+      "mythic": 0
+    }
   },
   "skills": [
     "shield_wall"
@@ -74,6 +79,6 @@
   "clanId": "120363390837964435@g.us",
   "clanRole": "leader",
   "created": 1776502952607,
-  "lastActive": 1777594618885,
+  "lastActive": 1777595338927,
   "groupId": "120363426531347600@g.us"
 }
