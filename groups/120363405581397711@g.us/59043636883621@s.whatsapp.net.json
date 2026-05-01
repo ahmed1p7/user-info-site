@@ -3,19 +3,19 @@
   "name": "𝙔𝙐𝙏𝘼",
   "nickname": "𝙔𝙐𝙏𝘼",
   "class": "شافي",
-  "level": 1,
-  "xp": 0,
-  "hp": 90,
-  "maxHp": 90,
-  "atk": 5,
-  "def": 8,
-  "mag": 15,
-  "critRate": 0.05,
-  "critDamage": 1.5,
-  "gold": 100,
-  "gems": 0,
+  "level": 2,
+  "xp": 15,
+  "hp": 100,
+  "maxHp": 100,
+  "atk": 6,
+  "def": 9,
+  "mag": 17,
+  "critRate": 0.051000000000000004,
+  "critDamage": 1.505,
+  "gold": 2493,
+  "gems": 5,
   "elixir": 0,
-  "stamina": 10,
+  "stamina": 8,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
@@ -211,7 +211,7 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 0,
+  "wins": 1,
   "losses": 0,
   "evolvedClass": null,
   "evolutionPath": null,
@@ -219,8 +219,8 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 0,
-    "mineralsMined": 0,
+    "fishCaught": 1,
+    "mineralsMined": 5,
     "boxesOpened": 0,
     "boxesOpenedByType": {
       "common": 0,
@@ -250,7 +250,10 @@
     "luckGamesPlayed": 0,
     "luckGamesWon": 0,
     "territoriesConquered": 0,
-    "territoryDefenses": 0
+    "territoryDefenses": 0,
+    "materialsCollected": 2,
+    "dungeonKills": 1,
+    "dungeonDamageDealt": 38
   },
   "skills": [
     "heal"
@@ -262,6 +265,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1777645509838,
-  "lastActive": 1777645531770,
+  "lastActive": 1777666546322,
   "groupId": "120363405581397711@g.us"
 }
