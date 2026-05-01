@@ -3,19 +3,19 @@
   "name": "مورفي لاندو",
   "nickname": "مورفي لاندو",
   "class": "محارب",
-  "level": 22,
-  "xp": 292386,
-  "hp": 658,
-  "maxHp": 879,
-  "atk": 164,
-  "def": 75,
-  "mag": 24,
-  "critRate": 0.09200000000000004,
-  "critDamage": 1.7100000000000002,
-  "gold": 2396,
-  "gems": 1986,
-  "elixir": 5678,
-  "stamina": 8,
+  "level": 23,
+  "xp": 38755,
+  "hp": 946,
+  "maxHp": 946,
+  "atk": 166,
+  "def": 76,
+  "mag": 25,
+  "critRate": 0.09400000000000004,
+  "critDamage": 1.7200000000000002,
+  "gold": 57906,
+  "gems": 2183,
+  "elixir": 6118,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
@@ -663,26 +663,6 @@
       "obtainedAt": 1777587697169
     },
     {
-      "id": "أسطوري_محارب_خوذة_خوذة_التنين_الذهبي",
-      "name": "خوذة التنين الذهبي",
-      "fullName": "🟡 أسطوري | خوذة التنين الذهبي",
-      "rarity": "أسطوري",
-      "rarityEmoji": "🟡",
-      "class": "محارب",
-      "slot": "خوذة",
-      "slotEmoji": "🪖",
-      "def": 85,
-      "bonusType": "mag",
-      "level": 5,
-      "maxLevel": 5,
-      "baseDef": 85,
-      "baseCost": 800,
-      "costMultiplier": 3,
-      "maxDefBonus": 100,
-      "obtainedAt": 1777377016181,
-      "type": "armor"
-    },
-    {
       "id": "أسطوري_محارب_خوذة_خوذة_المهيبة",
       "name": "خوذة المهيبة",
       "fullName": "🟡 أسطوري | خوذة المهيبة",
@@ -766,17 +746,17 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 462,
-  "losses": 82,
+  "wins": 466,
+  "losses": 87,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 6639,
-    "mineralsMined": 5002,
-    "boxesOpened": 87,
+    "fishCaught": 7300,
+    "mineralsMined": 5644,
+    "boxesOpened": 95,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -793,16 +773,16 @@
     "territoryDefenses": 0,
     "dungeonKills": 386,
     "dungeonDamageDealt": 746447,
-    "fishSold": 6639,
-    "materialsCollected": 2439,
+    "fishSold": 6828,
+    "materialsCollected": 2636,
     "dungeonsCompleted": 6,
-    "mineralsSold": 4718,
-    "materialsSold": 6609,
+    "mineralsSold": 4788,
+    "materialsSold": 6746,
     "clanDungeonsCompleted": 10,
     "clanDungeonDamage": 0,
     "pity": {
       "epic": 0,
-      "legendary": 10,
+      "legendary": 4,
       "mythic": 5
     },
     "lastFreeBox": 1777348232919,
@@ -810,7 +790,7 @@
     "boxesOpenedByType": {
       "common": 1,
       "mythic": 20,
-      "legendary": 49
+      "legendary": 57
     },
     "bestBoxReward": {
       "boxType": "mythic",
@@ -820,7 +800,7 @@
       "timestamp": 1777352041986
     },
     "itemsMerged": 2,
-    "dailySellCount": 577,
+    "dailySellCount": 836,
     "lastSellReset": 1777611295272
   },
   "skills": [
@@ -841,9 +821,9 @@
       "war_cry"
     ]
   },
-  "clanId": "120363424226692086@g.us",
-  "clanRole": "leader",
+  "clanId": null,
+  "clanRole": null,
   "created": 1776881423012,
-  "lastActive": 1777627187210,
+  "lastActive": 1777658854285,
   "groupId": "120363424226692086@g.us"
 }
