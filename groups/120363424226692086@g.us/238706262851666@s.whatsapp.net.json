@@ -4,7 +4,7 @@
   "nickname": "مورفي لاندو",
   "class": "محارب",
   "level": 22,
-  "xp": 260787,
+  "xp": 290720,
   "hp": 878,
   "maxHp": 879,
   "atk": 164,
@@ -12,8 +12,8 @@
   "mag": 24,
   "critRate": 0.09200000000000004,
   "critDamage": 1.7100000000000002,
-  "gold": 23887,
-  "gems": 1981,
+  "gold": 17639,
+  "gems": 1984,
   "elixir": 5678,
   "stamina": 7,
   "maxStamina": 10,
@@ -26,7 +26,7 @@
     "rarityEmoji": "🟡",
     "class": "محارب",
     "atk": 100,
-    "level": 1,
+    "level": 5,
     "maxLevel": 5,
     "baseAtk": 100,
     "baseCost": 1000,
@@ -128,7 +128,7 @@
       "rarityEmoji": "🟡",
       "class": "محارب",
       "atk": 100,
-      "level": 1,
+      "level": 5,
       "maxLevel": 5,
       "baseAtk": 100,
       "baseCost": 1000,
@@ -786,8 +786,8 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 456,
-  "losses": 76,
+  "wins": 459,
+  "losses": 79,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
@@ -795,7 +795,7 @@
     "bossesDefeated": 0,
     "totalBossDamage": 0,
     "fishCaught": 6639,
-    "mineralsMined": 4929,
+    "mineralsMined": 4990,
     "boxesOpened": 87,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -813,11 +813,11 @@
     "territoryDefenses": 0,
     "dungeonKills": 386,
     "dungeonDamageDealt": 746447,
-    "fishSold": 6409,
+    "fishSold": 6639,
     "materialsCollected": 2439,
     "dungeonsCompleted": 6,
-    "mineralsSold": 4371,
-    "materialsSold": 6102,
+    "mineralsSold": 4718,
+    "materialsSold": 6609,
     "clanDungeonsCompleted": 10,
     "clanDungeonDamage": 0,
     "pity": {
@@ -839,7 +839,9 @@
       "hadArmor": false,
       "timestamp": 1777352041986
     },
-    "itemsMerged": 2
+    "itemsMerged": 2,
+    "dailySellCount": 577,
+    "lastSellReset": 1777611295272
   },
   "skills": [
     "double_strike",
@@ -862,6 +864,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "leader",
   "created": 1776881423012,
-  "lastActive": 1777610226589,
+  "lastActive": 1777615782825,
   "groupId": "120363424226692086@g.us"
 }
