@@ -4,7 +4,7 @@
   "nickname": "مورفي لاندو",
   "class": "محارب",
   "level": 22,
-  "xp": 291270,
+  "xp": 291936,
   "hp": 879,
   "maxHp": 879,
   "atk": 164,
@@ -12,10 +12,10 @@
   "mag": 24,
   "critRate": 0.09200000000000004,
   "critDamage": 1.7100000000000002,
-  "gold": 38639,
+  "gold": 50696,
   "gems": 1986,
   "elixir": 5678,
-  "stamina": 10,
+  "stamina": 8,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
@@ -142,30 +142,6 @@
       ],
       "maxSockets": 3,
       "obtainedAt": 1777466484794
-    },
-    {
-      "id": "أسطوري_محارب_سيف_إيغريس",
-      "name": "سيف إيغريس",
-      "fullName": "🟡 أسطوري | سيف إيغريس",
-      "rarity": "أسطوري",
-      "rarityEmoji": "🟡",
-      "class": "محارب",
-      "atk": 88,
-      "level": 1,
-      "maxLevel": 5,
-      "baseAtk": 88,
-      "baseCost": 1000,
-      "costMultiplier": 3,
-      "maxAtkBonus": 120,
-      "effect": null,
-      "sockets": [
-        null,
-        null,
-        null
-      ],
-      "maxSockets": 3,
-      "obtainedAt": 1777352041986,
-      "type": "weapon"
     },
     {
       "id": "أسطوري_محارب_ذو_الفقار",
@@ -584,6 +560,29 @@
       ],
       "maxSockets": 3,
       "obtainedAt": 1777587793705
+    },
+    {
+      "id": "أسطوري_محارب_ذو_الفقار",
+      "name": "ذو الفقار",
+      "fullName": "🟡 أسطوري | ذو الفقار",
+      "rarity": "أسطوري",
+      "rarityEmoji": "🟡",
+      "class": "محارب",
+      "atk": 78,
+      "level": 1,
+      "maxLevel": 5,
+      "baseAtk": 78,
+      "baseCost": 1000,
+      "costMultiplier": 3,
+      "maxAtkBonus": 120,
+      "effect": null,
+      "sockets": [
+        null,
+        null,
+        null
+      ],
+      "maxSockets": 3,
+      "obtainedAt": 1777587793705
     }
   ],
   "armors": [
@@ -767,8 +766,8 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 460,
-  "losses": 79,
+  "wins": 461,
+  "losses": 81,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
@@ -845,6 +844,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "leader",
   "created": 1776881423012,
-  "lastActive": 1777616856507,
+  "lastActive": 1777623710385,
   "groupId": "120363424226692086@g.us"
 }
