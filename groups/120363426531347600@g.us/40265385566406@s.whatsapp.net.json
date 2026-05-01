@@ -4,7 +4,7 @@
   "nickname": "زازا",
   "class": "فارس",
   "level": 9,
-  "xp": 1863,
+  "xp": 1883,
   "hp": 535,
   "maxHp": 535,
   "atk": 20,
@@ -12,7 +12,7 @@
   "mag": 10,
   "critRate": 0.05800000000000001,
   "critDamage": 1.5399999999999991,
-  "gold": 6958,
+  "gold": 10958,
   "gems": 6,
   "elixir": 17,
   "stamina": 10,
@@ -74,6 +74,6 @@
   "clanId": "120363390837964435@g.us",
   "clanRole": "leader",
   "created": 1776502952607,
-  "lastActive": 1777423173510,
+  "lastActive": 1777594618885,
   "groupId": "120363426531347600@g.us"
 }
