@@ -46,6 +46,12 @@
       "level": 14
     },
     {
+      "id": "210037507125265@s.whatsapp.net",
+      "name": "تيريون لانيستر",
+      "class": "محارب",
+      "level": 14
+    },
+    {
       "id": "11614178824270@s.whatsapp.net",
       "name": "π\"..𖦻",
       "class": "فارس",
@@ -55,12 +61,6 @@
       "id": "40265385566406@s.whatsapp.net",
       "name": "زازا",
       "class": "فارس",
-      "level": 13
-    },
-    {
-      "id": "210037507125265@s.whatsapp.net",
-      "name": "تيريون لانيستر",
-      "class": "محارب",
       "level": 13
     },
     {
@@ -82,6 +82,6 @@
       "level": 5
     }
   ],
-  "messagesWeek": 56,
-  "lastUpdated": 1777628861991
+  "messagesWeek": 143,
+  "lastUpdated": 1777629589152
 }
