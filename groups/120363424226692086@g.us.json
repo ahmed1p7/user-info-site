@@ -70,18 +70,18 @@
       "level": 12
     },
     {
+      "id": "210037507125265@s.whatsapp.net",
+      "name": "تيريون لانيستر",
+      "class": "محارب",
+      "level": 11
+    },
+    {
       "id": "15346689933315@s.whatsapp.net",
       "name": "SHADOW",
       "class": "محارب",
       "level": 5
-    },
-    {
-      "id": "210037507125265@s.whatsapp.net",
-      "name": "تيريون لانيستر",
-      "class": "محارب",
-      "level": 1
     }
   ],
-  "messagesWeek": 2205,
-  "lastUpdated": 1777618953077
+  "messagesWeek": 2209,
+  "lastUpdated": 1777618972722
 }

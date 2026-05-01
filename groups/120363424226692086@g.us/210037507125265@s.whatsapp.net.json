@@ -3,19 +3,19 @@
   "name": "تيريون لانيستر",
   "nickname": "تيريون لانيستر",
   "class": "محارب",
-  "level": 1,
-  "xp": 0,
-  "hp": 150,
-  "maxHp": 150,
-  "atk": 15,
-  "def": 12,
-  "mag": 3,
-  "critRate": 0.05,
-  "critDamage": 1.5,
-  "gold": 9600,
-  "gems": 0,
+  "level": 11,
+  "xp": 3326,
+  "hp": 1,
+  "maxHp": 562,
+  "atk": 56,
+  "def": 46,
+  "mag": 13,
+  "critRate": 0.07000000000000002,
+  "critDamage": 1.6,
+  "gold": 29122,
+  "gems": 13,
   "elixir": 0,
-  "stamina": 10,
+  "stamina": -1,
   "maxStamina": 10,
   "energy": 0,
   "equippedWeapon": {
@@ -210,21 +210,44 @@
     "epic": 0,
     "legendary": 0
   },
-  "wins": 0,
+  "wins": 82,
   "losses": 0,
   "evolvedClass": null,
   "evolutionPath": null,
-  "stats": {},
+  "stats": {
+    "fishCaught": 124,
+    "materialsCollected": 115,
+    "mineralsMined": 109,
+    "dailySellCount": 156,
+    "lastSellReset": 1777614764945,
+    "mineralsSold": 36,
+    "fishSold": 120,
+    "dungeonKills": 82,
+    "dungeonDamageDealt": 34968,
+    "materialsSold": 219,
+    "dungeonsCompleted": 2
+  },
   "skills": [
-    "double_strike"
+    "double_strike",
+    "lifesteal",
+    "berserk_mode",
+    "warrior_endurance",
+    "war_cry"
   ],
   "unlockedSkills": {
-    "passive": [],
-    "active": []
+    "passive": [
+      "lifesteal",
+      "berserk_mode",
+      "warrior_endurance"
+    ],
+    "active": [
+      "double_strike",
+      "war_cry"
+    ]
   },
-  "clanId": null,
-  "clanRole": null,
+  "clanId": "120363424226692086@g.us",
+  "clanRole": "member",
   "created": 1777613816222,
-  "lastActive": 1777614005517,
+  "lastActive": 1777618972722,
   "groupId": "120363424226692086@g.us"
 }
