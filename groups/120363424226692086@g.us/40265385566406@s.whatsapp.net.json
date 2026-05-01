@@ -3,17 +3,17 @@
   "name": "زازا",
   "nickname": "زازا",
   "class": "فارس",
-  "level": 11,
-  "xp": 5464,
-  "hp": 619,
-  "maxHp": 651,
-  "atk": 96,
-  "def": 48,
-  "mag": 12,
-  "critRate": 0.06000000000000001,
-  "critDamage": 1.549999999999999,
-  "gold": 3574,
-  "gems": 2,
+  "level": 13,
+  "xp": 2736,
+  "hp": 1,
+  "maxHp": 747,
+  "atk": 98,
+  "def": 54,
+  "mag": 14,
+  "critRate": 0.06200000000000001,
+  "critDamage": 1.5599999999999987,
+  "gold": 925,
+  "gems": 5,
   "elixir": 3,
   "stamina": 10,
   "maxStamina": 10,
@@ -28,8 +28,8 @@
     "epic": 0,
     "legendary": 0
   },
-  "wins": 44,
-  "losses": 10,
+  "wins": 60,
+  "losses": 12,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
@@ -54,11 +54,11 @@
     "territoriesConquered": 0,
     "territoryDefenses": 0,
     "fishSold": 264,
-    "dungeonKills": 42,
-    "dungeonDamageDealt": 9708,
+    "dungeonKills": 57,
+    "dungeonDamageDealt": 17244,
     "dungeonsCompleted": 1,
     "mineralsSold": 181,
-    "materialsCollected": 22,
+    "materialsCollected": 37,
     "pity": {
       "epic": 0,
       "legendary": 0,
@@ -76,7 +76,8 @@
       "hadWeapon": false,
       "hadArmor": false,
       "timestamp": 1777405487579
-    }
+    },
+    "clanDungeonsCompleted": 1
   },
   "skills": [
     "shield_wall",
@@ -95,6 +96,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1776881415988,
-  "lastActive": 1777447149186,
+  "lastActive": 1777595095658,
   "groupId": "120363424226692086@g.us"
 }
