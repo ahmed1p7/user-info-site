@@ -3,22 +3,44 @@
   "name": "𝒜ℋℰ𝒟",
   "nickname": "𝒜ℋℰ𝒟",
   "class": "ساحر",
-  "level": 6,
-  "xp": 89,
-  "hp": 130,
-  "maxHp": 130,
-  "atk": 15,
-  "def": 13,
-  "mag": 103,
-  "critRate": 0.05500000000000001,
-  "critDamage": 1.5749999999999995,
-  "gold": 6118,
-  "gems": 13,
-  "elixir": 24,
-  "stamina": 10,
+  "level": 11,
+  "xp": 417,
+  "hp": 0,
+  "maxHp": 272,
+  "atk": 26,
+  "def": 20,
+  "mag": 142,
+  "critRate": 0.06000000000000001,
+  "critDamage": 1.649999999999999,
+  "gold": 39804,
+  "gems": 18,
+  "elixir": 25,
+  "stamina": 6,
   "maxStamina": 10,
   "energy": 100,
-  "equippedWeapon": null,
+  "equippedWeapon": {
+    "id": "ملحمي_محارب_سيف_التنين",
+    "name": "سيف التنين",
+    "fullName": "🟣 ملحمي | سيف التنين",
+    "rarity": "ملحمي",
+    "rarityEmoji": "🟣",
+    "class": "محارب",
+    "atk": 42,
+    "level": 1,
+    "maxLevel": 5,
+    "baseAtk": 42,
+    "baseCost": 500,
+    "costMultiplier": 3,
+    "maxAtkBonus": 80,
+    "effect": null,
+    "sockets": [
+      null,
+      null
+    ],
+    "maxSockets": 2,
+    "obtainedAt": 1777416182638,
+    "type": "weapon"
+  },
   "equippedArmor": null,
   "weapons": [
     {
@@ -53,19 +75,19 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 15,
-  "losses": 3,
+  "wins": 96,
+  "losses": 34,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 1,
-    "mineralsMined": 97,
-    "boxesOpened": 1,
+    "fishCaught": 105,
+    "mineralsMined": 98,
+    "boxesOpened": 2,
     "boxesOpenedByType": {
-      "common": 0,
+      "common": 1,
       "rare": 0,
       "epic": 1,
       "legendary": 0,
@@ -83,8 +105,8 @@
       "legendary": 0,
       "mythic": 0
     },
-    "lastFreeBox": 0,
-    "freeBoxStreak": 0,
+    "lastFreeBox": 1777609662822,
+    "freeBoxStreak": 1,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -99,20 +121,36 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 18,
-    "dungeonKills": 15,
-    "dungeonDamageDealt": 1392
+    "materialsCollected": 131,
+    "dungeonKills": 96,
+    "dungeonDamageDealt": 44160,
+    "dungeonsCompleted": 2,
+    "dailySellCount": 192,
+    "lastSellReset": 1777609841041,
+    "fishSold": 94,
+    "materialsSold": 215,
+    "clanDungeonsCompleted": 1,
+    "mineralsSold": 98
   },
   "skills": [
-    "mana_burn"
+    "mana_burn",
+    "frozen_spell",
+    "mana_shield",
+    "bounty_aura"
   ],
   "unlockedSkills": {
-    "passive": [],
-    "active": []
+    "passive": [
+      "mana_shield",
+      "bounty_aura"
+    ],
+    "active": [
+      "frozen_spell",
+      "mana_burn"
+    ]
   },
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777542343015,
-  "lastActive": 1777608968682,
+  "lastActive": 1777612638768,
   "groupId": "120363424226692086@g.us"
 }

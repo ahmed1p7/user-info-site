@@ -58,16 +58,16 @@
       "level": 11
     },
     {
+      "id": "117051381301480@s.whatsapp.net",
+      "name": "𝒜ℋℰ𝒟",
+      "class": "ساحر",
+      "level": 11
+    },
+    {
       "id": "276811061665835@s.whatsapp.net",
       "name": "سانجي",
       "class": "ساحر",
       "level": 9
-    },
-    {
-      "id": "117051381301480@s.whatsapp.net",
-      "name": "𝒜ℋℰ𝒟",
-      "class": "ساحر",
-      "level": 6
     },
     {
       "id": "15346689933315@s.whatsapp.net",
@@ -76,6 +76,6 @@
       "level": 5
     }
   ],
-  "messagesWeek": 360,
-  "lastUpdated": 1777610291188
+  "messagesWeek": 797,
+  "lastUpdated": 1777612638771
 }
