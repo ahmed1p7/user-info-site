@@ -4,18 +4,18 @@
   "nickname": "مورفي لاندو",
   "class": "محارب",
   "level": 22,
-  "xp": 249423,
-  "hp": 857,
+  "xp": 260764,
+  "hp": 878,
   "maxHp": 879,
   "atk": 164,
   "def": 75,
   "mag": 24,
   "critRate": 0.09200000000000004,
   "critDamage": 1.7100000000000002,
-  "gold": 52244,
+  "gold": 54311,
   "gems": 1976,
   "elixir": 5678,
-  "stamina": 6,
+  "stamina": 8,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
@@ -123,29 +123,6 @@
       ],
       "maxSockets": 3,
       "obtainedAt": 1777107157033
-    },
-    {
-      "id": "أسطوري_محارب_سيف_إيغريس",
-      "name": "سيف إيغريس",
-      "fullName": "🟡 أسطوري | سيف إيغريس",
-      "rarity": "أسطوري",
-      "rarityEmoji": "🟡",
-      "class": "محارب",
-      "atk": 88,
-      "level": 1,
-      "maxLevel": 5,
-      "baseAtk": 88,
-      "baseCost": 1000,
-      "costMultiplier": 3,
-      "maxAtkBonus": 120,
-      "effect": null,
-      "sockets": [
-        null,
-        null,
-        null
-      ],
-      "maxSockets": 3,
-      "obtainedAt": 1777428221093
     },
     {
       "id": "أسطوري_محارب_إكسكاليبور",
@@ -565,6 +542,29 @@
       ],
       "maxSockets": 3,
       "obtainedAt": 1777587697170
+    },
+    {
+      "id": "أسطوري_محارب_إكسكاليبور",
+      "name": "إكسكاليبور",
+      "fullName": "🟡 أسطوري | إكسكاليبور",
+      "rarity": "أسطوري",
+      "rarityEmoji": "🟡",
+      "class": "محارب",
+      "atk": 100,
+      "level": 1,
+      "maxLevel": 5,
+      "baseAtk": 100,
+      "baseCost": 1000,
+      "costMultiplier": 3,
+      "maxAtkBonus": 120,
+      "effect": null,
+      "sockets": [
+        null,
+        null,
+        null
+      ],
+      "maxSockets": 3,
+      "obtainedAt": 1777587793705
     }
   ],
   "armors": [
@@ -787,16 +787,16 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 454,
-  "losses": 73,
+  "wins": 456,
+  "losses": 75,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 6426,
-    "mineralsMined": 4850,
+    "fishCaught": 6639,
+    "mineralsMined": 4889,
     "boxesOpened": 87,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -815,7 +815,7 @@
     "dungeonKills": 386,
     "dungeonDamageDealt": 746447,
     "fishSold": 6409,
-    "materialsCollected": 2373,
+    "materialsCollected": 2439,
     "dungeonsCompleted": 6,
     "mineralsSold": 4371,
     "materialsSold": 6102,
@@ -863,6 +863,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "leader",
   "created": 1776881423012,
-  "lastActive": 1777588084357,
+  "lastActive": 1777608957291,
   "groupId": "120363424226692086@g.us"
 }
