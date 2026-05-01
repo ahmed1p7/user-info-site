@@ -12,10 +12,10 @@
   "mag": 166,
   "critRate": 0.06100000000000001,
   "critDamage": 1.664999999999999,
-  "gold": 15580,
+  "gold": 2,
   "gems": 18,
   "elixir": 25,
-  "stamina": 8,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
@@ -116,7 +116,7 @@
     "mythic": 0
   },
   "wins": 143,
-  "losses": 104,
+  "losses": 106,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
@@ -194,6 +194,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777542343015,
-  "lastActive": 1777621763084,
+  "lastActive": 1777623897298,
   "groupId": "120363424226692086@g.us"
 }
