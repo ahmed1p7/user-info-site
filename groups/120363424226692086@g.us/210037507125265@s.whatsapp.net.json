@@ -4,18 +4,18 @@
   "nickname": "تيريون لانيستر",
   "class": "محارب",
   "level": 14,
-  "xp": 677,
-  "hp": 0,
-  "maxHp": 678,
-  "atk": 66,
+  "xp": 8504,
+  "hp": 1,
+  "maxHp": 698,
+  "atk": 68,
   "def": 53,
   "mag": 16,
   "critRate": 0.07600000000000003,
   "critDamage": 1.6300000000000001,
-  "gold": 43367,
-  "gems": 21,
-  "elixir": 4,
-  "stamina": 10,
+  "gold": 44010,
+  "gems": 28,
+  "elixir": 19,
+  "stamina": 0,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
@@ -243,39 +243,40 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 254,
-  "losses": 6,
+  "wins": 261,
+  "losses": 8,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
     "fishCaught": 293,
-    "materialsCollected": 321,
-    "mineralsMined": 132,
-    "dailySellCount": 329,
+    "materialsCollected": 329,
+    "mineralsMined": 143,
+    "dailySellCount": 425,
     "lastSellReset": 1777614764945,
-    "mineralsSold": 36,
+    "mineralsSold": 132,
     "fishSold": 293,
-    "dungeonKills": 253,
-    "dungeonDamageDealt": 370270,
-    "materialsSold": 455,
-    "dungeonsCompleted": 4,
+    "dungeonKills": 260,
+    "dungeonDamageDealt": 392822,
+    "materialsSold": 463,
+    "dungeonsCompleted": 5,
     "pity": {
-      "epic": 0,
+      "epic": 1,
       "legendary": 0,
       "mythic": 0
     },
     "lastFreeBox": 1777619361057,
     "freeBoxStreak": 1,
-    "boxesOpened": 1,
+    "boxesOpened": 2,
     "boxesOpenedByType": {
-      "common": 1
+      "common": 1,
+      "epic": 1
     },
     "bestBoxReward": {
-      "boxType": "common",
-      "value": 312,
+      "boxType": "epic",
+      "value": 2769,
       "hadWeapon": false,
       "hadArmor": false,
-      "timestamp": 1777619385056
+      "timestamp": 1777630283808
     }
   },
   "skills": [
@@ -299,6 +300,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777613816222,
-  "lastActive": 1777629589136,
+  "lastActive": 1777630895944,
   "groupId": "120363424226692086@g.us"
 }
