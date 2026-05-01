@@ -1,0 +1,118 @@
+{
+  "id": "117051381301480@s.whatsapp.net",
+  "name": "𝒜ℋℰ𝒟",
+  "nickname": "𝒜ℋℰ𝒟",
+  "class": "ساحر",
+  "level": 6,
+  "xp": 89,
+  "hp": 130,
+  "maxHp": 130,
+  "atk": 15,
+  "def": 13,
+  "mag": 103,
+  "critRate": 0.05500000000000001,
+  "critDamage": 1.5749999999999995,
+  "gold": 6118,
+  "gems": 13,
+  "elixir": 24,
+  "stamina": 10,
+  "maxStamina": 10,
+  "energy": 100,
+  "equippedWeapon": null,
+  "equippedArmor": null,
+  "weapons": [
+    {
+      "id": "ملحمي_محارب_سيف_التنين",
+      "name": "سيف التنين",
+      "fullName": "🟣 ملحمي | سيف التنين",
+      "rarity": "ملحمي",
+      "rarityEmoji": "🟣",
+      "class": "محارب",
+      "atk": 42,
+      "level": 1,
+      "maxLevel": 5,
+      "baseAtk": 42,
+      "baseCost": 500,
+      "costMultiplier": 3,
+      "maxAtkBonus": 80,
+      "effect": null,
+      "sockets": [
+        null,
+        null
+      ],
+      "maxSockets": 2,
+      "obtainedAt": 1777416182638,
+      "type": "weapon"
+    }
+  ],
+  "armors": [],
+  "boxes": {
+    "common": 0,
+    "rare": 0,
+    "epic": 0,
+    "legendary": 0,
+    "mythic": 0
+  },
+  "wins": 15,
+  "losses": 3,
+  "evolvedClass": null,
+  "evolutionPath": null,
+  "stats": {
+    "monstersKilled": 0,
+    "bossesDefeated": 0,
+    "totalBossDamage": 0,
+    "fishCaught": 1,
+    "mineralsMined": 97,
+    "boxesOpened": 1,
+    "boxesOpenedByType": {
+      "common": 0,
+      "rare": 0,
+      "epic": 1,
+      "legendary": 0,
+      "mythic": 0
+    },
+    "bestBoxReward": {
+      "boxType": "epic",
+      "value": 2842,
+      "hadWeapon": false,
+      "hadArmor": false,
+      "timestamp": 1777542993738
+    },
+    "pity": {
+      "epic": 1,
+      "legendary": 0,
+      "mythic": 0
+    },
+    "lastFreeBox": 0,
+    "freeBoxStreak": 0,
+    "weaponsUpgraded": 0,
+    "itemsSold": 0,
+    "itemsBought": 0,
+    "playersHealed": 0,
+    "healingDone": 0,
+    "groupHeals": 0,
+    "pvpWins": 0,
+    "pvpLosses": 0,
+    "successfulRobberies": 0,
+    "failedRobberies": 0,
+    "luckGamesPlayed": 0,
+    "luckGamesWon": 0,
+    "territoriesConquered": 0,
+    "territoryDefenses": 0,
+    "materialsCollected": 18,
+    "dungeonKills": 15,
+    "dungeonDamageDealt": 1392
+  },
+  "skills": [
+    "mana_burn"
+  ],
+  "unlockedSkills": {
+    "passive": [],
+    "active": []
+  },
+  "clanId": "120363424226692086@g.us",
+  "clanRole": "member",
+  "created": 1777542343015,
+  "lastActive": 1777608968682,
+  "groupId": "120363424226692086@g.us"
+}
