@@ -5,14 +5,14 @@
   "class": "ساحر",
   "level": 12,
   "xp": 8644,
-  "hp": 107,
+  "hp": 1,
   "maxHp": 279,
   "atk": 27,
   "def": 21,
   "mag": 166,
   "critRate": 0.06100000000000001,
   "critDamage": 1.664999999999999,
-  "gold": 16929,
+  "gold": 16312,
   "gems": 18,
   "elixir": 25,
   "stamina": 8,
@@ -116,7 +116,7 @@
     "mythic": 0
   },
   "wins": 143,
-  "losses": 99,
+  "losses": 101,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
@@ -194,6 +194,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777542343015,
-  "lastActive": 1777620093307,
+  "lastActive": 1777620497301,
   "groupId": "120363424226692086@g.us"
 }
