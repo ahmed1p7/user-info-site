@@ -4,7 +4,7 @@
   "nickname": "سانجي",
   "class": "ساحر",
   "level": 12,
-  "xp": 2881,
+  "xp": 3031,
   "hp": 179,
   "maxHp": 179,
   "atk": 21,
@@ -12,10 +12,10 @@
   "mag": 206,
   "critRate": 0.06100000000000001,
   "critDamage": 1.664999999999999,
-  "gold": 9887,
+  "gold": 14987,
   "gems": 38,
   "elixir": 110,
-  "stamina": -1,
+  "stamina": 0,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
@@ -141,7 +141,7 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 125,
+  "wins": 126,
   "losses": 2,
   "evolvedClass": null,
   "evolutionPath": null,
@@ -219,6 +219,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777467357497,
-  "lastActive": 1777612644775,
+  "lastActive": 1777612993215,
   "groupId": "120363424226692086@g.us"
 }
