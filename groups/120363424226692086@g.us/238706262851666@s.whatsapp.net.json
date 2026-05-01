@@ -12,10 +12,10 @@
   "mag": 24,
   "critRate": 0.09200000000000004,
   "critDamage": 1.7100000000000002,
-  "gold": 20842,
-  "gems": 1976,
+  "gold": 23887,
+  "gems": 1981,
   "elixir": 5678,
-  "stamina": 8,
+  "stamina": 7,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
@@ -26,7 +26,7 @@
     "rarityEmoji": "🟡",
     "class": "محارب",
     "atk": 100,
-    "level": 5,
+    "level": 1,
     "maxLevel": 5,
     "baseAtk": 100,
     "baseCost": 1000,
@@ -39,7 +39,7 @@
       null
     ],
     "maxSockets": 3,
-    "obtainedAt": 1777107157033
+    "obtainedAt": 1777466484794
   },
   "equippedArmor": {
     "درع صدر": {
@@ -120,29 +120,6 @@
     }
   },
   "weapons": [
-    {
-      "id": "أسطوري_محارب_إكسكاليبور",
-      "name": "إكسكاليبور",
-      "fullName": "🟡 أسطوري | إكسكاليبور",
-      "rarity": "أسطوري",
-      "rarityEmoji": "🟡",
-      "class": "محارب",
-      "atk": 100,
-      "level": 5,
-      "maxLevel": 5,
-      "baseAtk": 100,
-      "baseCost": 1000,
-      "costMultiplier": 3,
-      "maxAtkBonus": 120,
-      "effect": null,
-      "sockets": [
-        null,
-        null,
-        null
-      ],
-      "maxSockets": 3,
-      "obtainedAt": 1777107157033
-    },
     {
       "id": "أسطوري_محارب_إكسكاليبور",
       "name": "إكسكاليبور",
@@ -584,6 +561,29 @@
       ],
       "maxSockets": 3,
       "obtainedAt": 1777587793705
+    },
+    {
+      "id": "أسطوري_محارب_إكسكاليبور",
+      "name": "إكسكاليبور",
+      "fullName": "🟡 أسطوري | إكسكاليبور",
+      "rarity": "أسطوري",
+      "rarityEmoji": "🟡",
+      "class": "محارب",
+      "atk": 100,
+      "level": 1,
+      "maxLevel": 5,
+      "baseAtk": 100,
+      "baseCost": 1000,
+      "costMultiplier": 3,
+      "maxAtkBonus": 120,
+      "effect": null,
+      "sockets": [
+        null,
+        null,
+        null
+      ],
+      "maxSockets": 3,
+      "obtainedAt": 1777587793705
     }
   ],
   "armors": [
@@ -703,26 +703,6 @@
       "type": "armor"
     },
     {
-      "id": "أسطوري_محارب_خوذة_خوذة_إيغريس",
-      "name": "خوذة إيغريس",
-      "fullName": "🟡 أسطوري | خوذة إيغريس",
-      "rarity": "أسطوري",
-      "rarityEmoji": "🟡",
-      "class": "محارب",
-      "slot": "خوذة",
-      "slotEmoji": "🪖",
-      "def": 70,
-      "bonusType": "mag",
-      "level": 5,
-      "maxLevel": 5,
-      "baseDef": 70,
-      "baseCost": 800,
-      "costMultiplier": 3,
-      "maxDefBonus": 100,
-      "obtainedAt": 1777466464279,
-      "type": "armor"
-    },
-    {
       "id": "أسطوري_محارب_خوذة_خوذة_المهيبة",
       "name": "خوذة المهيبة",
       "fullName": "🟡 أسطوري | خوذة المهيبة",
@@ -807,7 +787,7 @@
     "mythic": 0
   },
   "wins": 456,
-  "losses": 75,
+  "losses": 76,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
@@ -815,7 +795,7 @@
     "bossesDefeated": 0,
     "totalBossDamage": 0,
     "fishCaught": 6639,
-    "mineralsMined": 4899,
+    "mineralsMined": 4929,
     "boxesOpened": 87,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -882,6 +862,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "leader",
   "created": 1776881423012,
-  "lastActive": 1777609318029,
+  "lastActive": 1777610226589,
   "groupId": "120363424226692086@g.us"
 }
