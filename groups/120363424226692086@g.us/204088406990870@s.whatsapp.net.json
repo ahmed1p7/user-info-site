@@ -776,8 +776,8 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 812,
-    "mineralsMined": 807,
+    "fishCaught": 823,
+    "mineralsMined": 818,
     "boxesOpened": 177,
     "boxesOpenedByType": {
       "common": 160,
@@ -814,7 +814,7 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 366,
+    "materialsCollected": 368,
     "dailySellCount": 1583,
     "lastSellReset": 1777639265820,
     "fishSold": 794,
@@ -826,15 +826,26 @@
     "dungeonsCompleted": 2
   },
   "skills": [
-    "heal"
+    "heal",
+    "healing_aura",
+    "group_heal",
+    "time_rewind",
+    "resurrection"
   ],
   "unlockedSkills": {
-    "passive": [],
-    "active": []
+    "passive": [
+      "healing_aura",
+      "time_rewind"
+    ],
+    "active": [
+      "heal",
+      "group_heal",
+      "resurrection"
+    ]
   },
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777634398268,
-  "lastActive": 1777751510568,
+  "lastActive": 1777751834645,
   "groupId": "120363424226692086@g.us"
 }
