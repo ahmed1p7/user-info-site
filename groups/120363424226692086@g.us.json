@@ -64,6 +64,12 @@
       "level": 14
     },
     {
+      "id": "204088406990870@s.whatsapp.net",
+      "name": "سونغ",
+      "class": "شافي",
+      "level": 14
+    },
+    {
       "id": "40265385566406@s.whatsapp.net",
       "name": "زازا",
       "class": "فارس",
@@ -80,14 +86,8 @@
       "name": "SHADOW",
       "class": "محارب",
       "level": 9
-    },
-    {
-      "id": "204088406990870@s.whatsapp.net",
-      "name": "ユセフ",
-      "class": "شافي",
-      "level": 1
     }
   ],
-  "messagesWeek": 4712,
-  "lastUpdated": 1777749655204
+  "messagesWeek": 4735,
+  "lastUpdated": 1777749695946
 }
