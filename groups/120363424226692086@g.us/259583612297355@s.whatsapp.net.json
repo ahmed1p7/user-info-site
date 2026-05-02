@@ -4,7 +4,7 @@
   "nickname": "باتمان",
   "class": "محارب",
   "level": 21,
-  "xp": 38478,
+  "xp": 238056,
   "hp": 882,
   "maxHp": 882,
   "atk": 153,
@@ -12,9 +12,9 @@
   "mag": 23,
   "critRate": 0.09000000000000004,
   "critDamage": 1.7000000000000002,
-  "gold": 426102,
-  "gems": 1261,
-  "elixir": 3532,
+  "gold": 467515,
+  "gems": 1328,
+  "elixir": 3764,
   "stamina": 8,
   "maxStamina": 10,
   "energy": 100,
@@ -78,7 +78,8 @@
       "baseCost": 800,
       "costMultiplier": 3,
       "maxDefBonus": 100,
-      "obtainedAt": 1777416875906
+      "obtainedAt": 1777416875906,
+      "type": "armor"
     },
     "حذاء": {
       "id": "أسطوري_محارب_حذاء_أحذية_التنين_الذهبي",
@@ -460,26 +461,6 @@
       "slotEmoji": "🪖",
       "def": 100,
       "bonusType": "mag",
-      "level": 5,
-      "maxLevel": 5,
-      "baseDef": 100,
-      "baseCost": 800,
-      "costMultiplier": 3,
-      "maxDefBonus": 100,
-      "obtainedAt": 1777416875906,
-      "type": "armor"
-    },
-    {
-      "id": "أسطوري_محارب_خوذة_خوذة_الأبدية",
-      "name": "خوذة الأبدية",
-      "fullName": "🟡 أسطوري | خوذة الأبدية",
-      "rarity": "أسطوري",
-      "rarityEmoji": "🟡",
-      "class": "محارب",
-      "slot": "خوذة",
-      "slotEmoji": "🪖",
-      "def": 100,
-      "bonusType": "mag",
       "level": 1,
       "maxLevel": 5,
       "baseDef": 100,
@@ -566,6 +547,26 @@
       "maxDefBonus": 100,
       "obtainedAt": 1777460479583,
       "type": "armor"
+    },
+    {
+      "id": "أسطوري_محارب_خوذة_خوذة_الأبدية",
+      "name": "خوذة الأبدية",
+      "fullName": "🟡 أسطوري | خوذة الأبدية",
+      "rarity": "أسطوري",
+      "rarityEmoji": "🟡",
+      "class": "محارب",
+      "slot": "خوذة",
+      "slotEmoji": "🪖",
+      "def": 100,
+      "bonusType": "mag",
+      "level": 5,
+      "maxLevel": 5,
+      "baseDef": 100,
+      "baseCost": 800,
+      "costMultiplier": 3,
+      "maxDefBonus": 100,
+      "obtainedAt": 1777416875906,
+      "type": "armor"
     }
   ],
   "boxes": {
@@ -575,17 +576,17 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 394,
-  "losses": 95,
+  "wins": 395,
+  "losses": 99,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 5875,
-    "mineralsMined": 5189,
-    "boxesOpened": 113,
+    "fishCaught": 6547,
+    "mineralsMined": 5770,
+    "boxesOpened": 118,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -602,15 +603,15 @@
     "territoryDefenses": 0,
     "dungeonKills": 360,
     "dungeonDamageDealt": 739499,
-    "fishSold": 5602,
-    "materialsCollected": 2328,
+    "fishSold": 6547,
+    "materialsCollected": 2459,
     "dungeonsCompleted": 6,
-    "materialsSold": 6938,
-    "mineralsSold": 4801,
+    "materialsSold": 8075,
+    "mineralsSold": 5662,
     "itemsMerged": 11,
     "pity": {
-      "epic": 0,
-      "legendary": 0,
+      "epic": 2,
+      "legendary": 3,
       "mythic": 0
     },
     "lastFreeBox": 1777666430320,
@@ -618,8 +619,8 @@
     "clanDungeonsCompleted": 5,
     "clanDungeonDamage": 0,
     "boxesOpenedByType": {
-      "epic": 19,
-      "legendary": 38,
+      "epic": 21,
+      "legendary": 41,
       "common": 4,
       "mythic": 1
     },
@@ -630,7 +631,7 @@
       "hadArmor": false,
       "timestamp": 1777417773560
     },
-    "dailySellCount": 2113,
+    "dailySellCount": 3919,
     "lastSellReset": 1777615001685
   },
   "skills": [
@@ -654,6 +655,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "leader",
   "created": 1776881461393,
-  "lastActive": 1777666493274,
+  "lastActive": 1777710968000,
   "groupId": "120363424226692086@g.us"
 }
