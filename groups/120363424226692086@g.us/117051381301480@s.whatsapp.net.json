@@ -4,18 +4,18 @@
   "nickname": "ايزن",
   "class": "ساحر",
   "level": 13,
-  "xp": 4286,
-  "hp": 1,
+  "xp": 5448,
+  "hp": 0,
   "maxHp": 286,
   "atk": 28,
   "def": 22,
   "mag": 181,
   "critRate": 0.06200000000000001,
   "critDamage": 1.6799999999999988,
-  "gold": 111255,
-  "gems": 18,
-  "elixir": 25,
-  "stamina": 10,
+  "gold": 63367,
+  "gems": 29,
+  "elixir": 105,
+  "stamina": 8,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
@@ -143,33 +143,33 @@
     "mythic": 0
   },
   "wins": 156,
-  "losses": 129,
+  "losses": 131,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 304,
-    "mineralsMined": 228,
-    "boxesOpened": 2,
+    "fishCaught": 306,
+    "mineralsMined": 229,
+    "boxesOpened": 3,
     "boxesOpenedByType": {
       "common": 1,
       "rare": 0,
       "epic": 1,
-      "legendary": 0,
+      "legendary": 1,
       "mythic": 0
     },
     "bestBoxReward": {
-      "boxType": "epic",
-      "value": 2842,
+      "boxType": "legendary",
+      "value": 10500,
       "hadWeapon": false,
       "hadArmor": false,
-      "timestamp": 1777542993738
+      "timestamp": 1777709946644
     },
     "pity": {
       "epic": 1,
-      "legendary": 0,
+      "legendary": 1,
       "mythic": 0
     },
     "lastFreeBox": 1777609662822,
@@ -221,6 +221,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777542343015,
-  "lastActive": 1777709843379,
+  "lastActive": 1777710221796,
   "groupId": "120363424226692086@g.us"
 }
