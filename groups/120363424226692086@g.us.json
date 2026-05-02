@@ -82,12 +82,18 @@
       "level": 12
     },
     {
+      "id": "239049726021734@s.whatsapp.net",
+      "name": "لفلف",
+      "class": "قاتل",
+      "level": 11
+    },
+    {
       "id": "15346689933315@s.whatsapp.net",
       "name": "SHADOW",
       "class": "محارب",
       "level": 9
     }
   ],
-  "messagesWeek": 5568,
-  "lastUpdated": 1777751834648
+  "messagesWeek": 5639,
+  "lastUpdated": 1777752128643
 }
