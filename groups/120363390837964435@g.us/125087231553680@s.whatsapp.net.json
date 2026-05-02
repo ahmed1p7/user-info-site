@@ -4,18 +4,18 @@
   "nickname": "مهند 👍",
   "class": "محارب",
   "level": 14,
-  "xp": 10166,
-  "hp": 688,
-  "maxHp": 688,
-  "atk": 56,
-  "def": 45,
-  "mag": 31,
+  "xp": 14056,
+  "hp": 718,
+  "maxHp": 718,
+  "atk": 58,
+  "def": 47,
+  "mag": 34,
   "critRate": 0.07600000000000003,
   "critDamage": 1.6300000000000001,
-  "gold": 45648,
-  "gems": 120,
+  "gold": 49660,
+  "gems": 123,
   "elixir": 322,
-  "stamina": -1,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
@@ -40,7 +40,46 @@
     "maxSockets": 2,
     "obtainedAt": 1777660619883
   },
-  "equippedArmor": null,
+  "equippedArmor": {
+    "خوذة": {
+      "id": "ملحمي_محارب_خوذة_خوذة_الفينيق",
+      "name": "خوذة الفينيق",
+      "fullName": "🟣 ملحمي | خوذة الفينيق",
+      "rarity": "ملحمي",
+      "rarityEmoji": "🟣",
+      "class": "محارب",
+      "slot": "خوذة",
+      "slotEmoji": "🪖",
+      "def": 58,
+      "bonusType": "mag",
+      "level": 1,
+      "maxLevel": 5,
+      "baseDef": 58,
+      "baseCost": 400,
+      "costMultiplier": 3,
+      "maxDefBonus": 70,
+      "obtainedAt": 1777660619887
+    },
+    "قفازات": {
+      "id": "ملحمي_محارب_قفازات_قفازات_النور",
+      "name": "قفازات النور",
+      "fullName": "🟣 ملحمي | قفازات النور",
+      "rarity": "ملحمي",
+      "rarityEmoji": "🟣",
+      "class": "محارب",
+      "slot": "قفازات",
+      "slotEmoji": "🧤",
+      "def": 48,
+      "bonusType": "atk",
+      "level": 1,
+      "maxLevel": 5,
+      "baseDef": 48,
+      "baseCost": 400,
+      "costMultiplier": 3,
+      "maxDefBonus": 70,
+      "obtainedAt": 1777660619887
+    }
+  },
   "weapons": [
     {
       "id": "ملحمي_محارب_فأس_الجحيم",
@@ -63,6 +102,29 @@
       ],
       "maxSockets": 2,
       "obtainedAt": 1777660619883
+    },
+    {
+      "id": "ملحمي_محارب_سيف_التنين",
+      "name": "سيف التنين",
+      "fullName": "🟣 ملحمي | سيف التنين",
+      "rarity": "ملحمي",
+      "rarityEmoji": "🟣",
+      "class": "محارب",
+      "atk": 42,
+      "level": 1,
+      "maxLevel": 5,
+      "baseAtk": 42,
+      "baseCost": 500,
+      "costMultiplier": 3,
+      "maxAtkBonus": 80,
+      "effect": null,
+      "sockets": [
+        null,
+        null
+      ],
+      "maxSockets": 2,
+      "obtainedAt": 1777624372936,
+      "type": "weapon"
     }
   ],
   "armors": [
@@ -119,8 +181,8 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 815,
-    "mineralsMined": 870,
+    "fishCaught": 908,
+    "mineralsMined": 1062,
     "boxesOpened": 17,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -137,7 +199,7 @@
     "territoriesConquered": 0,
     "territoryDefenses": 0,
     "fishSold": 791,
-    "materialsCollected": 343,
+    "materialsCollected": 379,
     "mineralsSold": 735,
     "pity": {
       "epic": 5,
@@ -185,6 +247,6 @@
   "clanId": "120363390837964435@g.us",
   "clanRole": "leader",
   "created": 1776803661049,
-  "lastActive": 1777660922341,
+  "lastActive": 1777738083784,
   "groupId": "120363390837964435@g.us"
 }
