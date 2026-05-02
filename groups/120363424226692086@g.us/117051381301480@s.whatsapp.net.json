@@ -150,7 +150,7 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 306,
+    "fishCaught": 318,
     "mineralsMined": 229,
     "boxesOpened": 3,
     "boxesOpenedByType": {
@@ -188,7 +188,7 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 255,
+    "materialsCollected": 257,
     "dungeonKills": 156,
     "dungeonDamageDealt": 120785,
     "dungeonsCompleted": 3,
@@ -221,6 +221,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777542343015,
-  "lastActive": 1777710221796,
+  "lastActive": 1777710595705,
   "groupId": "120363424226692086@g.us"
 }
