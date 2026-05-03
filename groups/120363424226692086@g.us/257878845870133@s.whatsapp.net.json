@@ -4,18 +4,18 @@
   "nickname": "ايستود",
   "class": "قاتل",
   "level": 8,
-  "xp": 134,
-  "hp": 120,
+  "xp": 1302,
+  "hp": 105,
   "maxHp": 120,
   "atk": 43,
   "def": 11,
   "mag": 13,
   "critRate": 0.09800000000000003,
   "critDamage": 1.6260000000000001,
-  "gold": 10424,
+  "gold": 9717,
   "gems": 8,
   "elixir": 2,
-  "stamina": 0,
+  "stamina": -1,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
@@ -230,14 +230,14 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 11,
+  "wins": 27,
   "losses": 1,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
-    "dungeonKills": 11,
-    "dungeonDamageDealt": 821,
-    "materialsCollected": 23,
+    "dungeonKills": 27,
+    "dungeonDamageDealt": 4254,
+    "materialsCollected": 48,
     "pity": {
       "epic": 0,
       "legendary": 0,
@@ -256,22 +256,32 @@
       "hadArmor": true,
       "timestamp": 1777820338699
     },
-    "mineralsMined": 3,
-    "fishCaught": 61
+    "mineralsMined": 89,
+    "fishCaught": 92,
+    "materialsSold": 33,
+    "dailySellCount": 92,
+    "lastSellReset": 1777826271737,
+    "fishSold": 92,
+    "dungeonsCompleted": 1
   },
   "skills": [
     "stealth",
-    "poison_blade"
+    "poison_blade",
+    "assassinate",
+    "smoke_bomb"
   ],
   "unlockedSkills": {
     "passive": [
       "poison_blade"
     ],
-    "active": []
+    "active": [
+      "assassinate",
+      "smoke_bomb"
+    ]
   },
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777819698755,
-  "lastActive": 1777826055169,
+  "lastActive": 1777829557833,
   "groupId": "120363424226692086@g.us"
 }
