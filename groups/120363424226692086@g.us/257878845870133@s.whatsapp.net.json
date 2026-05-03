@@ -3,19 +3,19 @@
   "name": "ايستود",
   "nickname": "ايستود",
   "class": "قاتل",
-  "level": 8,
-  "xp": 1637,
-  "hp": 14,
-  "maxHp": 120,
-  "atk": 43,
-  "def": 11,
-  "mag": 13,
-  "critRate": 0.09800000000000003,
-  "critDamage": 1.6260000000000001,
-  "gold": 6125,
-  "gems": 12,
-  "elixir": 21,
-  "stamina": 1,
+  "level": 9,
+  "xp": 403,
+  "hp": 0,
+  "maxHp": 125,
+  "atk": 46,
+  "def": 12,
+  "mag": 14,
+  "critRate": 0.10200000000000004,
+  "critDamage": 1.6440000000000001,
+  "gold": 7907,
+  "gems": 32,
+  "elixir": 73,
+  "stamina": 3,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
@@ -128,6 +128,29 @@
       "effect": null,
       "sockets": [],
       "maxSockets": 0
+    },
+    {
+      "id": "ملحمي_قاتل_خنجر_الموت",
+      "name": "خنجر الموت",
+      "fullName": "🟣 ملحمي | خنجر الموت",
+      "rarity": "ملحمي",
+      "rarityEmoji": "🟣",
+      "class": "قاتل",
+      "atk": 44,
+      "level": 1,
+      "maxLevel": 5,
+      "baseAtk": 44,
+      "baseCost": 500,
+      "costMultiplier": 3,
+      "maxAtkBonus": 80,
+      "effect": null,
+      "sockets": [
+        null,
+        null
+      ],
+      "maxSockets": 2,
+      "obtainedAt": 1777831403353,
+      "merged": true
     }
   ],
   "armors": [
@@ -230,40 +253,42 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 37,
-  "losses": 1,
+  "wins": 40,
+  "losses": 2,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
-    "dungeonKills": 37,
-    "dungeonDamageDealt": 7846,
-    "materialsCollected": 57,
+    "dungeonKills": 40,
+    "dungeonDamageDealt": 8866,
+    "materialsCollected": 67,
     "pity": {
-      "epic": 1,
+      "epic": 2,
       "legendary": 0,
       "mythic": 0
     },
     "lastFreeBox": 1777820295258,
     "freeBoxStreak": 1,
-    "boxesOpened": 2,
+    "boxesOpened": 8,
     "boxesOpenedByType": {
       "common": 1,
-      "epic": 1
+      "epic": 2,
+      "rare": 5
     },
     "bestBoxReward": {
       "boxType": "epic",
-      "value": 2339,
+      "value": 2430,
       "hadWeapon": false,
       "hadArmor": false,
-      "timestamp": 1777829723978
+      "timestamp": 1777830859408
     },
-    "mineralsMined": 356,
-    "fishCaught": 92,
-    "materialsSold": 33,
-    "dailySellCount": 92,
+    "mineralsMined": 448,
+    "fishCaught": 93,
+    "materialsSold": 452,
+    "dailySellCount": 93,
     "lastSellReset": 1777826271737,
-    "fishSold": 92,
-    "dungeonsCompleted": 1
+    "fishSold": 93,
+    "dungeonsCompleted": 1,
+    "itemsMerged": 1
   },
   "skills": [
     "stealth",
@@ -283,6 +308,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777819698755,
-  "lastActive": 1777830819289,
+  "lastActive": 1777831536748,
   "groupId": "120363424226692086@g.us"
 }
