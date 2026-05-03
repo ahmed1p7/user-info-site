@@ -1,21 +1,21 @@
 {
   "id": "204144744898581@s.whatsapp.net",
-  "name": "Tou",
-  "nickname": "Tou",
+  "name": "توو تووتتي",
+  "nickname": "توو تووتتي",
   "class": "فارس",
   "level": 15,
-  "xp": 7159,
-  "hp": 943,
+  "xp": 9035,
+  "hp": 0,
   "maxHp": 943,
   "atk": 99,
   "def": 60,
   "mag": 34,
   "critRate": 0.06400000000000002,
   "critDamage": 1.5699999999999985,
-  "gold": 99353,
+  "gold": 4755,
   "gems": 3,
   "elixir": 0,
-  "stamina": 8,
+  "stamina": 4,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
@@ -60,30 +60,6 @@
       "obtainedAt": 1777409869772
     },
     {
-      "id": "أسطوري_محارب_ذو_الفقار",
-      "name": "ذو الفقار",
-      "fullName": "🟡 أسطوري | ذو الفقار",
-      "rarity": "أسطوري",
-      "rarityEmoji": "🟡",
-      "class": "محارب",
-      "atk": 78,
-      "level": 1,
-      "maxLevel": 5,
-      "baseAtk": 78,
-      "baseCost": 1000,
-      "costMultiplier": 3,
-      "maxAtkBonus": 120,
-      "effect": null,
-      "sockets": [
-        null,
-        null,
-        null
-      ],
-      "maxSockets": 3,
-      "obtainedAt": 1777417777179,
-      "merged": true
-    },
-    {
       "id": "أسطوري_محارب_سيف_إيغريس",
       "name": "سيف إيغريس",
       "fullName": "🟡 أسطوري | سيف إيغريس",
@@ -106,6 +82,30 @@
       "maxSockets": 3,
       "obtainedAt": 1777416783867,
       "type": "weapon"
+    },
+    {
+      "id": "أسطوري_محارب_ذو_الفقار",
+      "name": "ذو الفقار",
+      "fullName": "🟡 أسطوري | ذو الفقار",
+      "rarity": "أسطوري",
+      "rarityEmoji": "🟡",
+      "class": "محارب",
+      "atk": 78,
+      "level": 1,
+      "maxLevel": 5,
+      "baseAtk": 78,
+      "baseCost": 1000,
+      "costMultiplier": 3,
+      "maxAtkBonus": 120,
+      "effect": null,
+      "sockets": [
+        null,
+        null,
+        null
+      ],
+      "maxSockets": 3,
+      "obtainedAt": 1777352111253,
+      "type": "weapon"
     }
   ],
   "armors": [],
@@ -115,8 +115,8 @@
     "epic": 0,
     "legendary": 0
   },
-  "wins": 317,
-  "losses": 59,
+  "wins": 319,
+  "losses": 60,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
@@ -140,17 +140,19 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 432,
+    "materialsCollected": 435,
     "mineralsSold": 197,
-    "dungeonKills": 312,
-    "dungeonDamageDealt": 502124,
-    "fishSold": 232,
-    "clanDungeonsCompleted": 3,
+    "dungeonKills": 314,
+    "dungeonDamageDealt": 509983,
+    "fishSold": 368,
+    "clanDungeonsCompleted": 4,
     "clanDungeonDamage": 0,
     "dungeonsCompleted": 5,
     "itemsCrafted": 1,
-    "materialsSold": 531,
-    "itemsMerged": 1
+    "materialsSold": 720,
+    "itemsMerged": 1,
+    "dailySellCount": 136,
+    "lastSellReset": 1777742844642
   },
   "skills": [
     "shield_wall",
@@ -173,6 +175,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777308443964,
-  "lastActive": 1777496325005,
+  "lastActive": 1777835547305,
   "groupId": "120363424226692086@g.us"
 }
