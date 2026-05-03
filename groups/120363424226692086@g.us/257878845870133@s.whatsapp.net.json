@@ -4,18 +4,18 @@
   "nickname": "ايستود",
   "class": "قاتل",
   "level": 8,
-  "xp": 1302,
-  "hp": 105,
+  "xp": 1637,
+  "hp": 14,
   "maxHp": 120,
   "atk": 43,
   "def": 11,
   "mag": 13,
   "critRate": 0.09800000000000003,
   "critDamage": 1.6260000000000001,
-  "gold": 9717,
-  "gems": 8,
-  "elixir": 2,
-  "stamina": -1,
+  "gold": 6125,
+  "gems": 12,
+  "elixir": 21,
+  "stamina": 1,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
@@ -230,33 +230,34 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 27,
+  "wins": 37,
   "losses": 1,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
-    "dungeonKills": 27,
-    "dungeonDamageDealt": 4254,
-    "materialsCollected": 48,
+    "dungeonKills": 37,
+    "dungeonDamageDealt": 7846,
+    "materialsCollected": 57,
     "pity": {
-      "epic": 0,
+      "epic": 1,
       "legendary": 0,
       "mythic": 0
     },
     "lastFreeBox": 1777820295258,
     "freeBoxStreak": 1,
-    "boxesOpened": 1,
+    "boxesOpened": 2,
     "boxesOpenedByType": {
-      "common": 1
+      "common": 1,
+      "epic": 1
     },
     "bestBoxReward": {
-      "boxType": "common",
-      "value": 180,
+      "boxType": "epic",
+      "value": 2339,
       "hadWeapon": false,
-      "hadArmor": true,
-      "timestamp": 1777820338699
+      "hadArmor": false,
+      "timestamp": 1777829723978
     },
-    "mineralsMined": 89,
+    "mineralsMined": 356,
     "fishCaught": 92,
     "materialsSold": 33,
     "dailySellCount": 92,
@@ -282,6 +283,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777819698755,
-  "lastActive": 1777829557833,
+  "lastActive": 1777830819289,
   "groupId": "120363424226692086@g.us"
 }
