@@ -4,18 +4,18 @@
   "nickname": "ايستود",
   "class": "قاتل",
   "level": 15,
-  "xp": 2538,
-  "hp": 161,
+  "xp": 11871,
+  "hp": 0,
   "maxHp": 161,
   "atk": 73,
   "def": 18,
   "mag": 20,
   "critRate": 0.15600000000000006,
   "critDamage": 1.8520000000000003,
-  "gold": 30799,
+  "gold": 38387,
   "gems": 154,
   "elixir": 504,
-  "stamina": 5,
+  "stamina": 4,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
@@ -536,14 +536,14 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 56,
-  "losses": 13,
+  "wins": 62,
+  "losses": 15,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
-    "dungeonKills": 56,
-    "dungeonDamageDealt": 14709,
-    "materialsCollected": 135,
+    "dungeonKills": 62,
+    "dungeonDamageDealt": 17720,
+    "materialsCollected": 141,
     "pity": {
       "epic": 2,
       "legendary": 0,
@@ -564,16 +564,16 @@
       "hadArmor": false,
       "timestamp": 1777830859408
     },
-    "mineralsMined": 1656,
-    "fishCaught": 449,
+    "mineralsMined": 1954,
+    "fishCaught": 452,
     "materialsSold": 1791,
-    "dailySellCount": 2105,
+    "dailySellCount": 2403,
     "lastSellReset": 1777826271737,
     "fishSold": 449,
-    "dungeonsCompleted": 1,
+    "dungeonsCompleted": 2,
     "itemsMerged": 3,
     "mergesFailed": 1,
-    "mineralsSold": 1656
+    "mineralsSold": 1954
   },
   "skills": [
     "stealth",
@@ -596,6 +596,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777819698755,
-  "lastActive": 1777842843350,
+  "lastActive": 1777848729830,
   "groupId": "120363424226692086@g.us"
 }
