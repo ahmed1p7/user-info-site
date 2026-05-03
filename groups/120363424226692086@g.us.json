@@ -98,8 +98,14 @@
       "name": "SHADOW",
       "class": "محارب",
       "level": 9
+    },
+    {
+      "id": "257878845870133@s.whatsapp.net",
+      "name": "ايستود",
+      "class": "قاتل",
+      "level": 4
     }
   ],
-  "messagesWeek": 2912,
-  "lastUpdated": 1777809001876
+  "messagesWeek": 4773,
+  "lastUpdated": 1777820172630
 }
