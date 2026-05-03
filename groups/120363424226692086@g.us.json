@@ -58,6 +58,12 @@
       "level": 15
     },
     {
+      "id": "257878845870133@s.whatsapp.net",
+      "name": "ايستود",
+      "class": "قاتل",
+      "level": 15
+    },
+    {
       "id": "13125856264420@s.whatsapp.net",
       "name": "تو",
       "class": "قاتل",
@@ -67,12 +73,6 @@
       "id": "11614178824270@s.whatsapp.net",
       "name": "يوهان",
       "class": "فارس",
-      "level": 14
-    },
-    {
-      "id": "257878845870133@s.whatsapp.net",
-      "name": "ايستود",
-      "class": "قاتل",
       "level": 14
     },
     {
@@ -106,6 +106,6 @@
       "level": 9
     }
   ],
-  "messagesWeek": 3006,
-  "lastUpdated": 1777837463194
+  "messagesWeek": 3461,
+  "lastUpdated": 1777842843360
 }
