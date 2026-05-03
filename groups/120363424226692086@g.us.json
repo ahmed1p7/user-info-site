@@ -52,15 +52,15 @@
       "level": 15
     },
     {
-      "id": "13125856264420@s.whatsapp.net",
-      "name": "تو",
-      "class": "قاتل",
-      "level": 14
-    },
-    {
       "id": "117051381301480@s.whatsapp.net",
       "name": "ايزن",
       "class": "ساحر",
+      "level": 15
+    },
+    {
+      "id": "13125856264420@s.whatsapp.net",
+      "name": "تو",
+      "class": "قاتل",
       "level": 14
     },
     {
@@ -94,6 +94,6 @@
       "level": 9
     }
   ],
-  "messagesWeek": 1048,
-  "lastUpdated": 1777799648079
+  "messagesWeek": 1514,
+  "lastUpdated": 1777804418461
 }
