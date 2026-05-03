@@ -70,6 +70,12 @@
       "level": 14
     },
     {
+      "id": "257878845870133@s.whatsapp.net",
+      "name": "ايستود",
+      "class": "قاتل",
+      "level": 14
+    },
+    {
       "id": "40265385566406@s.whatsapp.net",
       "name": "زازا",
       "class": "فارس",
@@ -88,12 +94,6 @@
       "level": 11
     },
     {
-      "id": "257878845870133@s.whatsapp.net",
-      "name": "ايستود",
-      "class": "قاتل",
-      "level": 11
-    },
-    {
       "id": "275819142377516@s.whatsapp.net",
       "name": "ℜ𝔲𝔲",
       "class": "فارس",
@@ -106,6 +106,6 @@
       "level": 9
     }
   ],
-  "messagesWeek": 2856,
-  "lastUpdated": 1777836491189
+  "messagesWeek": 2944,
+  "lastUpdated": 1777837108772
 }
