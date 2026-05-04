@@ -4,18 +4,18 @@
   "nickname": "ايستود",
   "class": "قاتل",
   "level": 15,
-  "xp": 11871,
-  "hp": 0,
+  "xp": 20562,
+  "hp": 1,
   "maxHp": 161,
   "atk": 73,
   "def": 18,
   "mag": 20,
   "critRate": 0.15600000000000006,
   "critDamage": 1.8520000000000003,
-  "gold": 38387,
+  "gold": 41766,
   "gems": 154,
   "elixir": 504,
-  "stamina": 4,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
@@ -154,48 +154,6 @@
       "maxSockets": 2,
       "obtainedAt": 1777831403353,
       "merged": true
-    },
-    {
-      "id": "نادر_قاتل_خنجر_السموم",
-      "name": "خنجر السموم",
-      "fullName": "🔵 نادر | خنجر السموم",
-      "rarity": "نادر",
-      "rarityEmoji": "🔵",
-      "class": "قاتل",
-      "atk": 23,
-      "level": 1,
-      "maxLevel": 5,
-      "baseAtk": 23,
-      "baseCost": 200,
-      "costMultiplier": 3,
-      "maxAtkBonus": 60,
-      "effect": null,
-      "sockets": [
-        null
-      ],
-      "maxSockets": 1,
-      "obtainedAt": 1777835432010
-    },
-    {
-      "id": "نادر_قاتل_خنجر_السموم",
-      "name": "خنجر السموم",
-      "fullName": "🔵 نادر | خنجر السموم",
-      "rarity": "نادر",
-      "rarityEmoji": "🔵",
-      "class": "قاتل",
-      "atk": 23,
-      "level": 1,
-      "maxLevel": 5,
-      "baseAtk": 23,
-      "baseCost": 200,
-      "costMultiplier": 3,
-      "maxAtkBonus": 60,
-      "effect": null,
-      "sockets": [
-        null
-      ],
-      "maxSockets": 1,
-      "obtainedAt": 1777836958503
     },
     {
       "id": "نادر_قاتل_خنجر_الليل",
@@ -564,16 +522,16 @@
       "hadArmor": false,
       "timestamp": 1777830859408
     },
-    "mineralsMined": 1954,
-    "fishCaught": 452,
-    "materialsSold": 1791,
-    "dailySellCount": 2403,
+    "mineralsMined": 2455,
+    "fishCaught": 457,
+    "materialsSold": 2593,
+    "dailySellCount": 2909,
     "lastSellReset": 1777826271737,
-    "fishSold": 449,
+    "fishSold": 455,
     "dungeonsCompleted": 2,
     "itemsMerged": 3,
-    "mergesFailed": 1,
-    "mineralsSold": 1954
+    "mergesFailed": 2,
+    "mineralsSold": 2454
   },
   "skills": [
     "stealth",
@@ -596,6 +554,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777819698755,
-  "lastActive": 1777848729830,
+  "lastActive": 1777898295816,
   "groupId": "120363424226692086@g.us"
 }
