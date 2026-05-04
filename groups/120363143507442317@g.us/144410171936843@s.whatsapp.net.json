@@ -3,19 +3,19 @@
   "name": "ابراهيم",
   "nickname": "ابراهيم",
   "class": "محارب",
-  "level": 8,
-  "xp": 2371,
-  "hp": 0,
-  "maxHp": 351,
-  "atk": 22,
-  "def": 19,
-  "mag": 10,
-  "critRate": 0.06400000000000002,
-  "critDamage": 1.57,
-  "gold": 101536,
-  "gems": 5,
+  "level": 11,
+  "xp": 162,
+  "hp": 442,
+  "maxHp": 442,
+  "atk": 30,
+  "def": 22,
+  "mag": 13,
+  "critRate": 0.07000000000000002,
+  "critDamage": 1.6,
+  "gold": 103138,
+  "gems": 13,
   "elixir": 0,
-  "stamina": 10,
+  "stamina": 6,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": {
@@ -211,15 +211,15 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 40,
-  "losses": 2,
+  "wins": 52,
+  "losses": 4,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 372,
+    "fishCaught": 747,
     "mineralsMined": 6,
     "boxesOpened": 0,
     "boxesOpenedByType": {
@@ -251,9 +251,9 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 149,
-    "dungeonKills": 40,
-    "dungeonDamageDealt": 8859,
+    "materialsCollected": 235,
+    "dungeonKills": 52,
+    "dungeonDamageDealt": 13332,
     "dungeonsCompleted": 1,
     "dailySellCount": 37,
     "lastSellReset": 1777748484001,
@@ -261,15 +261,22 @@
     "materialsSold": 50
   },
   "skills": [
-    "double_strike"
+    "double_strike",
+    "warrior_endurance",
+    "lifesteal",
+    "berserk_mode"
   ],
   "unlockedSkills": {
-    "passive": [],
+    "passive": [
+      "warrior_endurance",
+      "lifesteal",
+      "berserk_mode"
+    ],
     "active": []
   },
   "clanId": null,
   "clanRole": null,
   "created": 1777666544906,
-  "lastActive": 1777765751521,
+  "lastActive": 1777858621069,
   "groupId": "120363143507442317@g.us"
 }
