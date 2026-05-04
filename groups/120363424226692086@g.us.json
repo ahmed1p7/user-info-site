@@ -4,16 +4,16 @@
   "emoji": "🏗",
   "members": [
     {
+      "id": "238706262851666@s.whatsapp.net",
+      "name": "مورفي لاندو",
+      "class": "محارب",
+      "level": 26
+    },
+    {
       "id": "259583612297355@s.whatsapp.net",
       "name": "باتمان",
       "class": "محارب",
       "level": 24
-    },
-    {
-      "id": "238706262851666@s.whatsapp.net",
-      "name": "مورفي لاندو",
-      "class": "محارب",
-      "level": 23
     },
     {
       "id": "23816063467666@s.whatsapp.net",
@@ -106,6 +106,6 @@
       "level": 9
     }
   ],
-  "messagesWeek": 3972,
-  "lastUpdated": 1777848729837
+  "messagesWeek": 218,
+  "lastUpdated": 1777854309285
 }
