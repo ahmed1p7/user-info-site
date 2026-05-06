@@ -12,7 +12,7 @@
   "mag": 15,
   "critRate": 0.06300000000000001,
   "critDamage": 1.5649999999999986,
-  "gold": 15369,
+  "gold": 14972,
   "gems": 10,
   "elixir": 3,
   "stamina": 10,
@@ -98,6 +98,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1776881415988,
-  "lastActive": 1778054068993,
+  "lastActive": 1778067745187,
   "groupId": "120363424226692086@g.us"
 }
