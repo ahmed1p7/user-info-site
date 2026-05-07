@@ -110,8 +110,14 @@
       "name": "SHADOW",
       "class": "محارب",
       "level": 9
+    },
+    {
+      "id": "165880646348802@s.whatsapp.net",
+      "name": "سون غوكو",
+      "class": "محارب",
+      "level": 4
     }
   ],
-  "messagesWeek": 2537,
-  "lastUpdated": 1778156804537
+  "messagesWeek": 2919,
+  "lastUpdated": 1778160250901
 }
