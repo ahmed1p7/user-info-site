@@ -4,18 +4,18 @@
   "nickname": "سون غوكو",
   "class": "محارب",
   "level": 10,
-  "xp": 281,
-  "hp": 1,
-  "maxHp": 442,
-  "atk": 34,
-  "def": 27,
-  "mag": 12,
+  "xp": 304,
+  "hp": 31,
+  "maxHp": 472,
+  "atk": 40,
+  "def": 33,
+  "mag": 21,
   "critRate": 0.06800000000000002,
   "critDamage": 1.59,
-  "gold": 14629,
-  "gems": 8,
+  "gold": 14910,
+  "gems": 9,
   "elixir": 0,
-  "stamina": -1,
+  "stamina": 0,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -179,15 +179,33 @@
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
-    "mineralsMined": 39,
-    "fishCaught": 40,
-    "materialsSold": 62,
-    "dailySellCount": 40,
+    "mineralsMined": 40,
+    "fishCaught": 41,
+    "materialsSold": 63,
+    "dailySellCount": 41,
     "lastSellReset": 1778159743024,
-    "fishSold": 40,
+    "fishSold": 41,
     "materialsCollected": 23,
     "dungeonKills": 13,
-    "dungeonDamageDealt": 1089
+    "dungeonDamageDealt": 1089,
+    "pity": {
+      "epic": 0,
+      "legendary": 0,
+      "mythic": 0
+    },
+    "lastFreeBox": 1778185449507,
+    "freeBoxStreak": 1,
+    "boxesOpened": 1,
+    "boxesOpenedByType": {
+      "common": 1
+    },
+    "bestBoxReward": {
+      "boxType": "common",
+      "value": 245,
+      "hadWeapon": false,
+      "hadArmor": false,
+      "timestamp": 1778185468136
+    }
   },
   "skills": [
     "double_strike"
@@ -201,6 +219,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1778159528872,
-  "lastActive": 1778185315071,
+  "lastActive": 1778185796322,
   "groupId": "120363424226692086@g.us"
 }
