@@ -4,7 +4,7 @@
   "nickname": "تيريون لانيستر",
   "class": "محارب",
   "level": 18,
-  "xp": 55648,
+  "xp": 60148,
   "hp": 866,
   "maxHp": 866,
   "atk": 84,
@@ -12,7 +12,7 @@
   "mag": 20,
   "critRate": 0.08400000000000003,
   "critDamage": 1.6700000000000002,
-  "gold": 19821,
+  "gold": 28855,
   "gems": 54,
   "elixir": 19,
   "stamina": 1,
@@ -247,9 +247,9 @@
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
-    "fishCaught": 748,
-    "materialsCollected": 573,
-    "mineralsMined": 594,
+    "fishCaught": 769,
+    "materialsCollected": 580,
+    "mineralsMined": 624,
     "dailySellCount": 1130,
     "lastSellReset": 1777614764945,
     "mineralsSold": 416,
@@ -299,6 +299,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777613816222,
-  "lastActive": 1778151060500,
+  "lastActive": 1778152005401,
   "groupId": "120363424226692086@g.us"
 }
