@@ -4,20 +4,20 @@
   "nickname": "سون غوكو",
   "class": "محارب",
   "level": 4,
-  "xp": 39,
-  "hp": 261,
+  "xp": 201,
+  "hp": 251,
   "maxHp": 261,
   "atk": 24,
   "def": 21,
   "mag": 6,
   "critRate": 0.05600000000000001,
   "critDamage": 1.53,
-  "gold": 3722,
+  "gold": 5008,
   "gems": 8,
   "elixir": 0,
-  "stamina": 10,
+  "stamina": -1,
   "maxStamina": 10,
-  "energy": 0,
+  "energy": 100,
   "equippedWeapon": null,
   "equippedArmor": {
     "خوذة": {
@@ -174,17 +174,20 @@
     "epic": 0,
     "legendary": 0
   },
-  "wins": 0,
+  "wins": 6,
   "losses": 0,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
-    "mineralsMined": 2,
-    "fishCaught": 2,
-    "materialsSold": 2,
-    "dailySellCount": 2,
+    "mineralsMined": 14,
+    "fishCaught": 10,
+    "materialsSold": 20,
+    "dailySellCount": 9,
     "lastSellReset": 1778159743024,
-    "fishSold": 2
+    "fishSold": 9,
+    "materialsCollected": 7,
+    "dungeonKills": 6,
+    "dungeonDamageDealt": 337
   },
   "skills": [
     "double_strike"
@@ -198,6 +201,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1778159528872,
-  "lastActive": 1778160250892,
+  "lastActive": 1778161019967,
   "groupId": "120363424226692086@g.us"
 }
