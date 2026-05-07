@@ -4,7 +4,7 @@
   "nickname": "زازا",
   "class": "فارس",
   "level": 14,
-  "xp": 5900,
+  "xp": 14197,
   "hp": 1,
   "maxHp": 795,
   "atk": 99,
@@ -12,7 +12,7 @@
   "mag": 15,
   "critRate": 0.06300000000000001,
   "critDamage": 1.5649999999999986,
-  "gold": 14972,
+  "gold": 3812,
   "gems": 10,
   "elixir": 3,
   "stamina": 10,
@@ -28,15 +28,15 @@
     "epic": 0,
     "legendary": 0
   },
-  "wins": 95,
-  "losses": 14,
+  "wins": 163,
+  "losses": 15,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 517,
+    "fishCaught": 840,
     "mineralsMined": 333,
     "boxesOpened": 1,
     "weaponsUpgraded": 0,
@@ -53,12 +53,12 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "fishSold": 517,
-    "dungeonKills": 92,
-    "dungeonDamageDealt": 43931,
+    "fishSold": 840,
+    "dungeonKills": 160,
+    "dungeonDamageDealt": 55057,
     "dungeonsCompleted": 2,
     "mineralsSold": 181,
-    "materialsCollected": 155,
+    "materialsCollected": 290,
     "pity": {
       "epic": 0,
       "legendary": 0,
@@ -77,9 +77,11 @@
       "hadArmor": false,
       "timestamp": 1777405487579
     },
-    "clanDungeonsCompleted": 1,
-    "dailySellCount": 253,
-    "lastSellReset": 1777994698751
+    "clanDungeonsCompleted": 2,
+    "dailySellCount": 576,
+    "lastSellReset": 1777994698751,
+    "weeklyShopLastReset": 0,
+    "weeklyShopPurchases": {}
   },
   "skills": [
     "shield_wall",
@@ -98,6 +100,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1776881415988,
-  "lastActive": 1778067745187,
+  "lastActive": 1778156804531,
   "groupId": "120363424226692086@g.us"
 }
