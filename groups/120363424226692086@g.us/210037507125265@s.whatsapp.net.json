@@ -4,7 +4,7 @@
   "nickname": "تيريون لانيستر",
   "class": "محارب",
   "level": 18,
-  "xp": 22541,
+  "xp": 33741,
   "hp": 866,
   "maxHp": 866,
   "atk": 84,
@@ -12,37 +12,13 @@
   "mag": 20,
   "critRate": 0.08400000000000003,
   "critDamage": 1.6700000000000002,
-  "gold": 66490,
+  "gold": 76670,
   "gems": 52,
   "elixir": 19,
-  "stamina": 4,
+  "stamina": 8,
   "maxStamina": 10,
   "energy": 100,
-  "equippedWeapon": {
-    "id": "أسطوري_محارب_سيف_إيغريس",
-    "name": "سيف إيغريس",
-    "fullName": "🟡 أسطوري | سيف إيغريس",
-    "rarity": "أسطوري",
-    "rarityEmoji": "🟡",
-    "class": "محارب",
-    "atk": 88,
-    "level": 1,
-    "maxLevel": 5,
-    "baseAtk": 88,
-    "baseCost": 1000,
-    "costMultiplier": 3,
-    "maxAtkBonus": 120,
-    "effect": null,
-    "sockets": [
-      null,
-      null,
-      null
-    ],
-    "maxSockets": 3,
-    "obtainedAt": 1777462328549,
-    "merged": true,
-    "type": "weapon"
-  },
+  "equippedWeapon": null,
   "equippedArmor": {
     "خوذة": {
       "id": "أسطوري_محارب_خوذة_خوذة_الأبدية",
@@ -121,52 +97,7 @@
       "type": "armor"
     }
   },
-  "weapons": [
-    {
-      "id": "أسطوري_محارب_سيف_إيغريس",
-      "name": "سيف إيغريس",
-      "fullName": "🟡 أسطوري | سيف إيغريس",
-      "rarity": "أسطوري",
-      "rarityEmoji": "🟡",
-      "class": "محارب",
-      "atk": 88,
-      "level": 5,
-      "maxLevel": 5,
-      "baseAtk": 88,
-      "baseCost": 1000,
-      "costMultiplier": 3,
-      "maxAtkBonus": 120,
-      "effect": null,
-      "sockets": [
-        null,
-        null,
-        null
-      ],
-      "maxSockets": 3,
-      "obtainedAt": 1777462328549,
-      "merged": true,
-      "type": "weapon"
-    },
-    {
-      "id": "شائع_محارب_سيف_خشبي",
-      "name": "سيف خشبي",
-      "fullName": "⚪ شائع | سيف خشبي",
-      "rarity": "شائع",
-      "rarityEmoji": "⚪",
-      "class": "محارب",
-      "atk": 5,
-      "level": 1,
-      "maxLevel": 20,
-      "baseAtk": 5,
-      "baseCost": 50,
-      "costMultiplier": 1,
-      "maxAtkBonus": 50,
-      "effect": null,
-      "sockets": [],
-      "maxSockets": 0,
-      "type": "weapon"
-    }
-  ],
+  "weapons": [],
   "armors": [
     {
       "id": "شائع_محارب_حذاء_أحذية_جلدية",
@@ -311,8 +242,8 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 300,
-  "losses": 24,
+  "wins": 301,
+  "losses": 25,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
@@ -368,6 +299,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777613816222,
-  "lastActive": 1777754516827,
+  "lastActive": 1778147367144,
   "groupId": "120363424226692086@g.us"
 }
