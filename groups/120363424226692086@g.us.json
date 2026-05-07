@@ -94,6 +94,12 @@
       "level": 12
     },
     {
+      "id": "165880646348802@s.whatsapp.net",
+      "name": "سون غوكو",
+      "class": "محارب",
+      "level": 11
+    },
+    {
       "id": "275819142377516@s.whatsapp.net",
       "name": "ℜ𝔲𝔲",
       "class": "فارس",
@@ -106,18 +112,12 @@
       "level": 10
     },
     {
-      "id": "165880646348802@s.whatsapp.net",
-      "name": "سون غوكو",
-      "class": "محارب",
-      "level": 10
-    },
-    {
       "id": "15346689933315@s.whatsapp.net",
       "name": "SHADOW",
       "class": "محارب",
       "level": 9
     }
   ],
-  "messagesWeek": 6234,
-  "lastUpdated": 1778187508405
+  "messagesWeek": 6646,
+  "lastUpdated": 1778189290611
 }
