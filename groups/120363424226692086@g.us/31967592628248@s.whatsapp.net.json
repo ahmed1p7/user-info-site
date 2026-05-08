@@ -3,19 +3,19 @@
   "name": "غريم فواز الغير متوج",
   "nickname": "غريم فواز الغير متوج",
   "class": "قاتل",
-  "level": 1,
-  "xp": 600,
-  "hp": 1,
-  "maxHp": 85,
-  "atk": 20,
-  "def": 4,
-  "mag": 6,
-  "critRate": 0.05,
-  "critDamage": 1.5,
-  "gold": 1004000,
-  "gems": 8,
-  "elixir": 0,
-  "stamina": 10,
+  "level": 8,
+  "xp": 1323,
+  "hp": 170,
+  "maxHp": 170,
+  "atk": 59,
+  "def": 21,
+  "mag": 28,
+  "critRate": 0.09800000000000003,
+  "critDamage": 1.6260000000000001,
+  "gold": 1040867,
+  "gems": 227,
+  "elixir": 572,
+  "stamina": -1,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -174,11 +174,33 @@
     "epic": 0,
     "legendary": 0
   },
-  "wins": 0,
-  "losses": 0,
+  "wins": 5,
+  "losses": 1,
   "evolvedClass": null,
   "evolutionPath": null,
-  "stats": {},
+  "stats": {
+    "fishCaught": 9,
+    "materialsCollected": 9,
+    "mineralsMined": 85,
+    "pity": {
+      "epic": 0,
+      "legendary": 9,
+      "mythic": 0
+    },
+    "boxesOpened": 11,
+    "boxesOpenedByType": {
+      "legendary": 11
+    },
+    "bestBoxReward": {
+      "boxType": "legendary",
+      "value": 10025,
+      "hadWeapon": false,
+      "hadArmor": false,
+      "timestamp": 1778215699879
+    },
+    "dungeonKills": 5,
+    "dungeonDamageDealt": 256
+  },
   "skills": [
     "stealth"
   ],
@@ -189,6 +211,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1777646216868,
-  "lastActive": 1778215166740,
+  "lastActive": 1778218147451,
   "groupId": "120363424226692086@g.us"
 }
