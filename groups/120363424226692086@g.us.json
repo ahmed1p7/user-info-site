@@ -40,6 +40,12 @@
       "level": 17
     },
     {
+      "id": "117051381301480@s.whatsapp.net",
+      "name": "ايزن",
+      "class": "ساحر",
+      "level": 16
+    },
+    {
       "id": "204144744898581@s.whatsapp.net",
       "name": "توو تووتتي",
       "class": "فارس",
@@ -55,12 +61,6 @@
       "id": "204088406990870@s.whatsapp.net",
       "name": "سونغ",
       "class": "شافي",
-      "level": 15
-    },
-    {
-      "id": "117051381301480@s.whatsapp.net",
-      "name": "ايزن",
-      "class": "ساحر",
       "level": 15
     },
     {
@@ -124,6 +124,6 @@
       "level": 8
     }
   ],
-  "messagesWeek": 1802,
-  "lastUpdated": 1778354757784
+  "messagesWeek": 2405,
+  "lastUpdated": 1778357627132
 }
