@@ -4,7 +4,7 @@
   "nickname": "باتمان",
   "class": "برسيرك",
   "level": 42,
-  "xp": 645751454,
+  "xp": 645758537,
   "hp": 2436,
   "maxHp": 2436,
   "atk": 258,
@@ -12,10 +12,10 @@
   "mag": 83,
   "critRate": 0.13200000000000006,
   "critDamage": 1.9100000000000004,
-  "gold": 595138928,
-  "gems": 4458,
+  "gold": 595151327,
+  "gems": 4460,
   "elixir": 12466,
-  "stamina": 304,
+  "stamina": 300,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -493,15 +493,15 @@
     "mythic": 0
   },
   "wins": 6667,
-  "losses": 423,
+  "losses": 425,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 27988,
-    "mineralsMined": 22053,
+    "fishCaught": 28380,
+    "mineralsMined": 22268,
     "boxesOpened": 432,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -520,7 +520,7 @@
     "dungeonKills": 6614,
     "dungeonDamageDealt": 13172822,
     "fishSold": 17716,
-    "materialsCollected": 14200,
+    "materialsCollected": 14335,
     "dungeonsCompleted": 8,
     "materialsSold": 16708,
     "mineralsSold": 17288,
@@ -551,7 +551,8 @@
     "dailySellCount": 26714,
     "lastSellReset": 1777615001685,
     "weeklyShopLastReset": 0,
-    "weeklyShopPurchases": {}
+    "weeklyShopPurchases": {},
+    "playerSkills": {}
   },
   "skills": [
     "double_strike",
@@ -586,6 +587,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "leader",
   "created": 1776881461393,
-  "lastActive": 1778428617059,
+  "lastActive": 1778441714766,
   "groupId": "120363424226692086@g.us"
 }
