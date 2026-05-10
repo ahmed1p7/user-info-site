@@ -4,18 +4,18 @@
   "nickname": "ايزن",
   "class": "ساحر",
   "level": 16,
-  "xp": 6227,
-  "hp": 0,
+  "xp": 12821,
+  "hp": 1,
   "maxHp": 307,
   "atk": 39,
   "def": 39,
   "mag": 207,
   "critRate": 0.06500000000000002,
   "critDamage": 1.7249999999999985,
-  "gold": 33279,
-  "gems": 92,
-  "elixir": 216,
-  "stamina": 8,
+  "gold": 69034,
+  "gems": 181,
+  "elixir": 379,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -30,33 +30,33 @@
     "mythic": 0
   },
   "wins": 209,
-  "losses": 180,
+  "losses": 190,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 910,
-    "mineralsMined": 476,
-    "boxesOpened": 7,
+    "fishCaught": 932,
+    "mineralsMined": 589,
+    "boxesOpened": 39,
     "boxesOpenedByType": {
-      "common": 2,
+      "common": 32,
       "rare": 0,
       "epic": 2,
-      "legendary": 3,
+      "legendary": 5,
       "mythic": 0
     },
     "bestBoxReward": {
       "boxType": "legendary",
-      "value": 14324,
+      "value": 14707,
       "hadWeapon": false,
       "hadArmor": false,
-      "timestamp": 1778232079526
+      "timestamp": 1778361726246
     },
     "pity": {
       "epic": 2,
-      "legendary": 3,
+      "legendary": 5,
       "mythic": 0
     },
     "lastFreeBox": 1778231988693,
@@ -75,7 +75,7 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 488,
+    "materialsCollected": 503,
     "dungeonKills": 205,
     "dungeonDamageDealt": 207589,
     "dungeonsCompleted": 4,
@@ -95,13 +95,15 @@
     "frozen_spell",
     "mana_shield",
     "bounty_aura",
-    "cursed_luck"
+    "cursed_luck",
+    "arcane_resonance"
   ],
   "unlockedSkills": {
     "passive": [
       "mana_shield",
       "bounty_aura",
-      "cursed_luck"
+      "cursed_luck",
+      "arcane_resonance"
     ],
     "active": [
       "frozen_spell",
@@ -111,6 +113,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777542343015,
-  "lastActive": 1778357627105,
+  "lastActive": 1778403257733,
   "groupId": "120363424226692086@g.us"
 }
