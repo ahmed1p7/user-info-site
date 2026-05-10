@@ -3,18 +3,18 @@
   "name": "يوهان",
   "nickname": "يوهان",
   "class": "فارس",
-  "level": 18,
-  "xp": 37249,
-  "hp": 1,
-  "maxHp": 1237,
-  "atk": 76,
-  "def": 93,
-  "mag": 22,
-  "critRate": 0.06700000000000002,
-  "critDamage": 1.5849999999999982,
-  "gold": 1605444,
-  "gems": 73,
-  "elixir": 161,
+  "level": 19,
+  "xp": 72371,
+  "hp": 1305,
+  "maxHp": 1305,
+  "atk": 79,
+  "def": 96,
+  "mag": 23,
+  "critRate": 0.06800000000000002,
+  "critDamage": 1.589999999999998,
+  "gold": 662704,
+  "gems": 183,
+  "elixir": 570,
   "stamina": -1,
   "maxStamina": 10,
   "energy": 100,
@@ -26,10 +26,10 @@
     "common": 0,
     "rare": 0,
     "epic": 2,
-    "legendary": 6,
-    "mythic": 3
+    "legendary": 8,
+    "mythic": 0
   },
-  "wins": 195,
+  "wins": 201,
   "losses": 11,
   "evolvedClass": null,
   "evolutionPath": null,
@@ -37,9 +37,9 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 2801,
-    "mineralsMined": 1526,
-    "boxesOpened": 2,
+    "fishCaught": 8615,
+    "mineralsMined": 1694,
+    "boxesOpened": 5,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -54,9 +54,9 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 670,
-    "dungeonKills": 193,
-    "dungeonDamageDealt": 125710,
+    "materialsCollected": 2688,
+    "dungeonKills": 198,
+    "dungeonDamageDealt": 129790,
     "dungeonsCompleted": 2,
     "materialsSold": 918,
     "fishSold": 1404,
@@ -67,11 +67,11 @@
     "pity": {
       "epic": 0,
       "legendary": 1,
-      "mythic": 1
+      "mythic": 4
     },
     "boxesOpenedByType": {
       "legendary": 1,
-      "mythic": 1
+      "mythic": 4
     },
     "bestBoxReward": {
       "boxType": "mythic",
@@ -79,7 +79,9 @@
       "hadWeapon": false,
       "hadArmor": false,
       "timestamp": 1778226151153
-    }
+    },
+    "weeklyShopLastReset": 0,
+    "weeklyShopPurchases": {}
   },
   "skills": [
     "shield_wall"
@@ -91,6 +93,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1776965245297,
-  "lastActive": 1778289769685,
+  "lastActive": 1778403468330,
   "groupId": "120363424226692086@g.us"
 }
