@@ -88,15 +88,15 @@
       "level": 14
     },
     {
-      "id": "276811061665835@s.whatsapp.net",
-      "name": "سانجي",
-      "class": "ساحر",
-      "level": 12
-    },
-    {
       "id": "165880646348802@s.whatsapp.net",
       "name": "سون غوكو",
       "class": "محارب",
+      "level": 13
+    },
+    {
+      "id": "276811061665835@s.whatsapp.net",
+      "name": "سانجي",
+      "class": "ساحر",
       "level": 12
     },
     {
@@ -124,6 +124,6 @@
       "level": 8
     }
   ],
-  "messagesWeek": 2903,
-  "lastUpdated": 1778428628481
+  "messagesWeek": 3107,
+  "lastUpdated": 1778430284640
 }
