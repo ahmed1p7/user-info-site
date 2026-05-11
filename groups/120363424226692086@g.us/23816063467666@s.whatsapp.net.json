@@ -4,7 +4,7 @@
   "nickname": "سيقمير اوف كاترينا",
   "class": "محارب",
   "level": 28,
-  "xp": 4043880,
+  "xp": 4033568,
   "hp": 1,
   "maxHp": 1414,
   "atk": 177,
@@ -12,9 +12,9 @@
   "mag": 30,
   "critRate": 0.10400000000000005,
   "critDamage": 1.7700000000000002,
-  "gold": 946649,
-  "gems": 2138,
-  "elixir": 5467,
+  "gold": 1782567,
+  "gems": 2207,
+  "elixir": 5709,
   "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
@@ -495,9 +495,9 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 20288,
+    "fishCaught": 20316,
     "mineralsMined": 14835,
-    "boxesOpened": 533,
+    "boxesOpened": 556,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -515,7 +515,7 @@
     "fishSold": 15916,
     "dungeonKills": 4433,
     "dungeonDamageDealt": 8771739,
-    "materialsCollected": 10188,
+    "materialsCollected": 10201,
     "materialsSold": 19402,
     "dungeonsCompleted": 6,
     "itemsMerged": 14,
@@ -528,10 +528,10 @@
     },
     "boxesOpenedByType": {
       "epic": 54,
-      "common": 344,
+      "common": 345,
       "mythic": 3,
       "legendary": 33,
-      "rare": 11
+      "rare": 33
     },
     "bestBoxReward": {
       "boxType": "mythic",
@@ -546,7 +546,13 @@
     "dailySellCount": 17989,
     "lastSellReset": 1777640022239,
     "playerSkills": {
-      "lucky": 5
+      "lucky": 5,
+      "fishing_luck": 5,
+      "mining_luck": 5,
+      "merchant": 5,
+      "blacksmith": 5,
+      "healer": 5,
+      "guardian": 5
     },
     "weeklyShopLastReset": 0,
     "weeklyShopPurchases": {}
@@ -578,6 +584,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "deputy",
   "created": 1776891817820,
-  "lastActive": 1778497155447,
+  "lastActive": 1778498022766,
   "groupId": "120363424226692086@g.us"
 }
