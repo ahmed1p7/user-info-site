@@ -4,15 +4,15 @@
   "nickname": "زازا",
   "class": "فارس",
   "level": 15,
-  "xp": 1687,
-  "hp": 807,
+  "xp": 10258,
+  "hp": 789,
   "maxHp": 843,
   "atk": 103,
   "def": 60,
   "mag": 16,
   "critRate": 0.06400000000000002,
   "critDamage": 1.5699999999999985,
-  "gold": 1927,
+  "gold": 30170801,
   "gems": 10,
   "elixir": 3,
   "stamina": -1,
@@ -28,7 +28,7 @@
     "epic": 0,
     "legendary": 0
   },
-  "wins": 268,
+  "wins": 400,
   "losses": 15,
   "evolvedClass": null,
   "evolutionPath": null,
@@ -36,8 +36,8 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 1101,
-    "mineralsMined": 336,
+    "fishCaught": 2675,
+    "mineralsMined": 966,
     "boxesOpened": 1,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -53,12 +53,12 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "fishSold": 1101,
-    "dungeonKills": 265,
-    "dungeonDamageDealt": 104031,
-    "dungeonsCompleted": 2,
+    "fishSold": 1155,
+    "dungeonKills": 397,
+    "dungeonDamageDealt": 224199,
+    "dungeonsCompleted": 3,
     "mineralsSold": 181,
-    "materialsCollected": 459,
+    "materialsCollected": 1157,
     "pity": {
       "epic": 0,
       "legendary": 0,
@@ -77,29 +77,36 @@
       "hadArmor": false,
       "timestamp": 1777405487579
     },
-    "clanDungeonsCompleted": 2,
-    "dailySellCount": 837,
+    "clanDungeonsCompleted": 3,
+    "dailySellCount": 891,
     "lastSellReset": 1777994698751,
     "weeklyShopLastReset": 0,
-    "weeklyShopPurchases": {}
+    "weeklyShopPurchases": {},
+    "playerSkills": {
+      "healer": 1
+    }
   },
   "skills": [
     "shield_wall",
     "iron_will",
-    "shield_mastery"
+    "shield_mastery",
+    "ancestral_shield",
+    "taunt"
   ],
   "unlockedSkills": {
     "passive": [
       "iron_will",
-      "shield_mastery"
+      "shield_mastery",
+      "ancestral_shield"
     ],
     "active": [
-      "shield_wall"
+      "shield_wall",
+      "taunt"
     ]
   },
   "clanId": null,
   "clanRole": null,
   "created": 1776881415988,
-  "lastActive": 1778165362536,
+  "lastActive": 1778488667766,
   "groupId": "120363424226692086@g.us"
 }
