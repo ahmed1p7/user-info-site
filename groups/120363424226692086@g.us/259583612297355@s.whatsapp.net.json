@@ -500,8 +500,8 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 32590,
-    "mineralsMined": 23197,
+    "fishCaught": 33005,
+    "mineralsMined": 23216,
     "boxesOpened": 461,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -520,7 +520,7 @@
     "dungeonKills": 6626,
     "dungeonDamageDealt": 13172822,
     "fishSold": 32438,
-    "materialsCollected": 15836,
+    "materialsCollected": 16003,
     "dungeonsCompleted": 8,
     "materialsSold": 16708,
     "mineralsSold": 17288,
@@ -596,6 +596,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "leader",
   "created": 1776881461393,
-  "lastActive": 1778497994781,
+  "lastActive": 1778509781647,
   "groupId": "120363424226692086@g.us"
 }
