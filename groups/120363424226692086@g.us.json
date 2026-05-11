@@ -22,6 +22,12 @@
       "level": 28
     },
     {
+      "id": "183734926110748@s.whatsapp.net",
+      "name": "فانيتاس",
+      "class": "قاتل",
+      "level": 25
+    },
+    {
       "id": "210037507125265@s.whatsapp.net",
       "name": "تيريون لانيستر",
       "class": "محارب",
@@ -124,6 +130,6 @@
       "level": 8
     }
   ],
-  "messagesWeek": 2919,
-  "lastUpdated": 1778498043874
+  "messagesWeek": 3115,
+  "lastUpdated": 1778498648028
 }
