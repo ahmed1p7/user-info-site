@@ -34,15 +34,15 @@
       "level": 19
     },
     {
-      "id": "144410171936843@s.whatsapp.net",
-      "name": "ابراهيم",
-      "class": "قاتل",
-      "level": 17
-    },
-    {
       "id": "117051381301480@s.whatsapp.net",
       "name": "ايزن",
       "class": "ساحر",
+      "level": 18
+    },
+    {
+      "id": "144410171936843@s.whatsapp.net",
+      "name": "ابراهيم",
+      "class": "قاتل",
       "level": 17
     },
     {
@@ -124,6 +124,6 @@
       "level": 8
     }
   ],
-  "messagesWeek": 594,
-  "lastUpdated": 1778488018337
+  "messagesWeek": 724,
+  "lastUpdated": 1778488424026
 }
