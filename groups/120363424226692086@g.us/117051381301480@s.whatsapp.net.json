@@ -3,19 +3,19 @@
   "name": "ايزن",
   "nickname": "ايزن",
   "class": "ساحر",
-  "level": 18,
-  "xp": 313218,
-  "hp": 341,
-  "maxHp": 341,
-  "atk": 49,
-  "def": 41,
-  "mag": 219,
-  "critRate": 0.06700000000000002,
-  "critDamage": 1.7549999999999983,
-  "gold": 236238,
+  "level": 20,
+  "xp": 198347,
+  "hp": 336,
+  "maxHp": 356,
+  "atk": 51,
+  "def": 43,
+  "mag": 265,
+  "critRate": 0.09900000000000002,
+  "critDamage": 1.7849999999999981,
+  "gold": 136983,
   "gems": 529,
   "elixir": 1236,
-  "stamina": 10,
+  "stamina": 8,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -469,7 +469,7 @@
     "mythic": 0
   },
   "wins": 230,
-  "losses": 233,
+  "losses": 237,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
@@ -527,7 +527,8 @@
     "itemsCrafted": 1,
     "weeklyShopLastReset": 0,
     "weeklyShopPurchases": {},
-    "playerSkills": {}
+    "playerSkills": {},
+    "petsCollected": 1
   },
   "skills": [
     "mana_burn",
@@ -535,14 +536,16 @@
     "mana_shield",
     "bounty_aura",
     "cursed_luck",
-    "arcane_resonance"
+    "arcane_resonance",
+    "elemental_sync"
   ],
   "unlockedSkills": {
     "passive": [
       "mana_shield",
       "bounty_aura",
       "cursed_luck",
-      "arcane_resonance"
+      "arcane_resonance",
+      "elemental_sync"
     ],
     "active": [
       "frozen_spell",
@@ -552,6 +555,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777542343015,
-  "lastActive": 1778571706740,
+  "lastActive": 1778573279803,
   "groupId": "120363424226692086@g.us"
 }

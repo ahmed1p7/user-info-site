@@ -34,16 +34,16 @@
       "level": 22
     },
     {
+      "id": "117051381301480@s.whatsapp.net",
+      "name": "ايزن",
+      "class": "ساحر",
+      "level": 20
+    },
+    {
       "id": "11614178824270@s.whatsapp.net",
       "name": "يوهان",
       "class": "فارس",
       "level": 19
-    },
-    {
-      "id": "117051381301480@s.whatsapp.net",
-      "name": "ايزن",
-      "class": "ساحر",
-      "level": 18
     },
     {
       "id": "144410171936843@s.whatsapp.net",
@@ -130,6 +130,6 @@
       "level": 8
     }
   ],
-  "messagesWeek": 363,
-  "lastUpdated": 1778571706746
+  "messagesWeek": 30,
+  "lastUpdated": 1778573279816
 }
