@@ -4,15 +4,15 @@
   "nickname": "ايزن",
   "class": "ساحر",
   "level": 20,
-  "xp": 198347,
-  "hp": 336,
+  "xp": 199367,
+  "hp": 356,
   "maxHp": 356,
   "atk": 51,
   "def": 43,
   "mag": 265,
   "critRate": 0.09900000000000002,
   "critDamage": 1.7849999999999981,
-  "gold": 136983,
+  "gold": 14608,
   "gems": 529,
   "elixir": 1236,
   "stamina": 8,
@@ -469,15 +469,15 @@
     "mythic": 0
   },
   "wins": 230,
-  "losses": 237,
+  "losses": 248,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 3399,
-    "mineralsMined": 946,
+    "fishCaught": 3428,
+    "mineralsMined": 948,
     "boxesOpened": 360,
     "boxesOpenedByType": {
       "common": 351,
@@ -514,7 +514,7 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 1497,
+    "materialsCollected": 1506,
     "dungeonKills": 226,
     "dungeonDamageDealt": 209253,
     "dungeonsCompleted": 4,
@@ -528,7 +528,7 @@
     "weeklyShopLastReset": 0,
     "weeklyShopPurchases": {},
     "playerSkills": {},
-    "petsCollected": 1
+    "petsCollected": 2
   },
   "skills": [
     "mana_burn",
@@ -555,6 +555,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777542343015,
-  "lastActive": 1778573279803,
+  "lastActive": 1778577073046,
   "groupId": "120363424226692086@g.us"
 }
