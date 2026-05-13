@@ -4,7 +4,7 @@
   "nickname": "تيريون لانيستر",
   "class": "محارب",
   "level": 22,
-  "xp": 230307,
+  "xp": 333338,
   "hp": 1059,
   "maxHp": 1059,
   "atk": 111,
@@ -12,9 +12,9 @@
   "mag": 24,
   "critRate": 0.09200000000000004,
   "critDamage": 1.7100000000000002,
-  "gold": 62035,
-  "gems": 91,
-  "elixir": 95,
+  "gold": 128025,
+  "gems": 178,
+  "elixir": 313,
   "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
@@ -232,6 +232,25 @@
       "maxDefBonus": 100,
       "obtainedAt": 1777377016181,
       "type": "armor"
+    },
+    {
+      "id": "ملحمي_محارب_درع_صدر_درع_النور",
+      "name": "درع النور",
+      "fullName": "🟣 ملحمي | درع النور",
+      "rarity": "ملحمي",
+      "rarityEmoji": "🟣",
+      "class": "محارب",
+      "slot": "درع صدر",
+      "slotEmoji": "🛡️",
+      "def": 48,
+      "bonusType": "hp",
+      "level": 1,
+      "maxLevel": 5,
+      "baseDef": 48,
+      "baseCost": 400,
+      "costMultiplier": 3,
+      "maxDefBonus": 70,
+      "obtainedAt": 1778583628145
     }
   ],
   "boxes": {
@@ -246,28 +265,28 @@
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
-    "fishCaught": 4249,
-    "materialsCollected": 2740,
-    "mineralsMined": 2458,
-    "dailySellCount": 4665,
+    "fishCaught": 4579,
+    "materialsCollected": 2852,
+    "mineralsMined": 2577,
+    "dailySellCount": 4786,
     "lastSellReset": 1777614764945,
     "mineralsSold": 416,
-    "fishSold": 4249,
+    "fishSold": 4370,
     "dungeonKills": 1386,
     "dungeonDamageDealt": 1276584,
-    "materialsSold": 5197,
+    "materialsSold": 5359,
     "dungeonsCompleted": 5,
     "pity": {
-      "epic": 1,
+      "epic": 0,
       "legendary": 0,
       "mythic": 1
     },
     "lastFreeBox": 1778512982930,
     "freeBoxStreak": 2,
-    "boxesOpened": 4,
+    "boxesOpened": 15,
     "boxesOpenedByType": {
       "common": 2,
-      "epic": 1,
+      "epic": 12,
       "mythic": 1
     },
     "bestBoxReward": {
@@ -304,6 +323,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777613816222,
-  "lastActive": 1778513078343,
+  "lastActive": 1778666794893,
   "groupId": "120363424226692086@g.us"
 }
