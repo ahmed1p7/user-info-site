@@ -16,16 +16,16 @@
       "level": 43
     },
     {
+      "id": "183734926110748@s.whatsapp.net",
+      "name": "فانيتاس",
+      "class": "قاتل",
+      "level": 31
+    },
+    {
       "id": "23816063467666@s.whatsapp.net",
       "name": "سيقمير اوف كاترينا",
       "class": "محارب",
       "level": 28
-    },
-    {
-      "id": "183734926110748@s.whatsapp.net",
-      "name": "فانيتاس",
-      "class": "قاتل",
-      "level": 25
     },
     {
       "id": "210037507125265@s.whatsapp.net",
@@ -136,6 +136,6 @@
       "level": 1
     }
   ],
-  "messagesWeek": 1540,
-  "lastUpdated": 1778666794895
+  "messagesWeek": 2094,
+  "lastUpdated": 1778667914315
 }
