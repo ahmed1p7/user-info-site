@@ -4,7 +4,7 @@
   "nickname": "ايزن",
   "class": "ساحر",
   "level": 22,
-  "xp": 41286,
+  "xp": 2021824,
   "hp": 349,
   "maxHp": 372,
   "atk": 53,
@@ -12,7 +12,7 @@
   "mag": 297,
   "critRate": 0.10100000000000002,
   "critDamage": 1.814999999999998,
-  "gold": 3706,
+  "gold": 50304,
   "gems": 637,
   "elixir": 1475,
   "stamina": 10,
@@ -556,6 +556,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1777542343015,
-  "lastActive": 1778801709652,
+  "lastActive": 1778802211655,
   "groupId": "120363424226692086@g.us"
 }
