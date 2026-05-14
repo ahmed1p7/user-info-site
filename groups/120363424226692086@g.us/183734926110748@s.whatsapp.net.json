@@ -2,20 +2,20 @@
   "id": "183734926110748@s.whatsapp.net",
   "name": "فانيتاس",
   "nickname": "فانيتاس",
-  "class": "قاتل",
-  "level": 31,
-  "xp": 774956,
-  "hp": 681,
-  "maxHp": 681,
-  "atk": 292,
-  "def": 58,
-  "mag": 75,
-  "critRate": 0.3700000000000001,
-  "critDamage": 2.4899999999999984,
-  "gold": 132791,
-  "gems": 805,
-  "elixir": 2188,
-  "stamina": 10,
+  "class": "فارس الظلام",
+  "level": 33,
+  "xp": 18569382,
+  "hp": 757,
+  "maxHp": 757,
+  "atk": 302,
+  "def": 60,
+  "mag": 77,
+  "critRate": 0.3780000000000001,
+  "critDamage": 2.525999999999998,
+  "gold": 471897,
+  "gems": 855,
+  "elixir": 2303,
+  "stamina": 3,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -487,17 +487,17 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 1034,
-  "losses": 59,
+  "wins": 1217,
+  "losses": 66,
   "evolvedClass": null,
-  "evolutionPath": null,
+  "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 19650,
-    "mineralsMined": 7214,
-    "boxesOpened": 336,
+    "fishCaught": 24914,
+    "mineralsMined": 7684,
+    "boxesOpened": 386,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -513,12 +513,12 @@
     "territoriesConquered": 0,
     "territoryDefenses": 0,
     "fishSold": 19547,
-    "dungeonKills": 1031,
-    "dungeonDamageDealt": 1148124,
-    "materialsCollected": 7171,
+    "dungeonKills": 1214,
+    "dungeonDamageDealt": 1713001,
+    "materialsCollected": 9136,
     "mineralsSold": 6526,
     "materialsSold": 8223,
-    "dungeonsCompleted": 5,
+    "dungeonsCompleted": 6,
     "clanDungeonsCompleted": 1,
     "clanDungeonDamage": 0,
     "pity": {
@@ -528,7 +528,7 @@
     },
     "boxesOpenedByType": {
       "mythic": 3,
-      "common": 285,
+      "common": 335,
       "rare": 20,
       "epic": 16
     },
@@ -564,7 +564,8 @@
     "ghost_blade",
     "shadow_terror",
     "death_dance",
-    "shadow_chain"
+    "shadow_chain",
+    "dark_momentum"
   ],
   "unlockedSkills": {
     "passive": [
@@ -572,7 +573,8 @@
       "backstab",
       "poison_blade",
       "ghost_blade",
-      "shadow_terror"
+      "shadow_terror",
+      "dark_momentum"
     ],
     "active": [
       "assassinate",
@@ -581,9 +583,9 @@
       "shadow_chain"
     ]
   },
-  "clanId": "120363424226692086@g.us",
-  "clanRole": "member",
+  "clanId": null,
+  "clanRole": null,
   "created": 1776960777629,
-  "lastActive": 1778698672349,
+  "lastActive": 1778756869495,
   "groupId": "120363424226692086@g.us"
 }

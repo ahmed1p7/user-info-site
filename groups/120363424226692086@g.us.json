@@ -18,8 +18,8 @@
     {
       "id": "183734926110748@s.whatsapp.net",
       "name": "فانيتاس",
-      "class": "قاتل",
-      "level": 31
+      "class": "فارس الظلام",
+      "level": 33
     },
     {
       "id": "23816063467666@s.whatsapp.net",
@@ -142,6 +142,6 @@
       "level": 1
     }
   ],
-  "messagesWeek": 105,
-  "lastUpdated": 1778747083382
+  "messagesWeek": 1121,
+  "lastUpdated": 1778756869503
 }
