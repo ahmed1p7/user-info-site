@@ -100,6 +100,12 @@
       "level": 14
     },
     {
+      "id": "38140014235846@s.whatsapp.net",
+      "name": "جوكر الحلو",
+      "class": "محارب",
+      "level": 14
+    },
+    {
       "id": "165880646348802@s.whatsapp.net",
       "name": "سون غوكو",
       "class": "محارب",
@@ -142,6 +148,6 @@
       "level": 1
     }
   ],
-  "messagesWeek": 1121,
-  "lastUpdated": 1778756869503
+  "messagesWeek": 1885,
+  "lastUpdated": 1778793335455
 }
