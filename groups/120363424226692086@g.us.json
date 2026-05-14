@@ -4,14 +4,14 @@
   "emoji": "🏗",
   "members": [
     {
-      "id": "238706262851666@s.whatsapp.net",
-      "name": "مورفي لاندو",
-      "class": "برسيرك",
-      "level": 45
-    },
-    {
       "id": "259583612297355@s.whatsapp.net",
       "name": "باتمان",
+      "class": "برسيرك",
+      "level": 46
+    },
+    {
+      "id": "238706262851666@s.whatsapp.net",
+      "name": "مورفي لاندو",
       "class": "برسيرك",
       "level": 45
     },
@@ -142,6 +142,6 @@
       "level": 1
     }
   ],
-  "messagesWeek": 1783,
-  "lastUpdated": 1778741980897
+  "messagesWeek": 105,
+  "lastUpdated": 1778747083382
 }
