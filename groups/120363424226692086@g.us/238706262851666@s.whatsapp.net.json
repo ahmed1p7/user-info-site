@@ -4,7 +4,7 @@
   "nickname": "مورفي لاندو",
   "class": "برسيرك",
   "level": 45,
-  "xp": 3021277660,
+  "xp": 3021278235,
   "hp": 2458,
   "maxHp": 2458,
   "atk": 265,
@@ -12,10 +12,10 @@
   "mag": 152,
   "critRate": 0.13800000000000007,
   "critDamage": 1.9400000000000004,
-  "gold": 291735,
+  "gold": 284949,
   "gems": 9164,
   "elixir": 24269,
-  "stamina": 7,
+  "stamina": 9,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -496,8 +496,8 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 29301,
-    "mineralsMined": 21529,
+    "fishCaught": 29306,
+    "mineralsMined": 21534,
     "boxesOpened": 733,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -516,7 +516,7 @@
     "dungeonKills": 3132,
     "dungeonDamageDealt": 6835781,
     "fishSold": 15943,
-    "materialsCollected": 10933,
+    "materialsCollected": 10936,
     "dungeonsCompleted": 8,
     "mineralsSold": 12461,
     "materialsSold": 15915,
@@ -562,6 +562,11 @@
         "boughtAt": 1778692848420,
         "cycleNumber": 6862,
         "cardName": "بطاقة نقاط قدرة"
+      },
+      "mining_speed_6862": {
+        "boughtAt": 1778722391098,
+        "cycleNumber": 6862,
+        "cardName": "بطاقة تسريع التعدين"
       }
     },
     "playerSkills": {
@@ -575,7 +580,9 @@
       "merchant": 5
     },
     "petsCollected": 4,
-    "activeCards": {},
+    "activeCards": {
+      "mining_speed": 1778724191098
+    },
     "abilityPoints": 2
   },
   "skills": [
@@ -611,6 +618,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1776881423012,
-  "lastActive": 1778699952664,
+  "lastActive": 1778722503957,
   "groupId": "120363424226692086@g.us"
 }
