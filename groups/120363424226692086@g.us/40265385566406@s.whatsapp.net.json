@@ -4,18 +4,18 @@
   "nickname": "زازا",
   "class": "فارس",
   "level": 15,
-  "xp": 10258,
-  "hp": 789,
+  "xp": 27086,
+  "hp": 718,
   "maxHp": 843,
   "atk": 103,
   "def": 60,
   "mag": 16,
   "critRate": 0.06400000000000002,
   "critDamage": 1.5699999999999985,
-  "gold": 30170801,
-  "gems": 10,
-  "elixir": 3,
-  "stamina": -1,
+  "gold": 28388369,
+  "gems": 11,
+  "elixir": 13,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -28,7 +28,7 @@
     "epic": 0,
     "legendary": 0
   },
-  "wins": 400,
+  "wins": 431,
   "losses": 15,
   "evolvedClass": null,
   "evolutionPath": null,
@@ -36,9 +36,9 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 2675,
-    "mineralsMined": 966,
-    "boxesOpened": 1,
+    "fishCaught": 3072,
+    "mineralsMined": 1645,
+    "boxesOpened": 5,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -54,21 +54,21 @@
     "territoriesConquered": 0,
     "territoryDefenses": 0,
     "fishSold": 1155,
-    "dungeonKills": 397,
-    "dungeonDamageDealt": 224199,
+    "dungeonKills": 427,
+    "dungeonDamageDealt": 276319,
     "dungeonsCompleted": 3,
     "mineralsSold": 181,
-    "materialsCollected": 1157,
+    "materialsCollected": 1347,
     "pity": {
       "epic": 0,
       "legendary": 0,
       "mythic": 0
     },
     "materialsSold": 136,
-    "lastFreeBox": 1777405452239,
-    "freeBoxStreak": 1,
+    "lastFreeBox": 1778488716976,
+    "freeBoxStreak": 2,
     "boxesOpenedByType": {
-      "common": 1
+      "common": 5
     },
     "bestBoxReward": {
       "boxType": "common",
@@ -81,10 +81,19 @@
     "dailySellCount": 891,
     "lastSellReset": 1777994698751,
     "weeklyShopLastReset": 0,
-    "weeklyShopPurchases": {},
+    "weeklyShopPurchases": {
+      "skill_points_6862": {
+        "boughtAt": 1778699551377,
+        "cycleNumber": 6862,
+        "cardName": "بطاقة نقاط مهارة"
+      }
+    },
     "playerSkills": {
       "healer": 1
-    }
+    },
+    "petsCollected": 2,
+    "activeCards": {},
+    "skillPoints": 3
   },
   "skills": [
     "shield_wall",
@@ -107,6 +116,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1776881415988,
-  "lastActive": 1778488667766,
+  "lastActive": 1778834440022,
   "groupId": "120363424226692086@g.us"
 }
