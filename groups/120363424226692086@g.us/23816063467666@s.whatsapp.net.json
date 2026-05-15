@@ -4,7 +4,7 @@
   "nickname": "سيقمير اوف كاترينا",
   "class": "فارس مظلم",
   "level": 31,
-  "xp": 10647443,
+  "xp": 33496231,
   "hp": 1617,
   "maxHp": 1617,
   "atk": 191,
@@ -12,10 +12,10 @@
   "mag": 36,
   "critRate": 0.11000000000000006,
   "critDamage": 1.8000000000000003,
-  "gold": 40991,
+  "gold": 609706,
   "gems": 2207,
   "elixir": 5709,
-  "stamina": 9,
+  "stamina": 0,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -487,16 +487,16 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 4717,
-  "losses": 120,
+  "wins": 4931,
+  "losses": 138,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 25120,
-    "mineralsMined": 17282,
+    "fishCaught": 28875,
+    "mineralsMined": 18217,
     "boxesOpened": 556,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -512,12 +512,12 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "fishSold": 21349,
-    "dungeonKills": 4702,
-    "dungeonDamageDealt": 9969889,
-    "materialsCollected": 12098,
+    "fishSold": 22005,
+    "dungeonKills": 4916,
+    "dungeonDamageDealt": 11017234,
+    "materialsCollected": 13586,
     "materialsSold": 19402,
-    "dungeonsCompleted": 6,
+    "dungeonsCompleted": 7,
     "itemsMerged": 14,
     "mineralsSold": 11915,
     "mergesFailed": 2,
@@ -543,7 +543,7 @@
     "clanDungeonsCompleted": 5,
     "lastFreeBox": 1777468656692,
     "freeBoxStreak": 1,
-    "dailySellCount": 23422,
+    "dailySellCount": 24078,
     "lastSellReset": 1777640022239,
     "playerSkills": {
       "lucky": 5,
@@ -555,8 +555,22 @@
       "guardian": 5
     },
     "weeklyShopLastReset": 0,
-    "weeklyShopPurchases": {},
-    "petsCollected": 1
+    "weeklyShopPurchases": {
+      "gold_boost_6862": {
+        "boughtAt": 1778699786808,
+        "cycleNumber": 6862,
+        "cardName": "بطاقة ذهب مضاعف"
+      },
+      "legendary_ore_6862": {
+        "boughtAt": 1778854967893,
+        "cycleNumber": 6862,
+        "cardName": "بطاقة خام أسطوري"
+      }
+    },
+    "petsCollected": 1,
+    "activeCards": {
+      "legendary_ore": 1778856167893
+    }
   },
   "skills": [
     "double_strike",
@@ -566,7 +580,8 @@
     "war_cry",
     "bone_stubbornness",
     "blood_bath",
-    "blood_fury"
+    "blood_fury",
+    "shadow_veil"
   ],
   "unlockedSkills": {
     "passive": [
@@ -579,12 +594,13 @@
     "active": [
       "double_strike",
       "war_cry",
-      "blood_bath"
+      "blood_bath",
+      "shadow_veil"
     ]
   },
-  "clanId": "120363424226692086@g.us",
-  "clanRole": "deputy",
+  "clanId": null,
+  "clanRole": null,
   "created": 1776891817820,
-  "lastActive": 1778698742235,
+  "lastActive": 1778865045063,
   "groupId": "120363424226692086@g.us"
 }
