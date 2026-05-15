@@ -3,19 +3,19 @@
   "name": "باتمان",
   "nickname": "باتمان",
   "class": "برسيرك",
-  "level": 46,
-  "xp": 6772614389,
-  "hp": 2616,
-  "maxHp": 2698,
-  "atk": 270,
-  "def": 164,
-  "mag": 108,
-  "critRate": 0.14000000000000007,
-  "critDamage": 1.9500000000000004,
-  "gold": 549218694,
-  "gems": 6798,
-  "elixir": 18462,
-  "stamina": 315,
+  "level": 47,
+  "xp": 4465853317,
+  "hp": 2745,
+  "maxHp": 2746,
+  "atk": 273,
+  "def": 165,
+  "mag": 118,
+  "critRate": 0.14200000000000007,
+  "critDamage": 1.9600000000000004,
+  "gold": 518408864,
+  "gems": 6801,
+  "elixir": 18476,
+  "stamina": 261,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -492,17 +492,17 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 7678,
-  "losses": 515,
+  "wins": 9608,
+  "losses": 566,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 45779,
-    "mineralsMined": 26481,
-    "boxesOpened": 537,
+    "fishCaught": 51742,
+    "mineralsMined": 28865,
+    "boxesOpened": 539,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -517,11 +517,11 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "dungeonKills": 7617,
-    "dungeonDamageDealt": 17659932,
-    "fishSold": 42690,
-    "materialsCollected": 21234,
-    "dungeonsCompleted": 8,
+    "dungeonKills": 9545,
+    "dungeonDamageDealt": 22458194,
+    "fishSold": 43050,
+    "materialsCollected": 25122,
+    "dungeonsCompleted": 9,
     "materialsSold": 16708,
     "mineralsSold": 17288,
     "itemsMerged": 11,
@@ -530,16 +530,16 @@
       "legendary": 17,
       "mythic": 21
     },
-    "lastFreeBox": 1778696786646,
-    "freeBoxStreak": 13,
+    "lastFreeBox": 1778873479851,
+    "freeBoxStreak": 15,
     "clanDungeonsCompleted": 7,
     "clanDungeonDamage": 0,
     "boxesOpenedByType": {
       "epic": 27,
       "legendary": 101,
-      "common": 251,
+      "common": 252,
       "mythic": 106,
-      "rare": 1
+      "rare": 2
     },
     "bestBoxReward": {
       "boxType": "mythic",
@@ -548,7 +548,7 @@
       "hadArmor": false,
       "timestamp": 1778567902268
     },
-    "dailySellCount": 51688,
+    "dailySellCount": 52048,
     "lastSellReset": 1777615001685,
     "weeklyShopLastReset": 0,
     "weeklyShopPurchases": {
@@ -561,6 +561,11 @@
         "boughtAt": 1778746648962,
         "cycleNumber": 6862,
         "cardName": "بطاقة ×2 تجربة"
+      },
+      "mining_luck_6862": {
+        "boughtAt": 1778868361332,
+        "cycleNumber": 6862,
+        "cardName": "بطاقة حظ التعدين"
       }
     },
     "playerSkills": {
@@ -575,7 +580,7 @@
     },
     "petsCollected": 2,
     "activeCards": {
-      "xp_boost_2x": 1778748448963
+      "mining_luck": 1778870161332
     }
   },
   "skills": [
@@ -611,6 +616,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1776881461393,
-  "lastActive": 1778747083356,
+  "lastActive": 1778880620197,
   "groupId": "120363424226692086@g.us"
 }
