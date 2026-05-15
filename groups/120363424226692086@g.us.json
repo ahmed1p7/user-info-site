@@ -22,16 +22,16 @@
       "level": 35
     },
     {
+      "id": "5936299118698@s.whatsapp.net",
+      "name": "ستااااركز",
+      "class": "ساحر الشفاء",
+      "level": 35
+    },
+    {
       "id": "23816063467666@s.whatsapp.net",
       "name": "سيقمير اوف كاترينا",
       "class": "فارس مظلم",
       "level": 31
-    },
-    {
-      "id": "5936299118698@s.whatsapp.net",
-      "name": "ستااااركز",
-      "class": "شافي",
-      "level": 29
     },
     {
       "id": "117051381301480@s.whatsapp.net",
@@ -148,6 +148,6 @@
       "level": 1
     }
   ],
-  "messagesWeek": 3624,
-  "lastUpdated": 1778843121226
+  "messagesWeek": 3642,
+  "lastUpdated": 1778843209184
 }
