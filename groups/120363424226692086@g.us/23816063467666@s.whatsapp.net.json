@@ -3,19 +3,19 @@
   "name": "سيقمير اوف كاترينا",
   "nickname": "سيقمير اوف كاترينا",
   "class": "فارس مظلم",
-  "level": 31,
-  "xp": 33496231,
-  "hp": 1617,
-  "maxHp": 1617,
-  "atk": 191,
-  "def": 117,
-  "mag": 36,
-  "critRate": 0.11000000000000006,
-  "critDamage": 1.8000000000000003,
-  "gold": 609706,
+  "level": 33,
+  "xp": 2129461,
+  "hp": 1703,
+  "maxHp": 1703,
+  "atk": 195,
+  "def": 131,
+  "mag": 38,
+  "critRate": 0.11400000000000006,
+  "critDamage": 1.8200000000000003,
+  "gold": 744397,
   "gems": 2207,
   "elixir": 5709,
-  "stamina": 0,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -487,16 +487,16 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 4931,
-  "losses": 138,
+  "wins": 4936,
+  "losses": 139,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 28875,
-    "mineralsMined": 18217,
+    "fishCaught": 29208,
+    "mineralsMined": 18330,
     "boxesOpened": 556,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -513,9 +513,9 @@
     "territoriesConquered": 0,
     "territoryDefenses": 0,
     "fishSold": 22005,
-    "dungeonKills": 4916,
-    "dungeonDamageDealt": 11017234,
-    "materialsCollected": 13586,
+    "dungeonKills": 4921,
+    "dungeonDamageDealt": 11029573,
+    "materialsCollected": 13695,
     "materialsSold": 19402,
     "dungeonsCompleted": 7,
     "itemsMerged": 14,
@@ -565,11 +565,16 @@
         "boughtAt": 1778854967893,
         "cycleNumber": 6862,
         "cardName": "بطاقة خام أسطوري"
+      },
+      "sell_boost_6862": {
+        "boughtAt": 1778882445358,
+        "cycleNumber": 6862,
+        "cardName": "بطاقة بيع ممتاز"
       }
     },
     "petsCollected": 1,
     "activeCards": {
-      "legendary_ore": 1778856167893
+      "sell_boost": 1778884245358
     }
   },
   "skills": [
@@ -601,6 +606,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1776891817820,
-  "lastActive": 1778865045063,
+  "lastActive": 1778882779317,
   "groupId": "120363424226692086@g.us"
 }
