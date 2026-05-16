@@ -4,15 +4,15 @@
   "nickname": "ايزن",
   "class": "ساحر",
   "level": 26,
-  "xp": 2466599,
-  "hp": 479,
+  "xp": 2466630,
+  "hp": 1,
   "maxHp": 484,
   "atk": 63,
   "def": 59,
   "mag": 399,
   "critRate": 0.10500000000000002,
   "critDamage": 1.8749999999999976,
-  "gold": 216518,
+  "gold": 202196,
   "gems": 1285,
   "elixir": 3073,
   "stamina": 10,
@@ -468,7 +468,7 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 602,
+  "wins": 605,
   "losses": 350,
   "evolvedClass": null,
   "evolutionPath": null,
@@ -514,9 +514,9 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 5133,
-    "dungeonKills": 598,
-    "dungeonDamageDealt": 562293,
+    "materialsCollected": 5135,
+    "dungeonKills": 601,
+    "dungeonDamageDealt": 562613,
     "dungeonsCompleted": 5,
     "dailySellCount": 6946,
     "lastSellReset": 1777609841041,
@@ -535,9 +535,7 @@
     },
     "playerSkills": {},
     "petsCollected": 2,
-    "activeCards": {
-      "upgrade_luck": 1778924661394
-    },
+    "activeCards": {},
     "totalGoldEarned": 34815
   },
   "skills": [
@@ -565,6 +563,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1777542343015,
-  "lastActive": 1778926833117,
+  "lastActive": 1778926932074,
   "groupId": "120363424226692086@g.us"
 }
