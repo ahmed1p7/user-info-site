@@ -4,17 +4,17 @@
   "nickname": "ايزن",
   "class": "ساحر",
   "level": 26,
-  "xp": 2455337,
-  "hp": 1,
+  "xp": 2466599,
+  "hp": 479,
   "maxHp": 484,
   "atk": 63,
   "def": 59,
   "mag": 399,
   "critRate": 0.10500000000000002,
   "critDamage": 1.8749999999999976,
-  "gold": 214477,
-  "gems": 1068,
-  "elixir": 2600,
+  "gold": 216518,
+  "gems": 1285,
+  "elixir": 3073,
   "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
@@ -468,19 +468,19 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 573,
-  "losses": 348,
+  "wins": 602,
+  "losses": 350,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 11718,
-    "mineralsMined": 1602,
-    "boxesOpened": 812,
+    "fishCaught": 12188,
+    "mineralsMined": 1704,
+    "boxesOpened": 1013,
     "boxesOpenedByType": {
-      "common": 790,
+      "common": 991,
       "rare": 0,
       "epic": 15,
       "legendary": 7,
@@ -514,9 +514,9 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 4889,
-    "dungeonKills": 569,
-    "dungeonDamageDealt": 558869,
+    "materialsCollected": 5133,
+    "dungeonKills": 598,
+    "dungeonDamageDealt": 562293,
     "dungeonsCompleted": 5,
     "dailySellCount": 6946,
     "lastSellReset": 1777609841041,
@@ -526,10 +526,19 @@
     "mineralsSold": 98,
     "itemsCrafted": 1,
     "weeklyShopLastReset": 0,
-    "weeklyShopPurchases": {},
+    "weeklyShopPurchases": {
+      "upgrade_luck_6863": {
+        "boughtAt": 1778922861394,
+        "cycleNumber": 6863,
+        "cardName": "بطاقة حظ الترقية"
+      }
+    },
     "playerSkills": {},
     "petsCollected": 2,
-    "activeCards": {}
+    "activeCards": {
+      "upgrade_luck": 1778924661394
+    },
+    "totalGoldEarned": 34815
   },
   "skills": [
     "mana_burn",
@@ -556,6 +565,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1777542343015,
-  "lastActive": 1778890886417,
+  "lastActive": 1778926833117,
   "groupId": "120363424226692086@g.us"
 }
