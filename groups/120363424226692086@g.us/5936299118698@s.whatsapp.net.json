@@ -3,19 +3,19 @@
   "name": "ستااااركز",
   "nickname": "ستااااركز",
   "class": "ساحر الشفاء",
-  "level": 35,
-  "xp": 93255763,
-  "hp": 1299,
-  "maxHp": 1299,
-  "atk": 39,
-  "def": 107,
-  "mag": 349,
-  "critRate": 0.08400000000000003,
-  "critDamage": 1.6699999999999964,
-  "gold": 1012769,
-  "gems": 712,
-  "elixir": 1723,
-  "stamina": 10,
+  "level": 38,
+  "xp": 139104817,
+  "hp": 1368,
+  "maxHp": 1368,
+  "atk": 60,
+  "def": 110,
+  "mag": 358,
+  "critRate": 0.08700000000000004,
+  "critDamage": 1.684999999999996,
+  "gold": 702562,
+  "gems": 876,
+  "elixir": 2153,
+  "stamina": 9,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -488,20 +488,20 @@
     "mythic": 0
   },
   "wins": 461,
-  "losses": 16,
+  "losses": 21,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 22837,
-    "mineralsMined": 4279,
-    "boxesOpened": 556,
+    "fishCaught": 28019,
+    "mineralsMined": 4716,
+    "boxesOpened": 577,
     "boxesOpenedByType": {
-      "common": 551,
+      "common": 552,
       "rare": 0,
-      "epic": 0,
+      "epic": 20,
       "legendary": 3,
       "mythic": 2
     },
@@ -513,12 +513,12 @@
       "timestamp": 1777563175839
     },
     "pity": {
-      "epic": 0,
+      "epic": 1,
       "legendary": 3,
       "mythic": 2
     },
-    "lastFreeBox": 1778793163250,
-    "freeBoxStreak": 3,
+    "lastFreeBox": 1778882306396,
+    "freeBoxStreak": 4,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -533,17 +533,28 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 8413,
+    "materialsCollected": 10200,
     "dungeonKills": 458,
     "dungeonDamageDealt": 201150,
-    "fishSold": 12467,
-    "mineralsSold": 2970,
+    "fishSold": 16519,
+    "mineralsSold": 3160,
     "dungeonsCompleted": 3,
     "materialsSold": 3194,
-    "dailySellCount": 12280,
+    "dailySellCount": 16522,
     "lastSellReset": 1777617921445,
     "weeklyShopLastReset": 0,
-    "weeklyShopPurchases": {}
+    "weeklyShopPurchases": {
+      "xp_boost_2x_6863": {
+        "boughtAt": 1778929896671,
+        "cycleNumber": 6863,
+        "cardName": "بطاقة ×2 تجربة"
+      }
+    },
+    "activeCards": {
+      "xp_boost_2x": 1778931696671
+    },
+    "dungeonStreak": 0,
+    "totalGoldEarned": 585
   },
   "skills": [
     "heal",
@@ -554,7 +565,8 @@
     "sanctity_aura",
     "protective_ward",
     "sacred_barrier",
-    "purification"
+    "purification",
+    "shield_of_faith"
   ],
   "unlockedSkills": {
     "passive": [
@@ -568,12 +580,13 @@
       "group_heal",
       "heal",
       "sacred_barrier",
-      "purification"
+      "purification",
+      "shield_of_faith"
     ]
   },
   "clanId": null,
   "clanRole": null,
   "created": 1777400790020,
-  "lastActive": 1778843209183,
+  "lastActive": 1778930367753,
   "groupId": "120363424226692086@g.us"
 }

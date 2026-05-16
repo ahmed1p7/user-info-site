@@ -16,15 +16,15 @@
       "level": 46
     },
     {
-      "id": "183734926110748@s.whatsapp.net",
-      "name": "فانيتاس",
-      "class": "فارس الظلام",
-      "level": 35
-    },
-    {
       "id": "5936299118698@s.whatsapp.net",
       "name": "ستااااركز",
       "class": "ساحر الشفاء",
+      "level": 38
+    },
+    {
+      "id": "183734926110748@s.whatsapp.net",
+      "name": "فانيتاس",
+      "class": "فارس الظلام",
       "level": 35
     },
     {
@@ -148,6 +148,6 @@
       "level": 1
     }
   ],
-  "messagesWeek": 267,
-  "lastUpdated": 1778930150859
+  "messagesWeek": 295,
+  "lastUpdated": 1778930367759
 }
