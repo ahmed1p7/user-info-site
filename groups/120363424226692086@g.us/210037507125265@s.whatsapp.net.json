@@ -3,18 +3,18 @@
   "name": "تيريون لانيستر",
   "nickname": "تيريون لانيستر",
   "class": "محارب",
-  "level": 23,
-  "xp": 80948,
-  "hp": 1,
-  "maxHp": 1096,
-  "atk": 113,
-  "def": 84,
-  "mag": 25,
-  "critRate": 0.09400000000000004,
-  "critDamage": 1.7200000000000002,
-  "gold": 2533,
-  "gems": 355,
-  "elixir": 804,
+  "level": 25,
+  "xp": 417451,
+  "hp": 1410,
+  "maxHp": 1410,
+  "atk": 129,
+  "def": 100,
+  "mag": 27,
+  "critRate": 0.09800000000000005,
+  "critDamage": 1.7400000000000002,
+  "gold": 142832,
+  "gems": 366,
+  "elixir": 830,
   "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
@@ -332,37 +332,37 @@
   "boxes": {
     "common": 0,
     "rare": 0,
-    "epic": 9,
+    "epic": 15,
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 1413,
+  "wins": 1416,
   "losses": 36,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
     "fishCaught": 5137,
     "materialsCollected": 3060,
-    "mineralsMined": 2695,
-    "dailySellCount": 5537,
+    "mineralsMined": 2775,
+    "dailySellCount": 5553,
     "lastSellReset": 1777614764945,
     "mineralsSold": 416,
-    "fishSold": 5121,
+    "fishSold": 5137,
     "dungeonKills": 1406,
     "dungeonDamageDealt": 1294417,
-    "materialsSold": 5751,
+    "materialsSold": 5837,
     "dungeonsCompleted": 5,
     "pity": {
-      "epic": 0,
+      "epic": 1,
       "legendary": 0,
       "mythic": 1
     },
     "lastFreeBox": 1778512982930,
     "freeBoxStreak": 2,
-    "boxesOpened": 38,
+    "boxesOpened": 39,
     "boxesOpenedByType": {
       "common": 2,
-      "epic": 35,
+      "epic": 36,
       "mythic": 1
     },
     "bestBoxReward": {
@@ -372,7 +372,8 @@
       "hadArmor": false,
       "timestamp": 1778224788878
     },
-    "clanDungeonsCompleted": 1
+    "clanDungeonsCompleted": 1,
+    "totalGoldEarned": 1683
   },
   "skills": [
     "double_strike",
@@ -381,7 +382,8 @@
     "warrior_endurance",
     "war_cry",
     "bone_stubbornness",
-    "blood_fury"
+    "blood_fury",
+    "blood_bath"
   ],
   "unlockedSkills": {
     "passive": [
@@ -393,12 +395,13 @@
     ],
     "active": [
       "double_strike",
-      "war_cry"
+      "war_cry",
+      "blood_bath"
     ]
   },
   "clanId": null,
   "clanRole": null,
   "created": 1777613816222,
-  "lastActive": 1778688559038,
+  "lastActive": 1778925496640,
   "groupId": "120363424226692086@g.us"
 }
