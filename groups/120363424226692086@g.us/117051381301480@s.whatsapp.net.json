@@ -4,7 +4,7 @@
   "nickname": "ايزن",
   "class": "ساحر",
   "level": 26,
-  "xp": 2466630,
+  "xp": 2467073,
   "hp": 1,
   "maxHp": 484,
   "atk": 63,
@@ -12,7 +12,7 @@
   "mag": 399,
   "critRate": 0.10500000000000002,
   "critDamage": 1.8749999999999976,
-  "gold": 202196,
+  "gold": 201835,
   "gems": 1285,
   "elixir": 3073,
   "stamina": 10,
@@ -468,7 +468,7 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 605,
+  "wins": 607,
   "losses": 350,
   "evolvedClass": null,
   "evolutionPath": null,
@@ -514,9 +514,9 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 5135,
-    "dungeonKills": 601,
-    "dungeonDamageDealt": 562613,
+    "materialsCollected": 5137,
+    "dungeonKills": 603,
+    "dungeonDamageDealt": 562879,
     "dungeonsCompleted": 5,
     "dailySellCount": 6946,
     "lastSellReset": 1777609841041,
@@ -545,7 +545,8 @@
     "bounty_aura",
     "cursed_luck",
     "arcane_resonance",
-    "elemental_sync"
+    "elemental_sync",
+    "shard_storm"
   ],
   "unlockedSkills": {
     "passive": [
@@ -557,12 +558,13 @@
     ],
     "active": [
       "frozen_spell",
-      "mana_burn"
+      "mana_burn",
+      "shard_storm"
     ]
   },
   "clanId": null,
   "clanRole": null,
   "created": 1777542343015,
-  "lastActive": 1778926932074,
+  "lastActive": 1778951654404,
   "groupId": "120363424226692086@g.us"
 }
