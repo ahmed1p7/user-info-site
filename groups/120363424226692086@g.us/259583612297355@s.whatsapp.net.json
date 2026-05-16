@@ -4,7 +4,7 @@
   "nickname": "باتمان",
   "class": "برسيرك",
   "level": 47,
-  "xp": 4465855237,
+  "xp": 11284425043,
   "hp": 2746,
   "maxHp": 2746,
   "atk": 273,
@@ -12,10 +12,10 @@
   "mag": 118,
   "critRate": 0.14200000000000007,
   "critDamage": 1.9600000000000004,
-  "gold": 518412133,
+  "gold": 419133126,
   "gems": 6803,
   "elixir": 18476,
-  "stamina": 261,
+  "stamina": 218,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -486,22 +486,22 @@
     }
   ],
   "boxes": {
-    "common": 0,
+    "common": 1,
     "rare": 0,
     "epic": 0,
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 9608,
-  "losses": 566,
+  "wins": 10005,
+  "losses": 571,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 51774,
-    "mineralsMined": 28897,
+    "fishCaught": 53486,
+    "mineralsMined": 29251,
     "boxesOpened": 539,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -517,10 +517,10 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "dungeonKills": 9545,
-    "dungeonDamageDealt": 22458194,
-    "fishSold": 43050,
-    "materialsCollected": 25136,
+    "dungeonKills": 9942,
+    "dungeonDamageDealt": 24307749,
+    "fishSold": 43247,
+    "materialsCollected": 26090,
     "dungeonsCompleted": 9,
     "materialsSold": 16708,
     "mineralsSold": 17288,
@@ -548,7 +548,7 @@
       "hadArmor": false,
       "timestamp": 1778567902268
     },
-    "dailySellCount": 52048,
+    "dailySellCount": 52245,
     "lastSellReset": 1777615001685,
     "weeklyShopLastReset": 0,
     "weeklyShopPurchases": {
@@ -566,6 +566,21 @@
         "boughtAt": 1778868361332,
         "cycleNumber": 6862,
         "cardName": "بطاقة حظ التعدين"
+      },
+      "dungeon_damage_6863": {
+        "boughtAt": 1778921264371,
+        "cycleNumber": 6863,
+        "cardName": "بطاقة ضرر الدانجن"
+      },
+      "double_drops_6863": {
+        "boughtAt": 1778924663339,
+        "cycleNumber": 6863,
+        "cardName": "بطاقة غنائم مضاعفة"
+      },
+      "gold_boost_6863": {
+        "boughtAt": 1778924667743,
+        "cycleNumber": 6863,
+        "cardName": "بطاقة ذهب مضاعف"
       }
     },
     "playerSkills": {
@@ -580,8 +595,9 @@
     },
     "petsCollected": 2,
     "activeCards": {
-      "mining_luck": 1778870161332
-    }
+      "gold_boost": 1778926467743
+    },
+    "dungeonStreak": 0
   },
   "skills": [
     "double_strike",
@@ -616,6 +632,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1776881461393,
-  "lastActive": 1778883280078,
+  "lastActive": 1778930146867,
   "groupId": "120363424226692086@g.us"
 }
