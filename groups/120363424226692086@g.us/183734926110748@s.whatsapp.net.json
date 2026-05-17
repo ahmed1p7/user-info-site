@@ -3,19 +3,19 @@
   "name": "فانيتاس",
   "nickname": "فانيتاس",
   "class": "فارس الظلام",
-  "level": 35,
-  "xp": 24417871,
-  "hp": 1,
-  "maxHp": 803,
-  "atk": 312,
-  "def": 72,
-  "mag": 79,
-  "critRate": 0.3860000000000001,
-  "critDamage": 2.5619999999999976,
-  "gold": 751902,
-  "gems": 984,
-  "elixir": 2663,
-  "stamina": 0,
+  "level": 38,
+  "xp": 59477739,
+  "hp": 833,
+  "maxHp": 833,
+  "atk": 327,
+  "def": 93,
+  "mag": 82,
+  "critRate": 0.39800000000000013,
+  "critDamage": 2.615999999999997,
+  "gold": 2225128,
+  "gems": 1297,
+  "elixir": 3475,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -31,7 +31,7 @@
       "slotEmoji": "👢",
       "def": 58,
       "bonusType": "evasion",
-      "level": 1,
+      "level": 5,
       "maxLevel": 5,
       "baseDef": 58,
       "baseCost": 400,
@@ -69,7 +69,7 @@
       "slotEmoji": "🧤",
       "def": 58,
       "bonusType": "atk",
-      "level": 1,
+      "level": 5,
       "maxLevel": 5,
       "baseDef": 58,
       "baseCost": 400,
@@ -487,17 +487,17 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 1493,
-  "losses": 131,
+  "wins": 1566,
+  "losses": 144,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 30692,
-    "mineralsMined": 8518,
-    "boxesOpened": 447,
+    "fishCaught": 36722,
+    "mineralsMined": 10070,
+    "boxesOpened": 486,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -512,25 +512,25 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "fishSold": 22011,
-    "dungeonKills": 1490,
-    "dungeonDamageDealt": 3509794,
-    "materialsCollected": 11404,
-    "mineralsSold": 6696,
+    "fishSold": 22112,
+    "dungeonKills": 1562,
+    "dungeonDamageDealt": 4080630,
+    "materialsCollected": 13550,
+    "mineralsSold": 6950,
     "materialsSold": 8223,
     "dungeonsCompleted": 8,
     "clanDungeonsCompleted": 1,
     "clanDungeonDamage": 0,
     "pity": {
-      "epic": 0,
+      "epic": 9,
       "legendary": 0,
       "mythic": 0
     },
     "boxesOpenedByType": {
       "mythic": 3,
       "common": 385,
-      "rare": 20,
-      "epic": 27
+      "rare": 21,
+      "epic": 65
     },
     "bestBoxReward": {
       "boxType": "mythic",
@@ -539,10 +539,10 @@
       "hadArmor": false,
       "timestamp": 1778695565045
     },
-    "dailySellCount": 18627,
+    "dailySellCount": 18982,
     "lastSellReset": 1777618008906,
-    "lastFreeBox": 1778793174550,
-    "freeBoxStreak": 6,
+    "lastFreeBox": 1778882312912,
+    "freeBoxStreak": 7,
     "weeklyShopLastReset": 0,
     "weeklyShopPurchases": {
       "ability_points_6862": {
@@ -569,15 +569,30 @@
         "boughtAt": 1778854653015,
         "cycleNumber": 6862,
         "cardName": "بطاقة حظ الصناديق"
+      },
+      "rapid_dive_6863": {
+        "boughtAt": 1778924728322,
+        "cycleNumber": 6863,
+        "cardName": "بطاقة غوص خارق"
+      },
+      "gold_chest_6863": {
+        "boughtAt": 1778924822050,
+        "cycleNumber": 6863,
+        "cardName": "بطاقة كنز ذهبي"
+      },
+      "upgrade_luck_6863": {
+        "boughtAt": 1778937099534,
+        "cycleNumber": 6863,
+        "cardName": "بطاقة حظ الترقية"
       }
     },
     "petsCollected": 2,
-    "activeCards": {
-      "dungeon_damage": 1778855398901
-    },
+    "activeCards": {},
     "abilityPoints": 2,
     "playerSkills": {},
-    "skillPoints": 3
+    "skillPoints": 3,
+    "dungeonStreak": 1,
+    "totalGoldEarned": 585
   },
   "skills": [
     "stealth",
@@ -610,6 +625,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1776960777629,
-  "lastActive": 1778868164653,
+  "lastActive": 1779020628996,
   "groupId": "120363424226692086@g.us"
 }
