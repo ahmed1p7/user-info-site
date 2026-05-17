@@ -43,7 +43,7 @@
       "id": "210037507125265@s.whatsapp.net",
       "name": "تيريون لانيستر",
       "class": "محارب",
-      "level": 25
+      "level": 26
     },
     {
       "id": "11614178824270@s.whatsapp.net",
@@ -148,6 +148,6 @@
       "level": 1
     }
   ],
-  "messagesWeek": 1977,
-  "lastUpdated": 1779043712010
+  "messagesWeek": 360,
+  "lastUpdated": 1779061297444
 }
