@@ -4,18 +4,18 @@
   "nickname": "ستااااركز",
   "class": "ساحر الشفاء",
   "level": 40,
-  "xp": 53686056,
-  "hp": 529,
+  "xp": 53828687,
+  "hp": 1543,
   "maxHp": 1770,
   "atk": 84,
   "def": 122,
   "mag": 474,
   "critRate": 0.08900000000000004,
   "critDamage": 1.6949999999999958,
-  "gold": 1957188,
-  "gems": 1459,
-  "elixir": 3769,
-  "stamina": 10,
+  "gold": 82926,
+  "gems": 1554,
+  "elixir": 4030,
+  "stamina": 6,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -31,13 +31,13 @@
       "slotEmoji": "🧤",
       "def": 48,
       "bonusType": "atk",
-      "level": 1,
+      "level": 5,
       "maxLevel": 5,
       "baseDef": 48,
       "baseCost": 400,
       "costMultiplier": 3,
       "maxDefBonus": 70,
-      "obtainedAt": 1779027998734
+      "obtainedAt": 1779028150854
     },
     "خوذة": {
       "id": "شائع_شافي_خوذة_صليب_حياة",
@@ -69,13 +69,13 @@
       "slotEmoji": "👢",
       "def": 48,
       "bonusType": "evasion",
-      "level": 1,
+      "level": 5,
       "maxLevel": 5,
       "baseDef": 48,
       "baseCost": 400,
       "costMultiplier": 3,
       "maxDefBonus": 70,
-      "obtainedAt": 1779027998734
+      "obtainedAt": 1779028193241
     },
     "درع صدر": {
       "id": "ملحمي_شافي_درع_صدر_رداء_النور",
@@ -88,7 +88,7 @@
       "slotEmoji": "🛡️",
       "def": 58,
       "bonusType": "hp",
-      "level": 1,
+      "level": 5,
       "maxLevel": 5,
       "baseDef": 58,
       "baseCost": 400,
@@ -481,25 +481,25 @@
     }
   ],
   "boxes": {
-    "common": 1,
+    "common": 0,
     "rare": 0,
     "epic": 0,
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 491,
-  "losses": 24,
+  "wins": 631,
+  "losses": 26,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 38263,
-    "mineralsMined": 5415,
-    "boxesOpened": 652,
+    "fishCaught": 38624,
+    "mineralsMined": 5625,
+    "boxesOpened": 752,
     "boxesOpenedByType": {
-      "common": 552,
+      "common": 652,
       "rare": 0,
       "epic": 95,
       "legendary": 3,
@@ -533,9 +533,9 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 13716,
-    "dungeonKills": 488,
-    "dungeonDamageDealt": 266491,
+    "materialsCollected": 13981,
+    "dungeonKills": 628,
+    "dungeonDamageDealt": 344901,
     "fishSold": 16724,
     "mineralsSold": 3454,
     "dungeonsCompleted": 4,
@@ -551,11 +551,12 @@
       }
     },
     "activeCards": {},
-    "dungeonStreak": 4,
-    "totalGoldEarned": 147162,
+    "dungeonStreak": 0,
+    "totalGoldEarned": 166316,
     "completedDungeons": [
       3
-    ]
+    ],
+    "clanDungeonsCompleted": 1
   },
   "skills": [
     "heal",
@@ -585,9 +586,9 @@
       "shield_of_faith"
     ]
   },
-  "clanId": null,
-  "clanRole": null,
+  "clanId": "120363424226692086@g.us",
+  "clanRole": "member",
   "created": 1777400790020,
-  "lastActive": 1779028247413,
+  "lastActive": 1779037933036,
   "groupId": "120363424226692086@g.us"
 }
