@@ -4,18 +4,18 @@
   "nickname": "مورفي لاندو",
   "class": "برسيرك",
   "level": 46,
-  "xp": 3131352821,
-  "hp": 2506,
+  "xp": 7367883602,
+  "hp": 2445,
   "maxHp": 2506,
   "atk": 268,
   "def": 164,
   "mag": 162,
   "critRate": 0.14000000000000007,
   "critDamage": 1.9500000000000004,
-  "gold": 2805882,
-  "gems": 9164,
-  "elixir": 24269,
-  "stamina": 5,
+  "gold": 6230104,
+  "gems": 9166,
+  "elixir": 24272,
+  "stamina": 8,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -482,23 +482,23 @@
     }
   ],
   "boxes": {
-    "common": 1,
+    "common": 0,
     "rare": 0,
     "epic": 0,
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 3382,
-  "losses": 319,
+  "wins": 3386,
+  "losses": 324,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 30577,
-    "mineralsMined": 22495,
-    "boxesOpened": 733,
+    "fishCaught": 31335,
+    "mineralsMined": 23117,
+    "boxesOpened": 734,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -513,10 +513,10 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "dungeonKills": 3273,
-    "dungeonDamageDealt": 8166168,
+    "dungeonKills": 3276,
+    "dungeonDamageDealt": 8206477,
     "fishSold": 15943,
-    "materialsCollected": 11538,
+    "materialsCollected": 11772,
     "dungeonsCompleted": 8,
     "mineralsSold": 12461,
     "materialsSold": 15915,
@@ -530,7 +530,7 @@
     "lastFreeBox": 1778814108542,
     "freeBoxStreak": 9,
     "boxesOpenedByType": {
-      "common": 210,
+      "common": 211,
       "mythic": 105,
       "legendary": 173,
       "rare": 153,
@@ -567,6 +567,26 @@
         "boughtAt": 1778722391098,
         "cycleNumber": 6862,
         "cardName": "بطاقة تسريع التعدين"
+      },
+      "mystery_xp_6863": {
+        "boughtAt": 1778979540167,
+        "cycleNumber": 6863,
+        "cardName": "بطاقة تجربة غامضة"
+      },
+      "fishing_speed_6863": {
+        "boughtAt": 1778979584646,
+        "cycleNumber": 6863,
+        "cardName": "بطاقة تسريع الغوص"
+      },
+      "ability_points_6863": {
+        "boughtAt": 1778979643261,
+        "cycleNumber": 6863,
+        "cardName": "بطاقة نقاط قدرة"
+      },
+      "dungeon_defense_6863": {
+        "boughtAt": 1778989497459,
+        "cycleNumber": 6863,
+        "cardName": "بطاقة دفاع الدانجن"
       }
     },
     "playerSkills": {
@@ -580,8 +600,12 @@
       "merchant": 5
     },
     "petsCollected": 4,
-    "activeCards": {},
-    "abilityPoints": 2
+    "activeCards": {
+      "dungeon_defense": 1778991297459
+    },
+    "abilityPoints": 4,
+    "totalGoldEarned": 281,
+    "dungeonStreak": 0
   },
   "skills": [
     "double_strike",
@@ -616,6 +640,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1776881423012,
-  "lastActive": 1778868540077,
+  "lastActive": 1778989545234,
   "groupId": "120363424226692086@g.us"
 }
