@@ -3,19 +3,19 @@
   "name": "زازا",
   "nickname": "زازا",
   "class": "فارس",
-  "level": 15,
-  "xp": 27261,
-  "hp": 43,
-  "maxHp": 843,
-  "atk": 103,
-  "def": 60,
-  "mag": 16,
-  "critRate": 0.06400000000000002,
-  "critDamage": 1.5699999999999985,
-  "gold": 28388494,
-  "gems": 11,
-  "elixir": 13,
-  "stamina": 8,
+  "level": 16,
+  "xp": 35375,
+  "hp": 886,
+  "maxHp": 886,
+  "atk": 104,
+  "def": 63,
+  "mag": 17,
+  "critRate": 0.06500000000000002,
+  "critDamage": 1.5749999999999984,
+  "gold": 28308169,
+  "gems": 13,
+  "elixir": 14,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -36,9 +36,9 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 3073,
-    "mineralsMined": 1645,
-    "boxesOpened": 5,
+    "fishCaught": 3075,
+    "mineralsMined": 1849,
+    "boxesOpened": 6,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -53,12 +53,12 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "fishSold": 1155,
+    "fishSold": 3075,
     "dungeonKills": 429,
     "dungeonDamageDealt": 279804,
     "dungeonsCompleted": 3,
     "mineralsSold": 181,
-    "materialsCollected": 1348,
+    "materialsCollected": 1350,
     "pity": {
       "epic": 0,
       "legendary": 0,
@@ -68,7 +68,7 @@
     "lastFreeBox": 1778488716976,
     "freeBoxStreak": 2,
     "boxesOpenedByType": {
-      "common": 5
+      "common": 6
     },
     "bestBoxReward": {
       "boxType": "common",
@@ -77,8 +77,8 @@
       "hadArmor": false,
       "timestamp": 1777405487579
     },
-    "clanDungeonsCompleted": 3,
-    "dailySellCount": 891,
+    "clanDungeonsCompleted": 4,
+    "dailySellCount": 2811,
     "lastSellReset": 1777994698751,
     "weeklyShopLastReset": 0,
     "weeklyShopPurchases": {
@@ -86,15 +86,23 @@
         "boughtAt": 1778699551377,
         "cycleNumber": 6862,
         "cardName": "بطاقة نقاط مهارة"
+      },
+      "mining_speed_6863": {
+        "boughtAt": 1779132424911,
+        "cycleNumber": 6863,
+        "cardName": "بطاقة تسريع التعدين"
       }
     },
     "playerSkills": {
       "healer": 1
     },
     "petsCollected": 2,
-    "activeCards": {},
+    "activeCards": {
+      "mining_speed": 1779134224911
+    },
     "skillPoints": 3,
-    "dungeonStreak": 2
+    "dungeonStreak": 2,
+    "totalGoldEarned": 186
   },
   "skills": [
     "shield_wall",
@@ -114,9 +122,9 @@
       "taunt"
     ]
   },
-  "clanId": null,
-  "clanRole": null,
+  "clanId": "120363424226692086@g.us",
+  "clanRole": "member",
   "created": 1776881415988,
-  "lastActive": 1778927228241,
+  "lastActive": 1779137338336,
   "groupId": "120363424226692086@g.us"
 }
