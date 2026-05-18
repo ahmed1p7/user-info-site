@@ -3,18 +3,18 @@
   "name": "فانيتاس",
   "nickname": "فانيتاس",
   "class": "فارس الظلام",
-  "level": 38,
-  "xp": 306765546,
-  "hp": 524,
-  "maxHp": 833,
-  "atk": 327,
-  "def": 93,
-  "mag": 82,
-  "critRate": 0.39800000000000013,
-  "critDamage": 2.615999999999997,
-  "gold": 5913154,
-  "gems": 1300,
-  "elixir": 3475,
+  "level": 39,
+  "xp": 230453879,
+  "hp": 843,
+  "maxHp": 843,
+  "atk": 332,
+  "def": 100,
+  "mag": 83,
+  "critRate": 0.40200000000000014,
+  "critDamage": 2.633999999999997,
+  "gold": 11027199,
+  "gems": 1790,
+  "elixir": 4706,
   "stamina": 8,
   "maxStamina": 10,
   "energy": 100,
@@ -481,7 +481,7 @@
     }
   ],
   "boxes": {
-    "common": 2,
+    "common": 0,
     "rare": 0,
     "epic": 0,
     "legendary": 0,
@@ -495,9 +495,9 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 50105,
-    "mineralsMined": 12303,
-    "boxesOpened": 486,
+    "fishCaught": 50393,
+    "mineralsMined": 12570,
+    "boxesOpened": 989,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -515,7 +515,7 @@
     "fishSold": 30223,
     "dungeonKills": 1859,
     "dungeonDamageDealt": 4872042,
-    "materialsCollected": 18439,
+    "materialsCollected": 18695,
     "mineralsSold": 7700,
     "materialsSold": 8223,
     "dungeonsCompleted": 8,
@@ -528,7 +528,7 @@
     },
     "boxesOpenedByType": {
       "mythic": 3,
-      "common": 385,
+      "common": 888,
       "rare": 21,
       "epic": 65
     },
@@ -541,8 +541,8 @@
     },
     "dailySellCount": 27843,
     "lastSellReset": 1777618008906,
-    "lastFreeBox": 1779038051797,
-    "freeBoxStreak": 8,
+    "lastFreeBox": 1779137363961,
+    "freeBoxStreak": 9,
     "weeklyShopLastReset": 0,
     "weeklyShopPurchases": {
       "ability_points_6862": {
@@ -584,6 +584,11 @@
         "boughtAt": 1778937099534,
         "cycleNumber": 6863,
         "cardName": "بطاقة حظ الترقية"
+      },
+      "dive_reset_6863": {
+        "boughtAt": 1779140317134,
+        "cycleNumber": 6863,
+        "cardName": "بطاقة إعادة تعيين الغوص"
       }
     },
     "petsCollected": 2,
@@ -592,7 +597,7 @@
     "playerSkills": {},
     "skillPoints": 3,
     "dungeonStreak": 0,
-    "totalGoldEarned": 1150
+    "totalGoldEarned": 8728
   },
   "skills": [
     "stealth",
@@ -625,6 +630,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1776960777629,
-  "lastActive": 1779137345180,
+  "lastActive": 1779141008204,
   "groupId": "120363424226692086@g.us"
 }
