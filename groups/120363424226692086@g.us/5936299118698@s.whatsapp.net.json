@@ -4,18 +4,18 @@
   "nickname": "ستااااركز",
   "class": "ساحر الشفاء",
   "level": 40,
-  "xp": 53828687,
-  "hp": 1543,
+  "xp": 53926484,
+  "hp": 1,
   "maxHp": 1770,
   "atk": 84,
   "def": 122,
   "mag": 474,
   "critRate": 0.08900000000000004,
   "critDamage": 1.6949999999999958,
-  "gold": 82926,
+  "gold": 73834,
   "gems": 1554,
   "elixir": 4030,
-  "stamina": 6,
+  "stamina": 2,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -481,22 +481,22 @@
     }
   ],
   "boxes": {
-    "common": 0,
+    "common": 1,
     "rare": 0,
     "epic": 0,
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 631,
-  "losses": 26,
+  "wins": 824,
+  "losses": 32,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 38624,
-    "mineralsMined": 5625,
+    "fishCaught": 44079,
+    "mineralsMined": 6439,
     "boxesOpened": 752,
     "boxesOpenedByType": {
       "common": 652,
@@ -517,8 +517,8 @@
       "legendary": 3,
       "mythic": 2
     },
-    "lastFreeBox": 1778882306396,
-    "freeBoxStreak": 4,
+    "lastFreeBox": 1779038045271,
+    "freeBoxStreak": 5,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -533,14 +533,14 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 13981,
-    "dungeonKills": 628,
-    "dungeonDamageDealt": 344901,
-    "fishSold": 16724,
-    "mineralsSold": 3454,
-    "dungeonsCompleted": 4,
+    "materialsCollected": 16021,
+    "dungeonKills": 821,
+    "dungeonDamageDealt": 616256,
+    "fishSold": 21312,
+    "mineralsSold": 3591,
+    "dungeonsCompleted": 5,
     "materialsSold": 3194,
-    "dailySellCount": 17021,
+    "dailySellCount": 21746,
     "lastSellReset": 1777617921445,
     "weeklyShopLastReset": 0,
     "weeklyShopPurchases": {
@@ -548,15 +548,23 @@
         "boughtAt": 1778929896671,
         "cycleNumber": 6863,
         "cardName": "بطاقة ×2 تجربة"
+      },
+      "dungeon_defense_6863": {
+        "boughtAt": 1779103732513,
+        "cycleNumber": 6863,
+        "cardName": "بطاقة دفاع الدانجن"
       }
     },
-    "activeCards": {},
+    "activeCards": {
+      "dungeon_defense": 1779105532513
+    },
     "dungeonStreak": 0,
     "totalGoldEarned": 166316,
     "completedDungeons": [
-      3
+      3,
+      4
     ],
-    "clanDungeonsCompleted": 1
+    "clanDungeonsCompleted": 3
   },
   "skills": [
     "heal",
@@ -589,6 +597,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777400790020,
-  "lastActive": 1779037933036,
+  "lastActive": 1779105669351,
   "groupId": "120363424226692086@g.us"
 }
