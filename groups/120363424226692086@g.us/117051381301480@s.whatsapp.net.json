@@ -4,18 +4,18 @@
   "nickname": "ايزن",
   "class": "ساحر",
   "level": 28,
-  "xp": 2521607,
-  "hp": 530,
-  "maxHp": 530,
+  "xp": 10866637,
+  "hp": 560,
+  "maxHp": 560,
   "atk": 65,
   "def": 61,
   "mag": 409,
   "critRate": 0.10700000000000003,
   "critDamage": 1.9049999999999974,
-  "gold": 323777,
-  "gems": 1285,
-  "elixir": 3073,
-  "stamina": 9,
+  "gold": 234415,
+  "gems": 1306,
+  "elixir": 3177,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -462,29 +462,29 @@
     }
   ],
   "boxes": {
-    "common": 0,
+    "common": 1,
     "rare": 0,
     "epic": 0,
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 818,
-  "losses": 362,
+  "wins": 842,
+  "losses": 373,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 16350,
-    "mineralsMined": 2612,
-    "boxesOpened": 1013,
+    "fishCaught": 28687,
+    "mineralsMined": 3731,
+    "boxesOpened": 1014,
     "boxesOpenedByType": {
       "common": 991,
       "rare": 0,
       "epic": 15,
       "legendary": 7,
-      "mythic": 0
+      "mythic": 1
     },
     "bestBoxReward": {
       "boxType": "legendary",
@@ -496,10 +496,10 @@
     "pity": {
       "epic": 1,
       "legendary": 7,
-      "mythic": 0
+      "mythic": 1
     },
-    "lastFreeBox": 1778832382705,
-    "freeBoxStreak": 3,
+    "lastFreeBox": 1779139163083,
+    "freeBoxStreak": 4,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -514,9 +514,9 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 6827,
-    "dungeonKills": 814,
-    "dungeonDamageDealt": 659092,
+    "materialsCollected": 11144,
+    "dungeonKills": 838,
+    "dungeonDamageDealt": 686154,
     "dungeonsCompleted": 5,
     "dailySellCount": 6946,
     "lastSellReset": 1777609841041,
@@ -531,12 +531,19 @@
         "boughtAt": 1778922861394,
         "cycleNumber": 6863,
         "cardName": "بطاقة حظ الترقية"
+      },
+      "xp_boost_3x_6864": {
+        "boughtAt": 1779177910979,
+        "cycleNumber": 6864,
+        "cardName": "بطاقة ×3 تجربة"
       }
     },
     "playerSkills": {},
     "petsCollected": 3,
-    "activeCards": {},
-    "totalGoldEarned": 35110,
+    "activeCards": {
+      "xp_boost_3x": 1779178810979
+    },
+    "totalGoldEarned": 35503,
     "dungeonStreak": 0
   },
   "skills": [
@@ -566,6 +573,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1777542343015,
-  "lastActive": 1779093212066,
+  "lastActive": 1779178262848,
   "groupId": "120363424226692086@g.us"
 }
