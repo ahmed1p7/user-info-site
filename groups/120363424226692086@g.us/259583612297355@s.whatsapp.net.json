@@ -4,18 +4,18 @@
   "nickname": "باتمان",
   "class": "برسيرك",
   "level": 48,
-  "xp": 5233062807,
-  "hp": 2168,
+  "xp": 12670001091,
+  "hp": 2708,
   "maxHp": 2794,
   "atk": 276,
   "def": 166,
   "mag": 128,
   "critRate": 0.14400000000000007,
   "critDamage": 1.9700000000000004,
-  "gold": 409095397,
-  "gems": 6807,
-  "elixir": 18480,
-  "stamina": 10,
+  "gold": 419235146,
+  "gems": 7245,
+  "elixir": 19621,
+  "stamina": 9,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -486,30 +486,30 @@
     }
   ],
   "boxes": {
-    "common": 1,
+    "common": 0,
     "rare": 0,
     "epic": 0,
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 11734,
-  "losses": 601,
+  "wins": 11952,
+  "losses": 617,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 60532,
-    "mineralsMined": 31507,
-    "boxesOpened": 540,
+    "fishCaught": 66098,
+    "mineralsMined": 34596,
+    "boxesOpened": 996,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 1,
+    "pvpWins": 4,
     "pvpLosses": 0,
     "successfulRobberies": 0,
     "failedRobberies": 0,
@@ -517,10 +517,10 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "dungeonKills": 11670,
-    "dungeonDamageDealt": 33152715,
-    "fishSold": 43503,
-    "materialsCollected": 30023,
+    "dungeonKills": 11885,
+    "dungeonDamageDealt": 34437529,
+    "fishSold": 43783,
+    "materialsCollected": 32293,
     "dungeonsCompleted": 9,
     "materialsSold": 16708,
     "mineralsSold": 17288,
@@ -530,14 +530,14 @@
       "legendary": 17,
       "mythic": 21
     },
-    "lastFreeBox": 1779043189255,
-    "freeBoxStreak": 16,
+    "lastFreeBox": 1779139155069,
+    "freeBoxStreak": 17,
     "clanDungeonsCompleted": 7,
     "clanDungeonDamage": 0,
     "boxesOpenedByType": {
       "epic": 27,
       "legendary": 101,
-      "common": 253,
+      "common": 709,
       "mythic": 106,
       "rare": 2
     },
@@ -548,7 +548,7 @@
       "hadArmor": false,
       "timestamp": 1778567902268
     },
-    "dailySellCount": 52501,
+    "dailySellCount": 52781,
     "lastSellReset": 1777615001685,
     "weeklyShopLastReset": 0,
     "weeklyShopPurchases": {
@@ -581,6 +581,11 @@
         "boughtAt": 1778924667743,
         "cycleNumber": 6863,
         "cardName": "بطاقة ذهب مضاعف"
+      },
+      "rare_fish_6863": {
+        "boughtAt": 1779085231720,
+        "cycleNumber": 6863,
+        "cardName": "بطاقة صيد نادر"
       }
     },
     "playerSkills": {
@@ -596,7 +601,7 @@
     "petsCollected": 2,
     "activeCards": {},
     "dungeonStreak": 0,
-    "totalGoldEarned": 1145
+    "totalGoldEarned": 34187
   },
   "skills": [
     "double_strike",
@@ -631,6 +636,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "leader",
   "created": 1776881461393,
-  "lastActive": 1779043372259,
+  "lastActive": 1779171524527,
   "groupId": "120363424226692086@g.us"
 }
