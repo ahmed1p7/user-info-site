@@ -4,7 +4,7 @@
   "nickname": "عبودي || APODY",
   "class": "فارس",
   "level": 1,
-  "xp": 0,
+  "xp": 15,
   "hp": 180,
   "maxHp": 180,
   "atk": 12,
@@ -12,7 +12,7 @@
   "mag": 2,
   "critRate": 0.05,
   "critDamage": 1.5,
-  "gold": 100,
+  "gold": 140,
   "gems": 0,
   "elixir": 0,
   "stamina": 10,
@@ -183,8 +183,8 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 0,
-    "mineralsMined": 0,
+    "fishCaught": 1,
+    "mineralsMined": 2,
     "boxesOpened": 0,
     "boxesOpenedByType": {
       "common": 0,
@@ -225,9 +225,9 @@
     "passive": [],
     "active": []
   },
-  "clanId": null,
-  "clanRole": null,
+  "clanId": "120363406016433557@g.us",
+  "clanRole": "leader",
   "created": 1779285042497,
-  "lastActive": 1779290210643,
+  "lastActive": 1779290824032,
   "groupId": "120363406016433557@g.us"
 }
