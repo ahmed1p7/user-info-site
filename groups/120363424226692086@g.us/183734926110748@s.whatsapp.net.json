@@ -1,21 +1,21 @@
 {
   "id": "183734926110748@s.whatsapp.net",
-  "name": "فانيتاس",
-  "nickname": "فانيتاس",
+  "name": "هطوفي ابو نواف",
+  "nickname": "هطوفي ابو نواف",
   "class": "فارس الظلام",
-  "level": 39,
-  "xp": 230453879,
-  "hp": 843,
-  "maxHp": 843,
-  "atk": 332,
-  "def": 100,
-  "mag": 83,
-  "critRate": 0.40200000000000014,
-  "critDamage": 2.633999999999997,
-  "gold": 11027199,
-  "gems": 1790,
-  "elixir": 4706,
-  "stamina": 8,
+  "level": 46,
+  "xp": 4444027577,
+  "hp": 920,
+  "maxHp": 920,
+  "atk": 458,
+  "def": 149,
+  "mag": 111,
+  "critRate": 0.6300000000000001,
+  "critDamage": 2.7599999999999953,
+  "gold": 23235603,
+  "gems": 1931,
+  "elixir": 4850,
+  "stamina": 0,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -481,53 +481,53 @@
     }
   ],
   "boxes": {
-    "common": 0,
+    "common": 1,
     "rare": 0,
     "epic": 0,
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 1864,
-  "losses": 159,
+  "wins": 2104,
+  "losses": 301,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 50393,
-    "mineralsMined": 12570,
-    "boxesOpened": 989,
+    "fishCaught": 72516,
+    "mineralsMined": 15325,
+    "boxesOpened": 990,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 1,
-    "pvpLosses": 3,
+    "pvpWins": 2,
+    "pvpLosses": 7,
     "successfulRobberies": 0,
     "failedRobberies": 0,
     "luckGamesPlayed": 0,
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "fishSold": 30223,
-    "dungeonKills": 1859,
-    "dungeonDamageDealt": 4872042,
-    "materialsCollected": 18695,
-    "mineralsSold": 7700,
+    "fishSold": 30519,
+    "dungeonKills": 2098,
+    "dungeonDamageDealt": 6965210,
+    "materialsCollected": 26405,
+    "mineralsSold": 8175,
     "materialsSold": 8223,
-    "dungeonsCompleted": 8,
-    "clanDungeonsCompleted": 4,
+    "dungeonsCompleted": 9,
+    "clanDungeonsCompleted": 7,
     "clanDungeonDamage": 0,
     "pity": {
       "epic": 9,
       "legendary": 0,
-      "mythic": 0
+      "mythic": 1
     },
     "boxesOpenedByType": {
-      "mythic": 3,
+      "mythic": 4,
       "common": 888,
       "rare": 21,
       "epic": 65
@@ -539,10 +539,10 @@
       "hadArmor": false,
       "timestamp": 1778695565045
     },
-    "dailySellCount": 27843,
+    "dailySellCount": 28614,
     "lastSellReset": 1777618008906,
-    "lastFreeBox": 1779137363961,
-    "freeBoxStreak": 9,
+    "lastFreeBox": 1779224825090,
+    "freeBoxStreak": 10,
     "weeklyShopLastReset": 0,
     "weeklyShopPurchases": {
       "ability_points_6862": {
@@ -589,6 +589,21 @@
         "boughtAt": 1779140317134,
         "cycleNumber": 6863,
         "cardName": "بطاقة إعادة تعيين الغوص"
+      },
+      "dungeon_box_card_6864": {
+        "boughtAt": 1779178308262,
+        "cycleNumber": 6864,
+        "cardName": "بطاقة صندوق دانجن"
+      },
+      "gold_boost_6864": {
+        "boughtAt": 1779193545494,
+        "cycleNumber": 6864,
+        "cardName": "بطاقة ذهب مضاعف"
+      },
+      "xp_boost_3x_6864": {
+        "boughtAt": 1779193548266,
+        "cycleNumber": 6864,
+        "cardName": "بطاقة ×3 تجربة"
       }
     },
     "petsCollected": 2,
@@ -597,7 +612,15 @@
     "playerSkills": {},
     "skillPoints": 3,
     "dungeonStreak": 0,
-    "totalGoldEarned": 8728
+    "totalGoldEarned": 11399,
+    "titles": [
+      "بطل الأسبوع"
+    ],
+    "tournamentsWon": 1,
+    "tournamentsFirst": 1,
+    "completedDungeons": [
+      8
+    ]
   },
   "skills": [
     "stealth",
@@ -609,7 +632,8 @@
     "shadow_terror",
     "death_dance",
     "shadow_chain",
-    "dark_momentum"
+    "dark_momentum",
+    "eclipse_slash"
   ],
   "unlockedSkills": {
     "passive": [
@@ -624,12 +648,13 @@
       "assassinate",
       "smoke_bomb",
       "death_dance",
-      "shadow_chain"
+      "shadow_chain",
+      "eclipse_slash"
     ]
   },
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1776960777629,
-  "lastActive": 1779141008204,
+  "lastActive": 1779284537684,
   "groupId": "120363424226692086@g.us"
 }
