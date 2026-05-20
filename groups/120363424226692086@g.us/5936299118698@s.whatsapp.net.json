@@ -3,19 +3,19 @@
   "name": "ستااااركز",
   "nickname": "ستااااركز",
   "class": "ساحر الشفاء",
-  "level": 44,
-  "xp": 70835166,
-  "hp": 1870,
-  "maxHp": 1870,
-  "atk": 112,
-  "def": 126,
-  "mag": 490,
-  "critRate": 0.09300000000000004,
-  "critDamage": 1.7149999999999954,
-  "gold": 1877,
-  "gems": 1554,
-  "elixir": 4030,
-  "stamina": 2,
+  "level": 46,
+  "xp": 5412847309,
+  "hp": 1920,
+  "maxHp": 1920,
+  "atk": 124,
+  "def": 134,
+  "mag": 498,
+  "critRate": 0.09500000000000004,
+  "critDamage": 1.7249999999999952,
+  "gold": 19162038,
+  "gems": 1720,
+  "elixir": 4319,
+  "stamina": 9,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -481,28 +481,28 @@
     }
   ],
   "boxes": {
-    "common": 70,
-    "rare": 0,
+    "common": 0,
+    "rare": 1,
     "epic": 0,
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 824,
-  "losses": 32,
+  "wins": 977,
+  "losses": 85,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 44337,
-    "mineralsMined": 6469,
-    "boxesOpened": 752,
+    "fishCaught": 90267,
+    "mineralsMined": 10248,
+    "boxesOpened": 854,
     "boxesOpenedByType": {
-      "common": 652,
+      "common": 753,
       "rare": 0,
       "epic": 95,
-      "legendary": 3,
+      "legendary": 4,
       "mythic": 2
     },
     "bestBoxReward": {
@@ -514,33 +514,33 @@
     },
     "pity": {
       "epic": 1,
-      "legendary": 3,
+      "legendary": 4,
       "mythic": 2
     },
-    "lastFreeBox": 1779038045271,
-    "freeBoxStreak": 5,
+    "lastFreeBox": 1779224833541,
+    "freeBoxStreak": 7,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 0,
-    "pvpLosses": 0,
+    "pvpWins": 1,
+    "pvpLosses": 2,
     "successfulRobberies": 0,
     "failedRobberies": 0,
     "luckGamesPlayed": 0,
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 16092,
-    "dungeonKills": 821,
-    "dungeonDamageDealt": 616256,
-    "fishSold": 21312,
-    "mineralsSold": 3591,
-    "dungeonsCompleted": 5,
+    "materialsCollected": 32125,
+    "dungeonKills": 973,
+    "dungeonDamageDealt": 916132,
+    "fishSold": 21743,
+    "mineralsSold": 3912,
+    "dungeonsCompleted": 6,
     "materialsSold": 3194,
-    "dailySellCount": 21746,
+    "dailySellCount": 22498,
     "lastSellReset": 1777617921445,
     "weeklyShopLastReset": 0,
     "weeklyShopPurchases": {
@@ -553,16 +553,38 @@
         "boughtAt": 1779103732513,
         "cycleNumber": 6863,
         "cardName": "بطاقة دفاع الدانجن"
+      },
+      "dungeon_defense_6864": {
+        "boughtAt": 1779178078381,
+        "cycleNumber": 6864,
+        "cardName": "بطاقة دفاع الدانجن"
+      },
+      "fishing_speed_6864": {
+        "boughtAt": 1779178081692,
+        "cycleNumber": 6864,
+        "cardName": "بطاقة تسريع الغوص"
+      },
+      "hp_boost_6864": {
+        "boughtAt": 1779178084347,
+        "cycleNumber": 6864,
+        "cardName": "بطاقة HP إضافي"
+      },
+      "mining_luck_6864": {
+        "boughtAt": 1779226705599,
+        "cycleNumber": 6864,
+        "cardName": "بطاقة حظ التعدين"
       }
     },
     "activeCards": {},
     "dungeonStreak": 0,
-    "totalGoldEarned": 167206,
+    "totalGoldEarned": 189925,
     "completedDungeons": [
       3,
-      4
+      4,
+      5
     ],
-    "clanDungeonsCompleted": 3
+    "clanDungeonsCompleted": 6,
+    "tournamentsWon": 1
   },
   "skills": [
     "heal",
@@ -595,6 +617,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777400790020,
-  "lastActive": 1779106699869,
+  "lastActive": 1779283746279,
   "groupId": "120363424226692086@g.us"
 }
