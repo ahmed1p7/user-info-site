@@ -3,19 +3,19 @@
   "name": "سيقمير اوف كاترينا",
   "nickname": "سيقمير اوف كاترينا",
   "class": "فارس مظلم",
-  "level": 37,
-  "xp": 263193103,
-  "hp": 1925,
-  "maxHp": 1925,
-  "atk": 203,
-  "def": 153,
-  "mag": 42,
-  "critRate": 0.12200000000000007,
-  "critDamage": 1.8600000000000003,
-  "gold": 5180935,
+  "level": 45,
+  "xp": 2486888495,
+  "hp": 2647,
+  "maxHp": 2647,
+  "atk": 267,
+  "def": 163,
+  "mag": 98,
+  "critRate": 0.13800000000000007,
+  "critDamage": 1.9400000000000004,
+  "gold": 11679525,
   "gems": 2207,
   "elixir": 5709,
-  "stamina": 10,
+  "stamina": 5,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -487,16 +487,16 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 5323,
-  "losses": 173,
+  "wins": 5527,
+  "losses": 195,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 36324,
-    "mineralsMined": 20877,
+    "fishCaught": 44417,
+    "mineralsMined": 23875,
     "boxesOpened": 556,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -504,7 +504,7 @@
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 0,
+    "pvpWins": 2,
     "pvpLosses": 0,
     "successfulRobberies": 0,
     "failedRobberies": 0,
@@ -513,11 +513,11 @@
     "territoriesConquered": 0,
     "territoryDefenses": 0,
     "fishSold": 22005,
-    "dungeonKills": 5308,
-    "dungeonDamageDealt": 11765047,
-    "materialsCollected": 16595,
+    "dungeonKills": 5510,
+    "dungeonDamageDealt": 12884497,
+    "materialsCollected": 19555,
     "materialsSold": 19402,
-    "dungeonsCompleted": 7,
+    "dungeonsCompleted": 8,
     "itemsMerged": 14,
     "mineralsSold": 11915,
     "mergesFailed": 2,
@@ -540,7 +540,7 @@
       "hadArmor": false,
       "timestamp": 1778192520729
     },
-    "clanDungeonsCompleted": 6,
+    "clanDungeonsCompleted": 7,
     "lastFreeBox": 1777468656692,
     "freeBoxStreak": 1,
     "dailySellCount": 24078,
@@ -585,12 +585,27 @@
         "boughtAt": 1779038283685,
         "cycleNumber": 6863,
         "cardName": "بطاقة صندوق دانجن"
+      },
+      "gold_chest_6864": {
+        "boughtAt": 1779314853142,
+        "cycleNumber": 6864,
+        "cardName": "بطاقة كنز ذهبي"
+      },
+      "xp_boost_3x_6864": {
+        "boughtAt": 1779329730362,
+        "cycleNumber": 6864,
+        "cardName": "بطاقة ×3 تجربة"
       }
     },
     "petsCollected": 1,
-    "activeCards": {},
+    "activeCards": {
+      "xp_boost_3x": 1779330630362
+    },
     "dungeonStreak": 0,
-    "totalGoldEarned": 750
+    "totalGoldEarned": 3685,
+    "completedDungeons": [
+      7
+    ]
   },
   "skills": [
     "double_strike",
@@ -623,6 +638,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1776891817820,
-  "lastActive": 1779189082283,
+  "lastActive": 1779371919036,
   "groupId": "120363424226692086@g.us"
 }
