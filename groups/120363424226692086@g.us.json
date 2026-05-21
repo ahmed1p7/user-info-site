@@ -16,15 +16,15 @@
       "level": 48
     },
     {
-      "id": "5936299118698@s.whatsapp.net",
-      "name": "ستااااركز",
-      "class": "ساحر الشفاء",
-      "level": 46
-    },
-    {
       "id": "183734926110748@s.whatsapp.net",
       "name": "هطوفي ابو نواف",
       "class": "فارس الظلام",
+      "level": 47
+    },
+    {
+      "id": "5936299118698@s.whatsapp.net",
+      "name": "ستااااركز",
+      "class": "ساحر الشفاء",
       "level": 46
     },
     {
@@ -148,6 +148,6 @@
       "level": 1
     }
   ],
-  "messagesWeek": 156,
-  "lastUpdated": 1779361190432
+  "messagesWeek": 1014,
+  "lastUpdated": 1779370093544
 }
