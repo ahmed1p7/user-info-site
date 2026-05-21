@@ -2,20 +2,20 @@
   "id": "210037507125265@s.whatsapp.net",
   "name": "تيريون لانيستر",
   "nickname": "تيريون لانيستر",
-  "class": "محارب",
-  "level": 27,
-  "xp": 26634325,
-  "hp": 1,
-  "maxHp": 1504,
-  "atk": 137,
-  "def": 106,
-  "mag": 29,
-  "critRate": 0.10200000000000005,
-  "critDamage": 1.7600000000000002,
-  "gold": 443627,
+  "class": "برسيرك",
+  "level": 34,
+  "xp": 15692937,
+  "hp": 1823,
+  "maxHp": 1823,
+  "atk": 193,
+  "def": 124,
+  "mag": 36,
+  "critRate": 0.11600000000000006,
+  "critDamage": 1.8300000000000003,
+  "gold": 625801,
   "gems": 502,
   "elixir": 1150,
-  "stamina": 10,
+  "stamina": 6,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -355,22 +355,22 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 1552,
-  "losses": 47,
+  "wins": 2665,
+  "losses": 76,
   "evolvedClass": null,
-  "evolutionPath": null,
+  "evolutionPath": "pathA",
   "stats": {
-    "fishCaught": 39388,
-    "materialsCollected": 15021,
-    "mineralsMined": 5873,
+    "fishCaught": 74839,
+    "materialsCollected": 28262,
+    "mineralsMined": 10865,
     "dailySellCount": 10226,
     "lastSellReset": 1777614764945,
     "mineralsSold": 416,
     "fishSold": 9810,
-    "dungeonKills": 1541,
-    "dungeonDamageDealt": 1520777,
+    "dungeonKills": 2652,
+    "dungeonDamageDealt": 3704462,
     "materialsSold": 11700,
-    "dungeonsCompleted": 5,
+    "dungeonsCompleted": 7,
     "pity": {
       "epic": 1,
       "legendary": 0,
@@ -392,13 +392,29 @@
       "timestamp": 1778224788878
     },
     "clanDungeonsCompleted": 1,
-    "totalGoldEarned": 29784,
+    "totalGoldEarned": 31999,
     "weeklyShopLastReset": 0,
-    "weeklyShopPurchases": {},
-    "activeCards": {},
-    "pvpLosses": 2,
-    "pvpWins": 1,
-    "dungeonStreak": 0
+    "weeklyShopPurchases": {
+      "rapid_dive_6864": {
+        "boughtAt": 1779314840509,
+        "cycleNumber": 6864,
+        "cardName": "بطاقة غوص خارق"
+      }
+    },
+    "activeCards": {
+      "rapid_dive": 1779315740509
+    },
+    "pvpLosses": 7,
+    "pvpWins": 3,
+    "dungeonStreak": 0,
+    "completedDungeons": [
+      5,
+      6
+    ],
+    "petsCollected": 3,
+    "playerSkills": {
+      "merchant": 1
+    }
   },
   "skills": [
     "double_strike",
@@ -408,7 +424,8 @@
     "war_cry",
     "bone_stubbornness",
     "blood_fury",
-    "blood_bath"
+    "blood_bath",
+    "berserker_rage"
   ],
   "unlockedSkills": {
     "passive": [
@@ -416,7 +433,8 @@
       "berserk_mode",
       "warrior_endurance",
       "bone_stubbornness",
-      "blood_fury"
+      "blood_fury",
+      "berserker_rage"
     ],
     "active": [
       "double_strike",
@@ -427,6 +445,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1777613816222,
-  "lastActive": 1779193511657,
+  "lastActive": 1779371808926,
   "groupId": "120363424226692086@g.us"
 }
