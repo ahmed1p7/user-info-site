@@ -1,21 +1,21 @@
 {
   "id": "238706262851666@s.whatsapp.net",
-  "name": "مورفي لاندو",
-  "nickname": "مورفي لاندو",
+  "name": "ابو عبدالله اللحجي الهطف",
+  "nickname": "ابو عبدالله اللحجي الهطف",
   "class": "برسيرك",
-  "level": 46,
-  "xp": 7367893906,
-  "hp": 1,
-  "maxHp": 2506,
-  "atk": 268,
-  "def": 164,
-  "mag": 162,
-  "critRate": 0.14000000000000007,
-  "critDamage": 1.9500000000000004,
-  "gold": 5726053,
+  "level": 48,
+  "xp": 11724507719,
+  "hp": 2602,
+  "maxHp": 2602,
+  "atk": 274,
+  "def": 166,
+  "mag": 182,
+  "critRate": 0.14400000000000007,
+  "critDamage": 1.9700000000000004,
+  "gold": 134490,
   "gems": 9169,
   "elixir": 24272,
-  "stamina": 8,
+  "stamina": 7,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -488,16 +488,16 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 3398,
-  "losses": 331,
+  "wins": 3703,
+  "losses": 416,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 31750,
-    "mineralsMined": 23530,
+    "fishCaught": 47553,
+    "mineralsMined": 28019,
     "boxesOpened": 734,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -505,19 +505,19 @@
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 0,
-    "pvpLosses": 0,
+    "pvpWins": 6,
+    "pvpLosses": 4,
     "successfulRobberies": 0,
     "failedRobberies": 0,
     "luckGamesPlayed": 0,
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "dungeonKills": 3288,
-    "dungeonDamageDealt": 8358937,
+    "dungeonKills": 3587,
+    "dungeonDamageDealt": 11339477,
     "fishSold": 15943,
-    "materialsCollected": 11914,
-    "dungeonsCompleted": 8,
+    "materialsCollected": 17744,
+    "dungeonsCompleted": 9,
     "mineralsSold": 12461,
     "materialsSold": 15915,
     "clanDungeonsCompleted": 14,
@@ -587,6 +587,26 @@
         "boughtAt": 1778989497459,
         "cycleNumber": 6863,
         "cardName": "بطاقة دفاع الدانجن"
+      },
+      "dive_reset_6864": {
+        "boughtAt": 1779163134074,
+        "cycleNumber": 6864,
+        "cardName": "بطاقة إعادة تعيين الغوص"
+      },
+      "skill_points_6864": {
+        "boughtAt": 1779163466100,
+        "cycleNumber": 6864,
+        "cardName": "بطاقة نقاط مهارة"
+      },
+      "mystery_xp_6864": {
+        "boughtAt": 1779163495879,
+        "cycleNumber": 6864,
+        "cardName": "بطاقة تجربة غامضة"
+      },
+      "box_luck_6864": {
+        "boughtAt": 1779289748495,
+        "cycleNumber": 6864,
+        "cardName": "بطاقة حظ الصناديق"
       }
     },
     "playerSkills": {
@@ -599,11 +619,15 @@
       "guardian": 5,
       "merchant": 5
     },
-    "petsCollected": 4,
+    "petsCollected": 7,
     "activeCards": {},
     "abilityPoints": 4,
-    "totalGoldEarned": 281,
-    "dungeonStreak": 0
+    "totalGoldEarned": 5006,
+    "dungeonStreak": 0,
+    "skillPoints": 3,
+    "completedDungeons": [
+      8
+    ]
   },
   "skills": [
     "double_strike",
@@ -636,8 +660,8 @@
     ]
   },
   "clanId": "120363424226692086@g.us",
-  "clanRole": "deputy",
+  "clanRole": "member",
   "created": 1776881423012,
-  "lastActive": 1779032957874,
+  "lastActive": 1779329858557,
   "groupId": "120363424226692086@g.us"
 }
