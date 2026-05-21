@@ -3,18 +3,18 @@
   "name": "باتمان",
   "nickname": "باتمان",
   "class": "برسيرك",
-  "level": 48,
-  "xp": 12670001091,
-  "hp": 2708,
-  "maxHp": 2794,
-  "atk": 276,
-  "def": 166,
-  "mag": 128,
-  "critRate": 0.14400000000000007,
-  "critDamage": 1.9700000000000004,
-  "gold": 419235146,
-  "gems": 7245,
-  "elixir": 19621,
+  "level": 49,
+  "xp": 13764819540,
+  "hp": 2053,
+  "maxHp": 2842,
+  "atk": 279,
+  "def": 167,
+  "mag": 138,
+  "critRate": 0.14600000000000007,
+  "critDamage": 1.9800000000000004,
+  "gold": 441051120,
+  "gems": 7829,
+  "elixir": 20999,
   "stamina": 9,
   "maxStamina": 10,
   "energy": 100,
@@ -492,24 +492,24 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 11952,
-  "losses": 617,
+  "wins": 12242,
+  "losses": 914,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 66098,
-    "mineralsMined": 34596,
-    "boxesOpened": 996,
+    "fishCaught": 89632,
+    "mineralsMined": 39975,
+    "boxesOpened": 1208,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 4,
+    "pvpWins": 9,
     "pvpLosses": 0,
     "successfulRobberies": 0,
     "failedRobberies": 0,
@@ -517,28 +517,28 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "dungeonKills": 11885,
-    "dungeonDamageDealt": 34437529,
-    "fishSold": 43783,
-    "materialsCollected": 32293,
-    "dungeonsCompleted": 9,
+    "dungeonKills": 12170,
+    "dungeonDamageDealt": 38485756,
+    "fishSold": 47428,
+    "materialsCollected": 40639,
+    "dungeonsCompleted": 10,
     "materialsSold": 16708,
     "mineralsSold": 17288,
     "itemsMerged": 11,
     "pity": {
       "epic": 2,
       "legendary": 17,
-      "mythic": 21
+      "mythic": 31
     },
-    "lastFreeBox": 1779139155069,
-    "freeBoxStreak": 17,
+    "lastFreeBox": 1779371456383,
+    "freeBoxStreak": 19,
     "clanDungeonsCompleted": 7,
     "clanDungeonDamage": 0,
     "boxesOpenedByType": {
       "epic": 27,
       "legendary": 101,
-      "common": 709,
-      "mythic": 106,
+      "common": 911,
+      "mythic": 116,
       "rare": 2
     },
     "bestBoxReward": {
@@ -548,7 +548,7 @@
       "hadArmor": false,
       "timestamp": 1778567902268
     },
-    "dailySellCount": 52781,
+    "dailySellCount": 56426,
     "lastSellReset": 1777615001685,
     "weeklyShopLastReset": 0,
     "weeklyShopPurchases": {
@@ -586,6 +586,21 @@
         "boughtAt": 1779085231720,
         "cycleNumber": 6863,
         "cardName": "بطاقة صيد نادر"
+      },
+      "fishing_speed_6864": {
+        "boughtAt": 1779176699480,
+        "cycleNumber": 6864,
+        "cardName": "بطاقة تسريع الغوص"
+      },
+      "ability_points_6864": {
+        "boughtAt": 1779176988217,
+        "cycleNumber": 6864,
+        "cardName": "بطاقة نقاط قدرة"
+      },
+      "sell_boost_6864": {
+        "boughtAt": 1779182267309,
+        "cycleNumber": 6864,
+        "cardName": "بطاقة بيع ممتاز"
       }
     },
     "playerSkills": {
@@ -601,7 +616,11 @@
     "petsCollected": 2,
     "activeCards": {},
     "dungeonStreak": 0,
-    "totalGoldEarned": 34187
+    "totalGoldEarned": 45457,
+    "abilityPoints": 2,
+    "completedDungeons": [
+      9
+    ]
   },
   "skills": [
     "double_strike",
@@ -636,6 +655,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "leader",
   "created": 1776881461393,
-  "lastActive": 1779171524527,
+  "lastActive": 1779377660836,
   "groupId": "120363424226692086@g.us"
 }
