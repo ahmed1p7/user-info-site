@@ -42,8 +42,8 @@
     {
       "id": "117051381301480@s.whatsapp.net",
       "name": "ايزن",
-      "class": "ساحر",
-      "level": 29
+      "class": "ساحر الظلام",
+      "level": 31
     },
     {
       "id": "11614178824270@s.whatsapp.net",
@@ -148,6 +148,6 @@
       "level": 1
     }
   ],
-  "messagesWeek": 1333,
-  "lastUpdated": 1779453414416
+  "messagesWeek": 1955,
+  "lastUpdated": 1779458524090
 }
