@@ -3,94 +3,24 @@
   "name": "SHADOW",
   "nickname": "SHADOW",
   "class": "محارب",
-  "level": 9,
-  "xp": 461,
-  "hp": 101,
-  "maxHp": 478,
-  "atk": 35,
-  "def": 30,
-  "mag": 11,
-  "critRate": 0.06600000000000002,
-  "critDamage": 1.58,
-  "gold": 19135,
-  "gems": 45,
-  "elixir": 67,
+  "level": 10,
+  "xp": 3525,
+  "hp": 98,
+  "maxHp": 570,
+  "atk": 40,
+  "def": 31,
+  "mag": 12,
+  "critRate": 0.06800000000000002,
+  "critDamage": 1.59,
+  "gold": 102112,
+  "gems": 58,
+  "elixir": 100,
   "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
-  "equippedWeapon": {
-    "id": "أسطوري_محارب_سيف_إيغريس",
-    "name": "سيف إيغريس",
-    "fullName": "🟡 أسطوري | سيف إيغريس",
-    "rarity": "أسطوري",
-    "rarityEmoji": "🟡",
-    "class": "محارب",
-    "atk": 88,
-    "level": 1,
-    "maxLevel": 5,
-    "baseAtk": 88,
-    "baseCost": 1000,
-    "costMultiplier": 3,
-    "maxAtkBonus": 120,
-    "effect": null,
-    "sockets": [
-      null,
-      null,
-      null
-    ],
-    "maxSockets": 3,
-    "obtainedAt": 1777510139838,
-    "type": "weapon"
-  },
+  "equippedWeapon": null,
   "equippedArmor": null,
-  "weapons": [
-    {
-      "id": "ملحمي_محارب_مطرقة_العواصف",
-      "name": "مطرقة العواصف",
-      "fullName": "🟣 ملحمي | مطرقة العواصف",
-      "rarity": "ملحمي",
-      "rarityEmoji": "🟣",
-      "class": "محارب",
-      "atk": 60,
-      "level": 1,
-      "maxLevel": 5,
-      "baseAtk": 60,
-      "baseCost": 500,
-      "costMultiplier": 3,
-      "maxAtkBonus": 80,
-      "effect": null,
-      "sockets": [
-        null,
-        null
-      ],
-      "maxSockets": 2,
-      "obtainedAt": 1777510293886
-    },
-    {
-      "id": "أسطوري_محارب_سيف_إيغريس",
-      "name": "سيف إيغريس",
-      "fullName": "🟡 أسطوري | سيف إيغريس",
-      "rarity": "أسطوري",
-      "rarityEmoji": "🟡",
-      "class": "محارب",
-      "atk": 88,
-      "level": 1,
-      "maxLevel": 5,
-      "baseAtk": 88,
-      "baseCost": 1000,
-      "costMultiplier": 3,
-      "maxAtkBonus": 120,
-      "effect": null,
-      "sockets": [
-        null,
-        null,
-        null
-      ],
-      "maxSockets": 3,
-      "obtainedAt": 1777510139838,
-      "type": "weapon"
-    }
-  ],
+  "weapons": [],
   "armors": [],
   "boxes": {
     "common": 0,
@@ -98,17 +28,17 @@
     "epic": 0,
     "legendary": 0
   },
-  "wins": 1,
-  "losses": 0,
+  "wins": 44,
+  "losses": 1,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 5,
-    "mineralsMined": 2,
-    "boxesOpened": 6,
+    "fishCaught": 144,
+    "mineralsMined": 92,
+    "boxesOpened": 11,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -124,15 +54,17 @@
     "territoriesConquered": 0,
     "territoryDefenses": 0,
     "pity": {
-      "epic": 2,
+      "epic": 3,
       "legendary": 0,
-      "mythic": 0
+      "mythic": 0,
+      "rare": 1
     },
-    "lastFreeBox": 1777630274708,
-    "freeBoxStreak": 3,
+    "lastFreeBox": 1779230894092,
+    "freeBoxStreak": 7,
     "boxesOpenedByType": {
-      "common": 3,
-      "epic": 3
+      "common": 6,
+      "epic": 4,
+      "rare": 1
     },
     "bestBoxReward": {
       "boxType": "epic",
@@ -141,9 +73,12 @@
       "hadArmor": false,
       "timestamp": 1777551752104
     },
-    "materialsCollected": 5,
-    "dungeonKills": 1,
-    "dungeonDamageDealt": 38
+    "materialsCollected": 97,
+    "dungeonKills": 44,
+    "dungeonDamageDealt": 11195,
+    "dungeonsCompleted": 1,
+    "totalGoldEarned": 44,
+    "dungeonStreak": 2
   },
   "skills": [
     "double_strike"
@@ -155,6 +90,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1776900143779,
-  "lastActive": 1777651526945,
+  "lastActive": 1779466090320,
   "groupId": "120363424226692086@g.us"
 }
