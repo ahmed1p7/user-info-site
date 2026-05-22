@@ -4,15 +4,15 @@
   "nickname": "سيقمير اوف كاترينا",
   "class": "فارس مظلم",
   "level": 45,
-  "xp": 2486923809,
-  "hp": 2647,
+  "xp": 5879500648,
+  "hp": 868,
   "maxHp": 2647,
   "atk": 267,
   "def": 163,
   "mag": 98,
   "critRate": 0.13800000000000007,
   "critDamage": 1.9400000000000004,
-  "gold": 7277122,
+  "gold": 3162229,
   "gems": 2207,
   "elixir": 5709,
   "stamina": 10,
@@ -487,16 +487,16 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 5647,
-  "losses": 195,
+  "wins": 5964,
+  "losses": 222,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 44906,
-    "mineralsMined": 24056,
+    "fishCaught": 66720,
+    "mineralsMined": 25878,
     "boxesOpened": 556,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -513,9 +513,9 @@
     "territoriesConquered": 0,
     "territoryDefenses": 0,
     "fishSold": 22005,
-    "dungeonKills": 5630,
-    "dungeonDamageDealt": 13588577,
-    "materialsCollected": 19841,
+    "dungeonKills": 5947,
+    "dungeonDamageDealt": 15520474,
+    "materialsCollected": 27746,
     "materialsSold": 19402,
     "dungeonsCompleted": 8,
     "itemsMerged": 14,
@@ -595,17 +595,31 @@
         "boughtAt": 1779329730362,
         "cycleNumber": 6864,
         "cardName": "بطاقة ×3 تجربة"
+      },
+      "dungeon_stamina_6864": {
+        "boughtAt": 1779402990997,
+        "cycleNumber": 6864,
+        "cardName": "بطاقة ستامينا الدانجن"
+      },
+      "double_drops_6864": {
+        "boughtAt": 1779403003293,
+        "cycleNumber": 6864,
+        "cardName": "بطاقة غنائم مضاعفة"
+      },
+      "skill_points_6865": {
+        "boughtAt": 1779443281663,
+        "cycleNumber": 6865,
+        "cardName": "بطاقة نقاط مهارة"
       }
     },
     "petsCollected": 1,
-    "activeCards": {
-      "xp_boost_3x": 1779330630362
-    },
+    "activeCards": {},
     "dungeonStreak": 0,
     "totalGoldEarned": 3685,
     "completedDungeons": [
       7
-    ]
+    ],
+    "skillPoints": 3
   },
   "skills": [
     "double_strike",
@@ -638,6 +652,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1776891817820,
-  "lastActive": 1779380905742,
+  "lastActive": 1779443405802,
   "groupId": "120363424226692086@g.us"
 }
