@@ -1,10 +1,10 @@
 {
   "id": "183734926110748@s.whatsapp.net",
-  "name": "هطوفي ابو نواف",
-  "nickname": "هطوفي ابو نواف",
+  "name": "ستارك ابو نواف",
+  "nickname": "ستارك ابو نواف",
   "class": "فارس الظلام",
   "level": 47,
-  "xp": 4256121744,
+  "xp": 4256151534,
   "hp": 931,
   "maxHp": 931,
   "atk": 464,
@@ -12,10 +12,10 @@
   "mag": 121,
   "critRate": 0.6340000000000001,
   "critDamage": 2.777999999999995,
-  "gold": 38526318,
-  "gems": 2739,
-  "elixir": 6966,
-  "stamina": 10,
+  "gold": 17812616,
+  "gems": 3351,
+  "elixir": 8468,
+  "stamina": 6,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -40,23 +40,23 @@
       "obtainedAt": 1778868074888
     },
     "خوذة": {
-      "id": "ملحمي_قاتل_خوذة_قناع_الفوضى",
-      "name": "قناع الفوضى",
-      "fullName": "🟣 ملحمي | قناع الفوضى",
+      "id": "ملحمي_قاتل_خوذة_قناع_الجحيم",
+      "name": "قناع الجحيم",
+      "fullName": "🟣 ملحمي | قناع الجحيم",
       "rarity": "ملحمي",
       "rarityEmoji": "🟣",
       "class": "قاتل",
       "slot": "خوذة",
       "slotEmoji": "🪖",
-      "def": 48,
+      "def": 58,
       "bonusType": "mag",
       "level": 5,
       "maxLevel": 5,
-      "baseDef": 48,
+      "baseDef": 58,
       "baseCost": 400,
       "costMultiplier": 3,
       "maxDefBonus": 70,
-      "obtainedAt": 1778695338328
+      "obtainedAt": 1779443778535
     },
     "قفازات": {
       "id": "ملحمي_قاتل_قفازات_قفازات_الجحيم",
@@ -78,23 +78,23 @@
       "obtainedAt": 1778868074890
     },
     "درع صدر": {
-      "id": "شائع_قاتل_درع_صدر_درع_ليلي",
-      "name": "درع ليلي",
-      "fullName": "⚪ شائع | درع ليلي",
-      "rarity": "شائع",
-      "rarityEmoji": "⚪",
+      "id": "ملحمي_قاتل_درع_صدر_درع_الفوضى",
+      "name": "درع الفوضى",
+      "fullName": "🟣 ملحمي | درع الفوضى",
+      "rarity": "ملحمي",
+      "rarityEmoji": "🟣",
       "class": "قاتل",
       "slot": "درع صدر",
       "slotEmoji": "🛡️",
-      "def": 8,
+      "def": 48,
       "bonusType": "hp",
-      "level": 1,
-      "maxLevel": 20,
-      "baseDef": 8,
-      "baseCost": 40,
-      "costMultiplier": 1,
-      "maxDefBonus": 40,
-      "obtainedAt": 1778534390132
+      "level": 5,
+      "maxLevel": 5,
+      "baseDef": 48,
+      "baseCost": 400,
+      "costMultiplier": 3,
+      "maxDefBonus": 70,
+      "obtainedAt": 1779443826140
     }
   },
   "weapons": [],
@@ -481,13 +481,13 @@
     }
   ],
   "boxes": {
-    "common": 1,
+    "common": 2,
     "rare": 0,
     "epic": 0,
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 2311,
+  "wins": 2543,
   "losses": 309,
   "evolvedClass": null,
   "evolutionPath": "pathB",
@@ -495,9 +495,9 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 93985,
-    "mineralsMined": 16017,
-    "boxesOpened": 1035,
+    "fishCaught": 95667,
+    "mineralsMined": 16199,
+    "boxesOpened": 1110,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -513,16 +513,16 @@
     "territoriesConquered": 0,
     "territoryDefenses": 0,
     "fishSold": 30519,
-    "dungeonKills": 2304,
-    "dungeonDamageDealt": 7698204,
-    "materialsCollected": 33981,
+    "dungeonKills": 2536,
+    "dungeonDamageDealt": 7929450,
+    "materialsCollected": 34859,
     "mineralsSold": 8175,
     "materialsSold": 8223,
     "dungeonsCompleted": 9,
     "clanDungeonsCompleted": 10,
     "clanDungeonDamage": 0,
     "pity": {
-      "epic": 7,
+      "epic": 2,
       "legendary": 0,
       "mythic": 16
     },
@@ -530,7 +530,7 @@
       "mythic": 19,
       "common": 888,
       "rare": 21,
-      "epic": 95
+      "epic": 170
     },
     "bestBoxReward": {
       "boxType": "mythic",
@@ -541,8 +541,8 @@
     },
     "dailySellCount": 28614,
     "lastSellReset": 1777618008906,
-    "lastFreeBox": 1779224825090,
-    "freeBoxStreak": 10,
+    "lastFreeBox": 1779444017353,
+    "freeBoxStreak": 11,
     "weeklyShopLastReset": 0,
     "weeklyShopPurchases": {
       "ability_points_6862": {
@@ -612,7 +612,7 @@
     "playerSkills": {},
     "skillPoints": 3,
     "dungeonStreak": 0,
-    "totalGoldEarned": 21040,
+    "totalGoldEarned": 28496,
     "titles": [
       "بطل الأسبوع"
     ],
@@ -655,6 +655,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1776960777629,
-  "lastActive": 1779443736613,
+  "lastActive": 1779453414409,
   "groupId": "120363424226692086@g.us"
 }
