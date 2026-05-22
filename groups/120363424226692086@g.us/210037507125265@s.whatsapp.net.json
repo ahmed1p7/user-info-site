@@ -3,16 +3,16 @@
   "name": "تيريون لانيستر",
   "nickname": "تيريون لانيستر",
   "class": "برسيرك",
-  "level": 34,
-  "xp": 15779841,
-  "hp": 1,
-  "maxHp": 1823,
-  "atk": 193,
-  "def": 124,
-  "mag": 36,
-  "critRate": 0.11600000000000006,
-  "critDamage": 1.8300000000000003,
-  "gold": 352623,
+  "level": 36,
+  "xp": 7558421,
+  "hp": 1959,
+  "maxHp": 1959,
+  "atk": 197,
+  "def": 138,
+  "mag": 38,
+  "critRate": 0.12000000000000006,
+  "critDamage": 1.8500000000000003,
+  "gold": 780132,
   "gems": 502,
   "elixir": 1150,
   "stamina": 1,
@@ -355,20 +355,20 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 2820,
-  "losses": 76,
+  "wins": 3231,
+  "losses": 77,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
-    "fishCaught": 76773,
-    "materialsCollected": 29090,
-    "mineralsMined": 11076,
+    "fishCaught": 106805,
+    "materialsCollected": 39822,
+    "mineralsMined": 12528,
     "dailySellCount": 10226,
     "lastSellReset": 1777614764945,
     "mineralsSold": 416,
     "fishSold": 9810,
-    "dungeonKills": 2807,
-    "dungeonDamageDealt": 4854400,
+    "dungeonKills": 3217,
+    "dungeonDamageDealt": 5111121,
     "materialsSold": 11700,
     "dungeonsCompleted": 7,
     "pity": {
@@ -392,7 +392,7 @@
       "timestamp": 1778224788878
     },
     "clanDungeonsCompleted": 1,
-    "totalGoldEarned": 31999,
+    "totalGoldEarned": 32904,
     "weeklyShopLastReset": 0,
     "weeklyShopPurchases": {
       "rapid_dive_6864": {
@@ -404,8 +404,8 @@
     "activeCards": {
       "rapid_dive": 1779315740509
     },
-    "pvpLosses": 7,
-    "pvpWins": 3,
+    "pvpLosses": 8,
+    "pvpWins": 4,
     "dungeonStreak": 0,
     "completedDungeons": [
       5,
@@ -425,7 +425,8 @@
     "bone_stubbornness",
     "blood_fury",
     "blood_bath",
-    "berserker_rage"
+    "berserker_rage",
+    "earthquake_slam"
   ],
   "unlockedSkills": {
     "passive": [
@@ -439,12 +440,13 @@
     "active": [
       "double_strike",
       "war_cry",
-      "blood_bath"
+      "blood_bath",
+      "earthquake_slam"
     ]
   },
   "clanId": null,
   "clanRole": null,
   "created": 1777613816222,
-  "lastActive": 1779383049185,
+  "lastActive": 1779458613876,
   "groupId": "120363424226692086@g.us"
 }
