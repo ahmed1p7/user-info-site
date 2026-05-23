@@ -4,18 +4,18 @@
   "nickname": "تيريون لانيستر",
   "class": "برسيرك",
   "level": 36,
-  "xp": 7558421,
-  "hp": 1959,
+  "xp": 124120806,
+  "hp": 1,
   "maxHp": 1959,
   "atk": 197,
   "def": 138,
   "mag": 38,
   "critRate": 0.12000000000000006,
   "critDamage": 1.8500000000000003,
-  "gold": 780132,
+  "gold": 914865,
   "gems": 502,
   "elixir": 1150,
-  "stamina": 1,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -355,20 +355,20 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 3231,
-  "losses": 77,
+  "wins": 3381,
+  "losses": 78,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
-    "fishCaught": 106805,
-    "materialsCollected": 39822,
-    "mineralsMined": 12528,
+    "fishCaught": 125014,
+    "materialsCollected": 46262,
+    "mineralsMined": 13150,
     "dailySellCount": 10226,
     "lastSellReset": 1777614764945,
     "mineralsSold": 416,
     "fishSold": 9810,
-    "dungeonKills": 3217,
-    "dungeonDamageDealt": 5111121,
+    "dungeonKills": 3366,
+    "dungeonDamageDealt": 5374331,
     "materialsSold": 11700,
     "dungeonsCompleted": 7,
     "pity": {
@@ -392,7 +392,7 @@
       "timestamp": 1778224788878
     },
     "clanDungeonsCompleted": 1,
-    "totalGoldEarned": 32904,
+    "totalGoldEarned": 33459,
     "weeklyShopLastReset": 0,
     "weeklyShopPurchases": {
       "rapid_dive_6864": {
@@ -404,8 +404,8 @@
     "activeCards": {
       "rapid_dive": 1779315740509
     },
-    "pvpLosses": 8,
-    "pvpWins": 4,
+    "pvpLosses": 9,
+    "pvpWins": 5,
     "dungeonStreak": 0,
     "completedDungeons": [
       5,
@@ -447,6 +447,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1777613816222,
-  "lastActive": 1779458613876,
+  "lastActive": 1779548647518,
   "groupId": "120363424226692086@g.us"
 }
