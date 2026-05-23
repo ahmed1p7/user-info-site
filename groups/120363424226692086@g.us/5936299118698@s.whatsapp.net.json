@@ -4,7 +4,7 @@
   "nickname": "ستااااركز",
   "class": "ساحر الشفاء",
   "level": 48,
-  "xp": 5827251317,
+  "xp": 5827279654,
   "hp": 1970,
   "maxHp": 1970,
   "atk": 132,
@@ -12,9 +12,9 @@
   "mag": 506,
   "critRate": 0.09700000000000004,
   "critDamage": 1.734999999999995,
-  "gold": 34082965,
-  "gems": 1720,
-  "elixir": 4319,
+  "gold": 33478152,
+  "gems": 2635,
+  "elixir": 6748,
   "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
@@ -40,23 +40,23 @@
       "obtainedAt": 1779028150854
     },
     "خوذة": {
-      "id": "شائع_شافي_خوذة_صليب_حياة",
-      "name": "صليب حياة",
-      "fullName": "⚪ شائع | صليب حياة",
-      "rarity": "شائع",
-      "rarityEmoji": "⚪",
+      "id": "ملحمي_شافي_خوذة_كتاب_النور",
+      "name": "كتاب النور",
+      "fullName": "🟣 ملحمي | كتاب النور",
+      "rarity": "ملحمي",
+      "rarityEmoji": "🟣",
       "class": "شافي",
       "slot": "خوذة",
       "slotEmoji": "🪖",
-      "def": 15,
+      "def": 48,
       "bonusType": "mag",
-      "level": 1,
-      "maxLevel": 20,
-      "baseDef": 15,
-      "baseCost": 40,
-      "costMultiplier": 1,
-      "maxDefBonus": 40,
-      "obtainedAt": 1778581762516
+      "level": 5,
+      "maxLevel": 5,
+      "baseDef": 48,
+      "baseCost": 400,
+      "costMultiplier": 3,
+      "maxDefBonus": 70,
+      "obtainedAt": 1779555056754
     },
     "حذاء": {
       "id": "ملحمي_شافي_حذاء_أحذية_النور",
@@ -495,13 +495,13 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 139802,
-    "mineralsMined": 11845,
-    "boxesOpened": 854,
+    "fishCaught": 139812,
+    "mineralsMined": 11856,
+    "boxesOpened": 974,
     "boxesOpenedByType": {
       "common": 753,
       "rare": 0,
-      "epic": 95,
+      "epic": 215,
       "legendary": 4,
       "mythic": 2
     },
@@ -513,7 +513,7 @@
       "timestamp": 1777563175839
     },
     "pity": {
-      "epic": 1,
+      "epic": 9,
       "legendary": 4,
       "mythic": 2
     },
@@ -533,7 +533,7 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 49766,
+    "materialsCollected": 49818,
     "dungeonKills": 1457,
     "dungeonDamageDealt": 2149872,
     "fishSold": 21743,
@@ -595,7 +595,7 @@
       "sell_boost": 1779556596360
     },
     "dungeonStreak": 0,
-    "totalGoldEarned": 192525,
+    "totalGoldEarned": 204512,
     "completedDungeons": [
       3,
       4,
@@ -637,6 +637,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777400790020,
-  "lastActive": 1779554956343,
+  "lastActive": 1779555276754,
   "groupId": "120363424226692086@g.us"
 }
