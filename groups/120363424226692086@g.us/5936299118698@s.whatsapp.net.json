@@ -3,19 +3,19 @@
   "name": "ستااااركز",
   "nickname": "ستااااركز",
   "class": "ساحر الشفاء",
-  "level": 47,
-  "xp": 11759039093,
-  "hp": 1945,
-  "maxHp": 1945,
-  "atk": 125,
-  "def": 141,
-  "mag": 502,
-  "critRate": 0.09600000000000004,
-  "critDamage": 1.729999999999995,
-  "gold": 27982902,
+  "level": 48,
+  "xp": 5827251317,
+  "hp": 1970,
+  "maxHp": 1970,
+  "atk": 132,
+  "def": 142,
+  "mag": 506,
+  "critRate": 0.09700000000000004,
+  "critDamage": 1.734999999999995,
+  "gold": 34082965,
   "gems": 1720,
   "elixir": 4319,
-  "stamina": 1,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -495,8 +495,8 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 120923,
-    "mineralsMined": 11346,
+    "fishCaught": 139802,
+    "mineralsMined": 11845,
     "boxesOpened": 854,
     "boxesOpenedByType": {
       "common": 753,
@@ -533,7 +533,7 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 43261,
+    "materialsCollected": 49766,
     "dungeonKills": 1457,
     "dungeonDamageDealt": 2149872,
     "fishSold": 21743,
@@ -578,11 +578,24 @@
         "boughtAt": 1779443190130,
         "cycleNumber": 6865,
         "cardName": "بطاقة غوص خارق"
+      },
+      "double_drops_6865": {
+        "boughtAt": 1779554792774,
+        "cycleNumber": 6865,
+        "cardName": "بطاقة غنائم مضاعفة"
+      },
+      "sell_boost_6865": {
+        "boughtAt": 1779554796360,
+        "cycleNumber": 6865,
+        "cardName": "بطاقة بيع ممتاز"
       }
     },
-    "activeCards": {},
+    "activeCards": {
+      "double_drops": 1779556592774,
+      "sell_boost": 1779556596360
+    },
     "dungeonStreak": 0,
-    "totalGoldEarned": 192275,
+    "totalGoldEarned": 192525,
     "completedDungeons": [
       3,
       4,
@@ -624,6 +637,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777400790020,
-  "lastActive": 1779470018977,
+  "lastActive": 1779554956343,
   "groupId": "120363424226692086@g.us"
 }

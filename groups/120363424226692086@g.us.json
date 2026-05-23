@@ -16,15 +16,15 @@
       "level": 48
     },
     {
-      "id": "183734926110748@s.whatsapp.net",
-      "name": "ستارك ابو نواف",
-      "class": "فارس الظلام",
-      "level": 47
-    },
-    {
       "id": "5936299118698@s.whatsapp.net",
       "name": "ستااااركز",
       "class": "ساحر الشفاء",
+      "level": 48
+    },
+    {
+      "id": "183734926110748@s.whatsapp.net",
+      "name": "ستارك ابو نواف",
+      "class": "فارس الظلام",
       "level": 47
     },
     {
@@ -148,6 +148,6 @@
       "level": 1
     }
   ],
-  "messagesWeek": 338,
-  "lastUpdated": 1779548647537
+  "messagesWeek": 567,
+  "lastUpdated": 1779554956370
 }
