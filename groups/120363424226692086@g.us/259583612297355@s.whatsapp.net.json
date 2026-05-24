@@ -4,18 +4,18 @@
   "nickname": "باتمان",
   "class": "قائد حرب",
   "level": 50,
-  "xp": 6724293678,
-  "hp": 3475,
+  "xp": 6724298335,
+  "hp": 1173,
   "maxHp": 3475,
   "atk": 366,
   "def": 168,
   "mag": 178,
   "critRate": 0.19800000000000006,
   "critDamage": 1.9900000000000004,
-  "gold": 427733981,
+  "gold": 427722445,
   "gems": 7842,
   "elixir": 21021,
-  "stamina": 349,
+  "stamina": 345,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -492,8 +492,8 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 12956,
-  "losses": 973,
+  "wins": 12959,
+  "losses": 975,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
@@ -501,7 +501,7 @@
     "bossesDefeated": 0,
     "totalBossDamage": 0,
     "fishCaught": 200580,
-    "mineralsMined": 45854,
+    "mineralsMined": 45972,
     "boxesOpened": 1210,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -509,7 +509,7 @@
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 10,
+    "pvpWins": 11,
     "pvpLosses": 0,
     "successfulRobberies": 0,
     "failedRobberies": 0,
@@ -517,10 +517,10 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "dungeonKills": 12883,
-    "dungeonDamageDealt": 40113836,
+    "dungeonKills": 12885,
+    "dungeonDamageDealt": 40164962,
     "fishSold": 47532,
-    "materialsCollected": 79507,
+    "materialsCollected": 79509,
     "dungeonsCompleted": 10,
     "materialsSold": 16708,
     "mineralsSold": 17307,
@@ -612,6 +612,11 @@
         "boughtAt": 1779545732640,
         "cycleNumber": 6865,
         "cardName": "بطاقة تسريع الغوص"
+      },
+      "skill_points_6865": {
+        "boughtAt": 1779633625185,
+        "cycleNumber": 6865,
+        "cardName": "بطاقة نقاط مهارة"
       }
     },
     "playerSkills": {
@@ -627,11 +632,12 @@
     "petsCollected": 2,
     "activeCards": {},
     "dungeonStreak": 0,
-    "totalGoldEarned": 46532,
+    "totalGoldEarned": 47267,
     "abilityPoints": 2,
     "completedDungeons": [
       9
-    ]
+    ],
+    "skillPoints": 3
   },
   "skills": [
     "double_strike",
@@ -644,7 +650,8 @@
     "blood_bath",
     "earthquake_slam",
     "whirlwind",
-    "bone_stubbornness"
+    "bone_stubbornness",
+    "warlords_command"
   ],
   "unlockedSkills": {
     "passive": [
@@ -653,7 +660,8 @@
       "lifesteal",
       "berserker_rage",
       "blood_fury",
-      "bone_stubbornness"
+      "bone_stubbornness",
+      "warlords_command"
     ],
     "active": [
       "double_strike",
@@ -666,6 +674,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "leader",
   "created": 1776881461393,
-  "lastActive": 1779633500118,
+  "lastActive": 1779640095612,
   "groupId": "120363424226692086@g.us"
 }
