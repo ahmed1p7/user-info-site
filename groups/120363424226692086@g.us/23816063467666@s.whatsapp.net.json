@@ -3,16 +3,16 @@
   "name": "سيقمير اوف كاترينا",
   "nickname": "سيقمير اوف كاترينا",
   "class": "فارس مظلم",
-  "level": 47,
-  "xp": 6099181945,
-  "hp": 2743,
-  "maxHp": 2743,
-  "atk": 273,
-  "def": 165,
-  "mag": 109,
-  "critRate": 0.14200000000000007,
-  "critDamage": 1.9600000000000004,
-  "gold": 4075405,
+  "level": 48,
+  "xp": 1006540615,
+  "hp": 1,
+  "maxHp": 2791,
+  "atk": 276,
+  "def": 166,
+  "mag": 128,
+  "critRate": 0.14400000000000007,
+  "critDamage": 1.9700000000000004,
+  "gold": 7071990,
   "gems": 2207,
   "elixir": 5709,
   "stamina": 10,
@@ -496,7 +496,7 @@
     "bossesDefeated": 0,
     "totalBossDamage": 0,
     "fishCaught": 72870,
-    "mineralsMined": 29774,
+    "mineralsMined": 29838,
     "boxesOpened": 556,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -625,14 +625,20 @@
         "boughtAt": 1779702773711,
         "cycleNumber": 6866,
         "cardName": "بطاقة ×2 تجربة"
+      },
+      "fishing_speed_6866": {
+        "boughtAt": 1779703095905,
+        "cycleNumber": 6866,
+        "cardName": "بطاقة تسريع الغوص"
       }
     },
     "petsCollected": 1,
     "activeCards": {
-      "xp_boost_2x": 1779704573711
+      "xp_boost_2x": 1779704573711,
+      "fishing_speed": 1779704895905
     },
     "dungeonStreak": 0,
-    "totalGoldEarned": 4170,
+    "totalGoldEarned": 4420,
     "completedDungeons": [
       7
     ],
@@ -669,6 +675,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1776891817820,
-  "lastActive": 1779702821544,
+  "lastActive": 1779704169551,
   "groupId": "120363424226692086@g.us"
 }

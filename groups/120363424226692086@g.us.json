@@ -22,15 +22,15 @@
       "level": 48
     },
     {
-      "id": "183734926110748@s.whatsapp.net",
-      "name": "ستارك ابو نواف",
-      "class": "فارس الظلام",
-      "level": 47
-    },
-    {
       "id": "23816063467666@s.whatsapp.net",
       "name": "سيقمير اوف كاترينا",
       "class": "فارس مظلم",
+      "level": 48
+    },
+    {
+      "id": "183734926110748@s.whatsapp.net",
+      "name": "ستارك ابو نواف",
+      "class": "فارس الظلام",
       "level": 47
     },
     {
@@ -148,6 +148,6 @@
       "level": 1
     }
   ],
-  "messagesWeek": 1216,
-  "lastUpdated": 1779704156553
+  "messagesWeek": 1223,
+  "lastUpdated": 1779704464470
 }
