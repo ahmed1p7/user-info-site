@@ -4,7 +4,7 @@
   "nickname": "ايزن",
   "class": "ساحر الظلام",
   "level": 33,
-  "xp": 244056656,
+  "xp": 4935367152,
   "hp": 804,
   "maxHp": 804,
   "atk": 70,
@@ -12,7 +12,7 @@
   "mag": 449,
   "critRate": 0.11200000000000003,
   "critDamage": 2.029999999999997,
-  "gold": 166499,
+  "gold": 5187531,
   "gems": 1659,
   "elixir": 4046,
   "stamina": 9,
@@ -477,7 +477,7 @@
     "bossesDefeated": 0,
     "totalBossDamage": 0,
     "fishCaught": 151752,
-    "mineralsMined": 6993,
+    "mineralsMined": 7005,
     "boxesOpened": 1029,
     "boxesOpenedByType": {
       "common": 993,
@@ -585,6 +585,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1777542343015,
-  "lastActive": 1779727704308,
+  "lastActive": 1779728058950,
   "groupId": "120363424226692086@g.us"
 }
