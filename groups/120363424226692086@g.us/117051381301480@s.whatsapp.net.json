@@ -5,17 +5,17 @@
   "class": "ساحر الظلام",
   "level": 33,
   "xp": 9588094,
-  "hp": 0,
+  "hp": 804,
   "maxHp": 804,
   "atk": 70,
   "def": 66,
   "mag": 449,
   "critRate": 0.11200000000000003,
   "critDamage": 2.029999999999997,
-  "gold": 1394884,
+  "gold": 1388352,
   "gems": 1659,
   "elixir": 4046,
-  "stamina": 8,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -469,7 +469,7 @@
     "mythic": 0
   },
   "wins": 1095,
-  "losses": 462,
+  "losses": 472,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
@@ -477,7 +477,7 @@
     "bossesDefeated": 0,
     "totalBossDamage": 0,
     "fishCaught": 151752,
-    "mineralsMined": 6322,
+    "mineralsMined": 6500,
     "boxesOpened": 1029,
     "boxesOpenedByType": {
       "common": 993,
@@ -580,6 +580,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1777542343015,
-  "lastActive": 1779705913615,
+  "lastActive": 1779708337242,
   "groupId": "120363424226692086@g.us"
 }
