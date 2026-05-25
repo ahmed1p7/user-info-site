@@ -12,7 +12,7 @@
   "mag": 128,
   "critRate": 0.14400000000000007,
   "critDamage": 1.9700000000000004,
-  "gold": 7071990,
+  "gold": 7069990,
   "gems": 2207,
   "elixir": 5709,
   "stamina": 10,
@@ -496,7 +496,7 @@
     "bossesDefeated": 0,
     "totalBossDamage": 0,
     "fishCaught": 72870,
-    "mineralsMined": 29838,
+    "mineralsMined": 29985,
     "boxesOpened": 556,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -675,6 +675,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1776891817820,
-  "lastActive": 1779704169551,
+  "lastActive": 1779711388492,
   "groupId": "120363424226692086@g.us"
 }
