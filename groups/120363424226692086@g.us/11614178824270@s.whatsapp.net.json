@@ -4,16 +4,16 @@
   "nickname": "يوهان",
   "class": "فارس التنين",
   "level": 35,
-  "xp": 57483631,
-  "hp": 2854,
+  "xp": 57490539,
+  "hp": 2880,
   "maxHp": 2880,
   "atk": 134,
   "def": 247,
   "mag": 39,
   "critRate": 0.08400000000000003,
   "critDamage": 1.6699999999999964,
-  "gold": 7902567,
-  "gems": 905,
+  "gold": 7913351,
+  "gems": 915,
   "elixir": 2513,
   "stamina": 10,
   "maxStamina": 10,
@@ -68,7 +68,7 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 724,
+  "wins": 798,
   "losses": 15,
   "evolvedClass": null,
   "evolutionPath": "pathA",
@@ -85,7 +85,7 @@
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 2,
+    "pvpWins": 4,
     "pvpLosses": 3,
     "successfulRobberies": 0,
     "failedRobberies": 0,
@@ -93,9 +93,9 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 15105,
-    "dungeonKills": 719,
-    "dungeonDamageDealt": 401595,
+    "materialsCollected": 15178,
+    "dungeonKills": 791,
+    "dungeonDamageDealt": 434728,
     "dungeonsCompleted": 3,
     "materialsSold": 918,
     "fishSold": 1404,
@@ -121,7 +121,7 @@
     },
     "weeklyShopLastReset": 0,
     "weeklyShopPurchases": {},
-    "totalGoldEarned": 8376,
+    "totalGoldEarned": 9596,
     "petsCollected": 1,
     "dungeonStreak": 47,
     "completedDungeons": [
@@ -129,15 +129,29 @@
     ]
   },
   "skills": [
-    "shield_wall"
+    "shield_wall",
+    "iron_will",
+    "dragon_breath",
+    "dragon_scales",
+    "shield_mastery",
+    "ancestral_shield",
+    "fortress_body"
   ],
   "unlockedSkills": {
-    "passive": [],
-    "active": []
+    "passive": [
+      "iron_will",
+      "dragon_scales",
+      "shield_mastery",
+      "ancestral_shield",
+      "fortress_body"
+    ],
+    "active": [
+      "dragon_breath"
+    ]
   },
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1776965245297,
-  "lastActive": 1779731035586,
+  "lastActive": 1779732134600,
   "groupId": "120363424226692086@g.us"
 }
