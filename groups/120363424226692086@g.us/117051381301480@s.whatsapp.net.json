@@ -4,7 +4,7 @@
   "nickname": "ايزن",
   "class": "ساحر الظلام",
   "level": 33,
-  "xp": 9588094,
+  "xp": 244056656,
   "hp": 804,
   "maxHp": 804,
   "atk": 70,
@@ -12,10 +12,10 @@
   "mag": 449,
   "critRate": 0.11200000000000003,
   "critDamage": 2.029999999999997,
-  "gold": 1388352,
+  "gold": 166499,
   "gems": 1659,
   "elixir": 4046,
-  "stamina": 10,
+  "stamina": 9,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -469,7 +469,7 @@
     "mythic": 0
   },
   "wins": 1095,
-  "losses": 472,
+  "losses": 474,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
@@ -477,7 +477,7 @@
     "bossesDefeated": 0,
     "totalBossDamage": 0,
     "fishCaught": 151752,
-    "mineralsMined": 6500,
+    "mineralsMined": 6993,
     "boxesOpened": 1029,
     "boxesOpenedByType": {
       "common": 993,
@@ -541,12 +541,17 @@
         "boughtAt": 1779703676297,
         "cycleNumber": 6866,
         "cardName": "بطاقة تسريع الغوص"
+      },
+      "xp_boost_3x_6866": {
+        "boughtAt": 1779727370167,
+        "cycleNumber": 6866,
+        "cardName": "بطاقة ×3 تجربة"
       }
     },
     "playerSkills": {},
     "petsCollected": 3,
     "activeCards": {
-      "fishing_speed": 1779705476297
+      "xp_boost_3x": 1779728270167
     },
     "totalGoldEarned": 39082,
     "dungeonStreak": 0
@@ -580,6 +585,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1777542343015,
-  "lastActive": 1779708337242,
+  "lastActive": 1779727704308,
   "groupId": "120363424226692086@g.us"
 }
