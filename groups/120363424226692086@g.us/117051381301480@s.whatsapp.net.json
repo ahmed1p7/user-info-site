@@ -4,18 +4,18 @@
   "nickname": "ايزن",
   "class": "ساحر الظلام",
   "level": 33,
-  "xp": 9586967,
-  "hp": 804,
+  "xp": 9588923,
+  "hp": 1,
   "maxHp": 804,
   "atk": 70,
   "def": 66,
   "mag": 449,
   "critRate": 0.11200000000000003,
   "critDamage": 2.029999999999997,
-  "gold": 4265843,
+  "gold": 4022155,
   "gems": 1307,
   "elixir": 3181,
-  "stamina": 7,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -468,16 +468,16 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 1021,
-  "losses": 457,
+  "wins": 1088,
+  "losses": 458,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 151327,
-    "mineralsMined": 5437,
+    "fishCaught": 151752,
+    "mineralsMined": 6295,
     "boxesOpened": 1016,
     "boxesOpenedByType": {
       "common": 993,
@@ -514,9 +514,9 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 53260,
-    "dungeonKills": 1017,
-    "dungeonDamageDealt": 983337,
+    "materialsCollected": 53460,
+    "dungeonKills": 1084,
+    "dungeonDamageDealt": 997417,
     "dungeonsCompleted": 5,
     "dailySellCount": 37489,
     "lastSellReset": 1777609841041,
@@ -536,11 +536,18 @@
         "boughtAt": 1779177910979,
         "cycleNumber": 6864,
         "cardName": "بطاقة ×3 تجربة"
+      },
+      "fishing_speed_6866": {
+        "boughtAt": 1779703676297,
+        "cycleNumber": 6866,
+        "cardName": "بطاقة تسريع الغوص"
       }
     },
     "playerSkills": {},
     "petsCollected": 3,
-    "activeCards": {},
+    "activeCards": {
+      "fishing_speed": 1779705476297
+    },
     "totalGoldEarned": 36362,
     "dungeonStreak": 0
   },
@@ -573,6 +580,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1777542343015,
-  "lastActive": 1779640069432,
+  "lastActive": 1779704135808,
   "groupId": "120363424226692086@g.us"
 }
