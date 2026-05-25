@@ -4,18 +4,18 @@
   "nickname": "SHADOW",
   "class": "محارب",
   "level": 10,
-  "xp": 3550,
-  "hp": 570,
+  "xp": 3762,
+  "hp": 335,
   "maxHp": 570,
   "atk": 40,
   "def": 31,
   "mag": 12,
   "critRate": 0.06800000000000002,
   "critDamage": 1.59,
-  "gold": 602518,
+  "gold": 102481,
   "gems": 58,
   "elixir": 100,
-  "stamina": 10,
+  "stamina": 9,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -28,16 +28,16 @@
     "epic": 0,
     "legendary": 0
   },
-  "wins": 44,
-  "losses": 1,
+  "wins": 56,
+  "losses": 2,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 150,
-    "mineralsMined": 97,
+    "fishCaught": 153,
+    "mineralsMined": 100,
     "boxesOpened": 11,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -73,12 +73,12 @@
       "hadArmor": false,
       "timestamp": 1777551752104
     },
-    "materialsCollected": 98,
-    "dungeonKills": 44,
-    "dungeonDamageDealt": 11195,
+    "materialsCollected": 110,
+    "dungeonKills": 56,
+    "dungeonDamageDealt": 13837,
     "dungeonsCompleted": 1,
     "totalGoldEarned": 44,
-    "dungeonStreak": 2
+    "dungeonStreak": 4
   },
   "skills": [
     "double_strike"
@@ -90,6 +90,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1776900143779,
-  "lastActive": 1779728162237,
+  "lastActive": 1779749376296,
   "groupId": "120363424226692086@g.us"
 }
