@@ -55,7 +55,7 @@
       "id": "144410171936843@s.whatsapp.net",
       "name": "ابراهيم",
       "class": "قاتل",
-      "level": 18
+      "level": 30
     },
     {
       "id": "40265385566406@s.whatsapp.net",
@@ -148,6 +148,6 @@
       "level": 1
     }
   ],
-  "messagesWeek": 360,
-  "lastUpdated": 1779732143783
+  "messagesWeek": 886,
+  "lastUpdated": 1779737977960
 }
