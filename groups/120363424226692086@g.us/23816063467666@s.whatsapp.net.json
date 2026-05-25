@@ -4,18 +4,18 @@
   "nickname": "سيقمير اوف كاترينا",
   "class": "فارس مظلم",
   "level": 47,
-  "xp": 4830471989,
-  "hp": 872,
+  "xp": 6099181945,
+  "hp": 2743,
   "maxHp": 2743,
   "atk": 273,
   "def": 165,
   "mag": 109,
   "critRate": 0.14200000000000007,
   "critDamage": 1.9600000000000004,
-  "gold": 3963557,
+  "gold": 4075405,
   "gems": 2207,
   "elixir": 5709,
-  "stamina": 7,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -487,16 +487,16 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 7234,
-  "losses": 257,
+  "wins": 7432,
+  "losses": 293,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 72662,
-    "mineralsMined": 28648,
+    "fishCaught": 72870,
+    "mineralsMined": 29774,
     "boxesOpened": 556,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -513,9 +513,9 @@
     "territoriesConquered": 0,
     "territoryDefenses": 0,
     "fishSold": 22005,
-    "dungeonKills": 7217,
-    "dungeonDamageDealt": 19809664,
-    "materialsCollected": 30921,
+    "dungeonKills": 7415,
+    "dungeonDamageDealt": 21925192,
+    "materialsCollected": 31175,
     "materialsSold": 19402,
     "dungeonsCompleted": 8,
     "itemsMerged": 14,
@@ -620,10 +620,17 @@
         "boughtAt": 1779443790837,
         "cycleNumber": 6865,
         "cardName": "بطاقة تجربة غامضة"
+      },
+      "xp_boost_2x_6866": {
+        "boughtAt": 1779702773711,
+        "cycleNumber": 6866,
+        "cardName": "بطاقة ×2 تجربة"
       }
     },
     "petsCollected": 1,
-    "activeCards": {},
+    "activeCards": {
+      "xp_boost_2x": 1779704573711
+    },
     "dungeonStreak": 0,
     "totalGoldEarned": 4170,
     "completedDungeons": [
@@ -662,6 +669,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1776891817820,
-  "lastActive": 1779624039521,
+  "lastActive": 1779702821544,
   "groupId": "120363424226692086@g.us"
 }
