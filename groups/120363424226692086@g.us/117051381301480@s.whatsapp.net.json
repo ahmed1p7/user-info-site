@@ -4,40 +4,40 @@
   "nickname": "ايزن",
   "class": "ساحر الظلام",
   "level": 43,
-  "xp": 45870647,
-  "hp": 1,
+  "xp": 45870747,
+  "hp": 0,
   "maxHp": 1024,
   "atk": 106,
   "def": 116,
   "mag": 648,
   "critRate": 0.12200000000000004,
   "critDamage": 2.1799999999999984,
-  "gold": 229628,
+  "gold": 167677,
   "gems": 1659,
   "elixir": 4046,
-  "stamina": 10,
+  "stamina": 9,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
   "equippedArmor": {
     "خوذة": {
-      "id": "شائع_ساحر_خوذة_قبعة_النور",
-      "name": "قبعة النور",
-      "fullName": "⚪ شائع | قبعة النور",
-      "rarity": "شائع",
-      "rarityEmoji": "⚪",
+      "id": "ملحمي_ساحر_خوذة_قبعة_التدمير",
+      "name": "قبعة التدمير",
+      "fullName": "🟣 ملحمي | قبعة التدمير",
+      "rarity": "ملحمي",
+      "rarityEmoji": "🟣",
       "class": "ساحر",
       "slot": "خوذة",
       "slotEmoji": "🪖",
-      "def": 14,
+      "def": 38,
       "bonusType": "mag",
-      "level": 20,
-      "maxLevel": 20,
-      "baseDef": 14,
-      "baseCost": 40,
-      "costMultiplier": 1,
-      "maxDefBonus": 40,
-      "obtainedAt": 1778486562366
+      "level": 5,
+      "maxLevel": 5,
+      "baseDef": 38,
+      "baseCost": 400,
+      "costMultiplier": 3,
+      "maxDefBonus": 70,
+      "obtainedAt": 1778667106761
     },
     "درع صدر": {
       "id": "شائع_ساحر_درع_صدر_رداء_الأرض",
@@ -59,23 +59,23 @@
       "obtainedAt": 1778484619167
     },
     "حذاء": {
-      "id": "شائع_ساحر_حذاء_أحذية_الكون",
-      "name": "أحذية الكون",
-      "fullName": "⚪ شائع | أحذية الكون",
-      "rarity": "شائع",
-      "rarityEmoji": "⚪",
+      "id": "ملحمي_ساحر_حذاء_أحذية_الزمن",
+      "name": "أحذية الزمن",
+      "fullName": "🟣 ملحمي | أحذية الزمن",
+      "rarity": "ملحمي",
+      "rarityEmoji": "🟣",
       "class": "ساحر",
       "slot": "حذاء",
       "slotEmoji": "👢",
-      "def": 15,
+      "def": 58,
       "bonusType": "evasion",
-      "level": 20,
-      "maxLevel": 20,
-      "baseDef": 15,
-      "baseCost": 40,
-      "costMultiplier": 1,
-      "maxDefBonus": 40,
-      "obtainedAt": 1778484725870
+      "level": 5,
+      "maxLevel": 5,
+      "baseDef": 58,
+      "baseCost": 400,
+      "costMultiplier": 3,
+      "maxDefBonus": 70,
+      "obtainedAt": 1778667106761
     }
   },
   "weapons": [],
@@ -469,7 +469,7 @@
     "mythic": 0
   },
   "wins": 1258,
-  "losses": 482,
+  "losses": 492,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
@@ -477,7 +477,7 @@
     "bossesDefeated": 0,
     "totalBossDamage": 0,
     "fishCaught": 151753,
-    "mineralsMined": 7146,
+    "mineralsMined": 7223,
     "boxesOpened": 1029,
     "boxesOpenedByType": {
       "common": 993,
@@ -546,13 +546,21 @@
         "boughtAt": 1779727370167,
         "cycleNumber": 6866,
         "cardName": "بطاقة ×3 تجربة"
+      },
+      "dungeon_damage_6866": {
+        "boughtAt": 1779753768013,
+        "cycleNumber": 6866,
+        "cardName": "بطاقة ضرر الدانجن"
+      },
+      "dungeon_stamina_6866": {
+        "boughtAt": 1779753777131,
+        "cycleNumber": 6866,
+        "cardName": "بطاقة ستامينا الدانجن"
       }
     },
     "playerSkills": {},
     "petsCollected": 3,
-    "activeCards": {
-      "xp_boost_3x": 1779728270167
-    },
+    "activeCards": {},
     "totalGoldEarned": 42417,
     "dungeonStreak": 0
   },
@@ -589,6 +597,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1777542343015,
-  "lastActive": 1779753614641,
+  "lastActive": 1779755952098,
   "groupId": "120363424226692086@g.us"
 }
