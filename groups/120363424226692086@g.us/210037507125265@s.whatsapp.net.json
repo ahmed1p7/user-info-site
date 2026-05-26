@@ -4,7 +4,7 @@
   "nickname": "تيريون لانيستر",
   "class": "برسيرك",
   "level": 41,
-  "xp": 996674913,
+  "xp": 996726757,
   "hp": 2490,
   "maxHp": 2490,
   "atk": 250,
@@ -12,9 +12,9 @@
   "mag": 52,
   "critRate": 0.13000000000000006,
   "critDamage": 1.9000000000000004,
-  "gold": 3612729,
-  "gems": 502,
-  "elixir": 1150,
+  "gold": 4538,
+  "gems": 503,
+  "elixir": 1155,
   "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
@@ -355,20 +355,20 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 3490,
-  "losses": 79,
+  "wins": 3821,
+  "losses": 81,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
-    "fishCaught": 168314,
-    "materialsCollected": 61384,
-    "mineralsMined": 14547,
-    "dailySellCount": 10226,
+    "fishCaught": 178314,
+    "materialsCollected": 65214,
+    "mineralsMined": 14790,
+    "dailySellCount": 10726,
     "lastSellReset": 1777614764945,
     "mineralsSold": 416,
-    "fishSold": 9810,
-    "dungeonKills": 3475,
-    "dungeonDamageDealt": 6110476,
+    "fishSold": 10310,
+    "dungeonKills": 3805,
+    "dungeonDamageDealt": 6719468,
     "materialsSold": 11700,
     "dungeonsCompleted": 7,
     "pity": {
@@ -376,11 +376,11 @@
       "legendary": 0,
       "mythic": 1
     },
-    "lastFreeBox": 1778512982930,
-    "freeBoxStreak": 2,
-    "boxesOpened": 54,
+    "lastFreeBox": 1779733860366,
+    "freeBoxStreak": 3,
+    "boxesOpened": 55,
     "boxesOpenedByType": {
-      "common": 2,
+      "common": 3,
       "epic": 51,
       "mythic": 1
     },
@@ -392,7 +392,7 @@
       "timestamp": 1778224788878
     },
     "clanDungeonsCompleted": 1,
-    "totalGoldEarned": 34484,
+    "totalGoldEarned": 35167,
     "weeklyShopLastReset": 0,
     "weeklyShopPurchases": {
       "rapid_dive_6864": {
@@ -406,11 +406,9 @@
         "cardName": "بطاقة غوص خارق"
       }
     },
-    "activeCards": {
-      "rapid_dive": 1779729370333
-    },
-    "pvpLosses": 10,
-    "pvpWins": 5,
+    "activeCards": {},
+    "pvpLosses": 12,
+    "pvpWins": 6,
     "dungeonStreak": 0,
     "completedDungeons": [
       5,
@@ -431,7 +429,8 @@
     "blood_fury",
     "blood_bath",
     "berserker_rage",
-    "earthquake_slam"
+    "earthquake_slam",
+    "whirlwind"
   ],
   "unlockedSkills": {
     "passive": [
@@ -446,12 +445,13 @@
       "double_strike",
       "war_cry",
       "blood_bath",
-      "earthquake_slam"
+      "earthquake_slam",
+      "whirlwind"
     ]
   },
   "clanId": null,
   "clanRole": null,
   "created": 1777613816222,
-  "lastActive": 1779728690785,
+  "lastActive": 1779803481199,
   "groupId": "120363424226692086@g.us"
 }
