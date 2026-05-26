@@ -4,17 +4,17 @@
   "nickname": "يوهان",
   "class": "فارس التنين",
   "level": 37,
-  "xp": 153512925,
-  "hp": 2994,
+  "xp": 153524619,
+  "hp": 2937,
   "maxHp": 2994,
   "atk": 144,
   "def": 259,
   "mag": 41,
   "critRate": 0.08600000000000003,
   "critDamage": 1.6799999999999962,
-  "gold": 409848,
-  "gems": 2921,
-  "elixir": 7987,
+  "gold": 2262,
+  "gems": 3259,
+  "elixir": 8937,
   "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
@@ -338,7 +338,7 @@
       "slotEmoji": "🧤",
       "def": 38,
       "bonusType": "atk",
-      "level": 1,
+      "level": 4,
       "maxLevel": 5,
       "baseDef": 38,
       "baseCost": 400,
@@ -483,7 +483,7 @@
   "boxes": {
     "common": 0,
     "rare": 0,
-    "epic": 247,
+    "epic": 197,
     "legendary": 0,
     "mythic": 0
   },
@@ -496,8 +496,8 @@
     "bossesDefeated": 0,
     "totalBossDamage": 0,
     "fishCaught": 43936,
-    "mineralsMined": 3938,
-    "boxesOpened": 297,
+    "mineralsMined": 3950,
+    "boxesOpened": 347,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -512,7 +512,7 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 15328,
+    "materialsCollected": 15353,
     "dungeonKills": 828,
     "dungeonDamageDealt": 507306,
     "dungeonsCompleted": 3,
@@ -523,14 +523,14 @@
     "dailySellCount": 1051,
     "lastSellReset": 1778068763361,
     "pity": {
-      "epic": 10,
+      "epic": 12,
       "legendary": 43,
       "mythic": 4
     },
     "boxesOpenedByType": {
       "legendary": 43,
       "mythic": 4,
-      "epic": 250
+      "epic": 300
     },
     "bestBoxReward": {
       "boxType": "mythic",
@@ -562,7 +562,7 @@
         "cardName": "بطاقة ×3 تجربة"
       }
     },
-    "totalGoldEarned": 34234,
+    "totalGoldEarned": 38864,
     "petsCollected": 1,
     "dungeonStreak": 0,
     "completedDungeons": [
@@ -604,6 +604,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1776965245297,
-  "lastActive": 1779802747153,
+  "lastActive": 1779804283879,
   "groupId": "120363424226692086@g.us"
 }
