@@ -4,15 +4,15 @@
   "nickname": "يوهان",
   "class": "فارس التنين",
   "level": 35,
-  "xp": 57490539,
-  "hp": 2880,
+  "xp": 57493439,
+  "hp": 1502,
   "maxHp": 2880,
   "atk": 134,
   "def": 247,
   "mag": 39,
   "critRate": 0.08400000000000003,
   "critDamage": 1.6699999999999964,
-  "gold": 7913351,
+  "gold": 9822164,
   "gems": 915,
   "elixir": 2513,
   "stamina": 10,
@@ -69,7 +69,7 @@
     "mythic": 0
   },
   "wins": 798,
-  "losses": 15,
+  "losses": 16,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
@@ -86,7 +86,7 @@
     "healingDone": 0,
     "groupHeals": 0,
     "pvpWins": 4,
-    "pvpLosses": 3,
+    "pvpLosses": 4,
     "successfulRobberies": 0,
     "failedRobberies": 0,
     "luckGamesPlayed": 0,
@@ -135,7 +135,10 @@
     "dragon_scales",
     "shield_mastery",
     "ancestral_shield",
-    "fortress_body"
+    "fortress_body",
+    "taunt",
+    "auto_shield",
+    "dragon_roar"
   ],
   "unlockedSkills": {
     "passive": [
@@ -146,12 +149,16 @@
       "fortress_body"
     ],
     "active": [
-      "dragon_breath"
+      "dragon_breath",
+      "shield_wall",
+      "taunt",
+      "auto_shield",
+      "dragon_roar"
     ]
   },
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1776965245297,
-  "lastActive": 1779732134600,
+  "lastActive": 1779753589863,
   "groupId": "120363424226692086@g.us"
 }
