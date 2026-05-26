@@ -3,19 +3,19 @@
   "name": "يوهان",
   "nickname": "يوهان",
   "class": "فارس التنين",
-  "level": 35,
-  "xp": 57493439,
-  "hp": 1502,
-  "maxHp": 2880,
-  "atk": 134,
-  "def": 247,
-  "mag": 39,
-  "critRate": 0.08400000000000003,
-  "critDamage": 1.6699999999999964,
-  "gold": 9822164,
-  "gems": 915,
+  "level": 37,
+  "xp": 153446034,
+  "hp": 1,
+  "maxHp": 2994,
+  "atk": 144,
+  "def": 259,
+  "mag": 41,
+  "critRate": 0.08600000000000003,
+  "critDamage": 1.6799999999999962,
+  "gold": 3326173,
+  "gems": 918,
   "elixir": 2513,
-  "stamina": 10,
+  "stamina": 9,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -68,8 +68,8 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 798,
-  "losses": 16,
+  "wins": 817,
+  "losses": 18,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
@@ -77,7 +77,7 @@
     "bossesDefeated": 0,
     "totalBossDamage": 0,
     "fishCaught": 43936,
-    "mineralsMined": 3592,
+    "mineralsMined": 3750,
     "boxesOpened": 40,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -93,9 +93,9 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 15178,
-    "dungeonKills": 791,
-    "dungeonDamageDealt": 434728,
+    "materialsCollected": 15196,
+    "dungeonKills": 810,
+    "dungeonDamageDealt": 475191,
     "dungeonsCompleted": 3,
     "materialsSold": 918,
     "fishSold": 1404,
@@ -120,13 +120,38 @@
       "timestamp": 1778226151153
     },
     "weeklyShopLastReset": 0,
-    "weeklyShopPurchases": {},
-    "totalGoldEarned": 9596,
+    "weeklyShopPurchases": {
+      "ability_points_6866": {
+        "boughtAt": 1779753805268,
+        "cycleNumber": 6866,
+        "cardName": "بطاقة نقاط قدرة"
+      },
+      "hp_boost_6866": {
+        "boughtAt": 1779753818884,
+        "cycleNumber": 6866,
+        "cardName": "بطاقة HP إضافي"
+      },
+      "dungeon_defense_6866": {
+        "boughtAt": 1779753849589,
+        "cycleNumber": 6866,
+        "cardName": "بطاقة دفاع الدانجن"
+      },
+      "xp_boost_3x_6866": {
+        "boughtAt": 1779791467289,
+        "cycleNumber": 6866,
+        "cardName": "بطاقة ×3 تجربة"
+      }
+    },
+    "totalGoldEarned": 9981,
     "petsCollected": 1,
-    "dungeonStreak": 47,
+    "dungeonStreak": 0,
     "completedDungeons": [
       2
-    ]
+    ],
+    "activeCards": {
+      "xp_boost_3x": 1779792367289
+    },
+    "abilityPoints": 2
   },
   "skills": [
     "shield_wall",
@@ -159,6 +184,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1776965245297,
-  "lastActive": 1779753589863,
+  "lastActive": 1779798019736,
   "groupId": "120363424226692086@g.us"
 }
