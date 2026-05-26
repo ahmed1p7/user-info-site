@@ -1,19 +1,19 @@
 {
   "id": "197448924418235@s.whatsapp.net",
-  "name": "£",
-  "nickname": "£",
+  "name": "كلاش..؟",
+  "nickname": "كلاش..؟",
   "class": "قاتل",
   "level": 22,
-  "xp": 76800,
-  "hp": 535,
+  "xp": 343414,
+  "hp": 1,
   "maxHp": 535,
   "atk": 165,
   "def": 69,
   "mag": 27,
   "critRate": 0.18400000000000008,
   "critDamage": 2.128,
-  "gold": 319695,
-  "gems": 8,
+  "gold": 308694,
+  "gems": 18,
   "elixir": 0,
   "stamina": 10,
   "maxStamina": 10,
@@ -176,7 +176,7 @@
     "mythic": 0
   },
   "wins": 0,
-  "losses": 0,
+  "losses": 1,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
@@ -210,25 +210,57 @@
     "healingDone": 0,
     "groupHeals": 0,
     "pvpWins": 0,
-    "pvpLosses": 0,
+    "pvpLosses": 1,
     "successfulRobberies": 0,
     "failedRobberies": 0,
     "luckGamesPlayed": 0,
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "petsCollected": 1
+    "petsCollected": 1,
+    "weeklyShopLastReset": 0,
+    "weeklyShopPurchases": {
+      "fishing_luck_6866": {
+        "boughtAt": 1779825959182,
+        "cycleNumber": 6866,
+        "cardName": "بطاقة حظ الصيد"
+      },
+      "mining_luck_6866": {
+        "boughtAt": 1779825969531,
+        "cycleNumber": 6866,
+        "cardName": "بطاقة حظ التعدين"
+      }
+    },
+    "activeCards": {
+      "fishing_luck": 1779827759182,
+      "mining_luck": 1779827769531
+    }
   },
   "skills": [
-    "stealth"
+    "stealth",
+    "backstab",
+    "poison_blade",
+    "shadow_terror",
+    "assassinate",
+    "smoke_bomb",
+    "shadow_chain"
   ],
   "unlockedSkills": {
-    "passive": [],
-    "active": []
+    "passive": [
+      "stealth",
+      "backstab",
+      "poison_blade",
+      "shadow_terror"
+    ],
+    "active": [
+      "assassinate",
+      "smoke_bomb",
+      "shadow_chain"
+    ]
   },
   "clanId": null,
   "clanRole": null,
   "created": 1779815136286,
-  "lastActive": 1779824977483,
+  "lastActive": 1779826216451,
   "groupId": "120363424226692086@g.us"
 }
