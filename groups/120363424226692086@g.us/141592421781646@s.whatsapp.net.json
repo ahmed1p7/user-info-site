@@ -4,7 +4,7 @@
   "nickname": "فتيان",
   "class": "قاتل",
   "level": 1,
-  "xp": 0,
+  "xp": 31619,
   "hp": 1,
   "maxHp": 110,
   "atk": 22,
@@ -12,7 +12,7 @@
   "mag": 6,
   "critRate": 0.05,
   "critDamage": 1.5,
-  "gold": 2046,
+  "gold": 5546,
   "gems": 8,
   "elixir": 0,
   "stamina": 10,
@@ -189,6 +189,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1779112408187,
-  "lastActive": 1779747704780,
+  "lastActive": 1779757235693,
   "groupId": "120363424226692086@g.us"
 }
