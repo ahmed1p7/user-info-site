@@ -4,7 +4,7 @@
   "nickname": "ايزن",
   "class": "ساحر الظلام",
   "level": 43,
-  "xp": 3217556736,
+  "xp": 11822437116,
   "hp": 0,
   "maxHp": 1024,
   "atk": 106,
@@ -12,7 +12,7 @@
   "mag": 648,
   "critRate": 0.12200000000000004,
   "critDamage": 2.1799999999999984,
-  "gold": 9634,
+  "gold": 10698878,
   "gems": 1659,
   "elixir": 4050,
   "stamina": 9,
@@ -597,6 +597,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1777542343015,
-  "lastActive": 1779816983100,
+  "lastActive": 1779819218858,
   "groupId": "120363424226692086@g.us"
 }
