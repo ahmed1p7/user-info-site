@@ -4,15 +4,15 @@
   "nickname": "ستااااركز",
   "class": "ساحر الشفاء",
   "level": 48,
-  "xp": 13396219065,
-  "hp": 1970,
+  "xp": 14688925187,
+  "hp": 1,
   "maxHp": 1970,
   "atk": 132,
   "def": 142,
   "mag": 506,
   "critRate": 0.09700000000000004,
   "critDamage": 1.734999999999995,
-  "gold": 43197160,
+  "gold": 43187558,
   "gems": 2635,
   "elixir": 6748,
   "stamina": 10,
@@ -487,7 +487,7 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 1560,
+  "wins": 1561,
   "losses": 142,
   "evolvedClass": null,
   "evolutionPath": "pathB",
@@ -496,7 +496,7 @@
     "bossesDefeated": 0,
     "totalBossDamage": 0,
     "fishCaught": 158748,
-    "mineralsMined": 13225,
+    "mineralsMined": 13254,
     "boxesOpened": 974,
     "boxesOpenedByType": {
       "common": 753,
@@ -533,8 +533,8 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 56401,
-    "dungeonKills": 1553,
+    "materialsCollected": 56403,
+    "dungeonKills": 1554,
     "dungeonDamageDealt": 2656914,
     "fishSold": 21743,
     "mineralsSold": 3912,
@@ -605,11 +605,7 @@
         "cardName": "بطاقة غنائم مضاعفة"
       }
     },
-    "activeCards": {
-      "rapid_dive": 1779734912874,
-      "xp_boost_3x": 1779734919679,
-      "double_drops": 1779735827497
-    },
+    "activeCards": {},
     "dungeonStreak": 0,
     "totalGoldEarned": 204512,
     "completedDungeons": [
@@ -618,7 +614,7 @@
       5,
       6
     ],
-    "clanDungeonsCompleted": 10,
+    "clanDungeonsCompleted": 11,
     "tournamentsWon": 1,
     "petsCollected": 1
   },
@@ -653,6 +649,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777400790020,
-  "lastActive": 1779790586379,
+  "lastActive": 1779791505149,
   "groupId": "120363424226692086@g.us"
 }
