@@ -4,7 +4,7 @@
   "nickname": "تيريون لانيستر",
   "class": "برسيرك",
   "level": 41,
-  "xp": 996726757,
+  "xp": 996977082,
   "hp": 2490,
   "maxHp": 2490,
   "atk": 250,
@@ -12,7 +12,7 @@
   "mag": 52,
   "critRate": 0.13000000000000006,
   "critDamage": 1.9000000000000004,
-  "gold": 4538,
+  "gold": 7593,
   "gems": 503,
   "elixir": 1155,
   "stamina": 10,
@@ -40,22 +40,23 @@
       "type": "armor"
     },
     "درع صدر": {
-      "id": "شائع_محارب_درع_صدر_درع_جلدي",
-      "name": "درع جلدي",
-      "fullName": "⚪ شائع | درع جلدي",
-      "rarity": "شائع",
-      "rarityEmoji": "⚪",
+      "id": "ملحمي_محارب_درع_صدر_درع_الفينيق",
+      "name": "درع الفينيق",
+      "fullName": "🟣 ملحمي | درع الفينيق",
+      "rarity": "ملحمي",
+      "rarityEmoji": "🟣",
       "class": "محارب",
       "slot": "درع صدر",
       "slotEmoji": "🛡️",
-      "def": 3,
+      "def": 58,
       "bonusType": "hp",
       "level": 1,
-      "maxLevel": 20,
-      "baseDef": 3,
-      "baseCost": 40,
-      "costMultiplier": 1,
-      "maxDefBonus": 40
+      "maxLevel": 5,
+      "baseDef": 58,
+      "baseCost": 400,
+      "costMultiplier": 3,
+      "maxDefBonus": 70,
+      "obtainedAt": 1779114109854
     },
     "قفازات": {
       "id": "شائع_محارب_قفازات_قفازات_جلدية",
@@ -76,24 +77,23 @@
       "maxDefBonus": 40
     },
     "حذاء": {
-      "id": "أسطوري_محارب_حذاء_أحذية_إيغريس",
-      "name": "أحذية إيغريس",
-      "fullName": "🟡 أسطوري | أحذية إيغريس",
-      "rarity": "أسطوري",
-      "rarityEmoji": "🟡",
+      "id": "ملحمي_محارب_حذاء_أحذية_الفينيق",
+      "name": "أحذية الفينيق",
+      "fullName": "🟣 ملحمي | أحذية الفينيق",
+      "rarity": "ملحمي",
+      "rarityEmoji": "🟣",
       "class": "محارب",
       "slot": "حذاء",
       "slotEmoji": "👢",
-      "def": 70,
+      "def": 58,
       "bonusType": "evasion",
-      "level": 5,
+      "level": 1,
       "maxLevel": 5,
-      "baseDef": 70,
-      "baseCost": 800,
+      "baseDef": 58,
+      "baseCost": 400,
       "costMultiplier": 3,
-      "maxDefBonus": 100,
-      "obtainedAt": 1777460479578,
-      "type": "armor"
+      "maxDefBonus": 70,
+      "obtainedAt": 1778667233537
     }
   },
   "weapons": [],
@@ -355,14 +355,14 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 3821,
+  "wins": 3822,
   "losses": 81,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
     "fishCaught": 178314,
     "materialsCollected": 65214,
-    "mineralsMined": 14790,
+    "mineralsMined": 14810,
     "dailySellCount": 10726,
     "lastSellReset": 1777614764945,
     "mineralsSold": 416,
@@ -392,7 +392,7 @@
       "timestamp": 1778224788878
     },
     "clanDungeonsCompleted": 1,
-    "totalGoldEarned": 35167,
+    "totalGoldEarned": 35722,
     "weeklyShopLastReset": 0,
     "weeklyShopPurchases": {
       "rapid_dive_6864": {
@@ -408,7 +408,7 @@
     },
     "activeCards": {},
     "pvpLosses": 12,
-    "pvpWins": 6,
+    "pvpWins": 7,
     "dungeonStreak": 0,
     "completedDungeons": [
       5,
@@ -452,6 +452,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1777613816222,
-  "lastActive": 1779803481199,
+  "lastActive": 1779804111533,
   "groupId": "120363424226692086@g.us"
 }
