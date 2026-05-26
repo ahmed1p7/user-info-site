@@ -4,7 +4,7 @@
   "nickname": "ستااااركز",
   "class": "ساحر الشفاء",
   "level": 48,
-  "xp": 5827279654,
+  "xp": 13396219065,
   "hp": 1970,
   "maxHp": 1970,
   "atk": 132,
@@ -12,7 +12,7 @@
   "mag": 506,
   "critRate": 0.09700000000000004,
   "critDamage": 1.734999999999995,
-  "gold": 33478152,
+  "gold": 43197160,
   "gems": 2635,
   "elixir": 6748,
   "stamina": 10,
@@ -487,16 +487,16 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 1464,
-  "losses": 126,
+  "wins": 1560,
+  "losses": 142,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 139812,
-    "mineralsMined": 11856,
+    "fishCaught": 158748,
+    "mineralsMined": 13225,
     "boxesOpened": 974,
     "boxesOpenedByType": {
       "common": 753,
@@ -533,9 +533,9 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 49818,
-    "dungeonKills": 1457,
-    "dungeonDamageDealt": 2149872,
+    "materialsCollected": 56401,
+    "dungeonKills": 1553,
+    "dungeonDamageDealt": 2656914,
     "fishSold": 21743,
     "mineralsSold": 3912,
     "dungeonsCompleted": 7,
@@ -588,11 +588,27 @@
         "boughtAt": 1779554796360,
         "cycleNumber": 6865,
         "cardName": "بطاقة بيع ممتاز"
+      },
+      "rapid_dive_6866": {
+        "boughtAt": 1779734012874,
+        "cycleNumber": 6866,
+        "cardName": "بطاقة غوص خارق"
+      },
+      "xp_boost_3x_6866": {
+        "boughtAt": 1779734019679,
+        "cycleNumber": 6866,
+        "cardName": "بطاقة ×3 تجربة"
+      },
+      "double_drops_6866": {
+        "boughtAt": 1779734027497,
+        "cycleNumber": 6866,
+        "cardName": "بطاقة غنائم مضاعفة"
       }
     },
     "activeCards": {
-      "double_drops": 1779556592774,
-      "sell_boost": 1779556596360
+      "rapid_dive": 1779734912874,
+      "xp_boost_3x": 1779734919679,
+      "double_drops": 1779735827497
     },
     "dungeonStreak": 0,
     "totalGoldEarned": 204512,
@@ -602,7 +618,7 @@
       5,
       6
     ],
-    "clanDungeonsCompleted": 8,
+    "clanDungeonsCompleted": 10,
     "tournamentsWon": 1,
     "petsCollected": 1
   },
@@ -637,6 +653,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777400790020,
-  "lastActive": 1779555276754,
+  "lastActive": 1779790586379,
   "groupId": "120363424226692086@g.us"
 }
