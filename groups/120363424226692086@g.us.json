@@ -34,16 +34,16 @@
       "level": 48
     },
     {
+      "id": "210037507125265@s.whatsapp.net",
+      "name": "تيريون لانيستر",
+      "class": "برسيرك",
+      "level": 46
+    },
+    {
       "id": "117051381301480@s.whatsapp.net",
       "name": "ايزن",
       "class": "ساحر الظلام",
       "level": 43
-    },
-    {
-      "id": "210037507125265@s.whatsapp.net",
-      "name": "تيريون لانيستر",
-      "class": "برسيرك",
-      "level": 42
     },
     {
       "id": "11614178824270@s.whatsapp.net",
@@ -172,6 +172,6 @@
       "level": 1
     }
   ],
-  "messagesWeek": 179,
-  "lastUpdated": 1779819347653
+  "messagesWeek": 461,
+  "lastUpdated": 1779820404971
 }

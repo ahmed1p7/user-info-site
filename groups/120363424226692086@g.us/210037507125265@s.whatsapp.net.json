@@ -3,16 +3,16 @@
   "name": "تيريون لانيستر",
   "nickname": "تيريون لانيستر",
   "class": "برسيرك",
-  "level": 42,
-  "xp": 687470585,
-  "hp": 2538,
-  "maxHp": 2538,
-  "atk": 253,
-  "def": 160,
-  "mag": 53,
-  "critRate": 0.13200000000000006,
-  "critDamage": 1.9100000000000004,
-  "gold": 3478077,
+  "level": 46,
+  "xp": 2692282661,
+  "hp": 2730,
+  "maxHp": 2730,
+  "atk": 265,
+  "def": 164,
+  "mag": 108,
+  "critRate": 0.14000000000000007,
+  "critDamage": 1.9500000000000004,
+  "gold": 16127217,
   "gems": 503,
   "elixir": 1155,
   "stamina": 10,
@@ -77,23 +77,23 @@
       "maxDefBonus": 40
     },
     "حذاء": {
-      "id": "ملحمي_محارب_حذاء_أحذية_الفينيق",
-      "name": "أحذية الفينيق",
-      "fullName": "🟣 ملحمي | أحذية الفينيق",
+      "id": "ملحمي_محارب_حذاء_أحذية_النور",
+      "name": "أحذية النور",
+      "fullName": "🟣 ملحمي | أحذية النور",
       "rarity": "ملحمي",
       "rarityEmoji": "🟣",
       "class": "محارب",
       "slot": "حذاء",
       "slotEmoji": "👢",
-      "def": 58,
+      "def": 48,
       "bonusType": "evasion",
-      "level": 1,
+      "level": 5,
       "maxLevel": 5,
-      "baseDef": 58,
+      "baseDef": 48,
       "baseCost": 400,
       "costMultiplier": 3,
       "maxDefBonus": 70,
-      "obtainedAt": 1778667233537
+      "obtainedAt": 1778667054522
     }
   },
   "weapons": [],
@@ -263,7 +263,7 @@
       "slotEmoji": "👢",
       "def": 48,
       "bonusType": "evasion",
-      "level": 1,
+      "level": 5,
       "maxLevel": 5,
       "baseDef": 48,
       "baseCost": 400,
@@ -355,14 +355,14 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 3822,
-  "losses": 81,
+  "wins": 3823,
+  "losses": 82,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
-    "fishCaught": 178367,
-    "materialsCollected": 65233,
-    "mineralsMined": 14949,
+    "fishCaught": 178419,
+    "materialsCollected": 65255,
+    "mineralsMined": 15001,
     "dailySellCount": 20726,
     "lastSellReset": 1777614764945,
     "mineralsSold": 416,
@@ -392,7 +392,7 @@
       "timestamp": 1778224788878
     },
     "clanDungeonsCompleted": 1,
-    "totalGoldEarned": 35942,
+    "totalGoldEarned": 37602,
     "weeklyShopLastReset": 0,
     "weeklyShopPurchases": {
       "rapid_dive_6864": {
@@ -404,11 +404,16 @@
         "boughtAt": 1779728470333,
         "cycleNumber": 6866,
         "cardName": "بطاقة غوص خارق"
+      },
+      "dive_reset_6866": {
+        "boughtAt": 1779819702011,
+        "cycleNumber": 6866,
+        "cardName": "بطاقة إعادة تعيين الغوص"
       }
     },
     "activeCards": {},
-    "pvpLosses": 12,
-    "pvpWins": 7,
+    "pvpLosses": 13,
+    "pvpWins": 8,
     "dungeonStreak": 0,
     "completedDungeons": [
       5,
@@ -452,6 +457,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1777613816222,
-  "lastActive": 1779818841288,
+  "lastActive": 1779820404961,
   "groupId": "120363424226692086@g.us"
 }
