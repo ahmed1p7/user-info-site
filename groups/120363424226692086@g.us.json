@@ -58,6 +58,12 @@
       "level": 32
     },
     {
+      "id": "197448924418235@s.whatsapp.net",
+      "name": "£",
+      "class": "قاتل",
+      "level": 20
+    },
+    {
       "id": "40265385566406@s.whatsapp.net",
       "name": "زازا",
       "class": "فارس",
@@ -166,6 +172,6 @@
       "level": 1
     }
   ],
-  "messagesWeek": 138,
-  "lastUpdated": 1779819218859
+  "messagesWeek": 179,
+  "lastUpdated": 1779819347653
 }
