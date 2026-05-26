@@ -4,18 +4,18 @@
   "nickname": "Ansem",
   "class": "قاتل",
   "level": 13,
-  "xp": 10320,
-  "hp": 1,
+  "xp": 11095,
+  "hp": 186,
   "maxHp": 186,
   "atk": 135,
   "def": 40,
   "mag": 18,
   "critRate": 0.11800000000000005,
   "critDamage": 1.8160000000000003,
-  "gold": 14744,
-  "gems": 8,
+  "gold": 21016,
+  "gems": 18,
   "elixir": 0,
-  "stamina": 0,
+  "stamina": 4,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -175,7 +175,7 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 10,
+  "wins": 16,
   "losses": 0,
   "evolvedClass": null,
   "evolutionPath": null,
@@ -217,21 +217,29 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "dungeonKills": 10,
-    "dungeonDamageDealt": 832,
-    "dungeonStreak": 10,
-    "materialsCollected": 31
+    "dungeonKills": 16,
+    "dungeonDamageDealt": 1698,
+    "dungeonStreak": 16,
+    "materialsCollected": 38
   },
   "skills": [
-    "stealth"
+    "stealth",
+    "backstab",
+    "ghost_blade",
+    "poison_blade"
   ],
   "unlockedSkills": {
-    "passive": [],
+    "passive": [
+      "stealth",
+      "backstab",
+      "ghost_blade",
+      "poison_blade"
+    ],
     "active": []
   },
   "clanId": null,
   "clanRole": null,
   "created": 1779806017769,
-  "lastActive": 1779811873195,
+  "lastActive": 1779826374679,
   "groupId": "120363424226692086@g.us"
 }
