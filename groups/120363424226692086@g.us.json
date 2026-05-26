@@ -118,6 +118,12 @@
       "level": 14
     },
     {
+      "id": "166405035045101@s.whatsapp.net",
+      "name": "Ansem",
+      "class": "قاتل",
+      "level": 13
+    },
+    {
       "id": "276811061665835@s.whatsapp.net",
       "name": "سانجي",
       "class": "ساحر",
@@ -160,6 +166,6 @@
       "level": 1
     }
   ],
-  "messagesWeek": 2567,
-  "lastUpdated": 1779804283896
+  "messagesWeek": 2935,
+  "lastUpdated": 1779811881255
 }
