@@ -5,7 +5,7 @@
   "class": "ساحر الظلام",
   "level": 43,
   "xp": 45870820,
-  "hp": 1024,
+  "hp": 1,
   "maxHp": 1024,
   "atk": 106,
   "def": 116,
@@ -476,8 +476,8 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 153119,
-    "mineralsMined": 8350,
+    "fishCaught": 156462,
+    "mineralsMined": 8527,
     "boxesOpened": 1030,
     "boxesOpenedByType": {
       "common": 994,
@@ -514,7 +514,7 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 54129,
+    "materialsCollected": 55255,
     "dungeonKills": 1252,
     "dungeonDamageDealt": 1205230,
     "dungeonsCompleted": 5,
@@ -597,6 +597,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1777542343015,
-  "lastActive": 1779791512349,
+  "lastActive": 1779795125308,
   "groupId": "120363424226692086@g.us"
 }
