@@ -3,19 +3,19 @@
   "name": "ايزن",
   "nickname": "ايزن",
   "class": "ساحر الظلام",
-  "level": 33,
-  "xp": 4935367152,
-  "hp": 804,
-  "maxHp": 804,
-  "atk": 70,
-  "def": 66,
-  "mag": 449,
-  "critRate": 0.11200000000000003,
-  "critDamage": 2.029999999999997,
-  "gold": 5187531,
+  "level": 43,
+  "xp": 45870647,
+  "hp": 1,
+  "maxHp": 1024,
+  "atk": 106,
+  "def": 116,
+  "mag": 648,
+  "critRate": 0.12200000000000004,
+  "critDamage": 2.1799999999999984,
+  "gold": 229628,
   "gems": 1659,
   "elixir": 4046,
-  "stamina": 9,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -468,16 +468,16 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 1095,
-  "losses": 474,
+  "wins": 1258,
+  "losses": 482,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 151752,
-    "mineralsMined": 7005,
+    "fishCaught": 151753,
+    "mineralsMined": 7146,
     "boxesOpened": 1029,
     "boxesOpenedByType": {
       "common": 993,
@@ -506,17 +506,17 @@
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 0,
-    "pvpLosses": 5,
+    "pvpWins": 2,
+    "pvpLosses": 7,
     "successfulRobberies": 0,
     "failedRobberies": 0,
     "luckGamesPlayed": 0,
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 53475,
-    "dungeonKills": 1091,
-    "dungeonDamageDealt": 1031564,
+    "materialsCollected": 53642,
+    "dungeonKills": 1252,
+    "dungeonDamageDealt": 1205230,
     "dungeonsCompleted": 5,
     "dailySellCount": 37489,
     "lastSellReset": 1777609841041,
@@ -553,7 +553,7 @@
     "activeCards": {
       "xp_boost_3x": 1779728270167
     },
-    "totalGoldEarned": 39082,
+    "totalGoldEarned": 42417,
     "dungeonStreak": 0
   },
   "skills": [
@@ -565,7 +565,9 @@
     "arcane_resonance",
     "elemental_sync",
     "shard_storm",
-    "shadow_realm"
+    "shadow_realm",
+    "void_touch",
+    "void_drain"
   ],
   "unlockedSkills": {
     "passive": [
@@ -573,18 +575,20 @@
       "bounty_aura",
       "cursed_luck",
       "arcane_resonance",
-      "elemental_sync"
+      "elemental_sync",
+      "void_touch"
     ],
     "active": [
       "frozen_spell",
       "mana_burn",
       "shard_storm",
-      "shadow_realm"
+      "shadow_realm",
+      "void_drain"
     ]
   },
   "clanId": null,
   "clanRole": null,
   "created": 1777542343015,
-  "lastActive": 1779728058950,
+  "lastActive": 1779753614641,
   "groupId": "120363424226692086@g.us"
 }
