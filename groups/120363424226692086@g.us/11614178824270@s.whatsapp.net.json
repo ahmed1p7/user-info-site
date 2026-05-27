@@ -3,18 +3,18 @@
   "name": "يوهان",
   "nickname": "يوهان",
   "class": "فارس التنين",
-  "level": 37,
-  "xp": 153524969,
-  "hp": 2994,
-  "maxHp": 2994,
-  "atk": 144,
-  "def": 259,
-  "mag": 41,
-  "critRate": 0.08600000000000003,
-  "critDamage": 1.6799999999999962,
-  "gold": 2966,
-  "gems": 3259,
-  "elixir": 8937,
+  "level": 41,
+  "xp": 1080888496,
+  "hp": 3675,
+  "maxHp": 3870,
+  "atk": 168,
+  "def": 362,
+  "mag": 45,
+  "critRate": 0.09000000000000004,
+  "critDamage": 1.6999999999999957,
+  "gold": 8084746,
+  "gems": 4732,
+  "elixir": 12938,
   "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
@@ -483,37 +483,37 @@
   "boxes": {
     "common": 0,
     "rare": 0,
-    "epic": 197,
+    "epic": 47,
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 835,
-  "losses": 18,
+  "wins": 849,
+  "losses": 23,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 43936,
-    "mineralsMined": 4156,
-    "boxesOpened": 347,
+    "fishCaught": 43937,
+    "mineralsMined": 4516,
+    "boxesOpened": 547,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 4,
-    "pvpLosses": 4,
+    "pvpWins": 7,
+    "pvpLosses": 6,
     "successfulRobberies": 0,
     "failedRobberies": 0,
     "luckGamesPlayed": 0,
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 15353,
-    "dungeonKills": 828,
+    "materialsCollected": 15440,
+    "dungeonKills": 839,
     "dungeonDamageDealt": 507306,
     "dungeonsCompleted": 3,
     "materialsSold": 918,
@@ -523,14 +523,14 @@
     "dailySellCount": 1051,
     "lastSellReset": 1778068763361,
     "pity": {
-      "epic": 12,
+      "epic": 4,
       "legendary": 43,
       "mythic": 4
     },
     "boxesOpenedByType": {
       "legendary": 43,
       "mythic": 4,
-      "epic": 300
+      "epic": 500
     },
     "bestBoxReward": {
       "boxType": "mythic",
@@ -562,15 +562,13 @@
         "cardName": "بطاقة ×3 تجربة"
       }
     },
-    "totalGoldEarned": 38864,
+    "totalGoldEarned": 59837,
     "petsCollected": 1,
     "dungeonStreak": 0,
     "completedDungeons": [
       2
     ],
-    "activeCards": {
-      "xp_boost_3x": 1779792367289
-    },
+    "activeCards": {},
     "abilityPoints": 2
   },
   "skills": [
@@ -583,7 +581,8 @@
     "fortress_body",
     "taunt",
     "auto_shield",
-    "dragon_roar"
+    "dragon_roar",
+    "iron_fortress"
   ],
   "unlockedSkills": {
     "passive": [
@@ -598,12 +597,13 @@
       "shield_wall",
       "taunt",
       "auto_shield",
-      "dragon_roar"
+      "dragon_roar",
+      "iron_fortress"
     ]
   },
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1776965245297,
-  "lastActive": 1779811960053,
+  "lastActive": 1779899301817,
   "groupId": "120363424226692086@g.us"
 }
