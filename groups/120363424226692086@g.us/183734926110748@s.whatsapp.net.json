@@ -4,18 +4,18 @@
   "nickname": "ستارك ابو نواف",
   "class": "فارس الظلام",
   "level": 49,
-  "xp": 8640767451,
-  "hp": 953,
+  "xp": 13763693805,
+  "hp": 1,
   "maxHp": 953,
   "atk": 476,
   "def": 152,
   "mag": 141,
   "critRate": 0.6420000000000001,
   "critDamage": 2.8139999999999947,
-  "gold": 33946122,
+  "gold": 48399968,
   "gems": 3351,
   "elixir": 8468,
-  "stamina": 0,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -487,16 +487,16 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 2790,
-  "losses": 329,
+  "wins": 2808,
+  "losses": 332,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 121016,
-    "mineralsMined": 18580,
+    "fishCaught": 130193,
+    "mineralsMined": 21852,
     "boxesOpened": 1110,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -504,7 +504,7 @@
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 4,
+    "pvpWins": 7,
     "pvpLosses": 8,
     "successfulRobberies": 0,
     "failedRobberies": 0,
@@ -513,9 +513,9 @@
     "territoriesConquered": 0,
     "territoryDefenses": 0,
     "fishSold": 30519,
-    "dungeonKills": 2782,
-    "dungeonDamageDealt": 9439342,
-    "materialsCollected": 43952,
+    "dungeonKills": 2797,
+    "dungeonDamageDealt": 9504548,
+    "materialsCollected": 47019,
     "mineralsSold": 8175,
     "materialsSold": 8223,
     "dungeonsCompleted": 9,
@@ -609,17 +609,30 @@
         "boughtAt": 1779791812844,
         "cycleNumber": 6866,
         "cardName": "بطاقة ×3 تجربة"
+      },
+      "gold_chest_6866": {
+        "boughtAt": 1779804073092,
+        "cycleNumber": 6866,
+        "cardName": "بطاقة كنز ذهبي"
+      },
+      "mining_speed_6866": {
+        "boughtAt": 1779804091832,
+        "cycleNumber": 6866,
+        "cardName": "بطاقة تسريع التعدين"
+      },
+      "mining_luck_6866": {
+        "boughtAt": 1779804096065,
+        "cycleNumber": 6866,
+        "cardName": "بطاقة حظ التعدين"
       }
     },
     "petsCollected": 3,
-    "activeCards": {
-      "xp_boost_3x": 1779792712844
-    },
+    "activeCards": {},
     "abilityPoints": 2,
     "playerSkills": {},
     "skillPoints": 3,
     "dungeonStreak": 0,
-    "totalGoldEarned": 29701,
+    "totalGoldEarned": 31981,
     "titles": [
       "بطل الأسبوع"
     ],
@@ -662,6 +675,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1776960777629,
-  "lastActive": 1779803526975,
+  "lastActive": 1779899666168,
   "groupId": "120363424226692086@g.us"
 }
