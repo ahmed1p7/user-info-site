@@ -22,15 +22,15 @@
       "level": 49
     },
     {
-      "id": "238706262851666@s.whatsapp.net",
-      "name": "ابو عبدالله اللحجي الهطف",
-      "class": "برسيرك",
-      "level": 48
-    },
-    {
       "id": "23816063467666@s.whatsapp.net",
       "name": "سيقمير اوف كاترينا",
       "class": "فارس مظلم",
+      "level": 49
+    },
+    {
+      "id": "238706262851666@s.whatsapp.net",
+      "name": "ابو عبدالله اللحجي الهطف",
+      "class": "برسيرك",
       "level": 48
     },
     {
@@ -172,6 +172,6 @@
       "level": 1
     }
   ],
-  "messagesWeek": 835,
-  "lastUpdated": 1779929036646
+  "messagesWeek": 129,
+  "lastUpdated": 1779985333579
 }
