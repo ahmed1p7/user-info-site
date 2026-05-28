@@ -2,20 +2,20 @@
   "id": "5936299118698@s.whatsapp.net",
   "name": "ستااااركز",
   "nickname": "ستااااركز",
-  "class": "ساحر الشفاء",
-  "level": 49,
-  "xp": 990088370,
-  "hp": 1995,
-  "maxHp": 1995,
-  "atk": 139,
-  "def": 143,
-  "mag": 510,
-  "critRate": 0.09800000000000005,
-  "critDamage": 1.7399999999999949,
-  "gold": 54741196,
+  "class": "قديس الحماية",
+  "level": 50,
+  "xp": 11488558554,
+  "hp": 2629,
+  "maxHp": 2629,
+  "atk": 154,
+  "def": 171,
+  "mag": 771,
+  "critRate": 0.09900000000000005,
+  "critDamage": 1.7449999999999948,
+  "gold": 45608159,
   "gems": 2635,
   "elixir": 6748,
-  "stamina": 4,
+  "stamina": 8,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -487,16 +487,16 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 1562,
-  "losses": 150,
+  "wins": 1573,
+  "losses": 154,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 159015,
-    "mineralsMined": 13706,
+    "fishCaught": 168248,
+    "mineralsMined": 17221,
     "boxesOpened": 974,
     "boxesOpenedByType": {
       "common": 753,
@@ -526,15 +526,15 @@
     "healingDone": 0,
     "groupHeals": 0,
     "pvpWins": 4,
-    "pvpLosses": 4,
+    "pvpLosses": 6,
     "successfulRobberies": 0,
     "failedRobberies": 0,
     "luckGamesPlayed": 0,
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 56500,
-    "dungeonKills": 1555,
+    "materialsCollected": 59621,
+    "dungeonKills": 1566,
     "dungeonDamageDealt": 2656914,
     "fishSold": 21743,
     "mineralsSold": 3912,
@@ -603,11 +603,21 @@
         "boughtAt": 1779734027497,
         "cycleNumber": 6866,
         "cardName": "بطاقة غنائم مضاعفة"
+      },
+      "dungeon_damage_6867": {
+        "boughtAt": 1779926701318,
+        "cycleNumber": 6867,
+        "cardName": "بطاقة ضرر الدانجن"
+      },
+      "ability_points_6867": {
+        "boughtAt": 1779926705174,
+        "cycleNumber": 6867,
+        "cardName": "بطاقة نقاط قدرة"
       }
     },
     "activeCards": {},
     "dungeonStreak": 0,
-    "totalGoldEarned": 204767,
+    "totalGoldEarned": 205027,
     "completedDungeons": [
       3,
       4,
@@ -616,7 +626,8 @@
     ],
     "clanDungeonsCompleted": 12,
     "tournamentsWon": 1,
-    "petsCollected": 1
+    "petsCollected": 1,
+    "abilityPoints": 2
   },
   "skills": [
     "heal",
@@ -628,14 +639,17 @@
     "protective_ward",
     "sacred_barrier",
     "purification",
-    "shield_of_faith"
+    "shield_of_faith",
+    "divine_aegis",
+    "ultimate_sanctuary"
   ],
   "unlockedSkills": {
     "passive": [
       "time_rewind",
       "healing_aura",
       "sanctity_aura",
-      "protective_ward"
+      "protective_ward",
+      "divine_aegis"
     ],
     "active": [
       "resurrection",
@@ -643,12 +657,13 @@
       "heal",
       "sacred_barrier",
       "purification",
-      "shield_of_faith"
+      "shield_of_faith",
+      "ultimate_sanctuary"
     ]
   },
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777400790020,
-  "lastActive": 1779802692414,
+  "lastActive": 1779987266819,
   "groupId": "120363424226692086@g.us"
 }
