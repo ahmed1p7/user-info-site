@@ -3,19 +3,19 @@
   "name": "باتمان",
   "nickname": "باتمان",
   "class": "قائد حرب",
-  "level": 50,
-  "xp": 31266605652,
-  "hp": 3475,
-  "maxHp": 3475,
-  "atk": 366,
-  "def": 168,
-  "mag": 178,
-  "critRate": 0.19800000000000006,
-  "critDamage": 1.9900000000000004,
-  "gold": 206579794,
-  "gems": 7847,
+  "level": 51,
+  "xp": 3938034867,
+  "hp": 3529,
+  "maxHp": 3529,
+  "atk": 369,
+  "def": 169,
+  "mag": 188,
+  "critRate": 0.20000000000000007,
+  "critDamage": 2.0000000000000004,
+  "gold": 212086625,
+  "gems": 7850,
   "elixir": 21025,
-  "stamina": 9,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -486,22 +486,22 @@
     }
   ],
   "boxes": {
-    "common": 2,
+    "common": 3,
     "rare": 0,
     "epic": 0,
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 13103,
-  "losses": 1000,
+  "wins": 13118,
+  "losses": 1004,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 210081,
-    "mineralsMined": 49732,
+    "fishCaught": 210082,
+    "mineralsMined": 50253,
     "boxesOpened": 1211,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -517,10 +517,10 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "dungeonKills": 13026,
+    "dungeonKills": 13041,
     "dungeonDamageDealt": 41640762,
     "fishSold": 47532,
-    "materialsCollected": 82802,
+    "materialsCollected": 82816,
     "dungeonsCompleted": 10,
     "materialsSold": 16708,
     "mineralsSold": 17307,
@@ -531,8 +531,8 @@
       "mythic": 31,
       "rare": 1
     },
-    "lastFreeBox": 1779805914943,
-    "freeBoxStreak": 24,
+    "lastFreeBox": 1779899295416,
+    "freeBoxStreak": 25,
     "clanDungeonsCompleted": 7,
     "clanDungeonDamage": 0,
     "boxesOpenedByType": {
@@ -632,7 +632,7 @@
     "petsCollected": 2,
     "activeCards": {},
     "dungeonStreak": 0,
-    "totalGoldEarned": 49330,
+    "totalGoldEarned": 49595,
     "abilityPoints": 2,
     "completedDungeons": [
       9
@@ -651,7 +651,8 @@
     "earthquake_slam",
     "whirlwind",
     "bone_stubbornness",
-    "warlords_command"
+    "warlords_command",
+    "battle_orders"
   ],
   "unlockedSkills": {
     "passive": [
@@ -668,12 +669,13 @@
       "war_cry",
       "blood_bath",
       "earthquake_slam",
-      "whirlwind"
+      "whirlwind",
+      "battle_orders"
     ]
   },
   "clanId": "120363424226692086@g.us",
   "clanRole": "leader",
   "created": 1776881461393,
-  "lastActive": 1779898856101,
+  "lastActive": 1779990493912,
   "groupId": "120363424226692086@g.us"
 }
