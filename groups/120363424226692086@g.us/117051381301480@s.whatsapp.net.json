@@ -4,7 +4,7 @@
   "nickname": "ايزن",
   "class": "ساحر الظلام",
   "level": 46,
-  "xp": 7951642792,
+  "xp": 18870103915,
   "hp": 1054,
   "maxHp": 1054,
   "atk": 119,
@@ -12,10 +12,10 @@
   "mag": 666,
   "critRate": 0.12500000000000003,
   "critDamage": 2.2249999999999988,
-  "gold": 4296818,
+  "gold": 8713382,
   "gems": 2507,
   "elixir": 6117,
-  "stamina": 8,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -468,16 +468,16 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 1395,
-  "losses": 505,
+  "wins": 1396,
+  "losses": 506,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 161256,
-    "mineralsMined": 10037,
+    "fishCaught": 161257,
+    "mineralsMined": 10261,
     "boxesOpened": 1069,
     "boxesOpenedByType": {
       "common": 994,
@@ -506,15 +506,15 @@
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 2,
-    "pvpLosses": 11,
+    "pvpWins": 3,
+    "pvpLosses": 12,
     "successfulRobberies": 0,
     "failedRobberies": 0,
     "luckGamesPlayed": 0,
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 57137,
+    "materialsCollected": 57139,
     "dungeonKills": 1389,
     "dungeonDamageDealt": 1326277,
     "dungeonsCompleted": 5,
@@ -556,12 +556,22 @@
         "boughtAt": 1779753777131,
         "cycleNumber": 6866,
         "cardName": "بطاقة ستامينا الدانجن"
+      },
+      "sell_boost_6867": {
+        "boughtAt": 1779990155301,
+        "cycleNumber": 6867,
+        "cardName": "بطاقة بيع ممتاز"
+      },
+      "rare_fish_6867": {
+        "boughtAt": 1779990494647,
+        "cycleNumber": 6867,
+        "cardName": "بطاقة صيد نادر"
       }
     },
     "playerSkills": {},
     "petsCollected": 3,
     "activeCards": {},
-    "totalGoldEarned": 50715,
+    "totalGoldEarned": 51430,
     "dungeonStreak": 0
   },
   "skills": [
@@ -597,6 +607,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777542343015,
-  "lastActive": 1779904077659,
+  "lastActive": 1779992308216,
   "groupId": "120363424226692086@g.us"
 }
