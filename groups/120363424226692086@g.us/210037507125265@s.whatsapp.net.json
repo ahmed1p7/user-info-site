@@ -3,19 +3,19 @@
   "name": "تيريون لانيستر",
   "nickname": "تيريون لانيستر",
   "class": "برسيرك",
-  "level": 46,
-  "xp": 2692380603,
-  "hp": 2730,
-  "maxHp": 2730,
-  "atk": 265,
-  "def": 164,
-  "mag": 108,
-  "critRate": 0.14000000000000007,
-  "critDamage": 1.9500000000000004,
-  "gold": 7235718,
-  "gems": 1260,
+  "level": 48,
+  "xp": 7998696957,
+  "hp": 2826,
+  "maxHp": 2826,
+  "atk": 271,
+  "def": 166,
+  "mag": 128,
+  "critRate": 0.14400000000000007,
+  "critDamage": 1.9700000000000004,
+  "gold": 9919393,
+  "gems": 1261,
   "elixir": 3160,
-  "stamina": 8,
+  "stamina": 9,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -489,20 +489,20 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 4044,
-  "losses": 85,
+  "wins": 4411,
+  "losses": 93,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
-    "fishCaught": 188314,
-    "materialsCollected": 68976,
-    "mineralsMined": 15834,
+    "fishCaught": 188316,
+    "materialsCollected": 69357,
+    "mineralsMined": 16135,
     "dailySellCount": 20726,
     "lastSellReset": 1777614764945,
     "mineralsSold": 416,
     "fishSold": 20310,
-    "dungeonKills": 4025,
-    "dungeonDamageDealt": 7067198,
+    "dungeonKills": 4391,
+    "dungeonDamageDealt": 9273824,
     "materialsSold": 79338,
     "dungeonsCompleted": 7,
     "pity": {
@@ -526,7 +526,7 @@
       "timestamp": 1778224788878
     },
     "clanDungeonsCompleted": 1,
-    "totalGoldEarned": 48137,
+    "totalGoldEarned": 49407,
     "weeklyShopLastReset": 0,
     "weeklyShopPurchases": {
       "rapid_dive_6864": {
@@ -543,11 +543,21 @@
         "boughtAt": 1779819702011,
         "cycleNumber": 6866,
         "cardName": "بطاقة إعادة تعيين الغوص"
+      },
+      "ability_points_6866": {
+        "boughtAt": 1779904251959,
+        "cycleNumber": 6866,
+        "cardName": "بطاقة نقاط قدرة"
+      },
+      "dive_reset_6867": {
+        "boughtAt": 1779926723961,
+        "cycleNumber": 6867,
+        "cardName": "بطاقة إعادة تعيين الغوص"
       }
     },
     "activeCards": {},
     "pvpLosses": 16,
-    "pvpWins": 9,
+    "pvpWins": 10,
     "dungeonStreak": 0,
     "completedDungeons": [
       5,
@@ -556,7 +566,8 @@
     "petsCollected": 3,
     "playerSkills": {
       "merchant": 1
-    }
+    },
+    "abilityPoints": 2
   },
   "skills": [
     "double_strike",
@@ -591,6 +602,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777613816222,
-  "lastActive": 1779899681409,
+  "lastActive": 1779929034756,
   "groupId": "120363424226692086@g.us"
 }
