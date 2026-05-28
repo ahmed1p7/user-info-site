@@ -3,19 +3,19 @@
   "name": "ايزن",
   "nickname": "ايزن",
   "class": "محارب",
-  "level": 6,
-  "xp": 245,
-  "hp": 297,
-  "maxHp": 297,
-  "atk": 30,
-  "def": 41,
-  "mag": 8,
-  "critRate": 0.13600000000000004,
-  "critDamage": 2.289999999999998,
-  "gold": 3665742,
+  "level": 7,
+  "xp": 1144,
+  "hp": 251,
+  "maxHp": 324,
+  "atk": 31,
+  "def": 42,
+  "mag": 9,
+  "critRate": 0.13800000000000004,
+  "critDamage": 2.2999999999999976,
+  "gold": 3674621,
   "gems": 2512,
   "elixir": 6117,
-  "stamina": 7,
+  "stamina": 5,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -483,7 +483,7 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 1446,
+  "wins": 1496,
   "losses": 512,
   "evolvedClass": null,
   "evolutionPath": null,
@@ -491,7 +491,7 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 161258,
+    "fishCaught": 161259,
     "mineralsMined": 10445,
     "boxesOpened": 1069,
     "boxesOpenedByType": {
@@ -529,9 +529,9 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 57190,
-    "dungeonKills": 1439,
-    "dungeonDamageDealt": 1377621,
+    "materialsCollected": 57237,
+    "dungeonKills": 1489,
+    "dungeonDamageDealt": 1384705,
     "dungeonsCompleted": 5,
     "dailySellCount": 37489,
     "lastSellReset": 1777609841041,
@@ -586,24 +586,26 @@
     "playerSkills": {},
     "petsCollected": 3,
     "activeCards": {},
-    "totalGoldEarned": 51825,
+    "totalGoldEarned": 51870,
     "dungeonStreak": 0
   },
   "skills": [
     "double_strike",
     "bone_stubbornness",
-    "lifesteal"
+    "lifesteal",
+    "blood_fury"
   ],
   "unlockedSkills": {
     "active": [],
     "passive": [
       "bone_stubbornness",
-      "lifesteal"
+      "lifesteal",
+      "blood_fury"
     ]
   },
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777542343015,
-  "lastActive": 1779999337565,
+  "lastActive": 1780000719342,
   "groupId": "120363424226692086@g.us"
 }
