@@ -2,20 +2,20 @@
   "id": "183734926110748@s.whatsapp.net",
   "name": "ستارك ابو نواف",
   "nickname": "ستارك ابو نواف",
-  "class": "فارس الظلام",
-  "level": 49,
-  "xp": 13763693805,
-  "hp": 1,
-  "maxHp": 953,
-  "atk": 476,
-  "def": 152,
-  "mag": 141,
-  "critRate": 0.6420000000000001,
-  "critDamage": 2.8139999999999947,
-  "gold": 48399968,
+  "class": "ملك الظلال",
+  "level": 50,
+  "xp": 15712197396,
+  "hp": 966,
+  "maxHp": 966,
+  "atk": 676,
+  "def": 153,
+  "mag": 181,
+  "critRate": 0.9460000000000002,
+  "critDamage": 3.3319999999999945,
+  "gold": 30922490,
   "gems": 3351,
   "elixir": 8468,
-  "stamina": 10,
+  "stamina": 0,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -487,8 +487,8 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 2808,
-  "losses": 332,
+  "wins": 2858,
+  "losses": 419,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
@@ -496,7 +496,7 @@
     "bossesDefeated": 0,
     "totalBossDamage": 0,
     "fishCaught": 130193,
-    "mineralsMined": 21852,
+    "mineralsMined": 22218,
     "boxesOpened": 1110,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -505,7 +505,7 @@
     "healingDone": 0,
     "groupHeals": 0,
     "pvpWins": 7,
-    "pvpLosses": 8,
+    "pvpLosses": 9,
     "successfulRobberies": 0,
     "failedRobberies": 0,
     "luckGamesPlayed": 0,
@@ -513,9 +513,9 @@
     "territoriesConquered": 0,
     "territoryDefenses": 0,
     "fishSold": 30519,
-    "dungeonKills": 2797,
-    "dungeonDamageDealt": 9504548,
-    "materialsCollected": 47019,
+    "dungeonKills": 2847,
+    "dungeonDamageDealt": 10632427,
+    "materialsCollected": 47072,
     "mineralsSold": 8175,
     "materialsSold": 8223,
     "dungeonsCompleted": 9,
@@ -624,15 +624,35 @@
         "boughtAt": 1779804096065,
         "cycleNumber": 6866,
         "cardName": "بطاقة حظ التعدين"
+      },
+      "mining_speed_6867": {
+        "boughtAt": 1779926781592,
+        "cycleNumber": 6867,
+        "cardName": "بطاقة تسريع التعدين"
+      },
+      "skill_points_6867": {
+        "boughtAt": 1779926785233,
+        "cycleNumber": 6867,
+        "cardName": "بطاقة نقاط مهارة"
+      },
+      "ability_points_6867": {
+        "boughtAt": 1779926788257,
+        "cycleNumber": 6867,
+        "cardName": "بطاقة نقاط قدرة"
+      },
+      "dungeon_damage_6867": {
+        "boughtAt": 1779926792283,
+        "cycleNumber": 6867,
+        "cardName": "بطاقة ضرر الدانجن"
       }
     },
     "petsCollected": 3,
     "activeCards": {},
-    "abilityPoints": 2,
+    "abilityPoints": 4,
     "playerSkills": {},
-    "skillPoints": 3,
+    "skillPoints": 6,
     "dungeonStreak": 0,
-    "totalGoldEarned": 31981,
+    "totalGoldEarned": 32241,
     "titles": [
       "بطل الأسبوع"
     ],
@@ -653,7 +673,9 @@
     "death_dance",
     "shadow_chain",
     "dark_momentum",
-    "eclipse_slash"
+    "eclipse_slash",
+    "abyssal_power",
+    "dimensional_rift"
   ],
   "unlockedSkills": {
     "passive": [
@@ -662,19 +684,21 @@
       "poison_blade",
       "ghost_blade",
       "shadow_terror",
-      "dark_momentum"
+      "dark_momentum",
+      "abyssal_power"
     ],
     "active": [
       "assassinate",
       "smoke_bomb",
       "death_dance",
       "shadow_chain",
-      "eclipse_slash"
+      "eclipse_slash",
+      "dimensional_rift"
     ]
   },
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1776960777629,
-  "lastActive": 1779899666168,
+  "lastActive": 1779987596043,
   "groupId": "120363424226692086@g.us"
 }
