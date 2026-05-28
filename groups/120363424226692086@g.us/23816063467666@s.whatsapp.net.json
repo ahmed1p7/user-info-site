@@ -4,15 +4,15 @@
   "nickname": "سيقمير اوف كاترينا",
   "class": "فارس مظلم",
   "level": 49,
-  "xp": 8209114430,
-  "hp": 1304,
+  "xp": 21017591294,
+  "hp": 2763,
   "maxHp": 2839,
   "atk": 279,
   "def": 167,
   "mag": 129,
   "critRate": 0.14600000000000007,
   "critDamage": 1.9800000000000004,
-  "gold": 21654604,
+  "gold": 27907876,
   "gems": 3384,
   "elixir": 8846,
   "stamina": 10,
@@ -487,16 +487,16 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 7439,
-  "losses": 297,
+  "wins": 7519,
+  "losses": 302,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 75828,
-    "mineralsMined": 32174,
+    "fishCaught": 76332,
+    "mineralsMined": 32473,
     "boxesOpened": 676,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -504,7 +504,7 @@
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 5,
+    "pvpWins": 6,
     "pvpLosses": 0,
     "successfulRobberies": 0,
     "failedRobberies": 0,
@@ -513,9 +513,9 @@
     "territoriesConquered": 0,
     "territoryDefenses": 0,
     "fishSold": 22005,
-    "dungeonKills": 7419,
-    "dungeonDamageDealt": 21992276,
-    "materialsCollected": 32268,
+    "dungeonKills": 7498,
+    "dungeonDamageDealt": 22752251,
+    "materialsCollected": 32504,
     "materialsSold": 19402,
     "dungeonsCompleted": 8,
     "itemsMerged": 14,
@@ -645,12 +645,24 @@
         "boughtAt": 1779835605615,
         "cycleNumber": 6866,
         "cardName": "بطاقة صندوق دانجن"
+      },
+      "rapid_dive_6867": {
+        "boughtAt": 1779996346264,
+        "cycleNumber": 6867,
+        "cardName": "بطاقة غوص خارق"
+      },
+      "mystery_xp_6867": {
+        "boughtAt": 1779996355128,
+        "cycleNumber": 6867,
+        "cardName": "بطاقة تجربة غامضة"
       }
     },
     "petsCollected": 1,
-    "activeCards": {},
+    "activeCards": {
+      "rapid_dive": 1779997246264
+    },
     "dungeonStreak": 0,
-    "totalGoldEarned": 20801,
+    "totalGoldEarned": 21586,
     "completedDungeons": [
       7
     ],
@@ -687,6 +699,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1776891817820,
-  "lastActive": 1779991252240,
+  "lastActive": 1780003698627,
   "groupId": "120363424226692086@g.us"
 }
