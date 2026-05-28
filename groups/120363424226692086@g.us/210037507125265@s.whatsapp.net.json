@@ -3,16 +3,16 @@
   "name": "تيريون لانيستر",
   "nickname": "تيريون لانيستر",
   "class": "برسيرك",
-  "level": 48,
-  "xp": 7998697157,
-  "hp": 737,
-  "maxHp": 2826,
-  "atk": 271,
-  "def": 166,
-  "mag": 128,
-  "critRate": 0.14400000000000007,
-  "critDamage": 1.9700000000000004,
-  "gold": 9915596,
+  "level": 49,
+  "xp": 11798472122,
+  "hp": 2874,
+  "maxHp": 2874,
+  "atk": 274,
+  "def": 167,
+  "mag": 138,
+  "critRate": 0.14600000000000007,
+  "critDamage": 1.9800000000000004,
+  "gold": 8663449,
   "gems": 1261,
   "elixir": 3160,
   "stamina": 8,
@@ -489,8 +489,8 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 4411,
-  "losses": 94,
+  "wins": 4412,
+  "losses": 95,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
@@ -526,7 +526,7 @@
       "timestamp": 1778224788878
     },
     "clanDungeonsCompleted": 1,
-    "totalGoldEarned": 49407,
+    "totalGoldEarned": 50417,
     "weeklyShopLastReset": 0,
     "weeklyShopPurchases": {
       "rapid_dive_6864": {
@@ -556,8 +556,8 @@
       }
     },
     "activeCards": {},
-    "pvpLosses": 16,
-    "pvpWins": 10,
+    "pvpLosses": 17,
+    "pvpWins": 11,
     "dungeonStreak": 0,
     "completedDungeons": [
       5,
@@ -602,6 +602,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777613816222,
-  "lastActive": 1779988023166,
+  "lastActive": 1779991798956,
   "groupId": "120363424226692086@g.us"
 }
