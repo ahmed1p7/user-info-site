@@ -12,7 +12,7 @@
   "mag": 178,
   "critRate": 0.19800000000000006,
   "critDamage": 1.9900000000000004,
-  "gold": 10073963,
+  "gold": 10071963,
   "gems": 1271,
   "elixir": 3165,
   "stamina": 4,
@@ -494,8 +494,8 @@
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
-    "fishCaught": 188323,
-    "materialsCollected": 69692,
+    "fishCaught": 188328,
+    "materialsCollected": 69694,
     "mineralsMined": 17724,
     "dailySellCount": 30735,
     "lastSellReset": 1777614764945,
@@ -604,6 +604,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777613816222,
-  "lastActive": 1780086169003,
+  "lastActive": 1780092997092,
   "groupId": "120363424226692086@g.us"
 }
