@@ -4,7 +4,7 @@
   "nickname": "تيريون لانيستر",
   "class": "قائد حرب",
   "level": 50,
-  "xp": 7922754010,
+  "xp": 7922809137,
   "hp": 3513,
   "maxHp": 3513,
   "atk": 360,
@@ -12,7 +12,7 @@
   "mag": 178,
   "critRate": 0.19800000000000006,
   "critDamage": 1.9900000000000004,
-  "gold": 14855461,
+  "gold": 14889154,
   "gems": 1271,
   "elixir": 3165,
   "stamina": 9,
@@ -489,19 +489,19 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 4545,
-  "losses": 99,
+  "wins": 4557,
+  "losses": 101,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
     "fishCaught": 188323,
-    "materialsCollected": 69506,
-    "mineralsMined": 17695,
+    "materialsCollected": 69515,
+    "mineralsMined": 17724,
     "dailySellCount": 20726,
     "lastSellReset": 1777614764945,
     "mineralsSold": 416,
     "fishSold": 20310,
-    "dungeonKills": 4523,
+    "dungeonKills": 4534,
     "dungeonDamageDealt": 10722541,
     "materialsSold": 79338,
     "dungeonsCompleted": 7,
@@ -526,7 +526,7 @@
       "timestamp": 1778224788878
     },
     "clanDungeonsCompleted": 1,
-    "totalGoldEarned": 51247,
+    "totalGoldEarned": 52052,
     "weeklyShopLastReset": 0,
     "weeklyShopPurchases": {
       "rapid_dive_6864": {
@@ -556,8 +556,8 @@
       }
     },
     "activeCards": {},
-    "pvpLosses": 18,
-    "pvpWins": 12,
+    "pvpLosses": 20,
+    "pvpWins": 13,
     "dungeonStreak": 0,
     "completedDungeons": [
       5,
@@ -580,7 +580,8 @@
     "blood_bath",
     "berserker_rage",
     "earthquake_slam",
-    "whirlwind"
+    "whirlwind",
+    "warlords_command"
   ],
   "unlockedSkills": {
     "passive": [
@@ -589,7 +590,8 @@
       "warrior_endurance",
       "bone_stubbornness",
       "blood_fury",
-      "berserker_rage"
+      "berserker_rage",
+      "warlords_command"
     ],
     "active": [
       "double_strike",
@@ -602,6 +604,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777613816222,
-  "lastActive": 1780078205571,
+  "lastActive": 1780080925443,
   "groupId": "120363424226692086@g.us"
 }
