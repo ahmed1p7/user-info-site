@@ -4,15 +4,15 @@
   "nickname": "باتمان",
   "class": "قائد حرب",
   "level": 51,
-  "xp": 32842047759,
-  "hp": 197,
+  "xp": 59358998771,
+  "hp": 3529,
   "maxHp": 3529,
   "atk": 369,
   "def": 169,
   "mag": 188,
   "critRate": 0.20000000000000007,
   "critDamage": 2.0000000000000004,
-  "gold": 173848006,
+  "gold": 1000000,
   "gems": 7856,
   "elixir": 21034,
   "stamina": 10,
@@ -486,13 +486,13 @@
     }
   ],
   "boxes": {
-    "common": 0,
+    "common": 1,
     "rare": 0,
     "epic": 0,
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 13137,
+  "wins": 13149,
   "losses": 1006,
   "evolvedClass": null,
   "evolutionPath": "pathA",
@@ -509,7 +509,7 @@
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 16,
+    "pvpWins": 17,
     "pvpLosses": 0,
     "successfulRobberies": 0,
     "failedRobberies": 0,
@@ -517,10 +517,10 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "dungeonKills": 13058,
+    "dungeonKills": 13069,
     "dungeonDamageDealt": 41640762,
     "fishSold": 47532,
-    "materialsCollected": 82827,
+    "materialsCollected": 82836,
     "dungeonsCompleted": 10,
     "materialsSold": 16708,
     "mineralsSold": 17307,
@@ -531,8 +531,8 @@
       "mythic": 31,
       "rare": 1
     },
-    "lastFreeBox": 1779994778520,
-    "freeBoxStreak": 26,
+    "lastFreeBox": 1780081843206,
+    "freeBoxStreak": 27,
     "clanDungeonsCompleted": 7,
     "clanDungeonDamage": 0,
     "boxesOpenedByType": {
@@ -622,6 +622,11 @@
         "boughtAt": 1779994844688,
         "cycleNumber": 6867,
         "cardName": "بطاقة بيع ممتاز"
+      },
+      "fishing_speed_6867": {
+        "boughtAt": 1780081880053,
+        "cycleNumber": 6867,
+        "cardName": "بطاقة تسريع الغوص"
       }
     },
     "playerSkills": {
@@ -636,10 +641,10 @@
     },
     "petsCollected": 2,
     "activeCards": {
-      "sell_boost": 1779996644688
+      "fishing_speed": 1780083680053
     },
     "dungeonStreak": 0,
-    "totalGoldEarned": 51287,
+    "totalGoldEarned": 52097,
     "abilityPoints": 2,
     "completedDungeons": [
       9
@@ -683,6 +688,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "leader",
   "created": 1776881461393,
-  "lastActive": 1780072280103,
+  "lastActive": 1780082121405,
   "groupId": "120363424226692086@g.us"
 }
