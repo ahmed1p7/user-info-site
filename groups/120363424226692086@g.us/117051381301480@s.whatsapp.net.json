@@ -12,7 +12,7 @@
   "mag": 11,
   "critRate": 0.14200000000000004,
   "critDamage": 2.319999999999997,
-  "gold": 3693634,
+  "gold": 2668434,
   "gems": 2512,
   "elixir": 6117,
   "stamina": 10,
@@ -491,8 +491,8 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 161261,
-    "mineralsMined": 11014,
+    "fishCaught": 161267,
+    "mineralsMined": 11724,
     "boxesOpened": 1069,
     "boxesOpenedByType": {
       "common": 994,
@@ -529,7 +529,7 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 57376,
+    "materialsCollected": 57380,
     "dungeonKills": 1627,
     "dungeonDamageDealt": 1404085,
     "dungeonsCompleted": 5,
@@ -581,6 +581,11 @@
         "boughtAt": 1779990494647,
         "cycleNumber": 6867,
         "cardName": "بطاقة صيد نادر"
+      },
+      "mining_luck_6867": {
+        "boughtAt": 1780048975337,
+        "cycleNumber": 6867,
+        "cardName": "بطاقة حظ التعدين"
       }
     },
     "playerSkills": {},
@@ -606,6 +611,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777542343015,
-  "lastActive": 1780048092810,
+  "lastActive": 1780054077800,
   "groupId": "120363424226692086@g.us"
 }
