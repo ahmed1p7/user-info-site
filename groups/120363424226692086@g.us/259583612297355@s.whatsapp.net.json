@@ -4,17 +4,17 @@
   "nickname": "باتمان",
   "class": "قائد حرب",
   "level": 51,
-  "xp": 3938034867,
-  "hp": 3529,
+  "xp": 32842047759,
+  "hp": 197,
   "maxHp": 3529,
   "atk": 369,
   "def": 169,
   "mag": 188,
   "critRate": 0.20000000000000007,
   "critDamage": 2.0000000000000004,
-  "gold": 212086625,
-  "gems": 7850,
-  "elixir": 21025,
+  "gold": 173848006,
+  "gems": 7856,
+  "elixir": 21034,
   "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
@@ -486,30 +486,30 @@
     }
   ],
   "boxes": {
-    "common": 3,
+    "common": 0,
     "rare": 0,
     "epic": 0,
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 13118,
-  "losses": 1004,
+  "wins": 13137,
+  "losses": 1006,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 210082,
+    "fishCaught": 210084,
     "mineralsMined": 50253,
-    "boxesOpened": 1211,
+    "boxesOpened": 1215,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 14,
+    "pvpWins": 16,
     "pvpLosses": 0,
     "successfulRobberies": 0,
     "failedRobberies": 0,
@@ -517,10 +517,10 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "dungeonKills": 13041,
+    "dungeonKills": 13058,
     "dungeonDamageDealt": 41640762,
     "fishSold": 47532,
-    "materialsCollected": 82816,
+    "materialsCollected": 82827,
     "dungeonsCompleted": 10,
     "materialsSold": 16708,
     "mineralsSold": 17307,
@@ -531,14 +531,14 @@
       "mythic": 31,
       "rare": 1
     },
-    "lastFreeBox": 1779899295416,
-    "freeBoxStreak": 25,
+    "lastFreeBox": 1779994778520,
+    "freeBoxStreak": 26,
     "clanDungeonsCompleted": 7,
     "clanDungeonDamage": 0,
     "boxesOpenedByType": {
       "epic": 27,
       "legendary": 101,
-      "common": 913,
+      "common": 917,
       "mythic": 116,
       "rare": 3
     },
@@ -617,6 +617,11 @@
         "boughtAt": 1779633625185,
         "cycleNumber": 6865,
         "cardName": "بطاقة نقاط مهارة"
+      },
+      "sell_boost_6867": {
+        "boughtAt": 1779994844688,
+        "cycleNumber": 6867,
+        "cardName": "بطاقة بيع ممتاز"
       }
     },
     "playerSkills": {
@@ -630,9 +635,11 @@
       "merchant": 5
     },
     "petsCollected": 2,
-    "activeCards": {},
+    "activeCards": {
+      "sell_boost": 1779996644688
+    },
     "dungeonStreak": 0,
-    "totalGoldEarned": 49595,
+    "totalGoldEarned": 51287,
     "abilityPoints": 2,
     "completedDungeons": [
       9
@@ -676,6 +683,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "leader",
   "created": 1776881461393,
-  "lastActive": 1779990493912,
+  "lastActive": 1780072280103,
   "groupId": "120363424226692086@g.us"
 }
