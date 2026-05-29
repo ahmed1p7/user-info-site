@@ -46,6 +46,12 @@
       "level": 45
     },
     {
+      "id": "117051381301480@s.whatsapp.net",
+      "name": "ايزن",
+      "class": "برسيرك",
+      "level": 36
+    },
+    {
       "id": "144410171936843@s.whatsapp.net",
       "name": "ابراهيم",
       "class": "قاتل",
@@ -148,12 +154,6 @@
       "level": 10
     },
     {
-      "id": "117051381301480@s.whatsapp.net",
-      "name": "ايزن",
-      "class": "محارب",
-      "level": 9
-    },
-    {
       "id": "31967592628248@s.whatsapp.net",
       "name": "غريم فواز الغير متوج",
       "class": "قاتل",
@@ -172,6 +172,6 @@
       "level": 1
     }
   ],
-  "messagesWeek": 4987,
-  "lastUpdated": 1780076789716
+  "messagesWeek": 5014,
+  "lastUpdated": 1780076946190
 }
