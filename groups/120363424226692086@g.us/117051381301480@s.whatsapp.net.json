@@ -4,7 +4,7 @@
   "nickname": "ايزن",
   "class": "برسيرك",
   "level": 44,
-  "xp": 1972948309,
+  "xp": 16638136569,
   "hp": 1,
   "maxHp": 2044,
   "atk": 172,
@@ -12,10 +12,10 @@
   "mag": 46,
   "critRate": 0.2120000000000001,
   "critDamage": 2.6699999999999897,
-  "gold": 8611992,
-  "gems": 2524,
+  "gold": 15386432,
+  "gems": 2538,
   "elixir": 6117,
-  "stamina": 0,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -483,19 +483,21 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 1781,
-  "losses": 514,
+  "wins": 2011,
+  "losses": 524,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": [
       "map_0",
-      "map_1"
+      "map_1",
+      "map_2",
+      "map_3"
     ],
     "totalBossDamage": 0,
-    "fishCaught": 161491,
-    "mineralsMined": 12705,
+    "fishCaught": 161825,
+    "mineralsMined": 13093,
     "boxesOpened": 1069,
     "boxesOpenedByType": {
       "common": 994,
@@ -525,17 +527,17 @@
     "healingDone": 0,
     "groupHeals": 0,
     "pvpWins": 3,
-    "pvpLosses": 15,
+    "pvpLosses": 16,
     "successfulRobberies": 0,
     "failedRobberies": 0,
     "luckGamesPlayed": 0,
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 57629,
-    "dungeonKills": 1774,
-    "dungeonDamageDealt": 1481044,
-    "dungeonsCompleted": 7,
+    "materialsCollected": 57978,
+    "dungeonKills": 2004,
+    "dungeonDamageDealt": 2251588,
+    "dungeonsCompleted": 9,
     "dailySellCount": 37489,
     "lastSellReset": 1777609841041,
     "fishSold": 37391,
@@ -595,10 +597,12 @@
     "petsCollected": 3,
     "activeCards": {},
     "totalGoldEarned": 57050,
-    "dungeonStreak": 111,
+    "dungeonStreak": 0,
     "completedDungeons": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   "skills": [
@@ -630,6 +634,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777542343015,
-  "lastActive": 1780148768948,
+  "lastActive": 1780173576930,
   "groupId": "120363424226692086@g.us"
 }
