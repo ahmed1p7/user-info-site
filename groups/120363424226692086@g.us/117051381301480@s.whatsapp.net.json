@@ -4,7 +4,7 @@
   "nickname": "ايزن",
   "class": "برسيرك",
   "level": 44,
-  "xp": 1972939218,
+  "xp": 1972940213,
   "hp": 2044,
   "maxHp": 2044,
   "atk": 172,
@@ -12,7 +12,7 @@
   "mag": 46,
   "critRate": 0.2120000000000001,
   "critDamage": 2.6699999999999897,
-  "gold": 8671013,
+  "gold": 8668875,
   "gems": 2512,
   "elixir": 6117,
   "stamina": 10,
@@ -491,7 +491,7 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 161270,
+    "fishCaught": 161272,
     "mineralsMined": 12493,
     "boxesOpened": 1069,
     "boxesOpenedByType": {
@@ -529,7 +529,7 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 57416,
+    "materialsCollected": 57418,
     "dungeonKills": 1663,
     "dungeonDamageDealt": 1409770,
     "dungeonsCompleted": 5,
@@ -611,6 +611,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777542343015,
-  "lastActive": 1780081444313,
+  "lastActive": 1780137800662,
   "groupId": "120363424226692086@g.us"
 }
