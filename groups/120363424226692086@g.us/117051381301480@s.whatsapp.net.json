@@ -5,14 +5,14 @@
   "class": "برسيرك",
   "level": 44,
   "xp": 1972940213,
-  "hp": 2044,
+  "hp": 1,
   "maxHp": 2044,
   "atk": 172,
   "def": 86,
   "mag": 46,
   "critRate": 0.2120000000000001,
   "critDamage": 2.6699999999999897,
-  "gold": 8668875,
+  "gold": 8588752,
   "gems": 2512,
   "elixir": 6117,
   "stamina": 10,
@@ -491,8 +491,8 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 161274,
-    "mineralsMined": 12493,
+    "fishCaught": 161346,
+    "mineralsMined": 12519,
     "boxesOpened": 1069,
     "boxesOpenedByType": {
       "common": 994,
@@ -529,7 +529,7 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 57420,
+    "materialsCollected": 57442,
     "dungeonKills": 1663,
     "dungeonDamageDealt": 1409770,
     "dungeonsCompleted": 5,
@@ -598,19 +598,31 @@
     "double_strike",
     "bone_stubbornness",
     "lifesteal",
-    "blood_fury"
+    "blood_fury",
+    "warrior_endurance",
+    "earthquake_slam",
+    "blood_bath",
+    "berserker_rage",
+    "whirlwind"
   ],
   "unlockedSkills": {
-    "active": [],
+    "active": [
+      "double_strike",
+      "earthquake_slam",
+      "blood_bath",
+      "whirlwind"
+    ],
     "passive": [
       "bone_stubbornness",
       "lifesteal",
-      "blood_fury"
+      "blood_fury",
+      "warrior_endurance",
+      "berserker_rage"
     ]
   },
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777542343015,
-  "lastActive": 1780138131214,
+  "lastActive": 1780140517341,
   "groupId": "120363424226692086@g.us"
 }
