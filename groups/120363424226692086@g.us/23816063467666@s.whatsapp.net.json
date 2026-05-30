@@ -4,15 +4,15 @@
   "nickname": "سيقمير اوف كاترينا",
   "class": "ناثر",
   "level": 50,
-  "xp": 15403340966,
+  "xp": 15403342541,
   "hp": 3471,
   "maxHp": 3471,
   "atk": 366,
   "def": 168,
-  "mag": 130,
+  "mag": 178,
   "critRate": 0.19800000000000006,
   "critDamage": 1.9900000000000004,
-  "gold": 11198058,
+  "gold": 11089962,
   "gems": 3394,
   "elixir": 8851,
   "stamina": 10,
@@ -495,8 +495,8 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 77993,
-    "mineralsMined": 33173,
+    "fishCaught": 78533,
+    "mineralsMined": 33411,
     "boxesOpened": 676,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -515,7 +515,7 @@
     "fishSold": 22005,
     "dungeonKills": 7703,
     "dungeonDamageDealt": 25006698,
-    "materialsCollected": 33297,
+    "materialsCollected": 33474,
     "materialsSold": 19402,
     "dungeonsCompleted": 8,
     "itemsMerged": 14,
@@ -667,10 +667,8 @@
         "cardName": "بطاقة بيع ممتاز"
       }
     },
-    "petsCollected": 1,
-    "activeCards": {
-      "sell_boost": 1780084198954
-    },
+    "petsCollected": 2,
+    "activeCards": {},
     "dungeonStreak": 0,
     "totalGoldEarned": 22636,
     "completedDungeons": [
@@ -713,6 +711,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1776891817820,
-  "lastActive": 1780087912042,
+  "lastActive": 1780152586330,
   "groupId": "120363424226692086@g.us"
 }
