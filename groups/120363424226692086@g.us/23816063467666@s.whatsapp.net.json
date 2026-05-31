@@ -4,15 +4,15 @@
   "nickname": "سيقمير اوف كاترينا",
   "class": "ناثر",
   "level": 50,
-  "xp": 15403342541,
-  "hp": 3471,
+  "xp": 49825231930,
+  "hp": 2065,
   "maxHp": 3471,
   "atk": 366,
   "def": 168,
   "mag": 178,
   "critRate": 0.19800000000000006,
   "critDamage": 1.9900000000000004,
-  "gold": 11089962,
+  "gold": 11894336,
   "gems": 3394,
   "elixir": 8851,
   "stamina": 10,
@@ -487,7 +487,7 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 7725,
+  "wins": 7825,
   "losses": 314,
   "evolvedClass": null,
   "evolutionPath": "pathB",
@@ -495,8 +495,8 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 78533,
-    "mineralsMined": 33411,
+    "fishCaught": 78769,
+    "mineralsMined": 33766,
     "boxesOpened": 676,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -513,9 +513,9 @@
     "territoriesConquered": 0,
     "territoryDefenses": 0,
     "fishSold": 22005,
-    "dungeonKills": 7703,
-    "dungeonDamageDealt": 25006698,
-    "materialsCollected": 33474,
+    "dungeonKills": 7803,
+    "dungeonDamageDealt": 25204922,
+    "materialsCollected": 33630,
     "materialsSold": 19402,
     "dungeonsCompleted": 8,
     "itemsMerged": 14,
@@ -665,16 +665,29 @@
         "boughtAt": 1780082398954,
         "cycleNumber": 6867,
         "cardName": "بطاقة بيع ممتاز"
+      },
+      "fishing_speed_6868": {
+        "boughtAt": 1780234918199,
+        "cycleNumber": 6868,
+        "cardName": "بطاقة تسريع الغوص"
+      },
+      "ability_points_6868": {
+        "boughtAt": 1780234930462,
+        "cycleNumber": 6868,
+        "cardName": "بطاقة نقاط قدرة"
       }
     },
     "petsCollected": 2,
-    "activeCards": {},
+    "activeCards": {
+      "fishing_speed": 1780236718199
+    },
     "dungeonStreak": 0,
     "totalGoldEarned": 22636,
     "completedDungeons": [
       7
     ],
-    "skillPoints": 3
+    "skillPoints": 3,
+    "abilityPoints": 2
   },
   "skills": [
     "double_strike",
@@ -711,6 +724,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1776891817820,
-  "lastActive": 1780152586330,
+  "lastActive": 1780235188409,
   "groupId": "120363424226692086@g.us"
 }
