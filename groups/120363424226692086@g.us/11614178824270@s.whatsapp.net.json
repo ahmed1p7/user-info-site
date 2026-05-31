@@ -4,7 +4,7 @@
   "nickname": "يوهان",
   "class": "ملك الفرسان",
   "level": 50,
-  "xp": 10729379182,
+  "xp": 10729380552,
   "hp": 5790,
   "maxHp": 5790,
   "atk": 194,
@@ -12,7 +12,7 @@
   "mag": 177,
   "critRate": 0.09900000000000005,
   "critDamage": 1.7449999999999948,
-  "gold": 24183736,
+  "gold": 24165116,
   "gems": 6847,
   "elixir": 18613,
   "stamina": 10,
@@ -487,7 +487,7 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 1300,
+  "wins": 1301,
   "losses": 89,
   "evolvedClass": null,
   "evolutionPath": "pathA",
@@ -496,7 +496,7 @@
     "bossesDefeated": 0,
     "totalBossDamage": 0,
     "fishCaught": 44195,
-    "mineralsMined": 7010,
+    "mineralsMined": 7094,
     "boxesOpened": 747,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -504,7 +504,7 @@
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 11,
+    "pvpWins": 12,
     "pvpLosses": 10,
     "successfulRobberies": 0,
     "failedRobberies": 0,
@@ -565,9 +565,14 @@
         "boughtAt": 1780249517527,
         "cycleNumber": 6868,
         "cardName": "بطاقة إعادة تعيين الغوص"
+      },
+      "mining_luck_6868": {
+        "boughtAt": 1780250143289,
+        "cycleNumber": 6868,
+        "cardName": "بطاقة حظ التعدين"
       }
     },
-    "totalGoldEarned": 89360,
+    "totalGoldEarned": 90170,
     "petsCollected": 1,
     "dungeonStreak": 0,
     "completedDungeons": [
@@ -613,6 +618,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1776965245297,
-  "lastActive": 1780249957876,
+  "lastActive": 1780252698263,
   "groupId": "120363424226692086@g.us"
 }
