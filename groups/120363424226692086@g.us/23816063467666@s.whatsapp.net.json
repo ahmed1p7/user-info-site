@@ -3,16 +3,16 @@
   "name": "سيقمير اوف كاترينا",
   "nickname": "سيقمير اوف كاترينا",
   "class": "ناثر",
-  "level": 50,
-  "xp": 49825231930,
-  "hp": 2065,
-  "maxHp": 3471,
-  "atk": 366,
-  "def": 168,
-  "mag": 178,
-  "critRate": 0.19800000000000006,
-  "critDamage": 1.9900000000000004,
-  "gold": 11894336,
+  "level": 51,
+  "xp": 7317132516,
+  "hp": 3525,
+  "maxHp": 3525,
+  "atk": 369,
+  "def": 169,
+  "mag": 188,
+  "critRate": 0.20000000000000007,
+  "critDamage": 2.0000000000000004,
+  "gold": 11895026,
   "gems": 3394,
   "elixir": 8851,
   "stamina": 10,
@@ -682,7 +682,7 @@
       "fishing_speed": 1780236718199
     },
     "dungeonStreak": 0,
-    "totalGoldEarned": 22636,
+    "totalGoldEarned": 22901,
     "completedDungeons": [
       7
     ],
@@ -724,6 +724,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1776891817820,
-  "lastActive": 1780235188409,
+  "lastActive": 1780252505822,
   "groupId": "120363424226692086@g.us"
 }

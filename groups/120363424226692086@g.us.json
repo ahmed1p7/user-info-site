@@ -22,15 +22,15 @@
       "level": 51
     },
     {
-      "id": "210037507125265@s.whatsapp.net",
-      "name": "تيريون لانيستر",
-      "class": "قائد حرب",
-      "level": 50
-    },
-    {
       "id": "23816063467666@s.whatsapp.net",
       "name": "سيقمير اوف كاترينا",
       "class": "ناثر",
+      "level": 51
+    },
+    {
+      "id": "210037507125265@s.whatsapp.net",
+      "name": "تيريون لانيستر",
+      "class": "قائد حرب",
       "level": 50
     },
     {
@@ -172,6 +172,6 @@
       "level": 1
     }
   ],
-  "messagesWeek": 4379,
-  "lastUpdated": 1780249993435
+  "messagesWeek": 4670,
+  "lastUpdated": 1780252508923
 }
