@@ -4,7 +4,7 @@
   "nickname": "ابراهيم",
   "class": "قاتل",
   "level": 32,
-  "xp": 72133770,
+  "xp": 171637648,
   "hp": 646,
   "maxHp": 646,
   "atk": 245,
@@ -12,7 +12,7 @@
   "mag": 37,
   "critRate": 0.3740000000000001,
   "critDamage": 2.5079999999999982,
-  "gold": 2174987,
+  "gold": 3834304,
   "gems": 38,
   "elixir": 88,
   "stamina": 10,
@@ -134,6 +134,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1777001965022,
-  "lastActive": 1779750382004,
+  "lastActive": 1780145513128,
   "groupId": "120363424226692086@g.us"
 }
