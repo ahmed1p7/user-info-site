@@ -4,7 +4,7 @@
   "nickname": "زازا",
   "class": "فارس",
   "level": 17,
-  "xp": 57079,
+  "xp": 62945,
   "hp": 1,
   "maxHp": 929,
   "atk": 105,
@@ -12,7 +12,7 @@
   "mag": 18,
   "critRate": 0.06600000000000002,
   "critDamage": 1.5799999999999983,
-  "gold": 17134415,
+  "gold": 12060538,
   "gems": 2026,
   "elixir": 5413,
   "stamina": 10,
@@ -296,15 +296,15 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 450,
-  "losses": 17,
+  "wins": 454,
+  "losses": 22,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 3312,
+    "fishCaught": 3350,
     "mineralsMined": 2492,
     "boxesOpened": 109,
     "weaponsUpgraded": 0,
@@ -321,18 +321,18 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "fishSold": 3077,
-    "dungeonKills": 446,
-    "dungeonDamageDealt": 283360,
+    "fishSold": 3320,
+    "dungeonKills": 450,
+    "dungeonDamageDealt": 290376,
     "dungeonsCompleted": 3,
     "mineralsSold": 181,
-    "materialsCollected": 1529,
+    "materialsCollected": 1544,
     "pity": {
       "epic": 1,
       "legendary": 0,
       "mythic": 50
     },
-    "materialsSold": 136,
+    "materialsSold": 3774,
     "lastFreeBox": 1778488716976,
     "freeBoxStreak": 2,
     "boxesOpenedByType": {
@@ -348,7 +348,7 @@
       "timestamp": 1779137428367
     },
     "clanDungeonsCompleted": 5,
-    "dailySellCount": 2813,
+    "dailySellCount": 3056,
     "lastSellReset": 1777994698751,
     "weeklyShopLastReset": 0,
     "weeklyShopPurchases": {
@@ -366,6 +366,11 @@
         "boughtAt": 1779176972064,
         "cycleNumber": 6864,
         "cardName": "بطاقة ×2 تجربة"
+      },
+      "xp_boost_3x_6865": {
+        "boughtAt": 1779641679553,
+        "cycleNumber": 6865,
+        "cardName": "بطاقة ×3 تجربة"
       }
     },
     "playerSkills": {
@@ -399,6 +404,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1776881415988,
-  "lastActive": 1779466789490,
+  "lastActive": 1780337282378,
   "groupId": "120363424226692086@g.us"
 }
