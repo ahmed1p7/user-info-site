@@ -34,16 +34,16 @@
       "level": 50
     },
     {
-      "id": "11614178824270@s.whatsapp.net",
-      "name": "يوهان",
-      "class": "ملك الفرسان",
-      "level": 50
-    },
-    {
       "id": "238706262851666@s.whatsapp.net",
       "name": "ابو عبدالله اللحجي الهطف",
       "class": "برسيرك",
       "level": 48
+    },
+    {
+      "id": "11614178824270@s.whatsapp.net",
+      "name": "يوهان",
+      "class": "فارس مظلم",
+      "level": 46
     },
     {
       "id": "117051381301480@s.whatsapp.net",
@@ -172,6 +172,6 @@
       "level": 1
     }
   ],
-  "messagesWeek": 786,
-  "lastUpdated": 1780337289494
+  "messagesWeek": 817,
+  "lastUpdated": 1780337346635
 }
