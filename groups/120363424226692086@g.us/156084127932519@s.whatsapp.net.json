@@ -3,16 +3,16 @@
   "name": "جين",
   "nickname": "جين",
   "class": "فارس مظلم",
-  "level": 30,
-  "xp": 7649175,
-  "hp": 1,
-  "maxHp": 1651,
-  "atk": 162,
-  "def": 112,
-  "mag": 134,
-  "critRate": 0.12700000000000006,
-  "critDamage": 1.8849999999999982,
-  "gold": 285059,
+  "level": 31,
+  "xp": 16206502,
+  "hp": 1694,
+  "maxHp": 1694,
+  "atk": 164,
+  "def": 113,
+  "mag": 135,
+  "critRate": 0.12900000000000006,
+  "critDamage": 1.8949999999999982,
+  "gold": 870825,
   "gems": 28,
   "elixir": 0,
   "stamina": 10,
@@ -276,7 +276,7 @@
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
-    "totalGoldEarned": 3845,
+    "totalGoldEarned": 4010,
     "totalGoldSpent": 0,
     "playersHealed": 0,
     "healingDone": 0,
@@ -304,26 +304,30 @@
     "blood_fury",
     "bone_stubbornness",
     "berserk_mode",
-    "lifesteal"
+    "lifesteal",
+    "dark_resolve",
+    "shadow_veil"
   ],
   "unlockedSkills": {
     "active": [
       "blood_bath",
       "earthquake_slam",
       "war_cry",
-      "double_strike"
+      "double_strike",
+      "shadow_veil"
     ],
     "passive": [
       "warrior_endurance",
       "blood_fury",
       "bone_stubbornness",
       "berserk_mode",
-      "lifesteal"
+      "lifesteal",
+      "dark_resolve"
     ]
   },
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1779333237615,
-  "lastActive": 1780253736512,
+  "lastActive": 1780335115541,
   "groupId": "120363424226692086@g.us"
 }
