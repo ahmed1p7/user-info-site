@@ -4,18 +4,18 @@
   "nickname": "ايزن",
   "class": "برسيرك",
   "level": 46,
-  "xp": 7308578265,
-  "hp": 1773,
+  "xp": 20866540446,
+  "hp": 1,
   "maxHp": 2140,
   "atk": 178,
   "def": 88,
   "mag": 48,
   "critRate": 0.2160000000000001,
   "critDamage": 2.6899999999999893,
-  "gold": 15347364,
+  "gold": 26923398,
   "gems": 2539,
   "elixir": 6117,
-  "stamina": 8,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -483,8 +483,8 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 2118,
-  "losses": 548,
+  "wins": 2120,
+  "losses": 549,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
@@ -496,8 +496,8 @@
       "map_3"
     ],
     "totalBossDamage": 0,
-    "fishCaught": 161884,
-    "mineralsMined": 13286,
+    "fishCaught": 161944,
+    "mineralsMined": 13588,
     "boxesOpened": 1069,
     "boxesOpenedByType": {
       "common": 994,
@@ -534,9 +534,9 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 58106,
-    "dungeonKills": 2111,
-    "dungeonDamageDealt": 3017176,
+    "materialsCollected": 58130,
+    "dungeonKills": 2113,
+    "dungeonDamageDealt": 3036703,
     "dungeonsCompleted": 9,
     "dailySellCount": 37489,
     "lastSellReset": 1777609841041,
@@ -591,11 +591,24 @@
         "boughtAt": 1780048975337,
         "cycleNumber": 6867,
         "cardName": "بطاقة حظ التعدين"
+      },
+      "gold_boost_6868": {
+        "boughtAt": 1780345029377,
+        "cycleNumber": 6868,
+        "cardName": "بطاقة ذهب مضاعف"
+      },
+      "double_drops_6868": {
+        "boughtAt": 1780345038502,
+        "cycleNumber": 6868,
+        "cardName": "بطاقة غنائم مضاعفة"
       }
     },
     "playerSkills": {},
     "petsCollected": 3,
-    "activeCards": {},
+    "activeCards": {
+      "gold_boost": 1780346829377,
+      "double_drops": 1780346838502
+    },
     "totalGoldEarned": 57525,
     "dungeonStreak": 0,
     "completedDungeons": [
@@ -634,6 +647,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777542343015,
-  "lastActive": 1780181899801,
+  "lastActive": 1780345200187,
   "groupId": "120363424226692086@g.us"
 }
