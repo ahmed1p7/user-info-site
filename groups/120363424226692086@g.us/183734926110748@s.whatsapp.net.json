@@ -3,16 +3,16 @@
   "name": "ستارك ابو نواف",
   "nickname": "ستارك ابو نواف",
   "class": "ملك الظلال",
-  "level": 52,
-  "xp": 17393554724,
-  "hp": 992,
-  "maxHp": 992,
-  "atk": 690,
-  "def": 155,
-  "mag": 201,
+  "level": 53,
+  "xp": 37133693192,
+  "hp": 1005,
+  "maxHp": 1005,
+  "atk": 697,
+  "def": 156,
+  "mag": 208,
   "critRate": 0.95,
-  "critDamage": 3.367999999999994,
-  "gold": 30159788,
+  "critDamage": 3.385999999999994,
+  "gold": 14236841,
   "gems": 3362,
   "elixir": 8473,
   "stamina": 10,
@@ -487,16 +487,16 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 3612,
-  "losses": 441,
+  "wins": 3613,
+  "losses": 442,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 147180,
-    "mineralsMined": 25021,
+    "fishCaught": 147239,
+    "mineralsMined": 25140,
     "boxesOpened": 1110,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -504,8 +504,8 @@
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 8,
-    "pvpLosses": 11,
+    "pvpWins": 9,
+    "pvpLosses": 12,
     "successfulRobberies": 0,
     "failedRobberies": 0,
     "luckGamesPlayed": 0,
@@ -515,7 +515,7 @@
     "fishSold": 50519,
     "dungeonKills": 3600,
     "dungeonDamageDealt": 12972156,
-    "materialsCollected": 53603,
+    "materialsCollected": 53630,
     "mineralsSold": 8175,
     "materialsSold": 8223,
     "dungeonsCompleted": 9,
@@ -644,6 +644,21 @@
         "boughtAt": 1779926792283,
         "cycleNumber": 6867,
         "cardName": "بطاقة ضرر الدانجن"
+      },
+      "gold_boost_6868": {
+        "boughtAt": 1780250014884,
+        "cycleNumber": 6868,
+        "cardName": "بطاقة ذهب مضاعف"
+      },
+      "rare_fish_6868": {
+        "boughtAt": 1780250024230,
+        "cycleNumber": 6868,
+        "cardName": "بطاقة صيد نادر"
+      },
+      "double_drops_6868": {
+        "boughtAt": 1780250141256,
+        "cycleNumber": 6868,
+        "cardName": "بطاقة غنائم مضاعفة"
       }
     },
     "petsCollected": 4,
@@ -652,7 +667,7 @@
     "playerSkills": {},
     "skillPoints": 6,
     "dungeonStreak": 0,
-    "totalGoldEarned": 33551,
+    "totalGoldEarned": 34641,
     "titles": [
       "بطل الأسبوع"
     ],
@@ -699,6 +714,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1776960777629,
-  "lastActive": 1780249937554,
+  "lastActive": 1780370202409,
   "groupId": "120363424226692086@g.us"
 }
