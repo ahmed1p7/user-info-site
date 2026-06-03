@@ -3,16 +3,16 @@
   "name": "ستارك ابو نواف",
   "nickname": "ستارك ابو نواف",
   "class": "ملك الظلال",
-  "level": 53,
-  "xp": 37133693192,
-  "hp": 1005,
-  "maxHp": 1005,
-  "atk": 697,
-  "def": 156,
-  "mag": 208,
-  "critRate": 0.95,
-  "critDamage": 3.385999999999994,
-  "gold": 14236841,
+  "level": 55,
+  "xp": 99815173499,
+  "hp": 1031,
+  "maxHp": 1031,
+  "atk": 723,
+  "def": 158,
+  "mag": 210,
+  "critRate": 0.98,
+  "critDamage": 3.4219999999999935,
+  "gold": 65153441,
   "gems": 3362,
   "elixir": 8473,
   "stamina": 10,
@@ -487,8 +487,8 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 3613,
-  "losses": 442,
+  "wins": 3615,
+  "losses": 444,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
@@ -513,9 +513,9 @@
     "territoriesConquered": 0,
     "territoryDefenses": 0,
     "fishSold": 50519,
-    "dungeonKills": 3600,
-    "dungeonDamageDealt": 12972156,
-    "materialsCollected": 53630,
+    "dungeonKills": 3602,
+    "dungeonDamageDealt": 13057706,
+    "materialsCollected": 53631,
     "mineralsSold": 8175,
     "materialsSold": 8223,
     "dungeonsCompleted": 9,
@@ -659,15 +659,33 @@
         "boughtAt": 1780250141256,
         "cycleNumber": 6868,
         "cardName": "بطاقة غنائم مضاعفة"
+      },
+      "xp_boost_3x_6869": {
+        "boughtAt": 1780514024279,
+        "cycleNumber": 6869,
+        "cardName": "بطاقة ×3 تجربة"
+      },
+      "dungeon_damage_6869": {
+        "boughtAt": 1780514141091,
+        "cycleNumber": 6869,
+        "cardName": "بطاقة ضرر الدانجن"
+      },
+      "dive_reset_6869": {
+        "boughtAt": 1780514150880,
+        "cycleNumber": 6869,
+        "cardName": "بطاقة إعادة تعيين الغوص"
       }
     },
     "petsCollected": 4,
-    "activeCards": {},
+    "activeCards": {
+      "xp_boost_3x": 1780514924279,
+      "dungeon_damage": 1780515941091
+    },
     "abilityPoints": 4,
     "playerSkills": {},
     "skillPoints": 6,
     "dungeonStreak": 0,
-    "totalGoldEarned": 34641,
+    "totalGoldEarned": 35206,
     "titles": [
       "بطل الأسبوع"
     ],
@@ -714,6 +732,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1776960777629,
-  "lastActive": 1780370202409,
+  "lastActive": 1780514558385,
   "groupId": "120363424226692086@g.us"
 }
