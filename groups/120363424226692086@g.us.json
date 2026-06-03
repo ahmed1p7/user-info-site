@@ -40,15 +40,15 @@
       "level": 48
     },
     {
-      "id": "11614178824270@s.whatsapp.net",
-      "name": "يوهان",
-      "class": "فارس مظلم",
-      "level": 47
-    },
-    {
       "id": "117051381301480@s.whatsapp.net",
       "name": "ايزن",
       "class": "برسيرك",
+      "level": 48
+    },
+    {
+      "id": "11614178824270@s.whatsapp.net",
+      "name": "يوهان",
+      "class": "فارس مظلم",
       "level": 47
     },
     {
@@ -172,6 +172,6 @@
       "level": 1
     }
   ],
-  "messagesWeek": 541,
-  "lastUpdated": 1780514558386
+  "messagesWeek": 607,
+  "lastUpdated": 1780515997301
 }
