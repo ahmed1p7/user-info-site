@@ -3,19 +3,19 @@
   "name": "ابراهيم",
   "nickname": "ابراهيم",
   "class": "فارس الظلام",
-  "level": 35,
-  "xp": 79474339,
-  "hp": 562,
-  "maxHp": 836,
-  "atk": 308,
-  "def": 98,
-  "mag": 40,
-  "critRate": 0.3860000000000001,
-  "critDamage": 2.5619999999999976,
-  "gold": 3843882,
-  "gems": 38,
+  "level": 37,
+  "xp": 63932160,
+  "hp": 617,
+  "maxHp": 856,
+  "atk": 318,
+  "def": 100,
+  "mag": 42,
+  "critRate": 0.39400000000000013,
+  "critDamage": 2.597999999999997,
+  "gold": 5002683,
+  "gems": 48,
   "elixir": 88,
-  "stamina": 9,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -48,7 +48,7 @@
     "epic": 0,
     "legendary": 0
   },
-  "wins": 365,
+  "wins": 466,
   "losses": 22,
   "evolvedClass": null,
   "evolutionPath": "pathB",
@@ -56,7 +56,7 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 17774,
+    "fishCaught": 18008,
     "mineralsMined": 3245,
     "boxesOpened": 7,
     "weaponsUpgraded": 0,
@@ -73,9 +73,9 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "dungeonKills": 363,
-    "dungeonDamageDealt": 271837,
-    "materialsCollected": 5975,
+    "dungeonKills": 464,
+    "dungeonDamageDealt": 333013,
+    "materialsCollected": 6136,
     "fishSold": 5318,
     "dungeonsCompleted": 4,
     "mineralsSold": 2592,
@@ -107,7 +107,7 @@
       "fishing_luck": 5
     },
     "petsCollected": 2,
-    "totalGoldEarned": 2465,
+    "totalGoldEarned": 2850,
     "dungeonStreak": 11,
     "completedDungeons": [
       3
@@ -118,13 +118,19 @@
     "backstab",
     "poison_blade",
     "assassinate",
-    "smoke_bomb"
+    "smoke_bomb",
+    "dark_momentum",
+    "shadow_terror",
+    "ghost_blade"
   ],
   "unlockedSkills": {
     "passive": [
       "stealth",
       "backstab",
-      "poison_blade"
+      "poison_blade",
+      "dark_momentum",
+      "shadow_terror",
+      "ghost_blade"
     ],
     "active": [
       "assassinate",
@@ -134,6 +140,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1777001965022,
-  "lastActive": 1780340480925,
+  "lastActive": 1780513581337,
   "groupId": "120363424226692086@g.us"
 }
