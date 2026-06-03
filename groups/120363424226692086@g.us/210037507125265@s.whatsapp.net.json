@@ -3,16 +3,16 @@
   "name": "تيريون لانيستر",
   "nickname": "تيريون لانيستر",
   "class": "قائد حرب",
-  "level": 50,
-  "xp": 26450956324,
-  "hp": 2722,
-  "maxHp": 3513,
-  "atk": 360,
-  "def": 168,
-  "mag": 178,
-  "critRate": 0.19800000000000006,
-  "critDamage": 1.9900000000000004,
-  "gold": 19553691,
+  "level": 51,
+  "xp": 51870753495,
+  "hp": 1,
+  "maxHp": 3567,
+  "atk": 363,
+  "def": 169,
+  "mag": 188,
+  "critRate": 0.20000000000000007,
+  "critDamage": 2.0000000000000004,
+  "gold": 47303947,
   "gems": 1271,
   "elixir": 3165,
   "stamina": 10,
@@ -489,20 +489,20 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 4819,
+  "wins": 4947,
   "losses": 103,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
-    "fishCaught": 188974,
-    "materialsCollected": 70011,
-    "mineralsMined": 18485,
+    "fishCaught": 189921,
+    "materialsCollected": 70423,
+    "mineralsMined": 19665,
     "dailySellCount": 30735,
     "lastSellReset": 1777614764945,
     "mineralsSold": 416,
     "fishSold": 30319,
-    "dungeonKills": 4795,
-    "dungeonDamageDealt": 12550413,
+    "dungeonKills": 4922,
+    "dungeonDamageDealt": 12670737,
     "materialsSold": 86429,
     "dungeonsCompleted": 7,
     "pity": {
@@ -526,7 +526,7 @@
       "timestamp": 1778224788878
     },
     "clanDungeonsCompleted": 1,
-    "totalGoldEarned": 52837,
+    "totalGoldEarned": 53912,
     "weeklyShopLastReset": 0,
     "weeklyShopPurchases": {
       "rapid_dive_6864": {
@@ -557,7 +557,7 @@
     },
     "activeCards": {},
     "pvpLosses": 20,
-    "pvpWins": 14,
+    "pvpWins": 15,
     "dungeonStreak": 0,
     "completedDungeons": [
       5,
@@ -581,7 +581,8 @@
     "berserker_rage",
     "earthquake_slam",
     "whirlwind",
-    "warlords_command"
+    "warlords_command",
+    "battle_orders"
   ],
   "unlockedSkills": {
     "passive": [
@@ -598,12 +599,13 @@
       "war_cry",
       "blood_bath",
       "earthquake_slam",
-      "whirlwind"
+      "whirlwind",
+      "battle_orders"
     ]
   },
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777613816222,
-  "lastActive": 1780180964411,
+  "lastActive": 1780524959238,
   "groupId": "120363424226692086@g.us"
 }
