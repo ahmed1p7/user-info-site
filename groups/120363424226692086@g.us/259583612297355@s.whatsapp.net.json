@@ -3,16 +3,16 @@
   "name": "باتمان",
   "nickname": "باتمان",
   "class": "قائد حرب",
-  "level": 53,
-  "xp": 99744165565,
-  "hp": 3637,
-  "maxHp": 3637,
-  "atk": 375,
-  "def": 171,
-  "mag": 205,
-  "critRate": 0.20400000000000007,
-  "critDamage": 2.02,
-  "gold": 83525251,
+  "level": 54,
+  "xp": 169430725817,
+  "hp": 3691,
+  "maxHp": 3691,
+  "atk": 378,
+  "def": 172,
+  "mag": 206,
+  "critRate": 0.20600000000000007,
+  "critDamage": 2.03,
+  "gold": 63090692,
   "gems": 7856,
   "elixir": 21034,
   "stamina": 10,
@@ -486,22 +486,22 @@
     }
   ],
   "boxes": {
-    "common": 2,
+    "common": 4,
     "rare": 1,
     "epic": 0,
     "legendary": 0,
     "mythic": 0
   },
   "wins": 13159,
-  "losses": 1014,
+  "losses": 1017,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 214355,
-    "mineralsMined": 54522,
+    "fishCaught": 215384,
+    "mineralsMined": 58364,
     "boxesOpened": 1215,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -520,7 +520,7 @@
     "dungeonKills": 13079,
     "dungeonDamageDealt": 41640762,
     "fishSold": 57539,
-    "materialsCollected": 84377,
+    "materialsCollected": 84734,
     "dungeonsCompleted": 10,
     "materialsSold": 16708,
     "mineralsSold": 17307,
@@ -531,8 +531,8 @@
       "mythic": 31,
       "rare": 1
     },
-    "lastFreeBox": 1780255102098,
-    "freeBoxStreak": 29,
+    "lastFreeBox": 1780429489715,
+    "freeBoxStreak": 31,
     "clanDungeonsCompleted": 7,
     "clanDungeonDamage": 0,
     "boxesOpenedByType": {
@@ -627,6 +627,11 @@
         "boughtAt": 1780081880053,
         "cycleNumber": 6867,
         "cardName": "بطاقة تسريع الغوص"
+      },
+      "gold_boost_6868": {
+        "boughtAt": 1780429530027,
+        "cycleNumber": 6868,
+        "cardName": "بطاقة ذهب مضاعف"
       }
     },
     "playerSkills": {
@@ -640,9 +645,11 @@
       "merchant": 5
     },
     "petsCollected": 2,
-    "activeCards": {},
+    "activeCards": {
+      "gold_boost": 1780431330027
+    },
     "dungeonStreak": 0,
-    "totalGoldEarned": 52642,
+    "totalGoldEarned": 52922,
     "abilityPoints": 2,
     "completedDungeons": [
       9
@@ -686,6 +693,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "leader",
   "created": 1776881461393,
-  "lastActive": 1780338181450,
+  "lastActive": 1780495996320,
   "groupId": "120363424226692086@g.us"
 }
