@@ -4,7 +4,7 @@
   "nickname": "ايزن",
   "class": "برسيرك",
   "level": 48,
-  "xp": 9084701806,
+  "xp": 13434457142,
   "hp": 2236,
   "maxHp": 2236,
   "atk": 184,
@@ -12,10 +12,10 @@
   "mag": 50,
   "critRate": 0.2200000000000001,
   "critDamage": 2.709999999999989,
-  "gold": 8394373,
+  "gold": 2678266,
   "gems": 2539,
   "elixir": 6117,
-  "stamina": 10,
+  "stamina": 8,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -483,8 +483,8 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 2136,
-  "losses": 560,
+  "wins": 2168,
+  "losses": 572,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
@@ -496,8 +496,8 @@
       "map_3"
     ],
     "totalBossDamage": 0,
-    "fishCaught": 162573,
-    "mineralsMined": 15589,
+    "fishCaught": 163266,
+    "mineralsMined": 16745,
     "boxesOpened": 1069,
     "boxesOpenedByType": {
       "common": 994,
@@ -534,9 +534,9 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 58370,
-    "dungeonKills": 2129,
-    "dungeonDamageDealt": 3201056,
+    "materialsCollected": 58670,
+    "dungeonKills": 2161,
+    "dungeonDamageDealt": 3539201,
     "dungeonsCompleted": 9,
     "dailySellCount": 37489,
     "lastSellReset": 1777609841041,
@@ -607,7 +607,7 @@
     "petsCollected": 3,
     "activeCards": {},
     "totalGoldEarned": 58020,
-    "dungeonStreak": 0,
+    "dungeonStreak": 2,
     "completedDungeons": [
       0,
       1,
@@ -644,6 +644,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1777542343015,
-  "lastActive": 1780515987299,
+  "lastActive": 1780590128424,
   "groupId": "120363424226692086@g.us"
 }
