@@ -3,19 +3,19 @@
   "name": "سيقمير اوف كاترينا",
   "nickname": "سيقمير اوف كاترينا",
   "class": "ناثر",
-  "level": 51,
-  "xp": 37232917342,
-  "hp": 3454,
-  "maxHp": 3525,
-  "atk": 369,
-  "def": 169,
-  "mag": 188,
-  "critRate": 0.20000000000000007,
-  "critDamage": 2.0000000000000004,
-  "gold": 31814193,
-  "gems": 3394,
+  "level": 52,
+  "xp": 44251634592,
+  "hp": 3504,
+  "maxHp": 3579,
+  "atk": 372,
+  "def": 170,
+  "mag": 189,
+  "critRate": 0.20200000000000007,
+  "critDamage": 2.0100000000000002,
+  "gold": 53639547,
+  "gems": 3402,
   "elixir": 8851,
-  "stamina": 1,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -487,16 +487,16 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 7922,
-  "losses": 314,
+  "wins": 10186,
+  "losses": 346,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 79008,
-    "mineralsMined": 34067,
+    "fishCaught": 80780,
+    "mineralsMined": 36805,
     "boxesOpened": 676,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -513,9 +513,9 @@
     "territoriesConquered": 0,
     "territoryDefenses": 0,
     "fishSold": 22005,
-    "dungeonKills": 7899,
-    "dungeonDamageDealt": 25297236,
-    "materialsCollected": 33797,
+    "dungeonKills": 10163,
+    "dungeonDamageDealt": 37324100,
+    "materialsCollected": 36585,
     "materialsSold": 19402,
     "dungeonsCompleted": 8,
     "itemsMerged": 14,
@@ -675,16 +675,31 @@
         "boughtAt": 1780234930462,
         "cycleNumber": 6868,
         "cardName": "بطاقة نقاط قدرة"
+      },
+      "pvp_defense_6868": {
+        "boughtAt": 1780429594579,
+        "cycleNumber": 6868,
+        "cardName": "بطاقة درع الساحة"
+      },
+      "dungeon_stamina_6868": {
+        "boughtAt": 1780429605571,
+        "cycleNumber": 6868,
+        "cardName": "بطاقة ستامينا الدانجن"
+      },
+      "skill_points_6869": {
+        "boughtAt": 1780587253186,
+        "cycleNumber": 6869,
+        "cardName": "بطاقة نقاط مهارة"
       }
     },
     "petsCollected": 2,
     "activeCards": {},
-    "dungeonStreak": 0,
-    "totalGoldEarned": 23711,
+    "dungeonStreak": 3,
+    "totalGoldEarned": 23981,
     "completedDungeons": [
       7
     ],
-    "skillPoints": 3,
+    "skillPoints": 6,
     "abilityPoints": 2
   },
   "skills": [
@@ -722,6 +737,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1776891817820,
-  "lastActive": 1780338141327,
+  "lastActive": 1780608812557,
   "groupId": "120363424226692086@g.us"
 }
