@@ -3,16 +3,16 @@
   "name": "جين",
   "nickname": "جين",
   "class": "فارس مظلم",
-  "level": 31,
-  "xp": 16206502,
-  "hp": 1694,
-  "maxHp": 1694,
-  "atk": 164,
-  "def": 113,
-  "mag": 135,
-  "critRate": 0.12900000000000006,
-  "critDamage": 1.8949999999999982,
-  "gold": 870825,
+  "level": 34,
+  "xp": 45933339,
+  "hp": 1823,
+  "maxHp": 1823,
+  "atk": 170,
+  "def": 116,
+  "mag": 174,
+  "critRate": 0.13500000000000006,
+  "critDamage": 1.9249999999999983,
+  "gold": 1869343,
   "gems": 28,
   "elixir": 0,
   "stamina": 10,
@@ -276,7 +276,7 @@
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
-    "totalGoldEarned": 4010,
+    "totalGoldEarned": 4535,
     "totalGoldSpent": 0,
     "playersHealed": 0,
     "healingDone": 0,
@@ -292,7 +292,13 @@
     "petsCollected": 1,
     "materialsCollected": 1268,
     "weeklyShopLastReset": 0,
-    "weeklyShopPurchases": {},
+    "weeklyShopPurchases": {
+      "dive_reset_6868": {
+        "boughtAt": 1780444294888,
+        "cycleNumber": 6868,
+        "cardName": "بطاقة إعادة تعيين الغوص"
+      }
+    },
     "activeCards": {}
   },
   "skills": [
@@ -328,6 +334,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1779333237615,
-  "lastActive": 1780335115541,
+  "lastActive": 1780593583562,
   "groupId": "120363424226692086@g.us"
 }
