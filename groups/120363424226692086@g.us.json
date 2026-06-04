@@ -34,6 +34,12 @@
       "level": 51
     },
     {
+      "id": "11614178824270@s.whatsapp.net",
+      "name": "يوهان",
+      "class": "فارس مظلم",
+      "level": 49
+    },
+    {
       "id": "238706262851666@s.whatsapp.net",
       "name": "ابو عبدالله اللحجي الهطف",
       "class": "برسيرك",
@@ -44,12 +50,6 @@
       "name": "ايزن",
       "class": "برسيرك",
       "level": 48
-    },
-    {
-      "id": "11614178824270@s.whatsapp.net",
-      "name": "يوهان",
-      "class": "فارس مظلم",
-      "level": 47
     },
     {
       "id": "144410171936843@s.whatsapp.net",
@@ -172,6 +172,6 @@
       "level": 1
     }
   ],
-  "messagesWeek": 159,
-  "lastUpdated": 1780525001036
+  "messagesWeek": 52,
+  "lastUpdated": 1780587106048
 }
