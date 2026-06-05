@@ -4,7 +4,7 @@
   "nickname": "ستارك ابو نواف",
   "class": "ملك الظلال",
   "level": 55,
-  "xp": 99815173499,
+  "xp": 162862587416,
   "hp": 1031,
   "maxHp": 1031,
   "atk": 723,
@@ -12,7 +12,7 @@
   "mag": 210,
   "critRate": 0.98,
   "critDamage": 3.4219999999999935,
-  "gold": 65153441,
+  "gold": 84835915,
   "gems": 3362,
   "elixir": 8473,
   "stamina": 10,
@@ -495,7 +495,7 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 147239,
+    "fishCaught": 147407,
     "mineralsMined": 25140,
     "boxesOpened": 1110,
     "weaponsUpgraded": 0,
@@ -515,7 +515,7 @@
     "fishSold": 50519,
     "dungeonKills": 3602,
     "dungeonDamageDealt": 13057706,
-    "materialsCollected": 53631,
+    "materialsCollected": 53691,
     "mineralsSold": 8175,
     "materialsSold": 8223,
     "dungeonsCompleted": 9,
@@ -677,10 +677,7 @@
       }
     },
     "petsCollected": 4,
-    "activeCards": {
-      "xp_boost_3x": 1780514924279,
-      "dungeon_damage": 1780515941091
-    },
+    "activeCards": {},
     "abilityPoints": 4,
     "playerSkills": {},
     "skillPoints": 6,
@@ -732,6 +729,6 @@
   "clanId": "120363424226692086@g.us",
   "clanRole": "member",
   "created": 1776960777629,
-  "lastActive": 1780514558385,
+  "lastActive": 1780635158416,
   "groupId": "120363424226692086@g.us"
 }
