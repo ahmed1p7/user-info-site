@@ -3,18 +3,18 @@
   "name": "ابراهيم",
   "nickname": "ابراهيم",
   "class": "فارس الظلام",
-  "level": 37,
-  "xp": 204318709,
-  "hp": 0,
-  "maxHp": 856,
-  "atk": 318,
-  "def": 112,
-  "mag": 42,
-  "critRate": 0.39400000000000013,
-  "critDamage": 2.597999999999997,
-  "gold": 4833916,
-  "gems": 453,
-  "elixir": 1390,
+  "level": 38,
+  "xp": 16427109,
+  "hp": 866,
+  "maxHp": 866,
+  "atk": 323,
+  "def": 113,
+  "mag": 43,
+  "critRate": 0.39800000000000013,
+  "critDamage": 2.615999999999997,
+  "gold": 3004390,
+  "gems": 2468,
+  "elixir": 6702,
   "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
@@ -46,7 +46,8 @@
     "common": 0,
     "rare": 0,
     "epic": 0,
-    "legendary": 0
+    "legendary": 0,
+    "mythic": 0
   },
   "wins": 530,
   "losses": 32,
@@ -56,9 +57,9 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 20382,
+    "fishCaught": 20390,
     "mineralsMined": 3245,
-    "boxesOpened": 32,
+    "boxesOpened": 272,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -75,7 +76,7 @@
     "territoryDefenses": 0,
     "dungeonKills": 528,
     "dungeonDamageDealt": 526239,
-    "materialsCollected": 6984,
+    "materialsCollected": 7129,
     "fishSold": 5318,
     "dungeonsCompleted": 4,
     "mineralsSold": 2592,
@@ -83,16 +84,17 @@
     "clanDungeonsCompleted": 4,
     "clanDungeonDamage": 0,
     "pity": {
-      "epic": 3,
+      "epic": 13,
       "legendary": 21,
-      "mythic": 0
+      "mythic": 6
     },
     "lastFreeBox": 1780596316119,
     "freeBoxStreak": 4,
     "boxesOpenedByType": {
       "common": 4,
       "legendary": 21,
-      "epic": 3
+      "epic": 237,
+      "mythic": 6
     },
     "bestBoxReward": {
       "boxType": "legendary",
@@ -108,7 +110,7 @@
       "fishing_luck": 5
     },
     "petsCollected": 2,
-    "totalGoldEarned": 6623,
+    "totalGoldEarned": 30826,
     "dungeonStreak": 0,
     "completedDungeons": [
       3
@@ -141,6 +143,6 @@
   "clanId": null,
   "clanRole": null,
   "created": 1777001965022,
-  "lastActive": 1780625784545,
+  "lastActive": 1780626407418,
   "groupId": "120363424226692086@g.us"
 }
