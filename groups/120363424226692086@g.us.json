@@ -42,8 +42,8 @@
     {
       "id": "117051381301480@s.whatsapp.net",
       "name": "ايزن",
-      "class": "برسيرك",
-      "level": 49
+      "class": "قائد حرب",
+      "level": 50
     },
     {
       "id": "238706262851666@s.whatsapp.net",
@@ -172,6 +172,6 @@
       "level": 1
     }
   ],
-  "messagesWeek": 14,
-  "lastUpdated": 1780762215859
+  "messagesWeek": 73,
+  "lastUpdated": 1780762860836
 }
