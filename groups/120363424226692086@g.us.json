@@ -40,14 +40,14 @@
       "level": 51
     },
     {
-      "id": "238706262851666@s.whatsapp.net",
-      "name": "ابو عبدالله اللحجي الهطف",
-      "class": "برسيرك",
-      "level": 48
-    },
-    {
       "id": "117051381301480@s.whatsapp.net",
       "name": "ايزن",
+      "class": "برسيرك",
+      "level": 49
+    },
+    {
+      "id": "238706262851666@s.whatsapp.net",
+      "name": "ابو عبدالله اللحجي الهطف",
       "class": "برسيرك",
       "level": 48
     },
@@ -172,6 +172,6 @@
       "level": 1
     }
   ],
-  "messagesWeek": 175,
-  "lastUpdated": 1780762010379
+  "messagesWeek": 14,
+  "lastUpdated": 1780762215859
 }
