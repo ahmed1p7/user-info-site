@@ -2,20 +2,20 @@
   "id": "11614178824270@s.whatsapp.net",
   "name": "يوهان",
   "nickname": "يوهان",
-  "class": "فارس مظلم",
-  "level": 49,
-  "xp": 26783421235,
-  "hp": 2284,
-  "maxHp": 2284,
-  "atk": 148,
-  "def": 67,
-  "mag": 75,
-  "critRate": 0.19500000000000012,
-  "critDamage": 2.2249999999999903,
-  "gold": 30115011,
-  "gems": 6869,
-  "elixir": 18610,
-  "stamina": 10,
+  "class": "ناثر",
+  "level": 51,
+  "xp": 53149082125,
+  "hp": 2859,
+  "maxHp": 2859,
+  "atk": 199,
+  "def": 69,
+  "mag": 77,
+  "critRate": 0.2490000000000001,
+  "critDamage": 2.24499999999999,
+  "gold": 63592706,
+  "gems": 9211,
+  "elixir": 24113,
+  "stamina": 6,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -483,12 +483,12 @@
   "boxes": {
     "common": 0,
     "rare": 0,
-    "epic": 77,
+    "epic": 127,
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 1888,
-  "losses": 133,
+  "wins": 1891,
+  "losses": 135,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
@@ -501,7 +501,7 @@
     "totalBossDamage": 0,
     "fishCaught": 44607,
     "mineralsMined": 8468,
-    "boxesOpened": 747,
+    "boxesOpened": 847,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -509,16 +509,16 @@
     "healingDone": 0,
     "groupHeals": 0,
     "pvpWins": 13,
-    "pvpLosses": 13,
+    "pvpLosses": 14,
     "successfulRobberies": 0,
     "failedRobberies": 0,
     "luckGamesPlayed": 0,
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 16710,
-    "dungeonKills": 1872,
-    "dungeonDamageDealt": 2509471,
+    "materialsCollected": 16801,
+    "dungeonKills": 1875,
+    "dungeonDamageDealt": 2538812,
     "dungeonsCompleted": 6,
     "materialsSold": 918,
     "fishSold": 1404,
@@ -527,14 +527,14 @@
     "dailySellCount": 1051,
     "lastSellReset": 1778068763361,
     "pity": {
-      "epic": 10,
+      "epic": 12,
       "legendary": 12,
-      "mythic": 4
+      "mythic": 3
     },
     "boxesOpenedByType": {
       "legendary": 93,
-      "mythic": 4,
-      "epic": 650
+      "mythic": 54,
+      "epic": 700
     },
     "bestBoxReward": {
       "boxType": "mythic",
@@ -584,9 +584,19 @@
         "boughtAt": 1780501809831,
         "cycleNumber": 6869,
         "cardName": "بطاقة هجوم الساحة"
+      },
+      "fishing_speed_6870": {
+        "boughtAt": 1780761458293,
+        "cycleNumber": 6870,
+        "cardName": "بطاقة تسريع الغوص"
+      },
+      "dive_reset_6870": {
+        "boughtAt": 1780761655268,
+        "cycleNumber": 6870,
+        "cardName": "بطاقة إعادة تعيين الغوص"
       }
     },
-    "totalGoldEarned": 97525,
+    "totalGoldEarned": 123193,
     "petsCollected": 1,
     "dungeonStreak": 0,
     "completedDungeons": [
@@ -594,7 +604,9 @@
       1,
       3
     ],
-    "activeCards": {},
+    "activeCards": {
+      "fishing_speed": 1780763258293
+    },
     "abilityPoints": 2
   },
   "skills": [
@@ -608,7 +620,9 @@
     "shadow_veil",
     "dark_resolve",
     "blood_bath",
-    "earthquake_slam"
+    "earthquake_slam",
+    "absolute_barrier",
+    "balance_guardian"
   ],
   "unlockedSkills": {
     "active": [
@@ -616,7 +630,8 @@
       "war_cry",
       "shadow_veil",
       "blood_bath",
-      "earthquake_slam"
+      "earthquake_slam",
+      "absolute_barrier"
     ],
     "passive": [
       "warrior_endurance",
@@ -624,12 +639,11 @@
       "berserk_mode",
       "bone_stubbornness",
       "blood_fury",
-      "dark_resolve"
+      "dark_resolve",
+      "balance_guardian"
     ]
   },
-  "clanId": "120363424226692086@g.us",
-  "clanRole": "member",
   "created": 1776965245297,
-  "lastActive": 1780542699901,
+  "lastActive": 1780762007419,
   "groupId": "120363424226692086@g.us"
 }
