@@ -4,15 +4,15 @@
   "nickname": "ستارك ابو نواف",
   "class": "ملك الظلال",
   "level": 55,
-  "xp": 162862587416,
-  "hp": 1031,
+  "xp": 176796309536,
+  "hp": 955,
   "maxHp": 1031,
   "atk": 723,
   "def": 158,
   "mag": 210,
   "critRate": 0.98,
   "critDamage": 3.4219999999999935,
-  "gold": 84835915,
+  "gold": 84806395,
   "gems": 3362,
   "elixir": 8473,
   "stamina": 10,
@@ -487,7 +487,7 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 3615,
+  "wins": 3616,
   "losses": 444,
   "evolvedClass": null,
   "evolutionPath": "pathB",
@@ -504,7 +504,7 @@
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 9,
+    "pvpWins": 10,
     "pvpLosses": 12,
     "successfulRobberies": 0,
     "failedRobberies": 0,
@@ -674,15 +674,28 @@
         "boughtAt": 1780514150880,
         "cycleNumber": 6869,
         "cardName": "بطاقة إعادة تعيين الغوص"
+      },
+      "xp_boost_2x_6870": {
+        "boughtAt": 1780793759386,
+        "cycleNumber": 6870,
+        "cardName": "بطاقة ×2 تجربة"
+      },
+      "sell_boost_6870": {
+        "boughtAt": 1780793764553,
+        "cycleNumber": 6870,
+        "cardName": "بطاقة بيع ممتاز"
       }
     },
     "petsCollected": 4,
-    "activeCards": {},
+    "activeCards": {
+      "xp_boost_2x": 1780795559386,
+      "sell_boost": 1780795564553
+    },
     "abilityPoints": 4,
     "playerSkills": {},
     "skillPoints": 6,
     "dungeonStreak": 0,
-    "totalGoldEarned": 35206,
+    "totalGoldEarned": 36061,
     "titles": [
       "بطل الأسبوع"
     ],
@@ -726,9 +739,7 @@
       "dimensional_rift"
     ]
   },
-  "clanId": "120363424226692086@g.us",
-  "clanRole": "member",
   "created": 1776960777629,
-  "lastActive": 1780635158416,
+  "lastActive": 1780793790373,
   "groupId": "120363424226692086@g.us"
 }
