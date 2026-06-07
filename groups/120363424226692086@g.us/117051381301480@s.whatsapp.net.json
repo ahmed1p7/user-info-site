@@ -4,18 +4,18 @@
   "nickname": "ايزن",
   "class": "قائد حرب",
   "level": 50,
-  "xp": 10381994663,
-  "hp": 2805,
+  "xp": 38080116149,
+  "hp": 1,
   "maxHp": 2805,
   "atk": 247,
   "def": 92,
   "mag": 52,
   "critRate": 0.27400000000000013,
   "critDamage": 2.7299999999999884,
-  "gold": 22209928,
+  "gold": 33919484,
   "gems": 2549,
   "elixir": 6122,
-  "stamina": 9,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -496,8 +496,8 @@
       "map_3"
     ],
     "totalBossDamage": 0,
-    "fishCaught": 165637,
-    "mineralsMined": 17474,
+    "fishCaught": 165754,
+    "mineralsMined": 17711,
     "boxesOpened": 1069,
     "boxesOpenedByType": {
       "common": 994,
@@ -534,7 +534,7 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 59492,
+    "materialsCollected": 59537,
     "dungeonKills": 2163,
     "dungeonDamageDealt": 3560599,
     "dungeonsCompleted": 9,
@@ -624,24 +624,28 @@
     "earthquake_slam",
     "blood_bath",
     "berserker_rage",
-    "whirlwind"
+    "whirlwind",
+    "battle_orders",
+    "warlords_command"
   ],
   "unlockedSkills": {
     "active": [
       "double_strike",
       "earthquake_slam",
       "blood_bath",
-      "whirlwind"
+      "whirlwind",
+      "battle_orders"
     ],
     "passive": [
       "bone_stubbornness",
       "lifesteal",
       "blood_fury",
       "warrior_endurance",
-      "berserker_rage"
+      "berserker_rage",
+      "warlords_command"
     ]
   },
   "created": 1777542343015,
-  "lastActive": 1780762856513,
+  "lastActive": 1780868905540,
   "groupId": "120363424226692086@g.us"
 }
