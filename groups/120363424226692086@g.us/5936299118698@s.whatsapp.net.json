@@ -4,17 +4,17 @@
   "nickname": "ستااااركز",
   "class": "قديس الحماية",
   "level": 51,
-  "xp": 40336698918,
-  "hp": 2657,
+  "xp": 430066550341,
+  "hp": 1,
   "maxHp": 2657,
   "atk": 155,
   "def": 178,
   "mag": 775,
   "critRate": 0.10000000000000005,
   "critDamage": 1.7499999999999947,
-  "gold": 14039885,
+  "gold": 108938168,
   "gems": 2645,
-  "elixir": 6753,
+  "elixir": 6744,
   "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
@@ -488,15 +488,15 @@
     "mythic": 0
   },
   "wins": 1690,
-  "losses": 199,
+  "losses": 201,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 185219,
-    "mineralsMined": 20233,
+    "fishCaught": 185446,
+    "mineralsMined": 20352,
     "boxesOpened": 974,
     "boxesOpenedByType": {
       "common": 753,
@@ -533,7 +533,7 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 65637,
+    "materialsCollected": 65732,
     "dungeonKills": 1683,
     "dungeonDamageDealt": 2960830,
     "fishSold": 41743,
@@ -618,9 +618,31 @@
         "boughtAt": 1780242394599,
         "cycleNumber": 6868,
         "cardName": "بطاقة الشفاء الفوري"
+      },
+      "legendary_ore_6868": {
+        "boughtAt": 1780250196338,
+        "cycleNumber": 6868,
+        "cardName": "بطاقة خام أسطوري"
+      },
+      "gold_boost_6868": {
+        "boughtAt": 1780250510477,
+        "cycleNumber": 6868,
+        "cardName": "بطاقة ذهب مضاعف"
+      },
+      "double_drops_6869": {
+        "boughtAt": 1780514338624,
+        "cycleNumber": 6869,
+        "cardName": "بطاقة غنائم مضاعفة"
+      },
+      "xp_boost_3x_6870": {
+        "boughtAt": 1780793727177,
+        "cycleNumber": 6870,
+        "cardName": "بطاقة ×3 تجربة"
       }
     },
-    "activeCards": {},
+    "activeCards": {
+      "xp_boost_3x": 1780794627178
+    },
     "dungeonStreak": 0,
     "totalGoldEarned": 205292,
     "completedDungeons": [
@@ -666,9 +688,7 @@
       "ultimate_sanctuary"
     ]
   },
-  "clanId": "120363424226692086@g.us",
-  "clanRole": "member",
   "created": 1777400790020,
-  "lastActive": 1780242406281,
+  "lastActive": 1780793845778,
   "groupId": "120363424226692086@g.us"
 }
