@@ -3,18 +3,18 @@
   "name": "باتمان",
   "nickname": "باتمان",
   "class": "قائد حرب",
-  "level": 54,
-  "xp": 169430725817,
-  "hp": 3691,
-  "maxHp": 3691,
-  "atk": 378,
-  "def": 172,
-  "mag": 206,
-  "critRate": 0.20600000000000007,
-  "critDamage": 2.03,
-  "gold": 63090692,
-  "gems": 7856,
-  "elixir": 21034,
+  "level": 55,
+  "xp": 222247318080,
+  "hp": 3745,
+  "maxHp": 3745,
+  "atk": 393,
+  "def": 181,
+  "mag": 207,
+  "critRate": 0.20800000000000007,
+  "critDamage": 2.0399999999999996,
+  "gold": 136601862,
+  "gems": 7861,
+  "elixir": 21051,
   "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
@@ -486,7 +486,7 @@
     }
   ],
   "boxes": {
-    "common": 4,
+    "common": 0,
     "rare": 1,
     "epic": 0,
     "legendary": 0,
@@ -500,9 +500,9 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 215384,
-    "mineralsMined": 58364,
-    "boxesOpened": 1215,
+    "fishCaught": 216610,
+    "mineralsMined": 61611,
+    "boxesOpened": 1221,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -520,7 +520,7 @@
     "dungeonKills": 13079,
     "dungeonDamageDealt": 41640762,
     "fishSold": 57539,
-    "materialsCollected": 84734,
+    "materialsCollected": 85154,
     "dungeonsCompleted": 10,
     "materialsSold": 16708,
     "mineralsSold": 17307,
@@ -531,14 +531,14 @@
       "mythic": 31,
       "rare": 1
     },
-    "lastFreeBox": 1780429489715,
-    "freeBoxStreak": 31,
+    "lastFreeBox": 1780646966375,
+    "freeBoxStreak": 33,
     "clanDungeonsCompleted": 7,
     "clanDungeonDamage": 0,
     "boxesOpenedByType": {
       "epic": 27,
       "legendary": 101,
-      "common": 917,
+      "common": 923,
       "mythic": 116,
       "rare": 3
     },
@@ -632,6 +632,11 @@
         "boughtAt": 1780429530027,
         "cycleNumber": 6868,
         "cardName": "بطاقة ذهب مضاعف"
+      },
+      "gold_boost_6869": {
+        "boughtAt": 1780560126193,
+        "cycleNumber": 6869,
+        "cardName": "بطاقة ذهب مضاعف"
       }
     },
     "playerSkills": {
@@ -645,11 +650,9 @@
       "merchant": 5
     },
     "petsCollected": 2,
-    "activeCards": {
-      "gold_boost": 1780431330027
-    },
+    "activeCards": {},
     "dungeonStreak": 0,
-    "totalGoldEarned": 52922,
+    "totalGoldEarned": 53300,
     "abilityPoints": 2,
     "completedDungeons": [
       9
@@ -690,9 +693,7 @@
       "battle_orders"
     ]
   },
-  "clanId": "120363424226692086@g.us",
-  "clanRole": "leader",
   "created": 1776881461393,
-  "lastActive": 1780495996320,
+  "lastActive": 1780845033525,
   "groupId": "120363424226692086@g.us"
 }
