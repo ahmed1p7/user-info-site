@@ -3,16 +3,16 @@
   "name": "ستارك ابو نواف",
   "nickname": "ستارك ابو نواف",
   "class": "ملك الظلال",
-  "level": 55,
-  "xp": 176796309536,
-  "hp": 955,
-  "maxHp": 1031,
-  "atk": 723,
-  "def": 158,
-  "mag": 210,
-  "critRate": 0.98,
-  "critDamage": 3.4219999999999935,
-  "gold": 84806395,
+  "level": 56,
+  "xp": 7356579315,
+  "hp": 1044,
+  "maxHp": 1044,
+  "atk": 730,
+  "def": 159,
+  "mag": 211,
+  "critRate": 0.95,
+  "critDamage": 3.4399999999999933,
+  "gold": 8510772,
   "gems": 3362,
   "elixir": 8473,
   "stamina": 10,
@@ -695,7 +695,7 @@
     "playerSkills": {},
     "skillPoints": 6,
     "dungeonStreak": 0,
-    "totalGoldEarned": 36061,
+    "totalGoldEarned": 36351,
     "titles": [
       "بطل الأسبوع"
     ],
@@ -740,6 +740,6 @@
     ]
   },
   "created": 1776960777629,
-  "lastActive": 1780793790373,
+  "lastActive": 1780794164123,
   "groupId": "120363424226692086@g.us"
 }
