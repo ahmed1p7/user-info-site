@@ -4,7 +4,7 @@
   "nickname": "باتمان",
   "class": "قائد حرب",
   "level": 56,
-  "xp": 1374392384,
+  "xp": 1374392984,
   "hp": 3799,
   "maxHp": 3799,
   "atk": 396,
@@ -12,7 +12,7 @@
   "mag": 208,
   "critRate": 0.21000000000000008,
   "critDamage": 2.0499999999999994,
-  "gold": 153908133,
+  "gold": 153906322,
   "gems": 7861,
   "elixir": 21051,
   "stamina": 9,
@@ -492,7 +492,7 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 13159,
+  "wins": 13160,
   "losses": 1018,
   "evolvedClass": null,
   "evolutionPath": "pathA",
@@ -500,8 +500,8 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 217288,
-    "mineralsMined": 63584,
+    "fishCaught": 217345,
+    "mineralsMined": 63797,
     "boxesOpened": 1221,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -509,7 +509,7 @@
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 17,
+    "pvpWins": 18,
     "pvpLosses": 0,
     "successfulRobberies": 0,
     "failedRobberies": 0,
@@ -520,7 +520,7 @@
     "dungeonKills": 13079,
     "dungeonDamageDealt": 41640762,
     "fishSold": 57539,
-    "materialsCollected": 85383,
+    "materialsCollected": 85399,
     "dungeonsCompleted": 10,
     "materialsSold": 16708,
     "mineralsSold": 17307,
@@ -655,11 +655,9 @@
       "merchant": 5
     },
     "petsCollected": 2,
-    "activeCards": {
-      "rapid_dive": 1780905931354
-    },
+    "activeCards": {},
     "dungeonStreak": 0,
-    "totalGoldEarned": 53590,
+    "totalGoldEarned": 54460,
     "abilityPoints": 2,
     "completedDungeons": [
       9
@@ -701,6 +699,6 @@
     ]
   },
   "created": 1776881461393,
-  "lastActive": 1780935375381,
+  "lastActive": 1780949306311,
   "groupId": "120363424226692086@g.us"
 }
