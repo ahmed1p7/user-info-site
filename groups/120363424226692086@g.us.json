@@ -22,6 +22,12 @@
       "level": 53
     },
     {
+      "id": "11614178824270@s.whatsapp.net",
+      "name": "يوهان",
+      "class": "ناثر",
+      "level": 52
+    },
+    {
       "id": "5936299118698@s.whatsapp.net",
       "name": "ستااااركز",
       "class": "قديس الحماية",
@@ -31,12 +37,6 @@
       "id": "210037507125265@s.whatsapp.net",
       "name": "تيريون لانيستر",
       "class": "قائد حرب",
-      "level": 51
-    },
-    {
-      "id": "11614178824270@s.whatsapp.net",
-      "name": "يوهان",
-      "class": "ناثر",
       "level": 51
     },
     {
@@ -172,6 +172,6 @@
       "level": 1
     }
   ],
-  "messagesWeek": 213,
-  "lastUpdated": 1780935508310
+  "messagesWeek": 71,
+  "lastUpdated": 1780949295063
 }
