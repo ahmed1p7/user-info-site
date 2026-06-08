@@ -3,19 +3,19 @@
   "name": "سيقمير اوف كاترينا",
   "nickname": "سيقمير اوف كاترينا",
   "class": "ناثر",
-  "level": 52,
-  "xp": 44251634592,
-  "hp": 3504,
-  "maxHp": 3579,
-  "atk": 372,
-  "def": 170,
-  "mag": 189,
-  "critRate": 0.20200000000000007,
-  "critDamage": 2.0100000000000002,
-  "gold": 53639547,
-  "gems": 3402,
+  "level": 53,
+  "xp": 53362283592,
+  "hp": 539,
+  "maxHp": 3633,
+  "atk": 375,
+  "def": 171,
+  "mag": 199,
+  "critRate": 0.20400000000000007,
+  "critDamage": 2.02,
+  "gold": 24125443,
+  "gems": 3408,
   "elixir": 8851,
-  "stamina": 10,
+  "stamina": 3,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -487,16 +487,16 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 10186,
-  "losses": 346,
+  "wins": 10365,
+  "losses": 390,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 80780,
-    "mineralsMined": 36805,
+    "fishCaught": 82655,
+    "mineralsMined": 39784,
     "boxesOpened": 676,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -504,7 +504,7 @@
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 8,
+    "pvpWins": 9,
     "pvpLosses": 0,
     "successfulRobberies": 0,
     "failedRobberies": 0,
@@ -513,9 +513,9 @@
     "territoriesConquered": 0,
     "territoryDefenses": 0,
     "fishSold": 22005,
-    "dungeonKills": 10163,
-    "dungeonDamageDealt": 37324100,
-    "materialsCollected": 36585,
+    "dungeonKills": 10341,
+    "dungeonDamageDealt": 39636719,
+    "materialsCollected": 37374,
     "materialsSold": 19402,
     "dungeonsCompleted": 8,
     "itemsMerged": 14,
@@ -690,12 +690,47 @@
         "boughtAt": 1780587253186,
         "cycleNumber": 6869,
         "cardName": "بطاقة نقاط مهارة"
+      },
+      "xp_boost_2x_6869": {
+        "boughtAt": 1780608850298,
+        "cycleNumber": 6869,
+        "cardName": "بطاقة ×2 تجربة"
+      },
+      "double_drops_6869": {
+        "boughtAt": 1780664607404,
+        "cycleNumber": 6869,
+        "cardName": "بطاقة غنائم مضاعفة"
+      },
+      "dungeon_damage_6869": {
+        "boughtAt": 1780664613369,
+        "cycleNumber": 6869,
+        "cardName": "بطاقة ضرر الدانجن"
+      },
+      "xp_boost_2x_6870": {
+        "boughtAt": 1780761445213,
+        "cycleNumber": 6870,
+        "cardName": "بطاقة ×2 تجربة"
+      },
+      "fishing_speed_6870": {
+        "boughtAt": 1780761447145,
+        "cycleNumber": 6870,
+        "cardName": "بطاقة تسريع الغوص"
+      },
+      "mystery_xp_6870": {
+        "boughtAt": 1780775975102,
+        "cycleNumber": 6870,
+        "cardName": "بطاقة تجربة غامضة"
+      },
+      "dungeon_damage_6870": {
+        "boughtAt": 1780776006592,
+        "cycleNumber": 6870,
+        "cardName": "بطاقة ضرر الدانجن"
       }
     },
     "petsCollected": 2,
     "activeCards": {},
-    "dungeonStreak": 3,
-    "totalGoldEarned": 23981,
+    "dungeonStreak": 0,
+    "totalGoldEarned": 25076,
     "completedDungeons": [
       7
     ],
@@ -734,9 +769,7 @@
       "absolute_barrier"
     ]
   },
-  "clanId": "120363424226692086@g.us",
-  "clanRole": "member",
   "created": 1776891817820,
-  "lastActive": 1780608812557,
+  "lastActive": 1780934150916,
   "groupId": "120363424226692086@g.us"
 }
