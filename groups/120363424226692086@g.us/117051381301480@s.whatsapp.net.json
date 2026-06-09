@@ -3,16 +3,16 @@
   "name": "ايزن",
   "nickname": "ايزن",
   "class": "قائد حرب",
-  "level": 50,
-  "xp": 65069231801,
-  "hp": 1230,
-  "maxHp": 2805,
-  "atk": 247,
-  "def": 92,
-  "mag": 52,
-  "critRate": 0.27400000000000013,
-  "critDamage": 2.7299999999999884,
-  "gold": 43459289,
+  "level": 51,
+  "xp": 92129205323,
+  "hp": 2859,
+  "maxHp": 2859,
+  "atk": 250,
+  "def": 93,
+  "mag": 53,
+  "critRate": 0.27600000000000013,
+  "critDamage": 2.7399999999999882,
+  "gold": 54874655,
   "gems": 2549,
   "elixir": 6122,
   "stamina": 10,
@@ -484,7 +484,7 @@
     "mythic": 0
   },
   "wins": 2182,
-  "losses": 581,
+  "losses": 582,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
@@ -496,8 +496,8 @@
       "map_3"
     ],
     "totalBossDamage": 0,
-    "fishCaught": 166462,
-    "mineralsMined": 18659,
+    "fishCaught": 166639,
+    "mineralsMined": 18897,
     "boxesOpened": 1069,
     "boxesOpenedByType": {
       "common": 994,
@@ -527,14 +527,14 @@
     "healingDone": 0,
     "groupHeals": 0,
     "pvpWins": 4,
-    "pvpLosses": 18,
+    "pvpLosses": 19,
     "successfulRobberies": 0,
     "failedRobberies": 0,
     "luckGamesPlayed": 0,
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 59796,
+    "materialsCollected": 59860,
     "dungeonKills": 2174,
     "dungeonDamageDealt": 3686414,
     "dungeonsCompleted": 9,
@@ -601,12 +601,25 @@
         "boughtAt": 1780345038502,
         "cycleNumber": 6868,
         "cardName": "بطاقة غنائم مضاعفة"
+      },
+      "xp_boost_3x_6871": {
+        "boughtAt": 1781044050462,
+        "cycleNumber": 6871,
+        "cardName": "بطاقة ×3 تجربة"
+      },
+      "rapid_dive_6871": {
+        "boughtAt": 1781044057611,
+        "cycleNumber": 6871,
+        "cardName": "بطاقة غوص خارق"
       }
     },
     "playerSkills": {},
     "petsCollected": 3,
-    "activeCards": {},
-    "totalGoldEarned": 59250,
+    "activeCards": {
+      "xp_boost_3x": 1781044950462,
+      "rapid_dive": 1781044957611
+    },
+    "totalGoldEarned": 59515,
     "dungeonStreak": 0,
     "completedDungeons": [
       0,
@@ -646,6 +659,6 @@
     ]
   },
   "created": 1777542343015,
-  "lastActive": 1780954435149,
+  "lastActive": 1781044195255,
   "groupId": "120363424226692086@g.us"
 }
