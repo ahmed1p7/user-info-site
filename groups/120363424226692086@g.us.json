@@ -28,6 +28,12 @@
       "level": 52
     },
     {
+      "id": "117051381301480@s.whatsapp.net",
+      "name": "ايزن",
+      "class": "قائد حرب",
+      "level": 52
+    },
+    {
       "id": "5936299118698@s.whatsapp.net",
       "name": "ستااااركز",
       "class": "قديس الحماية",
@@ -36,12 +42,6 @@
     {
       "id": "210037507125265@s.whatsapp.net",
       "name": "تيريون لانيستر",
-      "class": "قائد حرب",
-      "level": 51
-    },
-    {
-      "id": "117051381301480@s.whatsapp.net",
-      "name": "ايزن",
       "class": "قائد حرب",
       "level": 51
     },
@@ -172,6 +172,6 @@
       "level": 1
     }
   ],
-  "messagesWeek": 42,
-  "lastUpdated": 1781044195291
+  "messagesWeek": 89,
+  "lastUpdated": 1781255053088
 }
