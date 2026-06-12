@@ -3,18 +3,18 @@
   "name": "يوهان",
   "nickname": "يوهان",
   "class": "ناثر",
-  "level": 52,
-  "xp": 42565683768,
-  "hp": 2913,
-  "maxHp": 2913,
-  "atk": 202,
-  "def": 70,
-  "mag": 78,
-  "critRate": 0.2510000000000001,
-  "critDamage": 2.2549999999999897,
-  "gold": 1192721,
+  "level": 53,
+  "xp": 30491471506,
+  "hp": 2967,
+  "maxHp": 2967,
+  "atk": 205,
+  "def": 71,
+  "mag": 79,
+  "critRate": 0.2530000000000001,
+  "critDamage": 2.2649999999999895,
+  "gold": 41427227,
   "gems": 9211,
-  "elixir": 24113,
+  "elixir": 24163,
   "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
@@ -487,8 +487,8 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 1892,
-  "losses": 136,
+  "wins": 1894,
+  "losses": 139,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
@@ -499,8 +499,8 @@
       "map_3"
     ],
     "totalBossDamage": 0,
-    "fishCaught": 45031,
-    "mineralsMined": 9414,
+    "fishCaught": 45426,
+    "mineralsMined": 9811,
     "boxesOpened": 847,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -508,15 +508,15 @@
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 14,
-    "pvpLosses": 15,
+    "pvpWins": 16,
+    "pvpLosses": 18,
     "successfulRobberies": 0,
     "failedRobberies": 0,
     "luckGamesPlayed": 0,
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 16942,
+    "materialsCollected": 17078,
     "dungeonKills": 1875,
     "dungeonDamageDealt": 2538812,
     "dungeonsCompleted": 6,
@@ -594,9 +594,24 @@
         "boughtAt": 1780761655268,
         "cycleNumber": 6870,
         "cardName": "بطاقة إعادة تعيين الغوص"
+      },
+      "gold_boost_6871": {
+        "boughtAt": 1781035489413,
+        "cycleNumber": 6871,
+        "cardName": "بطاقة ذهب مضاعف"
+      },
+      "gold_chest_6871": {
+        "boughtAt": 1781035500876,
+        "cycleNumber": 6871,
+        "cardName": "بطاقة كنز ذهبي"
+      },
+      "mining_speed_6871": {
+        "boughtAt": 1781056641479,
+        "cycleNumber": 6871,
+        "cardName": "بطاقة تسريع التعدين"
       }
     },
-    "totalGoldEarned": 124273,
+    "totalGoldEarned": 126213,
     "petsCollected": 1,
     "dungeonStreak": 0,
     "completedDungeons": [
@@ -642,6 +657,6 @@
     ]
   },
   "created": 1776965245297,
-  "lastActive": 1780949292016,
+  "lastActive": 1781255600662,
   "groupId": "120363424226692086@g.us"
 }
