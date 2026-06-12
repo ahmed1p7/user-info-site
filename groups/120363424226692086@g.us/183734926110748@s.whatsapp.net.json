@@ -3,16 +3,16 @@
   "name": "ستارك ابو نواف",
   "nickname": "ستارك ابو نواف",
   "class": "ملك الظلال",
-  "level": 56,
-  "xp": 7356579315,
-  "hp": 1044,
-  "maxHp": 1044,
-  "atk": 730,
-  "def": 159,
-  "mag": 211,
+  "level": 57,
+  "xp": 11518130900,
+  "hp": 1057,
+  "maxHp": 1057,
+  "atk": 737,
+  "def": 160,
+  "mag": 212,
   "critRate": 0.95,
-  "critDamage": 3.4399999999999933,
-  "gold": 8510772,
+  "critDamage": 3.457999999999993,
+  "gold": 108917721,
   "gems": 3362,
   "elixir": 8473,
   "stamina": 10,
@@ -495,7 +495,7 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 147407,
+    "fishCaught": 148138,
     "mineralsMined": 25140,
     "boxesOpened": 1110,
     "weaponsUpgraded": 0,
@@ -515,7 +515,7 @@
     "fishSold": 50519,
     "dungeonKills": 3602,
     "dungeonDamageDealt": 13057706,
-    "materialsCollected": 53691,
+    "materialsCollected": 53939,
     "mineralsSold": 8175,
     "materialsSold": 8223,
     "dungeonsCompleted": 9,
@@ -684,18 +684,20 @@
         "boughtAt": 1780793764553,
         "cycleNumber": 6870,
         "cardName": "بطاقة بيع ممتاز"
+      },
+      "sell_boost_6871": {
+        "boughtAt": 1781023877398,
+        "cycleNumber": 6871,
+        "cardName": "بطاقة بيع ممتاز"
       }
     },
     "petsCollected": 4,
-    "activeCards": {
-      "xp_boost_2x": 1780795559386,
-      "sell_boost": 1780795564553
-    },
+    "activeCards": {},
     "abilityPoints": 4,
     "playerSkills": {},
     "skillPoints": 6,
     "dungeonStreak": 0,
-    "totalGoldEarned": 36351,
+    "totalGoldEarned": 36646,
     "titles": [
       "بطل الأسبوع"
     ],
@@ -740,6 +742,6 @@
     ]
   },
   "created": 1776960777629,
-  "lastActive": 1780794164123,
+  "lastActive": 1781284313345,
   "groupId": "120363424226692086@g.us"
 }
