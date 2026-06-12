@@ -3,16 +3,16 @@
   "name": "ستااااركز",
   "nickname": "ستااااركز",
   "class": "قديس الحماية",
-  "level": 51,
-  "xp": 430066550341,
-  "hp": 1,
-  "maxHp": 2657,
-  "atk": 155,
-  "def": 178,
-  "mag": 775,
-  "critRate": 0.10000000000000005,
-  "critDamage": 1.7499999999999947,
-  "gold": 108938168,
+  "level": 56,
+  "xp": 209872452002,
+  "hp": 3073,
+  "maxHp": 3073,
+  "atk": 160,
+  "def": 183,
+  "mag": 810,
+  "critRate": 0.10500000000000005,
+  "critDamage": 1.7749999999999941,
+  "gold": 88177757,
   "gems": 2645,
   "elixir": 6744,
   "stamina": 10,
@@ -487,7 +487,7 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 1690,
+  "wins": 1859,
   "losses": 201,
   "evolvedClass": null,
   "evolutionPath": "pathB",
@@ -495,7 +495,7 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 185446,
+    "fishCaught": 186183,
     "mineralsMined": 20352,
     "boxesOpened": 974,
     "boxesOpenedByType": {
@@ -533,9 +533,9 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 65732,
-    "dungeonKills": 1683,
-    "dungeonDamageDealt": 2960830,
+    "materialsCollected": 66151,
+    "dungeonKills": 1852,
+    "dungeonDamageDealt": 3007223,
     "fishSold": 41743,
     "mineralsSold": 3912,
     "dungeonsCompleted": 7,
@@ -638,13 +638,34 @@
         "boughtAt": 1780793727177,
         "cycleNumber": 6870,
         "cardName": "بطاقة ×3 تجربة"
+      },
+      "xp_boost_2x_6870": {
+        "boughtAt": 1780883354056,
+        "cycleNumber": 6870,
+        "cardName": "بطاقة ×2 تجربة"
+      },
+      "armor_card_rare_6871": {
+        "boughtAt": 1781023798243,
+        "cycleNumber": 6871,
+        "cardName": "بطاقة ترقية نادرة للدروع"
+      },
+      "xp_boost_2x_6872": {
+        "boughtAt": 1781284056261,
+        "cycleNumber": 6872,
+        "cardName": "بطاقة ×2 تجربة"
+      },
+      "sell_boost_6872": {
+        "boughtAt": 1781284060708,
+        "cycleNumber": 6872,
+        "cardName": "بطاقة بيع ممتاز"
       }
     },
     "activeCards": {
-      "xp_boost_3x": 1780794627178
+      "xp_boost_2x": 1781285856261,
+      "sell_boost": 1781285860708
     },
     "dungeonStreak": 0,
-    "totalGoldEarned": 205292,
+    "totalGoldEarned": 206692,
     "completedDungeons": [
       3,
       4,
@@ -689,6 +710,6 @@
     ]
   },
   "created": 1777400790020,
-  "lastActive": 1780793845778,
+  "lastActive": 1781284285452,
   "groupId": "120363424226692086@g.us"
 }
