@@ -4,7 +4,7 @@
   "nickname": "✘\"..𖦻",
   "class": "فارس",
   "level": 13,
-  "xp": 8613,
+  "xp": 13291,
   "hp": 675,
   "maxHp": 675,
   "atk": 24,
@@ -12,7 +12,7 @@
   "mag": 14,
   "critRate": 0.06200000000000001,
   "critDamage": 1.5599999999999987,
-  "gold": 12893,
+  "gold": 7921,
   "gems": 13,
   "elixir": 0,
   "stamina": 10,
@@ -226,9 +226,7 @@
     "passive": [],
     "active": []
   },
-  "clanId": null,
-  "clanRole": null,
   "created": 1779363113314,
-  "lastActive": 1779792230818,
+  "lastActive": 1781315848441,
   "groupId": "120363426531347600@g.us"
 }
