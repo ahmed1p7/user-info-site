@@ -57,7 +57,7 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 21820,
+    "fishCaught": 21823,
     "mineralsMined": 3953,
     "boxesOpened": 272,
     "weaponsUpgraded": 0,
@@ -144,6 +144,6 @@
     ]
   },
   "created": 1777001965022,
-  "lastActive": 1781315853169,
+  "lastActive": 1781316245108,
   "groupId": "120363407963343765@g.us"
 }
