@@ -22,6 +22,12 @@
       "level": 53
     },
     {
+      "id": "117051381301480@s.whatsapp.net",
+      "name": "ايزن",
+      "class": "قائد حرب",
+      "level": 52
+    },
+    {
       "id": "156084127932519@s.whatsapp.net",
       "name": "جين",
       "class": "فارس مظلم",
@@ -40,6 +46,6 @@
       "level": 14
     }
   ],
-  "messagesWeek": 7,
-  "lastUpdated": 1781352128759
+  "messagesWeek": 117,
+  "lastUpdated": 1781357255389
 }
