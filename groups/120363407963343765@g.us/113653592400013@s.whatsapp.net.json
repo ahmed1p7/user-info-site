@@ -1,0 +1,83 @@
+{
+  "id": "113653592400013@s.whatsapp.net",
+  "name": "Khalid",
+  "nickname": "Khalid",
+  "class": "محارب",
+  "level": 10,
+  "xp": 3692,
+  "hp": 410,
+  "maxHp": 410,
+  "atk": 28,
+  "def": 21,
+  "mag": 12,
+  "critRate": 0.06800000000000002,
+  "critDamage": 1.59,
+  "gold": 11151,
+  "gems": 0,
+  "elixir": 0,
+  "stamina": 10,
+  "maxStamina": 10,
+  "energy": 100,
+  "equippedWeapon": null,
+  "equippedArmor": null,
+  "weapons": [],
+  "armors": [],
+  "boxes": {
+    "common": 0,
+    "rare": 0,
+    "epic": 0,
+    "legendary": 0,
+    "mythic": 0
+  },
+  "wins": 0,
+  "losses": 0,
+  "evolvedClass": null,
+  "evolutionPath": null,
+  "stats": {
+    "monstersKilled": 0,
+    "bossesDefeated": 0,
+    "totalBossDamage": 0,
+    "fishCaught": 0,
+    "mineralsMined": 0,
+    "boxesOpened": 0,
+    "boxesOpenedByType": {
+      "common": 0,
+      "rare": 0,
+      "epic": 0,
+      "legendary": 0,
+      "mythic": 0
+    },
+    "bestBoxReward": null,
+    "pity": {
+      "epic": 0,
+      "legendary": 0,
+      "mythic": 0
+    },
+    "lastFreeBox": 0,
+    "freeBoxStreak": 0,
+    "weaponsUpgraded": 0,
+    "itemsSold": 0,
+    "itemsBought": 0,
+    "totalGoldEarned": 360,
+    "totalGoldSpent": 0,
+    "playersHealed": 0,
+    "healingDone": 0,
+    "groupHeals": 0,
+    "pvpWins": 0,
+    "pvpLosses": 0,
+    "successfulRobberies": 0,
+    "failedRobberies": 0,
+    "luckGamesPlayed": 0,
+    "luckGamesWon": 0
+  },
+  "skills": [
+    "double_strike"
+  ],
+  "unlockedSkills": {
+    "passive": [],
+    "active": []
+  },
+  "created": 1781323331864,
+  "lastActive": 1781323491636,
+  "groupId": "120363407963343765@g.us"
+}
