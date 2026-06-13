@@ -4,12 +4,18 @@
   "emoji": "🏗",
   "members": [
     {
+      "id": "156084127932519@s.whatsapp.net",
+      "name": "جين",
+      "class": "فارس مظلم",
+      "level": 39
+    },
+    {
       "id": "144410171936843@s.whatsapp.net",
       "name": "ابراهيم",
       "class": "فارس الظلام",
       "level": 38
     }
   ],
-  "messagesWeek": 19,
-  "lastUpdated": 1781315853173
+  "messagesWeek": 5,
+  "lastUpdated": 1781316189342
 }
