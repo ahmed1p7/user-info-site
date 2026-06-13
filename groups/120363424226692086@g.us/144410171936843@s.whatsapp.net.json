@@ -4,15 +4,15 @@
   "nickname": "ابراهيم",
   "class": "فارس الظلام",
   "level": 38,
-  "xp": 16427109,
-  "hp": 866,
+  "xp": 162294854,
+  "hp": 1,
   "maxHp": 866,
   "atk": 323,
   "def": 113,
   "mag": 43,
   "critRate": 0.39800000000000013,
   "critDamage": 2.615999999999997,
-  "gold": 3004390,
+  "gold": 5639494,
   "gems": 2468,
   "elixir": 6702,
   "stamina": 10,
@@ -57,8 +57,8 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 20390,
-    "mineralsMined": 3245,
+    "fishCaught": 21820,
+    "mineralsMined": 3953,
     "boxesOpened": 272,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -76,7 +76,7 @@
     "territoryDefenses": 0,
     "dungeonKills": 528,
     "dungeonDamageDealt": 526239,
-    "materialsCollected": 7129,
+    "materialsCollected": 7645,
     "fishSold": 5318,
     "dungeonsCompleted": 4,
     "mineralsSold": 2592,
@@ -114,7 +114,10 @@
     "dungeonStreak": 0,
     "completedDungeons": [
       3
-    ]
+    ],
+    "weeklyShopLastReset": 0,
+    "weeklyShopPurchases": {},
+    "activeCards": {}
   },
   "skills": [
     "stealth",
@@ -140,9 +143,7 @@
       "smoke_bomb"
     ]
   },
-  "clanId": null,
-  "clanRole": null,
   "created": 1777001965022,
-  "lastActive": 1780626407418,
+  "lastActive": 1781315825699,
   "groupId": "120363424226692086@g.us"
 }
