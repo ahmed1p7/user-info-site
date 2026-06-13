@@ -3,19 +3,19 @@
   "name": "سيقمير اوف كاترينا",
   "nickname": "سيقمير اوف كاترينا",
   "class": "ناثر",
-  "level": 53,
-  "xp": 53362283592,
-  "hp": 539,
-  "maxHp": 3633,
-  "atk": 375,
-  "def": 171,
-  "mag": 199,
-  "critRate": 0.20400000000000007,
-  "critDamage": 2.02,
-  "gold": 24125443,
+  "level": 54,
+  "xp": 80372215690,
+  "hp": 3687,
+  "maxHp": 3687,
+  "atk": 378,
+  "def": 172,
+  "mag": 200,
+  "critRate": 0.20600000000000007,
+  "critDamage": 2.03,
+  "gold": 41698266,
   "gems": 3408,
   "elixir": 8851,
-  "stamina": 3,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -487,16 +487,16 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 10365,
-  "losses": 390,
+  "wins": 10597,
+  "losses": 392,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 82655,
-    "mineralsMined": 39784,
+    "fishCaught": 85871,
+    "mineralsMined": 43484,
     "boxesOpened": 676,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -513,9 +513,9 @@
     "territoriesConquered": 0,
     "territoryDefenses": 0,
     "fishSold": 22005,
-    "dungeonKills": 10341,
-    "dungeonDamageDealt": 39636719,
-    "materialsCollected": 37374,
+    "dungeonKills": 10573,
+    "dungeonDamageDealt": 42371241,
+    "materialsCollected": 38721,
     "materialsSold": 19402,
     "dungeonsCompleted": 8,
     "itemsMerged": 14,
@@ -725,17 +725,32 @@
         "boughtAt": 1780776006592,
         "cycleNumber": 6870,
         "cardName": "بطاقة ضرر الدانجن"
+      },
+      "fishing_speed_6871": {
+        "boughtAt": 1781004539854,
+        "cycleNumber": 6871,
+        "cardName": "بطاقة تسريع الغوص"
+      },
+      "double_drops_6871": {
+        "boughtAt": 1781004546975,
+        "cycleNumber": 6871,
+        "cardName": "بطاقة غنائم مضاعفة"
+      },
+      "ability_points_6871": {
+        "boughtAt": 1781004564567,
+        "cycleNumber": 6871,
+        "cardName": "بطاقة نقاط قدرة"
       }
     },
     "petsCollected": 2,
     "activeCards": {},
     "dungeonStreak": 0,
-    "totalGoldEarned": 25076,
+    "totalGoldEarned": 25356,
     "completedDungeons": [
       7
     ],
     "skillPoints": 6,
-    "abilityPoints": 2
+    "abilityPoints": 4
   },
   "skills": [
     "double_strike",
@@ -770,6 +785,6 @@
     ]
   },
   "created": 1776891817820,
-  "lastActive": 1780934150916,
+  "lastActive": 1781311531173,
   "groupId": "120363424226692086@g.us"
 }
