@@ -1,0 +1,149 @@
+{
+  "id": "144410171936843@s.whatsapp.net",
+  "name": "ابراهيم",
+  "nickname": "ابراهيم",
+  "class": "فارس الظلام",
+  "level": 38,
+  "xp": 162294854,
+  "hp": 1,
+  "maxHp": 866,
+  "atk": 323,
+  "def": 113,
+  "mag": 43,
+  "critRate": 0.39800000000000013,
+  "critDamage": 2.615999999999997,
+  "gold": 5639494,
+  "gems": 2468,
+  "elixir": 6702,
+  "stamina": 10,
+  "maxStamina": 10,
+  "energy": 100,
+  "equippedWeapon": null,
+  "equippedArmor": null,
+  "weapons": [],
+  "armors": [
+    {
+      "id": "أسطوري_قاتل_حذاء_أحذية_التنين",
+      "name": "أحذية التنين",
+      "fullName": "🟡 أسطوري | أحذية التنين",
+      "rarity": "أسطوري",
+      "rarityEmoji": "🟡",
+      "class": "قاتل",
+      "slot": "حذاء",
+      "slotEmoji": "👢",
+      "def": 85,
+      "bonusType": "evasion",
+      "level": 1,
+      "maxLevel": 5,
+      "baseDef": 85,
+      "baseCost": 800,
+      "costMultiplier": 3,
+      "maxDefBonus": 100,
+      "obtainedAt": 1778886147098
+    }
+  ],
+  "boxes": {
+    "common": 0,
+    "rare": 0,
+    "epic": 0,
+    "legendary": 0,
+    "mythic": 0
+  },
+  "wins": 530,
+  "losses": 32,
+  "evolvedClass": null,
+  "evolutionPath": "pathB",
+  "stats": {
+    "monstersKilled": 0,
+    "bossesDefeated": 0,
+    "totalBossDamage": 0,
+    "fishCaught": 21820,
+    "mineralsMined": 3953,
+    "boxesOpened": 272,
+    "weaponsUpgraded": 0,
+    "itemsSold": 0,
+    "itemsBought": 0,
+    "playersHealed": 0,
+    "healingDone": 0,
+    "groupHeals": 0,
+    "pvpWins": 0,
+    "pvpLosses": 0,
+    "successfulRobberies": 0,
+    "failedRobberies": 0,
+    "luckGamesPlayed": 0,
+    "luckGamesWon": 0,
+    "territoriesConquered": 0,
+    "territoryDefenses": 0,
+    "dungeonKills": 528,
+    "dungeonDamageDealt": 526239,
+    "materialsCollected": 7645,
+    "fishSold": 5318,
+    "dungeonsCompleted": 4,
+    "mineralsSold": 2592,
+    "materialsSold": 4257,
+    "clanDungeonsCompleted": 4,
+    "clanDungeonDamage": 0,
+    "pity": {
+      "epic": 13,
+      "legendary": 21,
+      "mythic": 6
+    },
+    "lastFreeBox": 1780596316119,
+    "freeBoxStreak": 4,
+    "boxesOpenedByType": {
+      "common": 4,
+      "legendary": 21,
+      "epic": 237,
+      "mythic": 6
+    },
+    "bestBoxReward": {
+      "boxType": "legendary",
+      "value": 8247,
+      "hadWeapon": false,
+      "hadArmor": true,
+      "timestamp": 1778886147099
+    },
+    "dailySellCount": 4295,
+    "lastSellReset": 1777655620305,
+    "playerSkills": {
+      "mining_luck": 5,
+      "fishing_luck": 5
+    },
+    "petsCollected": 2,
+    "totalGoldEarned": 30826,
+    "dungeonStreak": 0,
+    "completedDungeons": [
+      3
+    ],
+    "weeklyShopLastReset": 0,
+    "weeklyShopPurchases": {},
+    "activeCards": {}
+  },
+  "skills": [
+    "stealth",
+    "backstab",
+    "poison_blade",
+    "assassinate",
+    "smoke_bomb",
+    "dark_momentum",
+    "shadow_terror",
+    "ghost_blade"
+  ],
+  "unlockedSkills": {
+    "passive": [
+      "stealth",
+      "backstab",
+      "poison_blade",
+      "dark_momentum",
+      "shadow_terror",
+      "ghost_blade"
+    ],
+    "active": [
+      "assassinate",
+      "smoke_bomb"
+    ]
+  },
+  "created": 1777001965022,
+  "lastActive": 1781315853169,
+  "groupId": "120363407963343765@g.us"
+}
