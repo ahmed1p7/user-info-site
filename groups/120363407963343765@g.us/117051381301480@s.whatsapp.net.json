@@ -4,7 +4,7 @@
   "nickname": "ايزن",
   "class": "قائد حرب",
   "level": 52,
-  "xp": 54815315260,
+  "xp": 104203574002,
   "hp": 2913,
   "maxHp": 2913,
   "atk": 253,
@@ -12,10 +12,10 @@
   "mag": 54,
   "critRate": 0.27800000000000014,
   "critDamage": 2.749999999999988,
-  "gold": 3950616,
+  "gold": 2260225,
   "gems": 2549,
   "elixir": 6122,
-  "stamina": 9,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -496,8 +496,8 @@
       "map_3"
     ],
     "totalBossDamage": 0,
-    "fishCaught": 170022,
-    "mineralsMined": 22222,
+    "fishCaught": 170606,
+    "mineralsMined": 22874,
     "boxesOpened": 1069,
     "boxesOpenedByType": {
       "common": 994,
@@ -534,7 +534,7 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 61370,
+    "materialsCollected": 61557,
     "dungeonKills": 2438,
     "dungeonDamageDealt": 5060393,
     "dungeonsCompleted": 9,
@@ -616,13 +616,16 @@
         "boughtAt": 1781311168029,
         "cycleNumber": 6872,
         "cardName": "بطاقة صيد نادر"
+      },
+      "gold_boost_6872": {
+        "boughtAt": 1781357281584,
+        "cycleNumber": 6872,
+        "cardName": "بطاقة ذهب مضاعف"
       }
     },
     "playerSkills": {},
     "petsCollected": 3,
-    "activeCards": {
-      "rare_fish": 1781312368029
-    },
+    "activeCards": {},
     "totalGoldEarned": 60615,
     "dungeonStreak": 0,
     "completedDungeons": [
@@ -663,6 +666,6 @@
     ]
   },
   "created": 1777542343015,
-  "lastActive": 1781357255347,
+  "lastActive": 1781481490698,
   "groupId": "120363407963343765@g.us"
 }
