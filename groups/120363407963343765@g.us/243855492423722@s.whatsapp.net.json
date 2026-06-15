@@ -1,0 +1,111 @@
+{
+  "id": "243855492423722@s.whatsapp.net",
+  "name": "π",
+  "nickname": "π",
+  "class": "فارس",
+  "level": 25,
+  "xp": 239854,
+  "hp": 175,
+  "maxHp": 1641,
+  "atk": 89,
+  "def": 185,
+  "mag": 26,
+  "critRate": 0.07400000000000002,
+  "critDamage": 1.6199999999999974,
+  "gold": 5787987,
+  "gems": 1897,
+  "elixir": 4914,
+  "stamina": 6,
+  "maxStamina": 10,
+  "energy": 100,
+  "equippedWeapon": null,
+  "equippedArmor": null,
+  "weapons": [],
+  "armors": [],
+  "boxes": {
+    "common": 0,
+    "rare": 0,
+    "epic": 0,
+    "legendary": 0,
+    "mythic": 0
+  },
+  "wins": 39,
+  "losses": 1,
+  "evolvedClass": null,
+  "evolutionPath": null,
+  "stats": {
+    "monstersKilled": 0,
+    "bossesDefeated": 0,
+    "totalBossDamage": 0,
+    "fishCaught": 238,
+    "mineralsMined": 238,
+    "boxesOpened": 250,
+    "boxesOpenedByType": {
+      "common": 0,
+      "rare": 0,
+      "epic": 250,
+      "legendary": 0,
+      "mythic": 0
+    },
+    "bestBoxReward": {
+      "boxType": "epic",
+      "value": 1608,
+      "hadWeapon": false,
+      "hadArmor": false,
+      "timestamp": 1781415155480
+    },
+    "pity": {
+      "epic": 10,
+      "legendary": 0,
+      "mythic": 0
+    },
+    "lastFreeBox": 0,
+    "freeBoxStreak": 0,
+    "weaponsUpgraded": 0,
+    "itemsSold": 0,
+    "itemsBought": 0,
+    "totalGoldEarned": 22427,
+    "totalGoldSpent": 0,
+    "playersHealed": 0,
+    "healingDone": 0,
+    "groupHeals": 0,
+    "pvpWins": 0,
+    "pvpLosses": 1,
+    "successfulRobberies": 0,
+    "failedRobberies": 0,
+    "luckGamesPlayed": 0,
+    "luckGamesWon": 0,
+    "weeklyShopLastReset": 0,
+    "weeklyShopPurchases": {
+      "skill_points_6872": {
+        "boughtAt": 1781413671662,
+        "cycleNumber": 6872,
+        "cardName": "بطاقة نقاط مهارة"
+      },
+      "rapid_dive_6872": {
+        "boughtAt": 1781413680974,
+        "cycleNumber": 6872,
+        "cardName": "بطاقة غوص خارق"
+      }
+    },
+    "activeCards": {
+      "rapid_dive": 1781414580974
+    },
+    "playerSkills": {},
+    "skillPoints": 3,
+    "materialsCollected": 258,
+    "dungeonKills": 39,
+    "dungeonDamageDealt": 12630,
+    "dungeonStreak": 24
+  },
+  "skills": [
+    "shield_wall"
+  ],
+  "unlockedSkills": {
+    "passive": [],
+    "active": []
+  },
+  "created": 1781413339491,
+  "lastActive": 1781485960373,
+  "groupId": "120363407963343765@g.us"
+}
