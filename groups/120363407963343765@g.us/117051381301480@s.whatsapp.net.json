@@ -12,7 +12,7 @@
   "mag": 55,
   "critRate": 0.28000000000000014,
   "critDamage": 2.759999999999988,
-  "gold": 2255435,
+  "gold": 881435,
   "gems": 2549,
   "elixir": 6122,
   "stamina": 10,
@@ -496,8 +496,8 @@
       "map_3"
     ],
     "totalBossDamage": 0,
-    "fishCaught": 171854,
-    "mineralsMined": 24126,
+    "fishCaught": 171876,
+    "mineralsMined": 24147,
     "boxesOpened": 1069,
     "boxesOpenedByType": {
       "common": 994,
@@ -534,7 +534,7 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 61993,
+    "materialsCollected": 62003,
     "dungeonKills": 2447,
     "dungeonDamageDealt": 5210788,
     "dungeonsCompleted": 9,
@@ -666,6 +666,6 @@
     ]
   },
   "created": 1777542343015,
-  "lastActive": 1781535400420,
+  "lastActive": 1781536062486,
   "groupId": "120363407963343765@g.us"
 }
