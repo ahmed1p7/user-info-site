@@ -4,7 +4,7 @@
   "nickname": "ايزن",
   "class": "قائد حرب",
   "level": 53,
-  "xp": 8560356245,
+  "xp": 8560356296,
   "hp": 1,
   "maxHp": 2967,
   "atk": 256,
@@ -12,10 +12,10 @@
   "mag": 55,
   "critRate": 0.28000000000000014,
   "critDamage": 2.759999999999988,
-  "gold": 2254501,
+  "gold": 2255435,
   "gems": 2549,
   "elixir": 6122,
-  "stamina": 9,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -484,7 +484,7 @@
     "mythic": 0
   },
   "wins": 2456,
-  "losses": 599,
+  "losses": 600,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
@@ -496,8 +496,8 @@
       "map_3"
     ],
     "totalBossDamage": 0,
-    "fishCaught": 171099,
-    "mineralsMined": 23367,
+    "fishCaught": 171854,
+    "mineralsMined": 24126,
     "boxesOpened": 1069,
     "boxesOpenedByType": {
       "common": 994,
@@ -527,14 +527,14 @@
     "healingDone": 0,
     "groupHeals": 0,
     "pvpWins": 5,
-    "pvpLosses": 20,
+    "pvpLosses": 21,
     "successfulRobberies": 0,
     "failedRobberies": 0,
     "luckGamesPlayed": 0,
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 61730,
+    "materialsCollected": 61993,
     "dungeonKills": 2447,
     "dungeonDamageDealt": 5210788,
     "dungeonsCompleted": 9,
@@ -666,6 +666,6 @@
     ]
   },
   "created": 1777542343015,
-  "lastActive": 1781520277043,
+  "lastActive": 1781535400420,
   "groupId": "120363407963343765@g.us"
 }
