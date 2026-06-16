@@ -4,7 +4,7 @@
   "nickname": "يوهان",
   "class": "ناثر",
   "level": 54,
-  "xp": 54248044283,
+  "xp": 110536657818,
   "hp": 3021,
   "maxHp": 3021,
   "atk": 208,
@@ -12,7 +12,7 @@
   "mag": 80,
   "critRate": 0.2550000000000001,
   "critDamage": 2.2749999999999893,
-  "gold": 566475,
+  "gold": 19274177,
   "gems": 9211,
   "elixir": 24163,
   "stamina": 10,
@@ -487,8 +487,8 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 1899,
-  "losses": 141,
+  "wins": 1901,
+  "losses": 142,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
@@ -499,8 +499,8 @@
       "map_3"
     ],
     "totalBossDamage": 0,
-    "fishCaught": 47509,
-    "mineralsMined": 11893,
+    "fishCaught": 48026,
+    "mineralsMined": 12409,
     "boxesOpened": 847,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -508,7 +508,7 @@
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 18,
+    "pvpWins": 19,
     "pvpLosses": 18,
     "successfulRobberies": 0,
     "failedRobberies": 0,
@@ -516,9 +516,9 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 17794,
-    "dungeonKills": 1878,
-    "dungeonDamageDealt": 2569101,
+    "materialsCollected": 17979,
+    "dungeonKills": 1879,
+    "dungeonDamageDealt": 2578886,
     "dungeonsCompleted": 6,
     "materialsSold": 918,
     "fishSold": 1404,
@@ -611,7 +611,7 @@
         "cardName": "بطاقة تسريع التعدين"
       }
     },
-    "totalGoldEarned": 128053,
+    "totalGoldEarned": 128908,
     "petsCollected": 1,
     "dungeonStreak": 0,
     "completedDungeons": [
@@ -657,6 +657,6 @@
     ]
   },
   "created": 1776965245297,
-  "lastActive": 1781566785300,
+  "lastActive": 1781643802804,
   "groupId": "120363407963343765@g.us"
 }
