@@ -34,6 +34,12 @@
       "level": 53
     },
     {
+      "id": "243855492423722@s.whatsapp.net",
+      "name": "π",
+      "class": "فارس التنين",
+      "level": 44
+    },
+    {
       "id": "156084127932519@s.whatsapp.net",
       "name": "جين",
       "class": "فارس مظلم",
@@ -46,18 +52,12 @@
       "level": 38
     },
     {
-      "id": "243855492423722@s.whatsapp.net",
-      "name": "π",
-      "class": "فارس التنين",
-      "level": 38
-    },
-    {
       "id": "113653592400013@s.whatsapp.net",
       "name": "Khalid",
       "class": "محارب",
       "level": 14
     }
   ],
-  "messagesWeek": 2202,
-  "lastUpdated": 1781599669317
+  "messagesWeek": 875,
+  "lastUpdated": 1781643775965
 }
