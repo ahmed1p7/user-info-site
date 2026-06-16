@@ -2,20 +2,20 @@
   "id": "243855492423722@s.whatsapp.net",
   "name": "π",
   "nickname": "π",
-  "class": "فارس",
-  "level": 25,
-  "xp": 239854,
-  "hp": 175,
-  "maxHp": 1641,
-  "atk": 89,
-  "def": 185,
-  "mag": 26,
-  "critRate": 0.07400000000000002,
-  "critDamage": 1.6199999999999974,
-  "gold": 5787987,
-  "gems": 1897,
+  "class": "فارس التنين",
+  "level": 38,
+  "xp": 322849935,
+  "hp": 2661,
+  "maxHp": 2661,
+  "atk": 107,
+  "def": 286,
+  "mag": 39,
+  "critRate": 0.08700000000000004,
+  "critDamage": 1.684999999999996,
+  "gold": 1426522,
+  "gems": 1910,
   "elixir": 4914,
-  "stamina": 6,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -29,16 +29,16 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 39,
+  "wins": 48,
   "losses": 1,
   "evolvedClass": null,
-  "evolutionPath": null,
+  "evolutionPath": "pathA",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 238,
-    "mineralsMined": 238,
+    "fishCaught": 1081,
+    "mineralsMined": 1080,
     "boxesOpened": 250,
     "boxesOpenedByType": {
       "common": 0,
@@ -64,7 +64,7 @@
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
-    "totalGoldEarned": 22427,
+    "totalGoldEarned": 24637,
     "totalGoldSpent": 0,
     "playersHealed": 0,
     "healingDone": 0,
@@ -86,26 +86,73 @@
         "boughtAt": 1781413680974,
         "cycleNumber": 6872,
         "cardName": "بطاقة غوص خارق"
+      },
+      "dive_reset_6873": {
+        "boughtAt": 1781486211818,
+        "cycleNumber": 6873,
+        "cardName": "بطاقة إعادة تعيين الغوص"
+      },
+      "fishing_speed_6873": {
+        "boughtAt": 1781486218212,
+        "cycleNumber": 6873,
+        "cardName": "بطاقة تسريع الغوص"
+      },
+      "double_drops_6873": {
+        "boughtAt": 1781486225525,
+        "cycleNumber": 6873,
+        "cardName": "بطاقة غنائم مضاعفة"
+      },
+      "gold_chest_6873": {
+        "boughtAt": 1781486928122,
+        "cycleNumber": 6873,
+        "cardName": "بطاقة كنز ذهبي"
+      },
+      "ability_points_6873": {
+        "boughtAt": 1781516257183,
+        "cycleNumber": 6873,
+        "cardName": "بطاقة نقاط قدرة"
       }
     },
-    "activeCards": {
-      "rapid_dive": 1781414580974
-    },
+    "activeCards": {},
     "playerSkills": {},
     "skillPoints": 3,
-    "materialsCollected": 258,
-    "dungeonKills": 39,
-    "dungeonDamageDealt": 12630,
-    "dungeonStreak": 24
+    "materialsCollected": 549,
+    "dungeonKills": 48,
+    "dungeonDamageDealt": 17307,
+    "dungeonStreak": 33,
+    "abilityPoints": 2
   },
   "skills": [
-    "shield_wall"
+    "shield_wall",
+    "iron_will",
+    "taunt",
+    "shield_mastery",
+    "ancestral_shield",
+    "fortress_body",
+    "dragon_roar",
+    "iron_fortress",
+    "dragon_breath",
+    "dragon_scales",
+    "auto_shield"
   ],
   "unlockedSkills": {
-    "passive": [],
-    "active": []
+    "passive": [
+      "iron_will",
+      "shield_mastery",
+      "ancestral_shield",
+      "fortress_body",
+      "dragon_scales"
+    ],
+    "active": [
+      "taunt",
+      "shield_wall",
+      "dragon_roar",
+      "iron_fortress",
+      "dragon_breath",
+      "auto_shield"
+    ]
   },
   "created": 1781413339491,
-  "lastActive": 1781485960373,
+  "lastActive": 1781599669284,
   "groupId": "120363407963343765@g.us"
 }
