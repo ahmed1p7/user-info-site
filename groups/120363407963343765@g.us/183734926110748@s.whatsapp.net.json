@@ -4,7 +4,7 @@
   "nickname": "ستارك ابو نواف",
   "class": "ملك الظلال",
   "level": 57,
-  "xp": 11518130900,
+  "xp": 413995195458,
   "hp": 1057,
   "maxHp": 1057,
   "atk": 737,
@@ -12,7 +12,7 @@
   "mag": 212,
   "critRate": 0.95,
   "critDamage": 3.457999999999993,
-  "gold": 108917721,
+  "gold": 61241390,
   "gems": 3362,
   "elixir": 8473,
   "stamina": 10,
@@ -488,15 +488,15 @@
     "mythic": 0
   },
   "wins": 3616,
-  "losses": 444,
+  "losses": 445,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 148138,
-    "mineralsMined": 25140,
+    "fishCaught": 150190,
+    "mineralsMined": 25622,
     "boxesOpened": 1110,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -515,7 +515,7 @@
     "fishSold": 50519,
     "dungeonKills": 3602,
     "dungeonDamageDealt": 13057706,
-    "materialsCollected": 53939,
+    "materialsCollected": 54599,
     "mineralsSold": 8175,
     "materialsSold": 8223,
     "dungeonsCompleted": 9,
@@ -689,6 +689,31 @@
         "boughtAt": 1781023877398,
         "cycleNumber": 6871,
         "cardName": "بطاقة بيع ممتاز"
+      },
+      "rare_fish_6872": {
+        "boughtAt": 1781323541477,
+        "cycleNumber": 6872,
+        "cardName": "بطاقة صيد نادر"
+      },
+      "mining_luck_6872": {
+        "boughtAt": 1781323544921,
+        "cycleNumber": 6872,
+        "cardName": "بطاقة حظ التعدين"
+      },
+      "rapid_dive_6873": {
+        "boughtAt": 1781543494888,
+        "cycleNumber": 6873,
+        "cardName": "بطاقة غوص خارق"
+      },
+      "fishing_luck_6874": {
+        "boughtAt": 1781895771038,
+        "cycleNumber": 6874,
+        "cardName": "بطاقة حظ الصيد"
+      },
+      "double_drops_6874": {
+        "boughtAt": 1781895774634,
+        "cycleNumber": 6874,
+        "cardName": "بطاقة غنائم مضاعفة"
       }
     },
     "petsCollected": 4,
@@ -742,6 +767,6 @@
     ]
   },
   "created": 1776960777629,
-  "lastActive": 1781284313345,
+  "lastActive": 1781956423893,
   "groupId": "120363407963343765@g.us"
 }
