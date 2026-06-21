@@ -4,7 +4,7 @@
   "nickname": "ابراهيم",
   "class": "فارس الظلام",
   "level": 38,
-  "xp": 162294854,
+  "xp": 186977101,
   "hp": 1,
   "maxHp": 866,
   "atk": 323,
@@ -12,7 +12,7 @@
   "mag": 43,
   "critRate": 0.39800000000000013,
   "critDamage": 2.615999999999997,
-  "gold": 5639494,
+  "gold": 5648116,
   "gems": 2468,
   "elixir": 6702,
   "stamina": 10,
@@ -57,7 +57,7 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 21823,
+    "fishCaught": 23896,
     "mineralsMined": 3953,
     "boxesOpened": 272,
     "weaponsUpgraded": 0,
@@ -76,7 +76,7 @@
     "territoryDefenses": 0,
     "dungeonKills": 528,
     "dungeonDamageDealt": 526239,
-    "materialsCollected": 7645,
+    "materialsCollected": 8368,
     "fishSold": 5318,
     "dungeonsCompleted": 4,
     "mineralsSold": 2592,
@@ -144,6 +144,6 @@
     ]
   },
   "created": 1777001965022,
-  "lastActive": 1781316245108,
+  "lastActive": 1782051488998,
   "groupId": "120363407963343765@g.us"
 }
