@@ -16,14 +16,14 @@
       "level": 56
     },
     {
-      "id": "23816063467666@s.whatsapp.net",
-      "name": "سيقمير اوف كاترينا",
-      "class": "ناثر",
-      "level": 54
-    },
-    {
       "id": "11614178824270@s.whatsapp.net",
       "name": "يوهان",
+      "class": "ناثر",
+      "level": 55
+    },
+    {
+      "id": "23816063467666@s.whatsapp.net",
+      "name": "سيقمير اوف كاترينا",
       "class": "ناثر",
       "level": 54
     },
@@ -58,6 +58,6 @@
       "level": 14
     }
   ],
-  "messagesWeek": 196,
-  "lastUpdated": 1781956430018
+  "messagesWeek": 2467,
+  "lastUpdated": 1782010919260
 }
