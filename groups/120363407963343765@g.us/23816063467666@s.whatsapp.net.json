@@ -3,19 +3,19 @@
   "name": "سيقمير اوف كاترينا",
   "nickname": "سيقمير اوف كاترينا",
   "class": "ناثر",
-  "level": 54,
-  "xp": 154834761032,
-  "hp": 0,
-  "maxHp": 3687,
-  "atk": 378,
-  "def": 172,
-  "mag": 200,
-  "critRate": 0.20600000000000007,
-  "critDamage": 2.03,
-  "gold": 64936027,
+  "level": 56,
+  "xp": 37634134221,
+  "hp": 3216,
+  "maxHp": 3795,
+  "atk": 396,
+  "def": 182,
+  "mag": 202,
+  "critRate": 0.21000000000000008,
+  "critDamage": 2.0499999999999994,
+  "gold": 358591,
   "gems": 3408,
   "elixir": 8851,
-  "stamina": 8,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -487,16 +487,16 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 10626,
-  "losses": 403,
+  "wins": 11496,
+  "losses": 418,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 93416,
-    "mineralsMined": 51407,
+    "fishCaught": 109085,
+    "mineralsMined": 67406,
     "boxesOpened": 676,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -504,7 +504,7 @@
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 9,
+    "pvpWins": 10,
     "pvpLosses": 0,
     "successfulRobberies": 0,
     "failedRobberies": 0,
@@ -513,9 +513,9 @@
     "territoriesConquered": 0,
     "territoryDefenses": 0,
     "fishSold": 22005,
-    "dungeonKills": 10602,
-    "dungeonDamageDealt": 42743086,
-    "materialsCollected": 41265,
+    "dungeonKills": 11471,
+    "dungeonDamageDealt": 49788698,
+    "materialsCollected": 47439,
     "materialsSold": 19402,
     "dungeonsCompleted": 8,
     "itemsMerged": 14,
@@ -755,14 +755,32 @@
         "boughtAt": 1781517557736,
         "cycleNumber": 6873,
         "cardName": "بطاقة ذهب مضاعف"
+      },
+      "xp_boost_3x_6874": {
+        "boughtAt": 1781955796280,
+        "cycleNumber": 6874,
+        "cardName": "بطاقة ×3 تجربة"
+      },
+      "rapid_dive_6874": {
+        "boughtAt": 1781955805272,
+        "cycleNumber": 6874,
+        "cardName": "بطاقة غوص خارق"
+      },
+      "dive_reset_6874": {
+        "boughtAt": 1781955926920,
+        "cycleNumber": 6874,
+        "cardName": "بطاقة إعادة تعيين الغوص"
+      },
+      "double_drops_6875": {
+        "boughtAt": 1782123526579,
+        "cycleNumber": 6875,
+        "cardName": "بطاقة غنائم مضاعفة"
       }
     },
     "petsCollected": 2,
-    "activeCards": {
-      "gold_boost": 1781519357736
-    },
+    "activeCards": {},
     "dungeonStreak": 0,
-    "totalGoldEarned": 25356,
+    "totalGoldEarned": 26801,
     "completedDungeons": [
       7
     ],
@@ -802,6 +820,6 @@
     ]
   },
   "created": 1776891817820,
-  "lastActive": 1781536011426,
+  "lastActive": 1782257140366,
   "groupId": "120363407963343765@g.us"
 }
