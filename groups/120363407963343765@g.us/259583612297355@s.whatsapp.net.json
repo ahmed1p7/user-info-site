@@ -3,18 +3,18 @@
   "name": "باتمان",
   "nickname": "باتمان",
   "class": "قائد حرب",
-  "level": 56,
-  "xp": 239155591980,
-  "hp": 3799,
-  "maxHp": 3799,
-  "atk": 396,
-  "def": 182,
-  "mag": 208,
-  "critRate": 0.21000000000000008,
-  "critDamage": 2.0499999999999994,
-  "gold": 204423894,
-  "gems": 7861,
-  "elixir": 21051,
+  "level": 57,
+  "xp": 367866404309,
+  "hp": 3853,
+  "maxHp": 3853,
+  "atk": 399,
+  "def": 183,
+  "mag": 209,
+  "critRate": 0.21200000000000008,
+  "critDamage": 2.059999999999999,
+  "gold": 327234752,
+  "gems": 7868,
+  "elixir": 21075,
   "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
@@ -486,23 +486,23 @@
     }
   ],
   "boxes": {
-    "common": 1,
-    "rare": 2,
+    "common": 2,
+    "rare": 0,
     "epic": 0,
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 13161,
-  "losses": 1019,
+  "wins": 13391,
+  "losses": 1031,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 218990,
-    "mineralsMined": 64154,
-    "boxesOpened": 1221,
+    "fishCaught": 237198,
+    "mineralsMined": 81769,
+    "boxesOpened": 1225,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
@@ -517,10 +517,10 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "dungeonKills": 13079,
-    "dungeonDamageDealt": 41640762,
+    "dungeonKills": 13309,
+    "dungeonDamageDealt": 41959109,
     "fishSold": 57539,
-    "materialsCollected": 85977,
+    "materialsCollected": 92392,
     "dungeonsCompleted": 10,
     "materialsSold": 16708,
     "mineralsSold": 17307,
@@ -529,18 +529,18 @@
       "epic": 2,
       "legendary": 17,
       "mythic": 31,
-      "rare": 1
+      "rare": 3
     },
-    "lastFreeBox": 1781334308784,
-    "freeBoxStreak": 35,
+    "lastFreeBox": 1782123405988,
+    "freeBoxStreak": 38,
     "clanDungeonsCompleted": 7,
     "clanDungeonDamage": 0,
     "boxesOpenedByType": {
       "epic": 27,
       "legendary": 101,
-      "common": 923,
+      "common": 925,
       "mythic": 116,
-      "rare": 3
+      "rare": 5
     },
     "bestBoxReward": {
       "boxType": "mythic",
@@ -662,6 +662,21 @@
         "boughtAt": 1781334359155,
         "cycleNumber": 6872,
         "cardName": "بطاقة غنائم مضاعفة"
+      },
+      "rapid_dive_6872": {
+        "boughtAt": 1781434492394,
+        "cycleNumber": 6872,
+        "cardName": "بطاقة غوص خارق"
+      },
+      "fishing_luck_6873": {
+        "boughtAt": 1781523790073,
+        "cycleNumber": 6873,
+        "cardName": "بطاقة حظ الصيد"
+      },
+      "armor_card_rare_6875": {
+        "boughtAt": 1782051742302,
+        "cycleNumber": 6875,
+        "cardName": "بطاقة ترقية نادرة للدروع"
       }
     },
     "playerSkills": {
@@ -675,12 +690,9 @@
       "merchant": 5
     },
     "petsCollected": 2,
-    "activeCards": {
-      "fishing_speed": 1781336145731,
-      "double_drops": 1781336159155
-    },
+    "activeCards": {},
     "dungeonStreak": 0,
-    "totalGoldEarned": 55330,
+    "totalGoldEarned": 55736,
     "abilityPoints": 2,
     "completedDungeons": [
       9
@@ -722,6 +734,6 @@
     ]
   },
   "created": 1776881461393,
-  "lastActive": 1781428645751,
+  "lastActive": 1782240226910,
   "groupId": "120363407963343765@g.us"
 }
