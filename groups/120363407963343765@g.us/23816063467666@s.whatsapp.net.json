@@ -4,7 +4,7 @@
   "nickname": "سيقمير اوف كاترينا",
   "class": "ناثر",
   "level": 56,
-  "xp": 90287756192,
+  "xp": 90287757342,
   "hp": 3795,
   "maxHp": 3795,
   "atk": 396,
@@ -12,7 +12,7 @@
   "mag": 202,
   "critRate": 0.21000000000000008,
   "critDamage": 2.0499999999999994,
-  "gold": 27512981,
+  "gold": 27513434,
   "gems": 3408,
   "elixir": 8851,
   "stamina": 10,
@@ -487,7 +487,7 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 11496,
+  "wins": 11497,
   "losses": 418,
   "evolvedClass": null,
   "evolutionPath": "pathB",
@@ -504,7 +504,7 @@
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 10,
+    "pvpWins": 11,
     "pvpLosses": 0,
     "successfulRobberies": 0,
     "failedRobberies": 0,
@@ -785,7 +785,7 @@
     "petsCollected": 2,
     "activeCards": {},
     "dungeonStreak": 0,
-    "totalGoldEarned": 26801,
+    "totalGoldEarned": 27691,
     "completedDungeons": [
       7
     ],
@@ -825,6 +825,6 @@
     ]
   },
   "created": 1776891817820,
-  "lastActive": 1782335928969,
+  "lastActive": 1782338003743,
   "groupId": "120363407963343765@g.us"
 }
