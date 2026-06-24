@@ -12,7 +12,7 @@
   "mag": 209,
   "critRate": 0.21200000000000008,
   "critDamage": 2.059999999999999,
-  "gold": 327234752,
+  "gold": 327232826,
   "gems": 7868,
   "elixir": 21075,
   "stamina": 10,
@@ -500,8 +500,8 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 237198,
-    "mineralsMined": 81769,
+    "fishCaught": 237327,
+    "mineralsMined": 81807,
     "boxesOpened": 1225,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -520,7 +520,7 @@
     "dungeonKills": 13309,
     "dungeonDamageDealt": 41959109,
     "fishSold": 57539,
-    "materialsCollected": 92392,
+    "materialsCollected": 92445,
     "dungeonsCompleted": 10,
     "materialsSold": 16708,
     "mineralsSold": 17307,
@@ -734,6 +734,6 @@
     ]
   },
   "created": 1776881461393,
-  "lastActive": 1782240226910,
+  "lastActive": 1782331201378,
   "groupId": "120363407963343765@g.us"
 }
