@@ -4,7 +4,7 @@
   "nickname": "سيقمير اوف كاترينا",
   "class": "ناثر",
   "level": 56,
-  "xp": 90287755792,
+  "xp": 90287756192,
   "hp": 3795,
   "maxHp": 3795,
   "atk": 396,
@@ -12,7 +12,7 @@
   "mag": 202,
   "critRate": 0.21000000000000008,
   "critDamage": 2.0499999999999994,
-  "gold": 15563248,
+  "gold": 22512981,
   "gems": 3408,
   "elixir": 8851,
   "stamina": 10,
@@ -495,8 +495,8 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 109167,
-    "mineralsMined": 67488,
+    "fishCaught": 109392,
+    "mineralsMined": 67750,
     "boxesOpened": 676,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -515,7 +515,7 @@
     "fishSold": 22005,
     "dungeonKills": 11471,
     "dungeonDamageDealt": 49788698,
-    "materialsCollected": 47469,
+    "materialsCollected": 47547,
     "materialsSold": 19402,
     "dungeonsCompleted": 8,
     "itemsMerged": 14,
@@ -775,6 +775,11 @@
         "boughtAt": 1782123526579,
         "cycleNumber": 6875,
         "cardName": "بطاقة غنائم مضاعفة"
+      },
+      "armor_card_rare_6876": {
+        "boughtAt": 1782330362692,
+        "cycleNumber": 6876,
+        "cardName": "بطاقة ترقية نادرة للدروع"
       }
     },
     "petsCollected": 2,
@@ -820,6 +825,6 @@
     ]
   },
   "created": 1776891817820,
-  "lastActive": 1782329441656,
+  "lastActive": 1782333298508,
   "groupId": "120363407963343765@g.us"
 }
