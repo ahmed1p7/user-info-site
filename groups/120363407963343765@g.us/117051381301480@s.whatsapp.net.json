@@ -4,15 +4,15 @@
   "nickname": "ايزن",
   "class": "قائد حرب",
   "level": 54,
-  "xp": 86143944731,
-  "hp": 0,
+  "xp": 289098307817,
+  "hp": 3021,
   "maxHp": 3021,
   "atk": 259,
   "def": 96,
   "mag": 56,
   "critRate": 0.28200000000000014,
   "critDamage": 2.7699999999999876,
-  "gold": 44605288,
+  "gold": 69799940,
   "gems": 2549,
   "elixir": 6122,
   "stamina": 7,
@@ -496,8 +496,8 @@
       "map_3"
     ],
     "totalBossDamage": 0,
-    "fishCaught": 173173,
-    "mineralsMined": 25448,
+    "fishCaught": 173269,
+    "mineralsMined": 25543,
     "boxesOpened": 1069,
     "boxesOpenedByType": {
       "common": 994,
@@ -534,7 +534,7 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 62592,
+    "materialsCollected": 62630,
     "dungeonKills": 2606,
     "dungeonDamageDealt": 6236876,
     "dungeonsCompleted": 9,
@@ -646,11 +646,30 @@
         "boughtAt": 1782244805167,
         "cycleNumber": 6875,
         "cardName": "بطاقة غوص خارق"
+      },
+      "gold_boost_6876": {
+        "boughtAt": 1782331177679,
+        "cycleNumber": 6876,
+        "cardName": "بطاقة ذهب مضاعف"
+      },
+      "sell_boost_6876": {
+        "boughtAt": 1782331182553,
+        "cycleNumber": 6876,
+        "cardName": "بطاقة بيع ممتاز"
+      },
+      "xp_boost_3x_6876": {
+        "boughtAt": 1782331186849,
+        "cycleNumber": 6876,
+        "cardName": "بطاقة ×3 تجربة"
       }
     },
     "playerSkills": {},
     "petsCollected": 3,
-    "activeCards": {},
+    "activeCards": {
+      "gold_boost": 1782332977679,
+      "sell_boost": 1782332982553,
+      "xp_boost_3x": 1782332086849
+    },
     "totalGoldEarned": 61850,
     "dungeonStreak": 0,
     "completedDungeons": [
@@ -691,6 +710,6 @@
     ]
   },
   "created": 1777542343015,
-  "lastActive": 1782329387762,
+  "lastActive": 1782331476307,
   "groupId": "120363407963343765@g.us"
 }
