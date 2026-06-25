@@ -4,15 +4,15 @@
   "nickname": "ايزن",
   "class": "قائد حرب",
   "level": 55,
-  "xp": 73901063227,
-  "hp": 3075,
+  "xp": 110451213757,
+  "hp": 2988,
   "maxHp": 3075,
   "atk": 274,
   "def": 105,
   "mag": 57,
   "critRate": 0.28400000000000014,
   "critDamage": 2.7799999999999874,
-  "gold": 60568452,
+  "gold": 74867173,
   "gems": 2549,
   "elixir": 6122,
   "stamina": 10,
@@ -483,7 +483,7 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 2634,
+  "wins": 2640,
   "losses": 622,
   "evolvedClass": null,
   "evolutionPath": "pathA",
@@ -496,8 +496,8 @@
       "map_3"
     ],
     "totalBossDamage": 0,
-    "fishCaught": 175062,
-    "mineralsMined": 27328,
+    "fishCaught": 175473,
+    "mineralsMined": 27694,
     "boxesOpened": 1069,
     "boxesOpenedByType": {
       "common": 994,
@@ -534,9 +534,9 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 63271,
-    "dungeonKills": 2624,
-    "dungeonDamageDealt": 6339376,
+    "materialsCollected": 63419,
+    "dungeonKills": 2630,
+    "dungeonDamageDealt": 6344658,
     "dungeonsCompleted": 9,
     "dailySellCount": 37489,
     "lastSellReset": 1777609841041,
@@ -661,15 +661,16 @@
         "boughtAt": 1782331186849,
         "cycleNumber": 6876,
         "cardName": "بطاقة ×3 تجربة"
+      },
+      "dungeon_box_card_6876": {
+        "boughtAt": 1782421291712,
+        "cycleNumber": 6876,
+        "cardName": "بطاقة صندوق دانجن"
       }
     },
     "playerSkills": {},
     "petsCollected": 3,
-    "activeCards": {
-      "gold_boost": 1782332977679,
-      "sell_boost": 1782332982553,
-      "xp_boost_3x": 1782332086849
-    },
+    "activeCards": {},
     "totalGoldEarned": 62135,
     "dungeonStreak": 0,
     "completedDungeons": [
@@ -710,6 +711,6 @@
     ]
   },
   "created": 1777542343015,
-  "lastActive": 1782413632510,
+  "lastActive": 1782421694270,
   "groupId": "120363407963343765@g.us"
 }
