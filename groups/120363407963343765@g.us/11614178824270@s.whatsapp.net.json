@@ -499,7 +499,7 @@
       "map_3"
     ],
     "totalBossDamage": 0,
-    "fishCaught": 49997,
+    "fishCaught": 50023,
     "mineralsMined": 13338,
     "boxesOpened": 922,
     "weaponsUpgraded": 0,
@@ -516,7 +516,7 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 18852,
+    "materialsCollected": 18859,
     "dungeonKills": 2007,
     "dungeonDamageDealt": 2928332,
     "dungeonsCompleted": 6,
@@ -691,6 +691,6 @@
     ]
   },
   "created": 1776965245297,
-  "lastActive": 1782348537439,
+  "lastActive": 1782351640592,
   "groupId": "120363407963343765@g.us"
 }
