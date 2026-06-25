@@ -4,7 +4,7 @@
   "nickname": "يوهان",
   "class": "ناثر",
   "level": 56,
-  "xp": 59146780891,
+  "xp": 114707728839,
   "hp": 3129,
   "maxHp": 3129,
   "atk": 226,
@@ -12,7 +12,7 @@
   "mag": 82,
   "critRate": 0.2590000000000001,
   "critDamage": 2.294999999999989,
-  "gold": 182578742,
+  "gold": 221349496,
   "gems": 11026,
   "elixir": 29246,
   "stamina": 10,
@@ -499,7 +499,7 @@
       "map_3"
     ],
     "totalBossDamage": 0,
-    "fishCaught": 49904,
+    "fishCaught": 49997,
     "mineralsMined": 13338,
     "boxesOpened": 922,
     "weaponsUpgraded": 0,
@@ -516,7 +516,7 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 18816,
+    "materialsCollected": 18852,
     "dungeonKills": 2007,
     "dungeonDamageDealt": 2928332,
     "dungeonsCompleted": 6,
@@ -629,6 +629,16 @@
         "boughtAt": 1782050691217,
         "cycleNumber": 6875,
         "cardName": "بطاقة بيع ممتاز"
+      },
+      "fishing_luck_6876": {
+        "boughtAt": 1782345725023,
+        "cycleNumber": 6876,
+        "cardName": "بطاقة حظ الصيد"
+      },
+      "skill_points_6876": {
+        "boughtAt": 1782345760620,
+        "cycleNumber": 6876,
+        "cardName": "بطاقة نقاط مهارة"
       }
     },
     "totalGoldEarned": 147308,
@@ -639,10 +649,12 @@
       1,
       3
     ],
-    "activeCards": {},
+    "activeCards": {
+      "fishing_luck": 1782347525023
+    },
     "abilityPoints": 2,
     "playerSkills": {},
-    "skillPoints": 3
+    "skillPoints": 6
   },
   "skills": [
     "double_strike",
@@ -679,6 +691,6 @@
     ]
   },
   "created": 1776965245297,
-  "lastActive": 1782336351429,
+  "lastActive": 1782348537439,
   "groupId": "120363407963343765@g.us"
 }
