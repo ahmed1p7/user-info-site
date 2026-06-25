@@ -4,6 +4,12 @@
   "emoji": "🏗",
   "members": [
     {
+      "id": "259583612297355@s.whatsapp.net",
+      "name": "باتمان",
+      "class": "قائد حرب",
+      "level": 58
+    },
+    {
       "id": "183734926110748@s.whatsapp.net",
       "name": "ستارك ابو نواف",
       "class": "ملك الظلال",
@@ -13,12 +19,6 @@
       "id": "5936299118698@s.whatsapp.net",
       "name": "ستااااركز",
       "class": "نبيذ الحياة",
-      "level": 57
-    },
-    {
-      "id": "259583612297355@s.whatsapp.net",
-      "name": "باتمان",
-      "class": "قائد حرب",
       "level": 57
     },
     {
@@ -70,6 +70,6 @@
       "level": 14
     }
   ],
-  "messagesWeek": 60,
-  "lastUpdated": 1782351640593
+  "messagesWeek": 2824,
+  "lastUpdated": 1782392016775
 }

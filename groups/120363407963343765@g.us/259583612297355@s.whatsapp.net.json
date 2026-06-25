@@ -3,19 +3,19 @@
   "name": "باتمان",
   "nickname": "باتمان",
   "class": "قائد حرب",
-  "level": 57,
-  "xp": 367866404684,
-  "hp": 3853,
-  "maxHp": 3853,
-  "atk": 399,
-  "def": 183,
-  "mag": 209,
-  "critRate": 0.21200000000000008,
-  "critDamage": 2.059999999999999,
-  "gold": 327215201,
+  "level": 58,
+  "xp": 269804313195,
+  "hp": 3907,
+  "maxHp": 3907,
+  "atk": 402,
+  "def": 184,
+  "mag": 210,
+  "critRate": 0.21400000000000008,
+  "critDamage": 2.069999999999999,
+  "gold": 417407907,
   "gems": 7868,
   "elixir": 21075,
-  "stamina": 9,
+  "stamina": 6,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -492,16 +492,16 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 13391,
-  "losses": 1032,
+  "wins": 13393,
+  "losses": 1037,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 237564,
-    "mineralsMined": 82221,
+    "fishCaught": 237736,
+    "mineralsMined": 82457,
     "boxesOpened": 1225,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -517,10 +517,10 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "dungeonKills": 13309,
-    "dungeonDamageDealt": 41959109,
+    "dungeonKills": 13311,
+    "dungeonDamageDealt": 42006757,
     "fishSold": 57539,
-    "materialsCollected": 92521,
+    "materialsCollected": 92578,
     "dungeonsCompleted": 10,
     "materialsSold": 16708,
     "mineralsSold": 17307,
@@ -677,6 +677,21 @@
         "boughtAt": 1782051742302,
         "cycleNumber": 6875,
         "cardName": "بطاقة ترقية نادرة للدروع"
+      },
+      "xp_boost_3x_6876": {
+        "boughtAt": 1782388967379,
+        "cycleNumber": 6876,
+        "cardName": "بطاقة ×3 تجربة"
+      },
+      "gold_boost_6876": {
+        "boughtAt": 1782388970667,
+        "cycleNumber": 6876,
+        "cardName": "بطاقة ذهب مضاعف"
+      },
+      "dive_reset_6876": {
+        "boughtAt": 1782389087529,
+        "cycleNumber": 6876,
+        "cardName": "بطاقة إعادة تعيين الغوص"
       }
     },
     "playerSkills": {
@@ -690,9 +705,12 @@
       "merchant": 5
     },
     "petsCollected": 2,
-    "activeCards": {},
+    "activeCards": {
+      "xp_boost_3x": 1782389867379,
+      "gold_boost": 1782390770667
+    },
     "dungeonStreak": 0,
-    "totalGoldEarned": 55736,
+    "totalGoldEarned": 56036,
     "abilityPoints": 2,
     "completedDungeons": [
       9
@@ -734,6 +752,6 @@
     ]
   },
   "created": 1776881461393,
-  "lastActive": 1782340423093,
+  "lastActive": 1782391976975,
   "groupId": "120363407963343765@g.us"
 }
