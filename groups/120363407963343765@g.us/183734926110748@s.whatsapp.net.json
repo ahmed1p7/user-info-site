@@ -4,7 +4,7 @@
   "nickname": "ستارك ابو نواف",
   "class": "ملك الظلال",
   "level": 57,
-  "xp": 413995195658,
+  "xp": 524727081276,
   "hp": 1057,
   "maxHp": 1057,
   "atk": 737,
@@ -12,7 +12,7 @@
   "mag": 212,
   "critRate": 0.95,
   "critDamage": 3.457999999999993,
-  "gold": 61241465,
+  "gold": 85214102,
   "gems": 3362,
   "elixir": 8473,
   "stamina": 10,
@@ -495,7 +495,7 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 150190,
+    "fishCaught": 150407,
     "mineralsMined": 25622,
     "boxesOpened": 1110,
     "weaponsUpgraded": 0,
@@ -515,7 +515,7 @@
     "fishSold": 50519,
     "dungeonKills": 3602,
     "dungeonDamageDealt": 13057706,
-    "materialsCollected": 54599,
+    "materialsCollected": 54675,
     "mineralsSold": 8175,
     "materialsSold": 8223,
     "dungeonsCompleted": 9,
@@ -714,10 +714,28 @@
         "boughtAt": 1781895774634,
         "cycleNumber": 6874,
         "cardName": "بطاقة غنائم مضاعفة"
+      },
+      "rare_fish_6876": {
+        "boughtAt": 1782461368997,
+        "cycleNumber": 6876,
+        "cardName": "بطاقة صيد نادر"
+      },
+      "sell_boost_6876": {
+        "boughtAt": 1782461374861,
+        "cycleNumber": 6876,
+        "cardName": "بطاقة بيع ممتاز"
+      },
+      "armor_card_rare_6876": {
+        "boughtAt": 1782461379318,
+        "cycleNumber": 6876,
+        "cardName": "بطاقة ترقية نادرة للدروع"
       }
     },
     "petsCollected": 4,
-    "activeCards": {},
+    "activeCards": {
+      "rare_fish": 1782462568997,
+      "sell_boost": 1782463174862
+    },
     "abilityPoints": 4,
     "playerSkills": {},
     "skillPoints": 6,
@@ -767,6 +785,6 @@
     ]
   },
   "created": 1776960777629,
-  "lastActive": 1782430262227,
+  "lastActive": 1782472634142,
   "groupId": "120363407963343765@g.us"
 }
