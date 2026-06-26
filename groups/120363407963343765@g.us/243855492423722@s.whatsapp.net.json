@@ -1,20 +1,20 @@
 {
   "id": "243855492423722@s.whatsapp.net",
-  "name": "π",
-  "nickname": "π",
-  "class": "فارس التنين",
-  "level": 49,
-  "xp": 23506314323,
-  "hp": 4114,
-  "maxHp": 4114,
-  "atk": 178,
-  "def": 403,
-  "mag": 119,
-  "critRate": 0.09800000000000005,
-  "critDamage": 1.7399999999999949,
-  "gold": 0,
-  "gems": 1910,
-  "elixir": 4914,
+  "name": "جين",
+  "nickname": "جين",
+  "class": "ملك الفرسان",
+  "level": 53,
+  "xp": 42537674662,
+  "hp": 5657,
+  "maxHp": 5657,
+  "atk": 197,
+  "def": 586,
+  "mag": 123,
+  "critRate": 0.10200000000000005,
+  "critDamage": 1.7599999999999945,
+  "gold": 673853,
+  "gems": 1920,
+  "elixir": 4919,
   "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
@@ -30,15 +30,15 @@
     "mythic": 0
   },
   "wins": 48,
-  "losses": 1,
+  "losses": 2,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 1900,
-    "mineralsMined": 1899,
+    "fishCaught": 2021,
+    "mineralsMined": 2018,
     "boxesOpened": 250,
     "boxesOpenedByType": {
       "common": 0,
@@ -64,13 +64,13 @@
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
-    "totalGoldEarned": 27167,
+    "totalGoldEarned": 28237,
     "totalGoldSpent": 0,
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
     "pvpWins": 0,
-    "pvpLosses": 1,
+    "pvpLosses": 2,
     "successfulRobberies": 0,
     "failedRobberies": 0,
     "luckGamesPlayed": 0,
@@ -116,16 +116,41 @@
         "boughtAt": 1781955770018,
         "cycleNumber": 6874,
         "cardName": "بطاقة نقاط مهارة"
+      },
+      "ability_points_6875": {
+        "boughtAt": 1782258075735,
+        "cycleNumber": 6875,
+        "cardName": "بطاقة نقاط قدرة"
+      },
+      "xp_boost_3x_6876": {
+        "boughtAt": 1782345896859,
+        "cycleNumber": 6876,
+        "cardName": "بطاقة ×3 تجربة"
+      },
+      "mining_luck_6876": {
+        "boughtAt": 1782345903759,
+        "cycleNumber": 6876,
+        "cardName": "بطاقة حظ التعدين"
+      },
+      "fishing_luck_6876": {
+        "boughtAt": 1782345911400,
+        "cycleNumber": 6876,
+        "cardName": "بطاقة حظ الصيد"
+      },
+      "dive_reset_6876": {
+        "boughtAt": 1782346051672,
+        "cycleNumber": 6876,
+        "cardName": "بطاقة إعادة تعيين الغوص"
       }
     },
     "activeCards": {},
     "playerSkills": {},
     "skillPoints": 6,
-    "materialsCollected": 831,
+    "materialsCollected": 866,
     "dungeonKills": 48,
     "dungeonDamageDealt": 17307,
     "dungeonStreak": 33,
-    "abilityPoints": 2
+    "abilityPoints": 4
   },
   "skills": [
     "shield_wall",
@@ -138,7 +163,9 @@
     "iron_fortress",
     "dragon_breath",
     "dragon_scales",
-    "auto_shield"
+    "auto_shield",
+    "kings_decree",
+    "royal_fortitude"
   ],
   "unlockedSkills": {
     "passive": [
@@ -146,7 +173,8 @@
       "shield_mastery",
       "ancestral_shield",
       "fortress_body",
-      "dragon_scales"
+      "dragon_scales",
+      "royal_fortitude"
     ],
     "active": [
       "taunt",
@@ -154,10 +182,11 @@
       "dragon_roar",
       "iron_fortress",
       "dragon_breath",
-      "auto_shield"
+      "auto_shield",
+      "kings_decree"
     ]
   },
   "created": 1781413339491,
-  "lastActive": 1782023959644,
+  "lastActive": 1782472977208,
   "groupId": "120363407963343765@g.us"
 }
