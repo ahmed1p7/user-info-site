@@ -1,0 +1,83 @@
+{
+  "id": "21084262932703@s.whatsapp.net",
+  "name": "محمَد",
+  "nickname": "محمَد",
+  "class": "قاتل",
+  "level": 1,
+  "xp": 0,
+  "hp": 110,
+  "maxHp": 110,
+  "atk": 22,
+  "def": 8,
+  "mag": 6,
+  "critRate": 0.05,
+  "critDamage": 1.5,
+  "gold": 100,
+  "gems": 0,
+  "elixir": 0,
+  "stamina": 10,
+  "maxStamina": 10,
+  "energy": 100,
+  "equippedWeapon": null,
+  "equippedArmor": null,
+  "weapons": [],
+  "armors": [],
+  "boxes": {
+    "common": 0,
+    "rare": 0,
+    "epic": 0,
+    "legendary": 0,
+    "mythic": 0
+  },
+  "wins": 0,
+  "losses": 0,
+  "evolvedClass": null,
+  "evolutionPath": null,
+  "stats": {
+    "monstersKilled": 0,
+    "bossesDefeated": 0,
+    "totalBossDamage": 0,
+    "fishCaught": 0,
+    "mineralsMined": 0,
+    "boxesOpened": 0,
+    "boxesOpenedByType": {
+      "common": 0,
+      "rare": 0,
+      "epic": 0,
+      "legendary": 0,
+      "mythic": 0
+    },
+    "bestBoxReward": null,
+    "pity": {
+      "epic": 0,
+      "legendary": 0,
+      "mythic": 0
+    },
+    "lastFreeBox": 0,
+    "freeBoxStreak": 0,
+    "weaponsUpgraded": 0,
+    "itemsSold": 0,
+    "itemsBought": 0,
+    "totalGoldEarned": 0,
+    "totalGoldSpent": 0,
+    "playersHealed": 0,
+    "healingDone": 0,
+    "groupHeals": 0,
+    "pvpWins": 0,
+    "pvpLosses": 0,
+    "successfulRobberies": 0,
+    "failedRobberies": 0,
+    "luckGamesPlayed": 0,
+    "luckGamesWon": 0
+  },
+  "skills": [
+    "stealth"
+  ],
+  "unlockedSkills": {
+    "passive": [],
+    "active": []
+  },
+  "created": 1782435341232,
+  "lastActive": 1782435455145,
+  "groupId": "120363426792682072@g.us"
+}
