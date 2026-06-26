@@ -4,7 +4,7 @@
   "nickname": "يوهان",
   "class": "ناثر",
   "level": 56,
-  "xp": 179207573023,
+  "xp": 114707736450,
   "hp": 3129,
   "maxHp": 3129,
   "atk": 226,
@@ -12,10 +12,10 @@
   "mag": 82,
   "critRate": 0.2590000000000001,
   "critDamage": 2.294999999999989,
-  "gold": 4507908,
+  "gold": 221359332,
   "gems": 11026,
   "elixir": 29246,
-  "stamina": 10,
+  "stamina": 7,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -487,8 +487,8 @@
     "legendary": 90,
     "mythic": 35
   },
-  "wins": 2029,
-  "losses": 153,
+  "wins": 2032,
+  "losses": 155,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
@@ -499,8 +499,8 @@
       "map_3"
     ],
     "totalBossDamage": 0,
-    "fishCaught": 50055,
-    "mineralsMined": 13369,
+    "fishCaught": 50023,
+    "mineralsMined": 13338,
     "boxesOpened": 922,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -508,7 +508,7 @@
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 19,
+    "pvpWins": 20,
     "pvpLosses": 20,
     "successfulRobberies": 0,
     "failedRobberies": 0,
@@ -516,9 +516,9 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 18873,
-    "dungeonKills": 2007,
-    "dungeonDamageDealt": 2928332,
+    "materialsCollected": 18861,
+    "dungeonKills": 2009,
+    "dungeonDamageDealt": 2950273,
     "dungeonsCompleted": 6,
     "materialsSold": 918,
     "fishSold": 1404,
@@ -641,7 +641,7 @@
         "cardName": "بطاقة نقاط مهارة"
       }
     },
-    "totalGoldEarned": 147308,
+    "totalGoldEarned": 147923,
     "petsCollected": 1,
     "dungeonStreak": 0,
     "completedDungeons": [
@@ -649,7 +649,9 @@
       1,
       3
     ],
-    "activeCards": {},
+    "activeCards": {
+      "fishing_luck": 1782347525023
+    },
     "abilityPoints": 2,
     "playerSkills": {},
     "skillPoints": 6
@@ -689,6 +691,6 @@
     ]
   },
   "created": 1776965245297,
-  "lastActive": 1782432343247,
+  "lastActive": 1782486693243,
   "groupId": "120363426792682072@g.us"
 }
