@@ -4,7 +4,7 @@
   "nickname": "ستااااركز",
   "class": "نبيذ الحياة",
   "level": 57,
-  "xp": 152305040426,
+  "xp": 163657047551,
   "hp": 3101,
   "maxHp": 3101,
   "atk": 161,
@@ -12,7 +12,7 @@
   "mag": 814,
   "critRate": 0.10600000000000005,
   "critDamage": 1.779999999999994,
-  "gold": 69851760,
+  "gold": 69850282,
   "gems": 2645,
   "elixir": 6744,
   "stamina": 10,
@@ -495,7 +495,7 @@
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 188168,
+    "fishCaught": 188169,
     "mineralsMined": 20844,
     "boxesOpened": 974,
     "boxesOpenedByType": {
@@ -533,7 +533,7 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 66958,
+    "materialsCollected": 66960,
     "dungeonKills": 1976,
     "dungeonDamageDealt": 3024004,
     "fishSold": 41743,
@@ -673,10 +673,21 @@
         "boughtAt": 1781895725782,
         "cycleNumber": 6874,
         "cardName": "بطاقة غنائم مضاعفة"
+      },
+      "fishing_speed_6876": {
+        "boughtAt": 1782461323850,
+        "cycleNumber": 6876,
+        "cardName": "بطاقة تسريع الغوص"
+      },
+      "gold_boost_6876": {
+        "boughtAt": 1782461328074,
+        "cycleNumber": 6876,
+        "cardName": "بطاقة ذهب مضاعف"
       }
     },
     "activeCards": {
-      "double_drops": 1781897525782
+      "fishing_speed": 1782463123850,
+      "gold_boost": 1782463128074
     },
     "dungeonStreak": 0,
     "totalGoldEarned": 206987,
@@ -724,6 +735,6 @@
     ]
   },
   "created": 1777400790020,
-  "lastActive": 1782017783321,
+  "lastActive": 1782461467067,
   "groupId": "120363407963343765@g.us"
 }
