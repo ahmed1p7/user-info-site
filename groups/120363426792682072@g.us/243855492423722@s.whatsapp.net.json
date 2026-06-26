@@ -4,16 +4,16 @@
   "nickname": "جين..؟",
   "class": "محارب",
   "level": 11,
-  "xp": 1330,
-  "hp": 442,
+  "xp": 2030,
+  "hp": 1,
   "maxHp": 442,
   "atk": 30,
   "def": 22,
   "mag": 13,
   "critRate": 0.07000000000000002,
   "critDamage": 1.6,
-  "gold": 525,
-  "gems": 0,
+  "gold": 2525,
+  "gems": 3,
   "elixir": 0,
   "stamina": 10,
   "maxStamina": 10,
@@ -43,6 +43,6 @@
     "active": []
   },
   "created": 1782347776052,
-  "lastActive": 1782432158906,
+  "lastActive": 1782486714358,
   "groupId": "120363426792682072@g.us"
 }
