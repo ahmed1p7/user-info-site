@@ -4,7 +4,7 @@
   "nickname": "جين",
   "class": "ناثر",
   "level": 54,
-  "xp": 162120622032,
+  "xp": 184315309236,
   "hp": 3552,
   "maxHp": 3552,
   "atk": 335,
@@ -12,7 +12,7 @@
   "mag": 206,
   "critRate": 0.2250000000000001,
   "critDamage": 2.1249999999999956,
-  "gold": 274377,
+  "gold": 995053,
   "gems": 39,
   "elixir": 5,
   "stamina": 10,
@@ -247,7 +247,7 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 10,
+  "wins": 11,
   "losses": 2,
   "evolvedClass": null,
   "evolutionPath": "pathB",
@@ -276,12 +276,12 @@
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
-    "totalGoldEarned": 9185,
+    "totalGoldEarned": 10055,
     "totalGoldSpent": 0,
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 0,
+    "pvpWins": 1,
     "pvpLosses": 2,
     "successfulRobberies": 0,
     "failedRobberies": 0,
@@ -369,10 +369,7 @@
         "cardName": "بطاقة إعادة تعيين الغوص"
       }
     },
-    "activeCards": {
-      "rapid_dive": 1782347430935,
-      "fishing_luck": 1782348337260
-    },
+    "activeCards": {},
     "dungeonKills": 10,
     "dungeonDamageDealt": 806,
     "dungeonStreak": 10
@@ -408,6 +405,6 @@
     ]
   },
   "created": 1779333237615,
-  "lastActive": 1782346721997,
+  "lastActive": 1782460916284,
   "groupId": "120363426792682072@g.us"
 }
