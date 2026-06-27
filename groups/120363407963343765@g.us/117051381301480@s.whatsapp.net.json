@@ -4,7 +4,7 @@
   "nickname": "ايزن",
   "class": "قائد حرب",
   "level": 55,
-  "xp": 110451224440,
+  "xp": 438558924526,
   "hp": 3075,
   "maxHp": 3075,
   "atk": 274,
@@ -12,7 +12,7 @@
   "mag": 57,
   "critRate": 0.28400000000000014,
   "critDamage": 2.7799999999999874,
-  "gold": 74904045,
+  "gold": 105016803,
   "gems": 2549,
   "elixir": 6172,
   "stamina": 10,
@@ -496,8 +496,8 @@
       "map_3"
     ],
     "totalBossDamage": 0,
-    "fishCaught": 175654,
-    "mineralsMined": 27877,
+    "fishCaught": 176574,
+    "mineralsMined": 29043,
     "boxesOpened": 1069,
     "boxesOpenedByType": {
       "common": 994,
@@ -534,7 +534,7 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 63565,
+    "materialsCollected": 63875,
     "dungeonKills": 2715,
     "dungeonDamageDealt": 6422396,
     "dungeonsCompleted": 9,
@@ -666,11 +666,29 @@
         "boughtAt": 1782421291712,
         "cycleNumber": 6876,
         "cardName": "بطاقة صندوق دانجن"
+      },
+      "xp_boost_3x_6877": {
+        "boughtAt": 1782522858749,
+        "cycleNumber": 6877,
+        "cardName": "بطاقة ×3 تجربة"
+      },
+      "sell_boost_6877": {
+        "boughtAt": 1782522869441,
+        "cycleNumber": 6877,
+        "cardName": "بطاقة بيع ممتاز"
+      },
+      "dive_reset_6877": {
+        "boughtAt": 1782523130476,
+        "cycleNumber": 6877,
+        "cardName": "بطاقة إعادة تعيين الغوص"
       }
     },
     "playerSkills": {},
     "petsCollected": 3,
-    "activeCards": {},
+    "activeCards": {
+      "xp_boost_3x": 1782523758749,
+      "sell_boost": 1782524669441
+    },
     "totalGoldEarned": 62135,
     "dungeonStreak": 0,
     "completedDungeons": [
@@ -711,6 +729,6 @@
     ]
   },
   "created": 1777542343015,
-  "lastActive": 1782498858975,
+  "lastActive": 1782523352768,
   "groupId": "120363407963343765@g.us"
 }
