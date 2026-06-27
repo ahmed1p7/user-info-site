@@ -1,0 +1,102 @@
+{
+  "id": "37023188541540@s.whatsapp.net",
+  "name": "زينيتسو",
+  "nickname": "زينيتسو",
+  "class": "فارس",
+  "level": 21,
+  "xp": 135341,
+  "hp": 1431,
+  "maxHp": 1431,
+  "atk": 95,
+  "def": 113,
+  "mag": 22,
+  "critRate": 0.07000000000000002,
+  "critDamage": 1.5999999999999979,
+  "gold": 21240372,
+  "gems": 350,
+  "elixir": 965,
+  "stamina": 10,
+  "maxStamina": 10,
+  "energy": 100,
+  "equippedWeapon": null,
+  "equippedArmor": null,
+  "weapons": [],
+  "armors": [],
+  "boxes": {
+    "common": 1,
+    "rare": 0,
+    "epic": 50,
+    "legendary": 0,
+    "mythic": 0
+  },
+  "wins": 68,
+  "losses": 0,
+  "evolvedClass": null,
+  "evolutionPath": null,
+  "stats": {
+    "monstersKilled": 0,
+    "bossesDefeated": 0,
+    "totalBossDamage": 0,
+    "fishCaught": 330,
+    "mineralsMined": 249,
+    "boxesOpened": 50,
+    "boxesOpenedByType": {
+      "common": 0,
+      "rare": 0,
+      "epic": 50,
+      "legendary": 0,
+      "mythic": 0
+    },
+    "bestBoxReward": {
+      "boxType": "epic",
+      "value": 1332,
+      "hadWeapon": false,
+      "hadArmor": false,
+      "timestamp": 1782487489870
+    },
+    "pity": {
+      "epic": 2,
+      "legendary": 0,
+      "mythic": 0
+    },
+    "lastFreeBox": 1782487373625,
+    "freeBoxStreak": 1,
+    "weaponsUpgraded": 0,
+    "itemsSold": 0,
+    "itemsBought": 0,
+    "totalGoldEarned": 5058,
+    "totalGoldSpent": 0,
+    "playersHealed": 0,
+    "healingDone": 0,
+    "groupHeals": 0,
+    "pvpWins": 0,
+    "pvpLosses": 0,
+    "successfulRobberies": 0,
+    "failedRobberies": 0,
+    "luckGamesPlayed": 0,
+    "luckGamesWon": 0,
+    "materialsCollected": 220,
+    "dungeonKills": 68,
+    "dungeonDamageDealt": 8477,
+    "dungeonStreak": 10,
+    "weeklyShopLastReset": 0,
+    "weeklyShopPurchases": {
+      "gold_chest_6877": {
+        "boughtAt": 1782524545341,
+        "cycleNumber": 6877,
+        "cardName": "بطاقة كنز ذهبي"
+      }
+    },
+    "activeCards": {}
+  },
+  "skills": [
+    "shield_wall"
+  ],
+  "unlockedSkills": {
+    "passive": [],
+    "active": []
+  },
+  "created": 1782433112513,
+  "lastActive": 1782524869490,
+  "groupId": "120363426792682072@g.us"
+}
