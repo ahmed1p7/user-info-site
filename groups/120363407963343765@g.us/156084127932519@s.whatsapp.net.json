@@ -2,19 +2,19 @@
   "id": "156084127932519@s.whatsapp.net",
   "name": "جين",
   "nickname": "جين",
-  "class": "فارس مظلم",
-  "level": 39,
-  "xp": 324779783,
-  "hp": 2038,
-  "maxHp": 2038,
-  "atk": 180,
-  "def": 121,
-  "mag": 191,
-  "critRate": 0.14500000000000007,
-  "critDamage": 1.9749999999999983,
-  "gold": 1359588,
-  "gems": 28,
-  "elixir": 0,
+  "class": "ناثر",
+  "level": 55,
+  "xp": 75968262543,
+  "hp": 3606,
+  "maxHp": 3606,
+  "atk": 350,
+  "def": 145,
+  "mag": 207,
+  "critRate": 0.2270000000000001,
+  "critDamage": 2.1349999999999953,
+  "gold": 889549,
+  "gems": 39,
+  "elixir": 5,
   "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
@@ -247,16 +247,16 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 0,
-  "losses": 2,
+  "wins": 11,
+  "losses": 3,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 3546,
-    "mineralsMined": 346,
+    "fishCaught": 4120,
+    "mineralsMined": 1058,
     "boxesOpened": 0,
     "boxesOpenedByType": {
       "common": 0,
@@ -276,13 +276,13 @@
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
-    "totalGoldEarned": 5510,
+    "totalGoldEarned": 10340,
     "totalGoldSpent": 0,
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 0,
-    "pvpLosses": 2,
+    "pvpWins": 1,
+    "pvpLosses": 3,
     "successfulRobberies": 0,
     "failedRobberies": 0,
     "luckGamesPlayed": 0,
@@ -290,7 +290,7 @@
     "territoriesConquered": 0,
     "territoryDefenses": 0,
     "petsCollected": 1,
-    "materialsCollected": 1268,
+    "materialsCollected": 1476,
     "weeklyShopLastReset": 0,
     "weeklyShopPurchases": {
       "dive_reset_6868": {
@@ -307,11 +307,95 @@
         "boughtAt": 1781294285685,
         "cycleNumber": 6872,
         "cardName": "بطاقة غوص خارق"
+      },
+      "xp_boost_3x_6872": {
+        "boughtAt": 1781385192660,
+        "cycleNumber": 6872,
+        "cardName": "بطاقة ×3 تجربة"
+      },
+      "mining_luck_6873": {
+        "boughtAt": 1781486885923,
+        "cycleNumber": 6873,
+        "cardName": "بطاقة حظ التعدين"
+      },
+      "xp_boost_3x_6873": {
+        "boughtAt": 1781566817625,
+        "cycleNumber": 6873,
+        "cardName": "بطاقة ×3 تجربة"
+      },
+      "xp_boost_2x_6873": {
+        "boughtAt": 1781566822631,
+        "cycleNumber": 6873,
+        "cardName": "بطاقة ×2 تجربة"
+      },
+      "fishing_luck_6874": {
+        "boughtAt": 1781838608596,
+        "cycleNumber": 6874,
+        "cardName": "بطاقة حظ الصيد"
+      },
+      "mining_luck_6874": {
+        "boughtAt": 1781956237346,
+        "cycleNumber": 6874,
+        "cardName": "بطاقة حظ التعدين"
+      },
+      "xp_boost_3x_6875": {
+        "boughtAt": 1782051404981,
+        "cycleNumber": 6875,
+        "cardName": "بطاقة ×3 تجربة"
+      },
+      "xp_boost_2x_6875": {
+        "boughtAt": 1782051413339,
+        "cycleNumber": 6875,
+        "cardName": "بطاقة ×2 تجربة"
+      },
+      "dive_reset_6875": {
+        "boughtAt": 1782051573616,
+        "cycleNumber": 6875,
+        "cardName": "بطاقة إعادة تعيين الغوص"
+      },
+      "rapid_dive_6876": {
+        "boughtAt": 1782346530935,
+        "cycleNumber": 6876,
+        "cardName": "بطاقة غوص خارق"
+      },
+      "fishing_luck_6876": {
+        "boughtAt": 1782346537260,
+        "cycleNumber": 6876,
+        "cardName": "بطاقة حظ الصيد"
+      },
+      "dive_reset_6876": {
+        "boughtAt": 1782346623103,
+        "cycleNumber": 6876,
+        "cardName": "بطاقة إعادة تعيين الغوص"
+      },
+      "xp_boost_2x_6877": {
+        "boughtAt": 1782519990179,
+        "cycleNumber": 6877,
+        "cardName": "بطاقة ×2 تجربة"
+      },
+      "fishing_speed_6877": {
+        "boughtAt": 1782520001530,
+        "cycleNumber": 6877,
+        "cardName": "بطاقة تسريع الغوص"
+      },
+      "mystery_xp_6877": {
+        "boughtAt": 1782520010018,
+        "cycleNumber": 6877,
+        "cardName": "بطاقة تجربة غامضة"
+      },
+      "dive_reset_6877": {
+        "boughtAt": 1782520082174,
+        "cycleNumber": 6877,
+        "cardName": "بطاقة إعادة تعيين الغوص"
       }
     },
     "activeCards": {
-      "rapid_dive": 1781295185685
-    }
+      "xp_boost_2x": 1782521790179,
+      "fishing_speed": 1782521801530
+    },
+    "dungeonKills": 10,
+    "dungeonDamageDealt": 806,
+    "dungeonStreak": 10
   },
   "skills": [
     "double_strike",
@@ -344,6 +428,6 @@
     ]
   },
   "created": 1779333237615,
-  "lastActive": 1781316189168,
+  "lastActive": 1782522815142,
   "groupId": "120363407963343765@g.us"
 }
