@@ -4,7 +4,7 @@
   "nickname": "يوهان",
   "class": "ناثر",
   "level": 56,
-  "xp": 114707741479,
+  "xp": 367620241070,
   "hp": 3129,
   "maxHp": 3129,
   "atk": 226,
@@ -12,7 +12,7 @@
   "mag": 82,
   "critRate": 0.2590000000000001,
   "critDamage": 2.294999999999989,
-  "gold": 221349922,
+  "gold": 54735326,
   "gems": 11026,
   "elixir": 29246,
   "stamina": 10,
@@ -487,8 +487,8 @@
     "legendary": 90,
     "mythic": 35
   },
-  "wins": 2029,
-  "losses": 153,
+  "wins": 2038,
+  "losses": 156,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
@@ -499,8 +499,8 @@
       "map_3"
     ],
     "totalBossDamage": 0,
-    "fishCaught": 50023,
-    "mineralsMined": 13338,
+    "fishCaught": 50233,
+    "mineralsMined": 13547,
     "boxesOpened": 922,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -508,17 +508,17 @@
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 19,
-    "pvpLosses": 20,
+    "pvpWins": 21,
+    "pvpLosses": 22,
     "successfulRobberies": 0,
     "failedRobberies": 0,
     "luckGamesPlayed": 0,
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 18859,
-    "dungeonKills": 2007,
-    "dungeonDamageDealt": 2928332,
+    "materialsCollected": 18928,
+    "dungeonKills": 2014,
+    "dungeonDamageDealt": 3006798,
     "dungeonsCompleted": 6,
     "materialsSold": 918,
     "fishSold": 1404,
@@ -639,9 +639,19 @@
         "boughtAt": 1782345760620,
         "cycleNumber": 6876,
         "cardName": "بطاقة نقاط مهارة"
+      },
+      "xp_boost_2x_6877": {
+        "boughtAt": 1782518897349,
+        "cycleNumber": 6877,
+        "cardName": "بطاقة ×2 تجربة"
+      },
+      "rapid_dive_6877": {
+        "boughtAt": 1782518904893,
+        "cycleNumber": 6877,
+        "cardName": "بطاقة غوص خارق"
       }
     },
-    "totalGoldEarned": 147308,
+    "totalGoldEarned": 149058,
     "petsCollected": 1,
     "dungeonStreak": 0,
     "completedDungeons": [
@@ -689,6 +699,6 @@
     ]
   },
   "created": 1776965245297,
-  "lastActive": 1782430325286,
+  "lastActive": 1782523321688,
   "groupId": "120363407963343765@g.us"
 }
