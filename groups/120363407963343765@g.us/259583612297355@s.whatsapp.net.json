@@ -4,7 +4,7 @@
   "nickname": "باتمان",
   "class": "قائد حرب",
   "level": 58,
-  "xp": 269804769746,
+  "xp": 478841197330,
   "hp": 3907,
   "maxHp": 3907,
   "atk": 402,
@@ -12,7 +12,7 @@
   "mag": 210,
   "critRate": 0.21400000000000008,
   "critDamage": 2.069999999999999,
-  "gold": 416759342,
+  "gold": 462031661,
   "gems": 7871,
   "elixir": 21075,
   "stamina": 10,
@@ -486,22 +486,22 @@
     }
   ],
   "boxes": {
-    "common": 2,
+    "common": 3,
     "rare": 0,
     "epic": 0,
     "legendary": 0,
     "mythic": 0
   },
   "wins": 13459,
-  "losses": 1038,
+  "losses": 1039,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 240401,
-    "mineralsMined": 84949,
+    "fishCaught": 243891,
+    "mineralsMined": 88665,
     "boxesOpened": 1225,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -520,7 +520,7 @@
     "dungeonKills": 13375,
     "dungeonDamageDealt": 42473347,
     "fishSold": 85275,
-    "materialsCollected": 93589,
+    "materialsCollected": 94814,
     "dungeonsCompleted": 10,
     "materialsSold": 16708,
     "mineralsSold": 17307,
@@ -531,8 +531,8 @@
       "mythic": 31,
       "rare": 3
     },
-    "lastFreeBox": 1782123405988,
-    "freeBoxStreak": 38,
+    "lastFreeBox": 1782650809627,
+    "freeBoxStreak": 39,
     "clanDungeonsCompleted": 7,
     "clanDungeonDamage": 0,
     "boxesOpenedByType": {
@@ -692,6 +692,16 @@
         "boughtAt": 1782389087529,
         "cycleNumber": 6876,
         "cardName": "بطاقة إعادة تعيين الغوص"
+      },
+      "armor_card_rare_6877": {
+        "boughtAt": 1782618005155,
+        "cycleNumber": 6877,
+        "cardName": "بطاقة ترقية نادرة للدروع"
+      },
+      "double_drops_6877": {
+        "boughtAt": 1782650257942,
+        "cycleNumber": 6877,
+        "cardName": "بطاقة غنائم مضاعفة"
       }
     },
     "playerSkills": {
@@ -705,7 +715,9 @@
       "merchant": 5
     },
     "petsCollected": 2,
-    "activeCards": {},
+    "activeCards": {
+      "double_drops": 1782652057942
+    },
     "dungeonStreak": 0,
     "totalGoldEarned": 57851,
     "abilityPoints": 2,
@@ -749,6 +761,6 @@
     ]
   },
   "created": 1776881461393,
-  "lastActive": 1782475288851,
+  "lastActive": 1782652746800,
   "groupId": "120363407963343765@g.us"
 }
