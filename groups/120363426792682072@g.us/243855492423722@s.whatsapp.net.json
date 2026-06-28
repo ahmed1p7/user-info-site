@@ -12,7 +12,7 @@
   "mag": 13,
   "critRate": 0.07000000000000002,
   "critDamage": 1.6,
-  "gold": 2525,
+  "gold": 502525,
   "gems": 3,
   "elixir": 0,
   "stamina": 10,
@@ -43,6 +43,6 @@
     "active": []
   },
   "created": 1782347776052,
-  "lastActive": 1782486714358,
+  "lastActive": 1782617528048,
   "groupId": "120363426792682072@g.us"
 }
