@@ -4,7 +4,7 @@
   "nickname": "يوهان",
   "class": "ناثر",
   "level": 56,
-  "xp": 114707736450,
+  "xp": 306786830314,
   "hp": 3129,
   "maxHp": 3129,
   "atk": 226,
@@ -12,10 +12,10 @@
   "mag": 82,
   "critRate": 0.2590000000000001,
   "critDamage": 2.294999999999989,
-  "gold": 221359332,
-  "gems": 11026,
-  "elixir": 29246,
-  "stamina": 7,
+  "gold": 1490612,
+  "gems": 11404,
+  "elixir": 30263,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -483,12 +483,12 @@
   "boxes": {
     "common": 0,
     "rare": 0,
-    "epic": 127,
+    "epic": 87,
     "legendary": 90,
     "mythic": 35
   },
-  "wins": 2032,
-  "losses": 155,
+  "wins": 2034,
+  "losses": 156,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
@@ -499,16 +499,16 @@
       "map_3"
     ],
     "totalBossDamage": 0,
-    "fishCaught": 50023,
-    "mineralsMined": 13338,
-    "boxesOpened": 922,
+    "fishCaught": 50264,
+    "mineralsMined": 13581,
+    "boxesOpened": 972,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
-    "pvpWins": 20,
+    "pvpWins": 21,
     "pvpLosses": 20,
     "successfulRobberies": 0,
     "failedRobberies": 0,
@@ -516,9 +516,9 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 18861,
-    "dungeonKills": 2009,
-    "dungeonDamageDealt": 2950273,
+    "materialsCollected": 18956,
+    "dungeonKills": 2010,
+    "dungeonDamageDealt": 2960786,
     "dungeonsCompleted": 6,
     "materialsSold": 918,
     "fishSold": 1404,
@@ -527,14 +527,14 @@
     "dailySellCount": 1051,
     "lastSellReset": 1778068763361,
     "pity": {
-      "epic": 12,
+      "epic": 14,
       "legendary": 72,
       "mythic": 18
     },
     "boxesOpenedByType": {
       "legendary": 153,
       "mythic": 69,
-      "epic": 700
+      "epic": 750
     },
     "bestBoxReward": {
       "boxType": "mythic",
@@ -639,9 +639,19 @@
         "boughtAt": 1782345760620,
         "cycleNumber": 6876,
         "cardName": "بطاقة نقاط مهارة"
+      },
+      "xp_boost_2x_6877": {
+        "boughtAt": 1782519001104,
+        "cycleNumber": 6877,
+        "cardName": "بطاقة ×2 تجربة"
+      },
+      "rapid_dive_6877": {
+        "boughtAt": 1782519008632,
+        "cycleNumber": 6877,
+        "cardName": "بطاقة غوص خارق"
       }
     },
-    "totalGoldEarned": 147923,
+    "totalGoldEarned": 154456,
     "petsCollected": 1,
     "dungeonStreak": 0,
     "completedDungeons": [
@@ -649,9 +659,7 @@
       1,
       3
     ],
-    "activeCards": {
-      "fishing_luck": 1782347525023
-    },
+    "activeCards": {},
     "abilityPoints": 2,
     "playerSkills": {},
     "skillPoints": 6
@@ -691,6 +699,6 @@
     ]
   },
   "created": 1776965245297,
-  "lastActive": 1782486693243,
+  "lastActive": 1782652512224,
   "groupId": "120363426792682072@g.us"
 }
