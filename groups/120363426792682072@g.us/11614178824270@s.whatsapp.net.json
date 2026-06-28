@@ -4,7 +4,7 @@
   "nickname": "يوهان",
   "class": "ناثر",
   "level": 56,
-  "xp": 306786844698,
+  "xp": 306786856698,
   "hp": 3129,
   "maxHp": 3129,
   "atk": 226,
@@ -12,8 +12,8 @@
   "mag": 82,
   "critRate": 0.2590000000000001,
   "critDamage": 2.294999999999989,
-  "gold": 14679,
-  "gems": 11424,
+  "gold": 18791,
+  "gems": 11429,
   "elixir": 30263,
   "stamina": 7,
   "maxStamina": 10,
@@ -499,8 +499,8 @@
       "map_3"
     ],
     "totalBossDamage": 0,
-    "fishCaught": 50328,
-    "mineralsMined": 13712,
+    "fishCaught": 50350,
+    "mineralsMined": 13756,
     "boxesOpened": 972,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -516,7 +516,7 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 18992,
+    "materialsCollected": 18994,
     "dungeonKills": 2012,
     "dungeonDamageDealt": 2981670,
     "dungeonsCompleted": 6,
@@ -699,6 +699,6 @@
     ]
   },
   "created": 1776965245297,
-  "lastActive": 1782655922740,
+  "lastActive": 1782656578666,
   "groupId": "120363426792682072@g.us"
 }
