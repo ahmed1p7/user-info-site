@@ -4,7 +4,7 @@
   "nickname": "جين..؟",
   "class": "محارب",
   "level": 11,
-  "xp": 2030,
+  "xp": 1466430,
   "hp": 1,
   "maxHp": 442,
   "atk": 30,
@@ -12,7 +12,7 @@
   "mag": 13,
   "critRate": 0.07000000000000002,
   "critDamage": 1.6,
-  "gold": 502525,
+  "gold": 29951699,
   "gems": 3,
   "elixir": 0,
   "stamina": 10,
@@ -29,11 +29,29 @@
     "legendary": 0
   },
   "wins": 0,
-  "losses": 0,
+  "losses": 1,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
-    "totalGoldEarned": 425
+    "totalGoldEarned": 425,
+    "pvpLosses": 1,
+    "weeklyShopLastReset": 0,
+    "weeklyShopPurchases": {
+      "fishing_speed_6878": {
+        "boughtAt": 1782783445123,
+        "cycleNumber": 6878,
+        "cardName": "بطاقة تسريع الغوص"
+      },
+      "gold_boost_6878": {
+        "boughtAt": 1782783452070,
+        "cycleNumber": 6878,
+        "cardName": "بطاقة ذهب مضاعف"
+      }
+    },
+    "activeCards": {
+      "fishing_speed": 1782785245124,
+      "gold_boost": 1782785252070
+    }
   },
   "skills": [
     "double_strike"
@@ -43,6 +61,6 @@
     "active": []
   },
   "created": 1782347776052,
-  "lastActive": 1782617528048,
+  "lastActive": 1782783622158,
   "groupId": "120363426792682072@g.us"
 }
