@@ -2,17 +2,17 @@
   "id": "243855492423722@s.whatsapp.net",
   "name": "جين",
   "nickname": "جين",
-  "class": "ملك الفرسان",
-  "level": 53,
-  "xp": 42537674662,
-  "hp": 5657,
-  "maxHp": 5657,
-  "atk": 197,
-  "def": 586,
-  "mag": 123,
-  "critRate": 0.10200000000000005,
-  "critDamage": 1.7599999999999945,
-  "gold": 673853,
+  "class": "برسيرك",
+  "level": 45,
+  "xp": 45854806674,
+  "hp": 2092,
+  "maxHp": 2092,
+  "atk": 136,
+  "def": 63,
+  "mag": 128,
+  "critRate": 0.1900000000000001,
+  "critDamage": 2.1999999999999904,
+  "gold": 52725040,
   "gems": 1920,
   "elixir": 4919,
   "stamina": 10,
@@ -30,7 +30,7 @@
     "mythic": 0
   },
   "wins": 48,
-  "losses": 2,
+  "losses": 4,
   "evolvedClass": null,
   "evolutionPath": "pathA",
   "stats": {
@@ -64,13 +64,13 @@
     "weaponsUpgraded": 0,
     "itemsSold": 0,
     "itemsBought": 0,
-    "totalGoldEarned": 28237,
+    "totalGoldEarned": 34082,
     "totalGoldSpent": 0,
     "playersHealed": 0,
     "healingDone": 0,
     "groupHeals": 0,
     "pvpWins": 0,
-    "pvpLosses": 2,
+    "pvpLosses": 4,
     "successfulRobberies": 0,
     "failedRobberies": 0,
     "luckGamesPlayed": 0,
@@ -141,11 +141,44 @@
         "boughtAt": 1782346051672,
         "cycleNumber": 6876,
         "cardName": "بطاقة إعادة تعيين الغوص"
+      },
+      "sell_boost_6877": {
+        "boughtAt": 1782519736818,
+        "cycleNumber": 6877,
+        "cardName": "بطاقة بيع ممتاز"
+      },
+      "rare_fish_6877": {
+        "boughtAt": 1782519751020,
+        "cycleNumber": 6877,
+        "cardName": "بطاقة صيد نادر"
+      },
+      "skill_points_6877": {
+        "boughtAt": 1782519761242,
+        "cycleNumber": 6877,
+        "cardName": "بطاقة نقاط مهارة"
+      },
+      "fishing_speed_6878": {
+        "boughtAt": 1782798807538,
+        "cycleNumber": 6878,
+        "cardName": "بطاقة تسريع الغوص"
+      },
+      "gold_boost_6878": {
+        "boughtAt": 1782798814589,
+        "cycleNumber": 6878,
+        "cardName": "بطاقة ذهب مضاعف"
+      },
+      "dive_reset_6878": {
+        "boughtAt": 1782798904518,
+        "cycleNumber": 6878,
+        "cardName": "بطاقة إعادة تعيين الغوص"
       }
     },
-    "activeCards": {},
+    "activeCards": {
+      "fishing_speed": 1782800607538,
+      "gold_boost": 1782800614589
+    },
     "playerSkills": {},
-    "skillPoints": 6,
+    "skillPoints": 9,
     "materialsCollected": 866,
     "dungeonKills": 48,
     "dungeonDamageDealt": 17307,
@@ -153,40 +186,36 @@
     "abilityPoints": 4
   },
   "skills": [
-    "shield_wall",
-    "iron_will",
-    "taunt",
-    "shield_mastery",
-    "ancestral_shield",
-    "fortress_body",
-    "dragon_roar",
-    "iron_fortress",
-    "dragon_breath",
-    "dragon_scales",
-    "auto_shield",
-    "kings_decree",
-    "royal_fortitude"
+    "double_strike",
+    "warrior_endurance",
+    "whirlwind",
+    "berserker_rage",
+    "blood_bath",
+    "lifesteal",
+    "berserk_mode",
+    "war_cry",
+    "earthquake_slam",
+    "bone_stubbornness",
+    "blood_fury"
   ],
   "unlockedSkills": {
-    "passive": [
-      "iron_will",
-      "shield_mastery",
-      "ancestral_shield",
-      "fortress_body",
-      "dragon_scales",
-      "royal_fortitude"
-    ],
     "active": [
-      "taunt",
-      "shield_wall",
-      "dragon_roar",
-      "iron_fortress",
-      "dragon_breath",
-      "auto_shield",
-      "kings_decree"
+      "whirlwind",
+      "blood_bath",
+      "double_strike",
+      "war_cry",
+      "earthquake_slam"
+    ],
+    "passive": [
+      "warrior_endurance",
+      "berserker_rage",
+      "lifesteal",
+      "berserk_mode",
+      "bone_stubbornness",
+      "blood_fury"
     ]
   },
   "created": 1781413339491,
-  "lastActive": 1782472977208,
+  "lastActive": 1782799055143,
   "groupId": "120363407963343765@g.us"
 }
