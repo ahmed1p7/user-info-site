@@ -4,15 +4,15 @@
   "nickname": "سيقمير اوف كاترينا",
   "class": "ناثر",
   "level": 56,
-  "xp": 90287757342,
-  "hp": 3795,
+  "xp": 312949839635,
+  "hp": 1755,
   "maxHp": 3795,
   "atk": 396,
   "def": 182,
-  "mag": 202,
+  "mag": 208,
   "critRate": 0.21000000000000008,
   "critDamage": 2.0499999999999994,
-  "gold": 27513434,
+  "gold": 12487081,
   "gems": 3408,
   "elixir": 8851,
   "stamina": 10,
@@ -487,16 +487,16 @@
     "legendary": 0,
     "mythic": 0
   },
-  "wins": 11497,
-  "losses": 418,
+  "wins": 11663,
+  "losses": 420,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
     "monstersKilled": 0,
     "bossesDefeated": 0,
     "totalBossDamage": 0,
-    "fishCaught": 109392,
-    "mineralsMined": 67750,
+    "fishCaught": 115526,
+    "mineralsMined": 73776,
     "boxesOpened": 676,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -513,9 +513,9 @@
     "territoriesConquered": 0,
     "territoryDefenses": 0,
     "fishSold": 22005,
-    "dungeonKills": 11471,
-    "dungeonDamageDealt": 49788698,
-    "materialsCollected": 47547,
+    "dungeonKills": 11637,
+    "dungeonDamageDealt": 51767713,
+    "materialsCollected": 49778,
     "materialsSold": 19402,
     "dungeonsCompleted": 8,
     "itemsMerged": 14,
@@ -780,6 +780,16 @@
         "boughtAt": 1782330362692,
         "cycleNumber": 6876,
         "cardName": "بطاقة ترقية نادرة للدروع"
+      },
+      "rapid_dive_6876": {
+        "boughtAt": 1782345753793,
+        "cycleNumber": 6876,
+        "cardName": "بطاقة غوص خارق"
+      },
+      "xp_boost_2x_6877": {
+        "boughtAt": 1782580876284,
+        "cycleNumber": 6877,
+        "cardName": "بطاقة ×2 تجربة"
       }
     },
     "petsCollected": 2,
@@ -804,7 +814,8 @@
     "shadow_veil",
     "dark_resolve",
     "balance_guardian",
-    "absolute_barrier"
+    "absolute_barrier",
+    "earthquake_slam"
   ],
   "unlockedSkills": {
     "passive": [
@@ -821,10 +832,11 @@
       "war_cry",
       "blood_bath",
       "shadow_veil",
-      "absolute_barrier"
+      "absolute_barrier",
+      "earthquake_slam"
     ]
   },
   "created": 1776891817820,
-  "lastActive": 1782338003743,
+  "lastActive": 1783184825355,
   "groupId": "120363407963343765@g.us"
 }
