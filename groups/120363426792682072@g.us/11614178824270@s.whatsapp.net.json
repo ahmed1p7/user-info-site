@@ -4,16 +4,16 @@
   "nickname": "يوهان",
   "class": "ناثر",
   "level": 56,
-  "xp": 408506139424,
-  "hp": 1202,
+  "xp": 491500983486,
+  "hp": 3129,
   "maxHp": 3129,
   "atk": 226,
   "def": 82,
   "mag": 82,
   "critRate": 0.2590000000000001,
   "critDamage": 2.294999999999989,
-  "gold": 3189204,
-  "gems": 11432,
+  "gold": 21505184,
+  "gems": 11437,
   "elixir": 30263,
   "stamina": 10,
   "maxStamina": 10,
@@ -487,8 +487,8 @@
     "legendary": 90,
     "mythic": 35
   },
-  "wins": 2038,
-  "losses": 157,
+  "wins": 2040,
+  "losses": 159,
   "evolvedClass": null,
   "evolutionPath": "pathB",
   "stats": {
@@ -499,8 +499,8 @@
       "map_3"
     ],
     "totalBossDamage": 0,
-    "fishCaught": 50383,
-    "mineralsMined": 13820,
+    "fishCaught": 50502,
+    "mineralsMined": 13939,
     "boxesOpened": 972,
     "weaponsUpgraded": 0,
     "itemsSold": 0,
@@ -516,9 +516,9 @@
     "luckGamesWon": 0,
     "territoriesConquered": 0,
     "territoryDefenses": 0,
-    "materialsCollected": 19005,
-    "dungeonKills": 2012,
-    "dungeonDamageDealt": 2981670,
+    "materialsCollected": 19055,
+    "dungeonKills": 2014,
+    "dungeonDamageDealt": 3002978,
     "dungeonsCompleted": 6,
     "materialsSold": 918,
     "fishSold": 1404,
@@ -649,6 +649,11 @@
         "boughtAt": 1782519008632,
         "cycleNumber": 6877,
         "cardName": "بطاقة غوص خارق"
+      },
+      "sell_boost_6878": {
+        "boughtAt": 1782813565001,
+        "cycleNumber": 6878,
+        "cardName": "بطاقة بيع ممتاز"
       }
     },
     "totalGoldEarned": 155274,
@@ -659,7 +664,9 @@
       1,
       3
     ],
-    "activeCards": {},
+    "activeCards": {
+      "sell_boost": 1782815365001
+    },
     "abilityPoints": 2,
     "playerSkills": {},
     "skillPoints": 6
@@ -699,6 +706,6 @@
     ]
   },
   "created": 1776965245297,
-  "lastActive": 1782795255282,
+  "lastActive": 1783206304285,
   "groupId": "120363426792682072@g.us"
 }
