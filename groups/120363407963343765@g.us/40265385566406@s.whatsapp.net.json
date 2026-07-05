@@ -4,7 +4,7 @@
   "nickname": "زازا",
   "class": "فارس",
   "level": 18,
-  "xp": 8204,
+  "xp": 9464,
   "hp": 972,
   "maxHp": 972,
   "atk": 106,
@@ -12,10 +12,10 @@
   "mag": 19,
   "critRate": 0.06700000000000002,
   "critDamage": 1.5849999999999982,
-  "gold": 11070490,
+  "gold": 11097364,
   "gems": 2026,
   "elixir": 5463,
-  "stamina": 9,
+  "stamina": 10,
   "maxStamina": 10,
   "energy": 100,
   "equippedWeapon": null,
@@ -297,7 +297,7 @@
     "mythic": 0
   },
   "wins": 454,
-  "losses": 24,
+  "losses": 25,
   "evolvedClass": null,
   "evolutionPath": null,
   "stats": {
@@ -314,7 +314,7 @@
     "healingDone": 0,
     "groupHeals": 0,
     "pvpWins": 0,
-    "pvpLosses": 0,
+    "pvpLosses": 1,
     "successfulRobberies": 0,
     "failedRobberies": 0,
     "luckGamesPlayed": 0,
@@ -402,6 +402,6 @@
     ]
   },
   "created": 1776881415988,
-  "lastActive": 1782329005431,
+  "lastActive": 1783226308852,
   "groupId": "120363407963343765@g.us"
 }
